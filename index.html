@@ -1,13 +1,14 @@
-<!doctype html>
+<!DOCTYPE html>
+
 <!DOCTYPE html>
 
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
-<meta content="SELYVO is modular enterprise operations software that uses controlled AI and governed workflows to automate processes, reduce manual data entry and embed controls across procurement, finance, sales, projects, inventory, vendors and risk." name="description"/>
+<meta content="SELYVO connects and automates procurement, finance, sales, operations and governance through integrated modules or a harmonised interface over existing and legacy systems." name="description"/>
 <meta content="#081223" name="theme-color"/>
-<title>SELYVO Enterprise Operations Platform — Enterprise control. Startup agility.</title>
+<title>SELYVO Enterprise Operations Platform — Controlled automation across business operations</title>
 <link href="assets/selyvo-dark.png" rel="icon" type="image/png"/>
 <style>
     :root{
@@ -712,7 +713,84 @@
       .business-value-cta{padding:24px}
     }
 
-  </style>
+  
+    .price-qualifier{max-width:660px;margin:14px 0 0;color:rgba(255,255,255,.56);font-size:12px;line-height:1.45}
+    .credibility-strip{background:#fff;border-bottom:1px solid #e3eaf4}
+    .credibility-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+    .credibility-grid article{padding:24px 22px;border-right:1px solid #e3eaf4}
+    .credibility-grid article:last-child{border-right:0}
+    .credibility-grid img{width:28px;height:28px;margin-bottom:13px}
+    .credibility-grid small{display:block;font-size:11px;font-weight:900;letter-spacing:.07em;text-transform:uppercase;color:#8a95aa}
+    .credibility-grid strong{display:block;margin:5px 0 7px;font-size:18px;line-height:1.15;color:#15213a}
+    .credibility-grid p{margin:0;font-size:14px;line-height:1.45;color:#64718a}
+    .outcomes-section{background:#f7f9fc}
+    .operating-model-section{background:#fff}
+    .operating-model-shell{padding:38px;border-radius:30px;background:linear-gradient(145deg,#0b1730,#142b55);color:#fff;box-shadow:var(--shadow)}
+    .operating-model-head{display:grid;grid-template-columns:1.08fr .92fr;gap:30px;align-items:end;margin-bottom:28px}
+    .operating-model-head .eyebrow{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);color:#fff}
+    .operating-model-head h2{margin:16px 0 0;font-size:clamp(38px,5vw,62px);line-height:1;letter-spacing:-.05em}
+    .operating-model-head>p{margin:0;color:rgba(255,255,255,.72);font-size:18px}
+    .operating-model-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+    .operating-model-grid article{position:relative;min-height:230px;padding:22px;border-radius:20px;background:rgba(255,255,255,.065);border:1px solid rgba(255,255,255,.10)}
+    .operating-model-grid b{position:absolute;right:16px;top:14px;color:rgba(255,255,255,.36);font-size:13px}
+    .operating-model-grid img{width:36px;height:36px;margin-bottom:28px;filter:brightness(0) invert(1)}
+    .operating-model-grid h3{margin:0 0 9px;font-size:23px}
+    .operating-model-grid p{margin:0;color:rgba(255,255,255,.70);font-size:14px;line-height:1.48}
+    .operating-model-note{display:grid;grid-template-columns:.75fr 1.25fr;gap:18px;margin-top:15px;padding:18px 20px;border-radius:18px;background:rgba(255,141,31,.12);border:1px solid rgba(255,141,31,.25)}
+    .operating-model-note strong{font-size:17px}.operating-model-note span{color:rgba(255,255,255,.76);font-size:14px}
+    .deployment-section{background:#f7f9fc}
+    .deployment-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+    .deployment-card{padding:32px;border-radius:28px;box-shadow:0 16px 42px rgba(17,24,39,.07)}
+    .deployment-card.dark{background:linear-gradient(145deg,#101f42,#17315e);color:#fff}
+    .deployment-card.light{background:#fff;color:#142039;border:1px solid #dfe7f2}
+    .deployment-card>span{display:inline-flex;padding:7px 10px;border-radius:999px;font-size:11px;font-weight:900;letter-spacing:.06em;text-transform:uppercase}
+    .deployment-card.dark>span{background:rgba(255,255,255,.10)}.deployment-card.light>span{background:#fff1e1;color:#9a5100}
+    .deployment-card img{width:48px;height:48px;margin:28px 0 20px}.deployment-card.dark img{filter:brightness(0) invert(1)}
+    .deployment-card h3{font-size:34px;line-height:1.02;margin:0 0 13px;letter-spacing:-.04em}
+    .deployment-card p{font-size:17px;line-height:1.55;margin:0}.deployment-card.dark p{color:rgba(255,255,255,.74)}.deployment-card.light p{color:#63718a}
+    .deployment-card ul{list-style:none;padding:0;margin:22px 0 0;display:grid;gap:11px}
+    .deployment-card li{display:flex;gap:10px;font-size:15px}.deployment-card li:before{content:'✓';color:var(--orange);font-weight:900}
+    .use-cases-section{background:#fff}
+    .use-case-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .use-case-card{display:flex;flex-direction:column;min-height:290px;padding:26px;border-radius:24px;background:#fff;border:1px solid #e1e8f3;box-shadow:0 12px 30px rgba(17,24,39,.05);transition:.2s}
+    .use-case-card:hover{transform:translateY(-4px);box-shadow:0 20px 42px rgba(17,24,39,.10)}
+    .use-case-card img{width:42px;height:42px;margin-bottom:22px}
+    .use-case-card small{font-size:11px;font-weight:900;letter-spacing:.07em;text-transform:uppercase;color:#9a5100}
+    .use-case-card h3{margin:9px 0 11px;font-size:27px;line-height:1.05;letter-spacing:-.035em;color:#142039}
+    .use-case-card p{margin:0;color:#65728a;font-size:15px;line-height:1.5}
+    .use-case-card>span{margin-top:auto;padding-top:22px;color:#244bc9;font-weight:900;font-size:14px}
+    .capability-section{background:#f7f9fc}
+    .purpose-explorer{margin-top:0}
+    .purpose-explorer-head h3{font-size:38px}
+    .purpose-module{min-height:auto;padding:20px}
+    .purpose-module-description{font-size:14px;line-height:1.5}
+    .purpose-process-card{padding:15px}.purpose-process-card p{display:none}
+    .purpose-module-meta{margin-left:auto}
+    .availability{display:inline-flex;align-items:center;padding:7px 10px;border-radius:999px;font-size:11px;font-weight:900;letter-spacing:.04em;text-transform:uppercase}
+    .availability.available{background:#e9f8f1;color:#17324d}.core-module .purpose-module-meta .availability.available{color:#17324d}.availability.planned{background:#f1f4fa;color:#62708a}
+    .purpose-module-tags{margin-top:12px}
+    .executive-section .buyer-card .text-link{margin-top:20px}
+    .industry-paths{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:9px;margin-top:22px;padding:18px;border-radius:20px;background:#fff;border:1px solid #e1e8f3}
+    .industry-paths strong{margin-right:8px}.industry-paths span{padding:7px 10px;border-radius:999px;background:#f5f7fb;color:#59677f;font-size:13px;font-weight:800}
+    .architecture-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .architecture-grid article{padding:28px;border-radius:24px;background:rgba(255,255,255,.065);border:1px solid rgba(255,255,255,.10)}
+    .architecture-grid article>img{width:45px;height:45px;filter:brightness(0) invert(1);margin-bottom:24px}
+    .architecture-grid h3{margin:0 0 12px;font-size:27px;line-height:1.06}.architecture-grid p{margin:0;color:rgba(255,255,255,.70);font-size:15px;line-height:1.52}
+    .architecture-tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:22px}.architecture-tags span{padding:7px 9px;border-radius:999px;background:rgba(255,255,255,.08);font-size:11px;font-weight:800;color:#fff}
+    .evidence-section{background:#fff}
+    .evidence-layout{display:grid;grid-template-columns:1.05fr .95fr;gap:18px}
+    .evidence-use-case,.evidence-measures{padding:34px;border-radius:28px;border:1px solid #e1e8f3}
+    .evidence-use-case{background:linear-gradient(180deg,#f8faff,#fff)}
+    .evidence-use-case h2{font-size:46px;line-height:1.02;letter-spacing:-.045em;margin:16px 0 14px}.evidence-use-case>p{color:#65728a;font-size:17px}
+    .evidence-flow{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin:26px 0}.evidence-flow span{padding:11px 13px;border-radius:14px;background:#fff;border:1px solid #dfe7f2;font-size:13px;font-weight:900}.evidence-flow b{color:var(--orange)}
+    .evidence-measures{background:linear-gradient(145deg,#102146,#152d5b);color:#fff}
+    .evidence-measures h3{font-size:29px;margin:0 0 18px}.evidence-measures>div{display:grid;grid-template-columns:140px 1fr;gap:14px;padding:13px 0;border-top:1px solid rgba(255,255,255,.10)}
+    .evidence-measures>div strong{font-size:15px}.evidence-measures>div span{color:rgba(255,255,255,.70);font-size:14px}.evidence-measures small{display:block;margin-top:18px;color:rgba(255,255,255,.52);font-size:11px;line-height:1.45}
+    .low-commitment{margin-top:24px;padding:17px 18px;border-radius:17px;background:#f7f9fd;border:1px solid #e1e8f3}.low-commitment strong{display:block;font-size:14px}.low-commitment a{display:inline-flex;margin-top:5px;color:#244bc9;font-weight:900;font-size:14px}
+    @media(max-width:1120px){.credibility-grid{grid-template-columns:repeat(2,1fr)}.credibility-grid article:nth-child(2){border-right:0}.credibility-grid article:nth-child(-n+2){border-bottom:1px solid #e3eaf4}.operating-model-grid{grid-template-columns:repeat(3,1fr)}.use-case-grid,.architecture-grid{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:880px){.credibility-grid,.deployment-grid,.evidence-layout{grid-template-columns:1fr}.credibility-grid article{border-right:0;border-bottom:1px solid #e3eaf4}.credibility-grid article:last-child{border-bottom:0}.operating-model-head,.operating-model-note{grid-template-columns:1fr}.operating-model-grid,.use-case-grid,.architecture-grid{grid-template-columns:1fr}.evidence-use-case h2{font-size:38px}}
+    @media(max-width:560px){.operating-model-shell,.deployment-card,.evidence-use-case,.evidence-measures{padding:24px}.operating-model-grid{grid-template-columns:1fr}.use-case-card{min-height:auto}.credibility-grid article{padding:20px 4px}.industry-paths{justify-content:flex-start}.evidence-measures>div{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -720,10 +798,10 @@
 <div class="container nav-wrap">
 <a aria-label="SELYVO home" class="brand" href="#top"><img alt="SELYVO" src="assets/selyvo-white.png"/></a>
 <nav aria-label="Primary navigation" class="desktop-nav">
-<a href="#platform">Platform</a>
-<a href="#modules">Modules</a>
-<a href="#daily-ops">Daily operations</a>
-<a href="#integrations">Integrations &amp; AI</a>
+<a href="#outcomes">Outcomes</a>
+<a href="#use-cases">Use cases</a>
+<a href="#modules">Capabilities</a>
+<a href="#integrations">Architecture</a>
 <a href="#contact">Contact</a>
 </nav>
 <a class="button button-primary button-small desktop-cta" href="#contact">Book a Product Demo</a>
@@ -732,30 +810,32 @@
 </button>
 </div>
 <nav aria-label="Mobile navigation" class="mobile-menu" data-mobile-menu="" id="mobile-menu">
-<a href="#platform">Platform</a>
-<a href="#modules">Modules</a>
-<a href="#daily-ops">Daily operations</a>
-<a href="#integrations">Integrations &amp; AI</a>
+<a href="#outcomes">Outcomes</a>
+<a href="#use-cases">Use cases</a>
+<a href="#modules">Capabilities</a>
+<a href="#integrations">Architecture</a>
 <a href="#contact">Contact</a>
 <a class="button button-primary" href="#contact" style="margin-top:16px">Book a Product Demo</a>
 </nav>
 </header>
+
 <main id="main">
 <section class="hero" id="top">
 <div class="container hero-grid">
 <div class="hero-copy">
-<p class="eyebrow"><i></i> Modular enterprise operations platform</p>
+<p class="eyebrow"><i></i> Modular enterprise operations software for 50–5,000 employees</p>
 <h1>Enterprise control. <em>Startup agility.</em></h1>
-<p class="hero-lead"><strong>SELYVO is a modular enterprise operations platform</strong> that improves performance, strengthens governance and embeds compliance across procurement, finance, sales, projects, inventory, vendors and risk using controlled AI to automate routine work, minimise manual data entry, guide users through every process and give management real-time control in one integrated platfom.</p>
+<p class="hero-lead"><strong>SELYVO connects and automates procurement, finance, sales, operations and governance</strong> in one controlled platform—through integrated modules or a harmonised interface over existing systems.</p>
 <div class="hero-actions">
 <a class="button button-primary" href="#contact">Book a Product Demo</a>
-<a class="button button-secondary" href="#modules">Explore the Modules</a>
+<a class="button button-secondary" href="#use-cases">Explore Capabilities</a>
 </div>
 <div class="hero-proof">
-<span>One system for daily operations</span>
-<span>Controlled AI reduces manual work</span>
-<span>Modular deployment across the company</span>
+<span>Controlled AI inside governed workflows</span>
+<span>Deploy one process or a connected platform</span>
+<span>Works with ERP, CRM, S2P and legacy systems</span>
 </div>
+<p class="price-qualifier">Starting price applies to selected modules and user volumes. Integration, support and deployment scope are priced separately.</p>
 </div>
 <div class="hero-frame-wrap">
 <div aria-label="Pricing from 4 euro 95 cents monthly per user" class="hero-price-burst">
@@ -767,7 +847,7 @@
 </div>
 <div aria-label="SELYVO platform preview" class="hero-frame">
 <div class="ui-shell">
-<div class="ui-top"><i></i><i></i><i></i><span>SELYVO / OPERATING CONTROL CENTRE</span></div>
+<div class="ui-top"><i></i><i></i><i></i><span>SELYVO / OPERATING CONTROL CENTRE · ILLUSTRATIVE DATA</span></div>
 <div class="ui-body">
 <div class="pulse-row">
 <div class="pulse-card"><small>Open workflows</small><strong>148</strong><span>+18 today</span></div>
@@ -811,669 +891,435 @@
 </div>
 </div>
 </section>
-<section class="section business-priorities" id="business-priorities">
+<section aria-label="Product credibility and deployment facts" class="credibility-strip">
+<div class="container credibility-grid">
+<article><img alt="" src="assets/icons/check-circle.svg"/><small>Product status</small><strong>Core capabilities available now</strong><p>Workflow, purchasing, suppliers, contracts, inventory, projects, governance, AI and integrations.</p></article>
+<article><img alt="" src="assets/icons/processes.svg"/><small>Deployment</small><strong>Start with one process</strong><p>Prove value in a focused workflow, then reuse the same platform across teams and entities.</p></article>
+<article><img alt="" src="assets/icons/link.svg"/><small>Integration approach</small><strong>Keep valuable systems in place</strong><p>Connect ERP, CRM, S2P, identity, content, e-signature and specialist applications.</p></article>
+<article><img alt="" src="assets/icons/data-analytics.svg"/><small>Measured evidence</small><strong>Baseline value before scale</strong><p>Track cycle time, manual touches, exception rates, data completeness and control performance.</p></article>
+</div>
+</section>
+<section class="section business-priorities" id="business-problems">
 <div class="container">
 <div class="section-heading center">
-<p class="eyebrow"><i></i> Business realities. Controlled AI response.</p>
+<p class="eyebrow"><i></i> Business problems</p>
 <h2>People should run the business<br/>not re-enter data and chase process.</h2>
-<p>Most organisations already have ERP, CRM and specialist systems. The costly work still happens between them: reading documents, copying data, checking rules, finding owners, following up approvals and rebuilding evidence. SELYVO uses controlled AI and governed workflows to remove that manual layer.</p>
+<p>Most organisations already have ERP, CRM and specialist systems. The costly work remains between them: copying data, following up approvals, checking rules and rebuilding evidence.</p>
 </div>
 <div class="client-reality">
-<div class="client-reality-head">
-<h3>The problems clients describe are practical, repetitive and expensive.</h3>
-<p>They affect margin, speed, capacity and control not because teams lack effort, but because too much routine work still depends on people.</p>
-</div>
+<div class="client-reality-head"><h3>The problems are practical, repetitive and expensive.</h3><p>They reduce speed, capacity and control—not because teams lack effort, but because too much routine work still depends on people.</p></div>
 <div class="client-voice-grid">
-<article class="client-voice">
-<strong>“We already have an ERP, but teams still run the process in spreadsheets.”</strong>
-<p>Core systems store transactions. They rarely coordinate all the work, decisions and evidence around them.</p>
-</article>
-<article class="client-voice">
-<strong>“The same information is typed into multiple systems and forms.”</strong>
-<p>Employees read emails and documents, copy fields, correct errors and repeat work that software should handle.</p>
-</article>
-<article class="client-voice">
-<strong>“Approvals and exceptions move only when someone follows up.”</strong>
-<p>Routine requests consume specialist capacity while important issues wait in inboxes and handoffs.</p>
-</article>
-<article class="client-voice">
-<strong>“Controls are checked after the work, not while it is happening.”</strong>
-<p>Policy, risk and audit evidence become additional activities instead of a natural output of execution.</p>
-</article>
-</div>
-</div>
-<div class="controlled-ai-shell">
-<div class="controlled-ai-head">
-<div>
-<span class="mini-eyebrow">The SELYVO operating model</span>
-<h3>Maximise automation.<br/>Keep every action controlled.</h3>
-</div>
-<p>SELYVO places AI inside the process not outside it. AI handles high-volume, repeatable work while roles, rules, thresholds, approvals and human judgement define what may proceed.</p>
-</div>
-<div class="ai-flow-grid">
-<article class="ai-flow-step">
-<small>01 · Capture</small>
-<strong>Read information automatically.</strong>
-<p>Capture requests and data from emails, forms, PDFs, invoices, contracts, supplier documents and connected systems.</p>
-</article>
-<article class="ai-flow-step">
-<small>02 · Understand</small>
-<strong>Turn content into usable data.</strong>
-<p>Extract, classify, validate, match and enrich information so users do not need to retype what already exists.</p>
-</article>
-<article class="ai-flow-step">
-<small>03 · Execute</small>
-<strong>Automate the routine path.</strong>
-<p>Pre-fill records, create tasks, route approvals, request missing information, trigger actions and recommend the next step.</p>
-</article>
-<article class="ai-flow-step">
-<small>04 · Control</small>
-<strong>Apply governance continuously.</strong>
-<p>Run policy checks, authority limits, validations, segregation rules and exception handling while evidence is created automatically.</p>
-</article>
-</div>
-<div class="ai-control-note">
-<b>AI</b>
-<p><strong>AI handles the routine. People retain the judgement.</strong> Material commitments, exceptions, regulated actions and approvals remain within defined decision rights and a complete audit trail.</p>
-</div>
-</div>
-<span class="section-anchor" id="modules"></span><div class="purpose-explorer" id="module-purpose-explorer">
-<div class="purpose-explorer-head">
-<div>
-<span class="purpose-kicker"><img alt="" src="assets/selyvo-topic-mark.png"/> SELYVO capabilities by business area</span>
-<h3>Choose the business area. See the SELYVO workspaces that run it.</h3>
-</div>
-<p>Version 2.0 organises more than 25 capabilities into seven stable application areas, with platform services kept outside the primary navigation. Select an area to see its canonical workspaces, functional scope and key operating process.</p>
-</div>
-<div class="purpose-layout">
-<div aria-label="Filter SELYVO workspaces by business area" class="purpose-tabs" role="tablist">
-<button aria-selected="false" class="purpose-tab" data-purpose-filter="all" role="tab" type="button">
-<span class="purpose-tab-icon"><img alt="" src="assets/icons/donut-chart.svg"/></span>
-<span><strong>All capabilities</strong><small>Explore the complete Version 2.0 scope</small></span>
-<b>25</b>
-</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="work" role="tab" type="button">
-<span class="purpose-tab-icon"><img alt="" src="assets/icons/person-check.svg"/></span>
-<span><strong>Home &amp; My Work</strong><small>Personal home, tasks, approvals, requests and team work.</small></span>
-<b>2</b>
-</button><button aria-selected="true" class="purpose-tab active" data-purpose-filter="commercial" role="tab" type="button">
-<span class="purpose-tab-icon"><img alt="" src="assets/icons/shopping-cart.svg"/></span>
-<span><strong>Commercial</strong><small>Buy-side and sell-side processes, suppliers, customers and orders.</small></span>
-<b>2</b>
-</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="finance" role="tab" type="button">
-<span class="purpose-tab-icon"><img alt="" src="assets/icons/invoice-dollar.svg"/></span>
-<span><strong>Finance</strong><small>Planning, payables, expenses, receivables, treasury and accounting.</small></span>
-<b>6</b>
-</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="operations" role="tab" type="button">
-<span class="purpose-tab-icon"><img alt="" src="assets/icons/processes.svg"/></span>
-<span><strong>Operations</strong><small>Inventory, projects, travel, people, services, assets, quality and records.</small></span>
-<b>8</b>
-</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="governance" role="tab" type="button">
-<span class="purpose-tab-icon"><img alt="" src="assets/icons/governance-shield.svg"/></span>
-<span><strong>Governance</strong><small>Risk, controls, policy, assurance, sustainability and resilience.</small></span>
-<b>3</b>
-</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="insights" role="tab" type="button">
-<span class="purpose-tab-icon"><img alt="" src="assets/icons/data-analytics.svg"/></span>
-<span><strong>Insights</strong><small>Performance, reports, data quality and decision-ready drill-through.</small></span>
-<b>1</b>
-</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="platform" role="tab" type="button">
-<span class="purpose-tab-icon"><img alt="" src="assets/icons/database-gear.svg"/></span>
-<span><strong>Platform services</strong><small>External collaboration, controlled AI, automation and administration.</small></span>
-<b>3</b>
-</button>
-</div>
-<div class="purpose-results">
-<div aria-live="polite" class="purpose-results-head">
-<div><small>Selected business area</small><strong data-purpose-title="">Commercial</strong></div>
-<span data-purpose-count="">2 workspaces</span>
-</div>
-<div class="purpose-module-grid"><article class="purpose-module core-module" data-purpose-module="work" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/monitor.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P0</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Home &amp; My Work</span></div>
-<h4>Role-based operational Home</h4>
-<p class="purpose-module-description">A personalised operational homepage answers what needs attention, what the user is working on, what can be started, what changed and how the area is performing. It combines an attention strip, priority work, quick actions, recent and favourite records, role-relevant KPIs, process health and mandatory guidance in the active organisation context.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Role-based operational Home operating flow</strong></div></div>
-<ol><li>Assess attention</li><li>Continue priority work</li><li>Start authorised actions</li><li>Monitor performance</li></ol>
-<p>Makes the first screen an action-oriented work hub rather than a static executive dashboard.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="work" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/clipboard-check.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated / New · P0</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Home &amp; My Work</span></div>
-<h4>My Work</h4>
-<p class="purpose-module-description">A unified inbox brings together tasks, approvals, personal requests, team work, delegated items, mentions, completed decisions and saved views from every activated module. Priority scoring, due dates, SLA, escalation, reassignment, delegation and policy-controlled bulk actions focus users on the work that requires action now.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>My Work operating flow</strong></div></div>
-<ol><li>Collect assignments</li><li>Prioritise &amp; route</li><li>Act or delegate</li><li>Complete &amp; audit</li></ol>
-<p>Provides one permission-aware queue for actionable work while informational events remain in Notifications.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="commercial">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/shopping-cart.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P0-P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Commercial</span></div>
-<h4>Commercial — Buy</h4>
-<p class="purpose-module-description">Runs the full buy-side lifecycle through Demand &amp; Requests, guided buying, Sourcing, Supplier Proposals, Supplier 360, Catalog &amp; Shopping, Contract Lifecycle Management, Purchase Orders and Receiving. The workspace consolidates RFI, RFP, RFQ and e-auctions, adds supplier collaboration and performance, and links demand, contracts, orders, receipts, invoices and risk without duplicate entry points.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Commercial — Buy operating flow</strong></div></div>
-<ol><li>Capture demand</li><li>Source &amp; contract</li><li>Order &amp; collaborate</li><li>Receive &amp; evaluate</li></ol>
-<p>Combines guided demand intake, supplier management and procure-to-pay execution in one canonical commercial workspace.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="commercial">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/growth-chart.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Commercial</span></div>
-<h4>Commercial — Sell</h4>
-<p class="purpose-module-description">Adds Customers, Leads &amp; Opportunities, Quotations, Customer Contracts, Sales Orders, Fulfilment, Products/Services &amp; Pricing and Customer Service &amp; Returns. It provides a connected CRM and order-to-cash path with governed offers, pricing and discounts, customer agreements, delivery status, cases, returns, credits and service-level tracking.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Commercial — Sell operating flow</strong></div></div>
-<ol><li>Build pipeline</li><li>Quote &amp; contract</li><li>Order &amp; fulfil</li><li>Bill, collect &amp; serve</li></ol>
-<p>Creates the sell-side counterpart to SELYVO purchasing and finance while keeping customer context connected from lead to service.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="finance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/pie-chart.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
-<h4>Planning, Budgets &amp; Forecasts</h4>
-<p class="purpose-module-description">Extends budgets and budget requests into active financial control across legal entity, project, commodity and cost-centre dimensions. It supports pre-commitments at request, commitments at order, actuals from invoices or accounting, transfers, supplements, versioning, forecasts and hard, soft or warning controls.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Planning, Budgets &amp; Forecasts operating flow</strong></div></div>
-<ol><li>Plan budgets</li><li>Approve demand</li><li>Commit &amp; transfer</li><li>Forecast &amp; analyse</li></ol>
-<p>Connects planned spend, committed spend and actual results so owners see available budget before decisions are made.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="finance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/invoice-dollar.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
-<h4>Accounts Payable</h4>
-<p class="purpose-module-description">Transforms supplier invoice processing into an exception-driven workbench using email, upload or API capture with AI/OCR extraction. It validates duplicate, tax, bank and supplier data, performs PO/receipt/tolerance matching, supports non-PO coding and approval, assigns exceptions and exposes posting and payment status from the ERP.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Accounts Payable operating flow</strong></div></div>
-<ol><li>Capture invoice</li><li>Validate &amp; match</li><li>Resolve exceptions</li><li>Post &amp; track payment</li></ol>
-<p>Maximises touchless invoice processing while keeping exceptions, approvals and posting evidence controlled.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="finance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/dollar-circle.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated / New · P1-P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
-<h4>Expenses, Cards &amp; Advances</h4>
-<p class="purpose-module-description">Manages expense reports, receipt capture, policy checks, approvals and reimbursement together with cash advances and corporate-card feeds. Approved travel details can prefill claims, while card reconciliation, settlement status and policy exceptions remain visible to employees, managers and finance.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Expenses, Cards &amp; Advances operating flow</strong></div></div>
-<ol><li>Capture spend</li><li>Check policy</li><li>Approve &amp; settle</li><li>Reconcile &amp; report</li></ol>
-<p>Provides one controlled employee-spend flow from receipt or card transaction through reimbursement and reconciliation.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="finance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/renew.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
-<h4>Receivables</h4>
-<p class="purpose-module-description">Supports customer invoices, credit notes, collections, dunning and cash application as the financial completion of order-to-cash. Finance teams can follow billing status, overdue balances, disputes and customer payments while maintaining links to sales orders, fulfilment, returns and customer cases.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Receivables operating flow</strong></div></div>
-<ol><li>Bill customer</li><li>Manage collections</li><li>Apply cash</li><li>Resolve &amp; report</li></ol>
-<p>Connects commercial delivery to controlled billing, collection and payment allocation.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="finance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/database-gear.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
-<h4>Payments &amp; Treasury</h4>
-<p class="purpose-module-description">Combines supplier payment runs, bank-account governance, statement import, payment status, cash position, short-term forecasting and bank reconciliation. Rule-based matching and auditable adjustments support SELYVO-led treasury control while ERP or specialist treasury platforms may remain the accounting system of record.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Payments &amp; Treasury operating flow</strong></div></div>
-<ol><li>Prepare payments</li><li>Approve &amp; release</li><li>Import &amp; reconcile</li><li>Forecast cash</li></ol>
-<p>Adds controlled cash visibility and reconciliation without requiring a forced replacement of existing banking or treasury systems.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="finance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/scales.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2-P3 · target Nov 2026</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
-<h4>Accounting &amp; Period Close</h4>
-<p class="purpose-module-description">Provides chart of accounts, fiscal periods, posting dimensions, automatic and manual journals, accruals, prepayments, reversals, ledger balances, account reconciliation and a period-close cockpit. It can operate as the ledger or integrate with an external ERP; fixed assets, intercompany matching, eliminations and consolidation extend the scope for group finance.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Accounting &amp; Period Close operating flow</strong></div></div>
-<ol><li>Configure ledger</li><li>Post transactions</li><li>Reconcile &amp; close</li><li>Report &amp; consolidate</li></ol>
-<p>Creates a governed accounting layer with a November 2026 planning target and a gradual path to advanced group close.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="operations" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/box-package.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
-<h4>Inventory</h4>
-<p class="purpose-module-description">Consolidates items, warehouses and locations, stock on hand and goods movements into one workspace with planning, reservations, cycle counting and quality status. It preserves lot, serial, expiry, FEFO, quarantine, recall and traceability controls while adding reorder planning, blind counts and variance approval.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Inventory operating flow</strong></div></div>
-<ol><li>Maintain items &amp; locations</li><li>Receive &amp; move</li><li>Plan &amp; count</li><li>Control quality &amp; traceability</li></ol>
-<p>Combines regulated stock control and operational planning in one canonical inventory workspace.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="operations" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/target.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
-<h4>Projects, Resources &amp; Profitability</h4>
-<p class="purpose-module-description">Completes the project and resource model with work packages, milestones, dependencies, resource capacity, allocations, timesheets and approvals. Purchase, expense and labour costs roll into project financials, forecasts, billing readiness and margin analysis.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Projects, Resources &amp; Profitability operating flow</strong></div></div>
-<ol><li>Plan work</li><li>Allocate capacity</li><li>Capture time &amp; cost</li><li>Forecast margin</li></ol>
-<p>Gives project managers and finance one view of delivery, utilisation, cost and profitability.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="operations" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/globe.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated / New · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
-<h4>Travel &amp; Corporate Mobility</h4>
-<p class="purpose-module-description">Covers policy-aware travel requests, approval, agency or direct booking, itineraries, traveller profiles, advances, changes, cancellations, disruption support and duty-of-care status. Approved trip data hands off automatically to Expenses, reducing duplicate entry and improving settlement of advances and unused bookings.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Travel &amp; Corporate Mobility operating flow</strong></div></div>
-<ol><li>Request &amp; approve</li><li>Book &amp; confirm</li><li>Travel &amp; support</li><li>Expense &amp; settle</li></ol>
-<p>Connects pre-trip control, booking, traveller support and post-trip financial settlement.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="operations" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/people-group.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2-P3</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
-<h4>People Operations</h4>
-<p class="purpose-module-description">Provides a lightweight employee lifecycle workspace linked to user provisioning and internal requests. It supports the people directory, onboarding and offboarding, manager/entity/location/cost-centre changes, documents and acknowledgements, access and asset checklists, plus optional time and attendance with HRIS integration.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>People Operations operating flow</strong></div></div>
-<ol><li>Onboard</li><li>Maintain changes</li><li>Manage time &amp; requests</li><li>Offboard</li></ol>
-<p>Coordinates HR, managers, IT and employees around the practical work of joining, changing role and leaving.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="operations" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/handshake.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
-<h4>Service Management</h4>
-<p class="purpose-module-description">Extends tickets, comments, escalations and investigations into a managed service portal with service catalogue, dynamic request forms, queues, ownership, skill-based assignment and SLA clocks. Knowledge articles, problem/root-cause linkage, recurring-issue detection and satisfaction measurement support continuous service improvement.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Service Management operating flow</strong></div></div>
-<ol><li>Request service</li><li>Triage &amp; assign</li><li>Resolve or escalate</li><li>Learn &amp; improve</li></ol>
-<p>Standardises internal service delivery while keeping ownership, SLA and investigation history visible.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="operations" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/tools-automation.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
-<h4>Enterprise Assets &amp; Maintenance</h4>
-<p class="purpose-module-description">Manages operational equipment and facilities through asset hierarchies, profiles, preventive/predictive/corrective plans, work orders, inspection rounds, meters, downtime, failure codes and warranty obligations. Parts, labour, permits and completion evidence link maintenance execution to inventory, suppliers, contracts and financial assets.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Enterprise Assets &amp; Maintenance operating flow</strong></div></div>
-<ol><li>Register assets</li><li>Plan maintenance</li><li>Execute work orders</li><li>Analyse reliability</li></ol>
-<p>Connects asset availability, regulated inspections, spare parts and maintenance cost in one operational lifecycle.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="operations" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/flask.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
-<h4>Quality Management</h4>
-<p class="purpose-module-description">Provides deviations, nonconformance, quality-event intake, investigations, root cause, corrections, CAPA, effectiveness checks and change control. Inspection plans, sampling, results, procedure-linked training and supplier quality issues connect operational quality to receipts, suppliers, policies and audit evidence.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Quality Management operating flow</strong></div></div>
-<ol><li>Detect issue</li><li>Investigate cause</li><li>Correct &amp; CAPA</li><li>Verify effectiveness</li></ol>
-<p>Creates a configurable quality layer for regulated and quality-sensitive operations.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="operations" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/folder.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
-<h4>Documents &amp; Records</h4>
-<p class="purpose-module-description">Provides a common controlled-document and records service with versions, classification, ownership, review cycles, approvals, publication, acknowledgement and supersession. Retention schedules, event triggers, legal holds, controlled disposal, full-text search, immutable evidence packages and time-limited external sharing support every SELYVO module.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Documents &amp; Records operating flow</strong></div></div>
-<ol><li>Author &amp; classify</li><li>Review &amp; publish</li><li>Acknowledge &amp; use</li><li>Retain or dispose</li></ol>
-<p>Keeps operational documents controlled from creation through use, retention and defensible disposal.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="governance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/governance-shield.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Governance</span></div>
-<h4>Governance, Risk &amp; Compliance</h4>
-<p class="purpose-module-description">Unifies risks, control design and testing, compliance obligations, policy lifecycle and attestations, audits and assessments, incidents, findings and CAPA, third-party risk, questionnaires, evidence requests and the compliance calendar. Shared ownership, due dates, evidence, escalation and cross-links to suppliers, contracts and legal entities create one assurance model.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Governance, Risk &amp; Compliance operating flow</strong></div></div>
-<ol><li>Identify risk &amp; obligation</li><li>Define controls &amp; policy</li><li>Test &amp; collect evidence</li><li>Remediate &amp; report</li></ol>
-<p>Turns governance from separate registers into connected, time-bound work with accountable owners and reusable evidence.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="governance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/growth-chart.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Governance</span></div>
-<h4>ESG &amp; Sustainability</h4>
-<p class="purpose-module-description">Defines ESG metrics, organisational boundaries, periods, units, calculation methods and data owners, then collects internal, supplier and integrated evidence. Targets, initiatives, benefits, supplier sustainability, disclosure mapping, estimation flags, approvals and data-quality controls provide traceable disclosure readiness.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>ESG &amp; Sustainability operating flow</strong></div></div>
-<ol><li>Define metrics</li><li>Collect evidence</li><li>Track targets</li><li>Review &amp; disclose</li></ol>
-<p>Connects sustainability objectives, supplier evidence and operational data to governed reporting.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="governance" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/shield-alert.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P2-P3</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Governance</span></div>
-<h4>Privacy, Security &amp; Resilience</h4>
-<p class="purpose-module-description">Extends the common risk and evidence model to processing records, lawful basis, privacy assessments, data-subject requests, information-security risks and incidents. Business-impact analysis, dependency registers, continuity and disaster-recovery plans, exercises and lessons learned strengthen operational resilience.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Privacy, Security &amp; Resilience operating flow</strong></div></div>
-<ol><li>Map data &amp; processes</li><li>Assess risk &amp; impact</li><li>Control &amp; plan</li><li>Test &amp; recover</li></ol>
-<p>Brings privacy, information security and business continuity into one accountable governance framework.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="insights" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/data-analytics.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated / New · P0-P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Insights</span></div>
-<h4>Insights, Reporting &amp; Data Quality</h4>
-<p class="purpose-module-description">Provides executive, process, commercial, financial, treasury, operational, quality, workforce, governance and ESG analytics through role-based control towers and reports. Saved filters, grouping, pivots, exports, scheduled snapshots, metric definitions, data-quality checks and drill-through connect every KPI to authorised source records.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Insights, Reporting &amp; Data Quality operating flow</strong></div></div>
-<ol><li>Define metrics</li><li>Aggregate data</li><li>Analyse &amp; drill through</li><li>Schedule &amp; act</li></ol>
-<p>Creates one reporting layer over SELYVO modules and integrated systems while preserving permission scope and metric ownership.</p>
-</div>
-</article><article class="purpose-module next-module" data-purpose-module="platform" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/globe.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>New · P1</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Platform services</span></div>
-<h4>External Workspace</h4>
-<p class="purpose-module-description">Provides secure, scoped participation for suppliers, customers, auditors and other external organisations. Invitations, identity verification, assigned onboarding, sourcing, contracts, orders, invoices, questionnaires or evidence, secure messages, controlled files, deadlines and internal review protect master data and process boundaries.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>External Workspace operating flow</strong></div></div>
-<ol><li>Invite &amp; verify</li><li>Assign work</li><li>Collaborate securely</li><li>Review &amp; update</li></ol>
-<p>Lets external parties complete only the work explicitly assigned to their organisation and process.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="platform" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/tools-automation.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Platform services</span></div>
-<h4>AI &amp; Automation</h4>
-<p class="purpose-module-description">Uses contextual copilot, document and email recognition, structured extraction, summarisation, recommended next steps, natural-language search and governed AI agents inside workflows. Human confirmation remains mandatory for material updates or decisions, while model, source, confidence, cost, status and run history remain auditable.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>AI &amp; Automation operating flow</strong></div></div>
-<ol><li>Read context</li><li>Extract or suggest</li><li>Confirm &amp; execute</li><li>Audit every run</li></ol>
-<p>Maximises controlled automation without hiding data access, decision rights or accountability.</p>
-</div>
-</article><article class="purpose-module core-module" data-purpose-module="platform" hidden="">
-<div class="purpose-module-top">
-<div class="purpose-module-icon"><img alt="" src="assets/icons/database-gear.svg"/></div>
-<div class="purpose-module-meta"><span>SELYVO workspace</span><small>Updated · P0-P2</small></div>
-</div><div aria-label="Canonical business area" class="purpose-module-tags"><span class="purpose-module-tag">Platform services</span></div>
-<h4>Administration &amp; Platform Operations</h4>
-<p class="purpose-module-description">Reorganises configuration into clear workspaces for organisations, users and access, workflows and approvals, forms and fields, master data, integrations and APIs, AI, templates, data and environments, platform operations, modules and entitlements, and retention. Dependency checks, versioning, audit, configuration migration, job monitoring and write-only secrets make administration safer and easier to operate.</p>
-<div class="purpose-process-card">
-<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Key process</small><strong>Administration &amp; Platform Operations operating flow</strong></div></div>
-<ol><li>Configure structure</li><li>Govern access &amp; process</li><li>Connect data &amp; AI</li><li>Monitor &amp; migrate</li></ol>
-<p>Separates technical administration from daily business navigation while preserving full configurability and portability.</p>
-</div>
-</article></div>
-</div>
-</div>
-</div>
-<div class="ai-business-section" id="controlled-ai">
-<div class="ai-business-head">
-<div>
-<div class="topic-kicker"><img alt="" src="assets/selyvo-topic-mark.png"/> Controlled AI in daily work</div>
-<h2>Automate the administration. <br/><em>Keep the business controlled.</em></h2>
-<p>SELYVO uses controlled AI inside governed workflows to capture information, complete routine steps and enforce rules as work happens. People spend less time re-entering data and chasing process—and more time making decisions, resolving exceptions and improving outcomes.</p>
-</div>
-<div class="ai-business-principle">
-<strong>AI is part of the process, not a separate chatbot.</strong>
-<p>Every automated action follows defined data access, rules, approval limits and escalation paths. Material decisions remain with authorised people and every action stays traceable.</p>
-<div class="principle-line">Automation with accountability</div>
-</div>
-</div>
-<div aria-label="How controlled AI works in SELYVO" class="ai-workflow-board">
-<article class="ai-workflow-step">
-<div class="ai-workflow-icon"><img alt="" src="assets/icons/document.svg"/></div>
-<small>01 · Capture</small>
-<h3>Read work at the source.</h3>
-<p>Bring requests and supporting data into the process without manual re-entry.</p>
-<ul><li>Email and documents</li><li>Forms and mobile capture</li><li>Connected systems</li></ul>
-</article>
-<article class="ai-workflow-step">
-<div class="ai-workflow-icon"><img alt="" src="assets/icons/magnifier.svg"/></div>
-<small>02 · Understand</small>
-<h3>Turn content into trusted data.</h3>
-<p>Extract, classify, match and validate information before it moves forward.</p>
-<ul><li>Field extraction</li><li>Data matching</li><li>Confidence checks</li></ul>
-</article>
-<article class="ai-workflow-step">
-<div class="ai-workflow-icon"><img alt="" src="assets/icons/tools-automation.svg"/></div>
-<small>03 · Act</small>
-<h3>Progress the routine path.</h3>
-<p>Create records, route work, request missing data and update connected systems.</p>
-<ul><li>Workflow actions</li><li>Reminders and tasks</li><li>System updates</li></ul>
-</article>
-<article class="ai-workflow-step">
-<div class="ai-workflow-icon"><img alt="" src="assets/icons/governance-shield.svg"/></div>
-<small>04 · Govern</small>
-<h3>Apply controls in real time.</h3>
-<p>Check policy, authority, risk and evidence before the process can proceed.</p>
-<ul><li>Approval limits</li><li>Exception handling</li><li>Automatic evidence</li></ul>
-</article>
-</div>
-<div class="ai-human-grid">
-<article class="ai-human-card stop">
-<span>What people stop doing</span>
-<h3>Manual administration that adds no business value.</h3>
-<ul><li>Copying data between systems</li><li>Chasing status and approvals</li><li>Rebuilding audit evidence</li><li>Checking standard cases manually</li></ul>
-</article>
-<article class="ai-human-card keep">
-<span>What people keep doing</span>
-<h3>Judgement, ownership and material decisions.</h3>
-<ul><li>Approving commitments</li><li>Resolving exceptions</li><li>Managing relationships</li><li>Improving performance</li></ul>
-</article>
-</div>
-<div class="ai-guardrail">
-<strong>Controlled by design: AI can assist and execute only within the permissions and decision rights you define.</strong>
-<div class="ai-guardrail-list"><span>Roles</span><span>Thresholds</span><span>Validations</span><span>Approvals</span><span>Audit trail</span></div>
+<article class="client-voice"><strong>“We have an ERP, but teams still run the process in spreadsheets.”</strong><p>Core systems store transactions but rarely coordinate all the work, decisions and evidence around them.</p></article>
+<article class="client-voice"><strong>“The same information is typed into multiple systems and forms.”</strong><p>Employees read documents, copy fields, correct errors and repeat work that software should handle.</p></article>
+<article class="client-voice"><strong>“Approvals move only when someone follows up.”</strong><p>Routine requests consume specialist capacity while important exceptions wait in inboxes and handovers.</p></article>
+<article class="client-voice"><strong>“Controls are checked after the work is complete.”</strong><p>Policy, risk and audit evidence become additional activities instead of a natural output of execution.</p></article>
 </div>
 </div>
 </div>
 </section>
-<section class="section dual-role-section" id="platform">
+<section class="section outcomes-section" id="outcomes">
 <div class="container">
-<div class="dual-role-head">
-<div>
-<p class="eyebrow"><i></i> One platform. Two roles.</p>
-<h2>Use SELYVO to run new processes or modernise the systems you already have.</h2>
-</div>
-<p>SELYVO can operate as a complete set of integrated business modules, as a harmonised user-interface and data layer over existing systems, or as both at the same time. This gives companies a practical path to improve operations without forcing an immediate replacement of every core or legacy platform.</p>
-</div>
-<div class="role-grid">
-<article class="role-card module-role">
-<div class="role-card-top">
-<div class="role-icon"><img alt="" src="assets/icons/processes.svg"/></div>
-<span class="role-number">Role 01</span>
-</div>
-<h3>Integrated business modules.</h3>
-<p>Deploy activated SELYVO workspaces across Home, My Work, Commercial, Finance, Operations, Governance and Insights. The Version 2.0 scope covers buy-side and sell-side commercial work, planning, payables, expenses, receivables, treasury, accounting, inventory, projects, travel, people, service, assets, quality, records, GRC, sustainability and resilience on one shared foundation.</p>
-<div class="role-capabilities">
-<div class="role-capability">Start with one priority process</div>
-<div class="role-capability">Add modules on one foundation</div>
-<div class="role-capability">Share data, controls and evidence</div>
-<div class="role-capability">Standardise work across entities</div>
-</div>
-<div class="role-use"><strong>Best fit</strong><span>When the business needs a new process platform, wants to replace fragmented point solutions, or plans to consolidate operations gradually.</span></div>
-</article>
-<article class="role-card layer-role">
-<div class="role-card-top">
-<div class="role-icon"><img alt="" src="assets/icons/monitor.svg"/></div>
-<span class="role-number">Role 02</span>
-</div>
-<h3>Harmonised enterprise interface.</h3>
-<p>Use SELYVO as the modern user experience over ERP, CRM, S2P, finance, content and legacy systems. Employees work through one guided interface while SELYVO reads, validates, cleans, enriches and synchronises data with the existing systems operating in the background.</p>
-<div class="role-capabilities">
-<div class="role-capability">One UI across legacy systems</div>
-<div class="role-capability">Data validation and clean-up</div>
-<div class="role-capability">Background read and write actions</div>
-<div class="role-capability">Preserve systems of record</div>
-</div>
-<div class="role-use"><strong>Best fit</strong><span>When existing systems remain important but their interfaces, data quality and cross-system processes create friction for users and management.</span></div>
-</article>
-</div>
-<div class="interface-model">
-<div class="interface-model-head">
-<h3>A new front end for users. A controlled integration and data layer underneath.</h3>
-<p>SELYVO hides system complexity from employees, coordinates the work across applications and improves the data before it reaches or returns from the systems of record.</p>
-</div>
-<div class="interface-layers">
-<div class="interface-layer experience">
-<div class="interface-label"><small>Harmonised experience</small><strong>One SELYVO user interface</strong></div>
-<div class="interface-items">
-<div class="interface-item"><img alt="" src="assets/icons/person.svg"/><strong>Guided forms and workspaces</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/clipboard-check.svg"/><strong>Tasks, approvals and decisions</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/magnifier.svg"/><strong>Unified search and context</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/monitor.svg"/><strong>Web and mobile access</strong></div>
-</div>
-</div>
-<div aria-hidden="true" class="interface-connector"></div>
-<div class="interface-layer intelligence">
-<div class="interface-label"><small>SELYVO control and data layer</small><strong>Orchestrate, clean and synchronise</strong></div>
-<div class="interface-items">
-<div class="interface-item"><img alt="" src="assets/icons/processes.svg"/><strong>Cross-system workflows</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/tools-automation.svg"/><strong>Controlled AI and automation</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/database-gear.svg"/><strong>Validate, map and de-duplicate data</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/shield-check.svg"/><strong>Rules, permissions and evidence</strong></div>
-</div>
-</div>
-<div aria-hidden="true" class="interface-connector"></div>
-<div class="interface-layer systems">
-<div class="interface-label"><small>Existing technology landscape</small><strong>Systems continue in the background</strong></div>
-<div class="interface-items">
-<div class="interface-item"><img alt="" src="assets/icons/database-gear.svg"/><strong>ERP and finance</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/growth-chart.svg"/><strong>CRM and sales</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/shopping-cart.svg"/><strong>S2P and procurement</strong></div>
-<div class="interface-item"><img alt="" src="assets/icons/folder.svg"/><strong>Content, specialist and legacy systems</strong></div>
-</div>
-</div>
-</div>
-</div>
-<div class="dual-role-outcomes">
-<article class="dual-role-outcome"><strong>Modernise without a big-bang replacement</strong><span>Improve the user experience and process control while retaining valuable core systems.</span></article>
-<article class="dual-role-outcome"><strong>Clean data at the point of work</strong><span>Validate, enrich, map and de-duplicate information before it moves between systems.</span></article>
-<article class="dual-role-outcome"><strong>One process across applications</strong><span>Coordinate decisions and actions even when transactions remain in different systems of record.</span></article>
-<article class="dual-role-outcome"><strong>Move gradually to SELYVO modules</strong><span>Keep the interface layer and replace background capabilities module by module when it creates value.</span></article>
-</div>
-</div>
-</section>
-<section class="section business-value-section" id="executive-value">
-<div class="container">
-<div class="business-value-head">
-<p class="eyebrow"><i></i> Business value</p>
-<h2>The business case is visible in daily operations.</h2>
-<p>SELYVO improves the economics and control of work by reducing avoidable administration, shortening process cycles and giving management earlier visibility of risk and performance.</p>
-</div>
+<div class="business-value-head"><p class="eyebrow"><i></i> Business outcomes</p><h2>Improve the economics and control of daily work.</h2><p>SELYVO removes avoidable administration, accelerates standard work and gives management earlier visibility of performance and exposure.</p></div>
 <div class="business-value-grid">
 <article class="business-value-card"><img alt="" src="assets/icons/clock.svg"/><small>Speed</small><h3>Shorter cycle times</h3><p>Standard cases move automatically while delays and exceptions are escalated before they become bottlenecks.</p></article>
 <article class="business-value-card"><img alt="" src="assets/icons/people-group.svg"/><small>Capacity</small><h3>More productive teams</h3><p>People spend less time on re-keying, follow-up and repetitive checks and more time on judgement and outcomes.</p></article>
 <article class="business-value-card"><img alt="" src="assets/icons/shield-check.svg"/><small>Control</small><h3>Governance built into work</h3><p>Approvals, policy, evidence and accountability are part of execution rather than separate retrospective activity.</p></article>
 <article class="business-value-card"><img alt="" src="assets/icons/data-analytics.svg"/><small>Visibility</small><h3>Earlier management insight</h3><p>Leaders see commitments, workload, exceptions and exposure while there is still time to act.</p></article>
 </div>
-<div class="business-value-cta">
-<div><h3>Start with the process creating the most friction.</h3><p>SELYVO can be deployed around one business outcome and expanded across additional processes, teams and entities on the same platform.</p></div>
-<div class="business-value-actions"><a class="button button-primary" href="#contact">Book a Product Demo</a><a class="button button-secondary" href="#modules">Explore SELYVO Capabilities</a></div>
+</div>
+</section>
+<section class="section operating-model-section" id="operating-model">
+<div class="container">
+<div class="operating-model-shell">
+<div class="operating-model-head"><div><p class="eyebrow"><i></i> One operating model</p><h2>Capture. Understand. Execute. Control. Improve.</h2></div><p>Controlled AI and workflow automation handle repeatable work inside defined roles, rules, thresholds and decision rights.</p></div>
+<div class="operating-model-grid">
+<article><b>01</b><img alt="" src="assets/icons/doc-search.svg"/><h3>Capture</h3><p>Read requests, emails, forms, invoices, contracts and connected-system data at source.</p></article>
+<article><b>02</b><img alt="" src="assets/icons/data-analytics.svg"/><h3>Understand</h3><p>Extract, classify, validate, match and enrich information into trusted process data.</p></article>
+<article><b>03</b><img alt="" src="assets/icons/tools-automation.svg"/><h3>Execute</h3><p>Create records, route work, request missing information and progress standard cases automatically.</p></article>
+<article><b>04</b><img alt="" src="assets/icons/governance-shield.svg"/><h3>Control</h3><p>Apply authority, policy, segregation, validation and evidence requirements while work is performed.</p></article>
+<article><b>05</b><img alt="" src="assets/icons/growth-chart.svg"/><h3>Improve</h3><p>Measure cycle time, exceptions, workload and outcomes to identify the next automation opportunity.</p></article>
+</div>
+<div class="operating-model-note"><strong>AI handles the routine. People retain judgement and accountability.</strong><span>Material commitments, regulated actions, exceptions and approvals remain within governed decision rights and a complete audit trail.</span></div>
 </div>
 </div>
 </section>
-<section class="section section-dark" id="daily-ops">
+<section class="section deployment-section" id="platform">
 <div class="container">
-<div class="daily-shell">
-<div class="daily-head">
-<div>
-<p class="eyebrow"><i></i> Daily operations in one system</p>
-<h3>From request to decision to execution to evidence.</h3>
-<p>Inside the SELYVO system, teams create requests, managers approve, operations execute, controls verify and leadership sees the result in real time. The software replaces email coordination and disconnected trackers with guided, automated workflows.</p>
-</div>
-<a class="button button-primary" href="#contact">See the Product in Action</a>
-</div>
-<div class="ops-grid">
-<article class="ops-step"><small>STEP 01</small><strong>Capture work</strong><span>Requests, issues, documents, tasks and transactions enter the platform through guided forms and connected data.</span></article>
-<article class="ops-step"><small>STEP 02</small><strong>Route decisions</strong><span>Approvals, thresholds, risk checks and policy logic send the work to the right people at the right moment.</span></article>
-<article class="ops-step"><small>STEP 03</small><strong>Execute actions</strong><span>Teams fulfil, investigate, negotiate, review, issue, receive, train, close or remediate — within one governed flow.</span></article>
-<article class="ops-step"><small>STEP 04</small><strong>Control outcomes</strong><span>Evidence, exceptions, obligations and compliance checkpoints are collected as part of the work itself.</span></article>
-<article class="ops-step"><small>STEP 05</small><strong>Measure and improve</strong><span>Dashboards, KPIs and management views reveal bottlenecks, exposure, workload and opportunities for change.</span></article>
-</div>
+<div class="section-heading center"><p class="eyebrow"><i></i> Two deployment models</p><h2>Deploy SELYVO around the outcome and technology landscape you have.</h2><p>Use SELYVO as integrated business applications, as a harmonised interface over existing systems, or combine both approaches during a phased modernisation.</p></div>
+<div class="deployment-grid">
+<article class="deployment-card dark"><span>Model 01</span><img alt="" src="assets/icons/processes.svg"/><h3>Integrated SELYVO modules</h3><p>Run complete processes on one platform using shared identity, workflow, documents, data, controls, AI actions and audit history.</p><ul><li>Activate only the modules required</li><li>Use one consistent operating model</li><li>Expand without rebuilding the foundation</li></ul></article>
+<article class="deployment-card light"><span>Model 02</span><img alt="" src="assets/icons/monitor.svg"/><h3>Harmonised interface over existing systems</h3><p>Give users one modern work experience while ERP, CRM, S2P, finance and legacy applications continue as systems of record in the background.</p><ul><li>Validate, map and clean data at the point of work</li><li>Coordinate one process across several applications</li><li>Modernise gradually without a big-bang replacement</li></ul></article>
 </div>
 </div>
 </section>
-<section class="section section-alt">
+<section class="section use-cases-section" id="use-cases">
 <div class="container">
-<div class="section-heading center">
-<p class="eyebrow"><i></i> Executive value</p>
-<h2>Enterprise software that helps leaders run the business.</h2>
-<p>SELYVO gives COO, CFO and CIO organisations a shared operating system for execution, control, evidence and management visibility.</p>
+<div class="section-heading"><p class="eyebrow"><i></i> Priority use cases</p><h2>Start with a commercially recognisable business problem.</h2><p>Each entry point can be deployed independently and extended into adjacent SELYVO capabilities on the same platform.</p></div>
+<div class="use-case-grid">
+<a class="use-case-card" href="spend-control.html"><img alt="" src="assets/icons/shopping-cart.svg"/><small>Procurement</small><h3>Control purchasing and supplier spend</h3><p>Connect demand, sourcing, suppliers, contracts, orders, receipts and invoice control.</p><span>Explore the use case →</span></a>
+<a class="use-case-card" href="finance-administration.html"><img alt="" src="assets/icons/invoice-dollar.svg"/><small>Finance operations</small><h3>Automate invoice and finance administration</h3><p>Capture documents, validate data, match transactions and route only exceptions to people.</p><span>Explore the use case →</span></a>
+<a class="use-case-card" href="revenue-acceleration.html"><img alt="" src="assets/icons/growth-chart.svg"/><small>Commercial</small><h3>Connect sales, fulfilment and receivables</h3><p>Coordinate opportunities, quotations, contracts, orders, delivery, billing and collections.</p><span>Explore the use case →</span></a>
+<a class="use-case-card" href="operational-scale.html"><img alt="" src="assets/icons/box-package.svg"/><small>Operations</small><h3>Manage inventory, projects and operational work</h3><p>Control resources, stock, service delivery, milestones, exceptions and execution evidence.</p><span>Explore the use case →</span></a>
+<a class="use-case-card" href="compliance-by-design.html"><img alt="" src="assets/icons/shield-check.svg"/><small>Governance</small><h3>Embed risk, compliance and evidence</h3><p>Make obligations, controls, approvals, incidents, findings and CAPA part of daily work.</p><span>Explore the use case →</span></a>
+<a class="use-case-card" href="operating-layer.html"><img alt="" src="assets/icons/network-nodes.svg"/><small>Technology modernisation</small><h3>Harmonise work across existing systems</h3><p>Replace fragmented interfaces while maintaining trusted systems of record in the background.</p><span>Explore the use case →</span></a>
 </div>
+</div>
+</section>
+<section class="section capability-section" id="modules">
+<div class="container"><div class="purpose-explorer" id="module-purpose-explorer">
+<div class="purpose-explorer-head"><div><span class="purpose-kicker"><img alt="" src="assets/selyvo-topic-mark.png"> Capability explorer</img></span><h3>Explore SELYVO by business area.</h3></div><p>Select an area to see the relevant available and planned capabilities. Each card shows the business outcome, scope and typical operating flow.</p></div>
+<div class="purpose-layout">
+<div aria-label="Filter SELYVO workspaces by business area" class="purpose-tabs" role="tablist">
+<button aria-selected="false" class="purpose-tab" data-purpose-filter="all" role="tab" type="button">
+<span class="purpose-tab-icon"><img alt="" src="assets/icons/donut-chart.svg"/></span>
+<span><strong>All capabilities</strong><small>View the complete capability set</small></span>
+<b>25</b>
+</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="work" role="tab" type="button">
+<span class="purpose-tab-icon"><img alt="" src="assets/icons/person-check.svg"/></span>
+<span><strong>Personal work</strong><small>Home, tasks, approvals and requests</small></span>
+<b>2</b>
+</button><button aria-selected="true" class="purpose-tab active" data-purpose-filter="commercial" role="tab" type="button">
+<span class="purpose-tab-icon"><img alt="" src="assets/icons/shopping-cart.svg"/></span>
+<span><strong>Commercial</strong><small>Purchasing, suppliers, customers and orders</small></span>
+<b>2</b>
+</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="finance" role="tab" type="button">
+<span class="purpose-tab-icon"><img alt="" src="assets/icons/invoice-dollar.svg"/></span>
+<span><strong>Finance</strong><small>Planning, payables, expenses, cash and accounting</small></span>
+<b>6</b>
+</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="operations" role="tab" type="button">
+<span class="purpose-tab-icon"><img alt="" src="assets/icons/processes.svg"/></span>
+<span><strong>Operations</strong><small>Inventory, projects, travel, service and records</small></span>
+<b>8</b>
+</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="governance" role="tab" type="button">
+<span class="purpose-tab-icon"><img alt="" src="assets/icons/governance-shield.svg"/></span>
+<span><strong>Governance</strong><small>Risk, controls, assurance and resilience</small></span>
+<b>3</b>
+</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="insights" role="tab" type="button">
+<span class="purpose-tab-icon"><img alt="" src="assets/icons/data-analytics.svg"/></span>
+<span><strong>Insights</strong><small>Reporting, performance and data quality</small></span>
+<b>1</b>
+</button><button aria-selected="false" class="purpose-tab" data-purpose-filter="platform" role="tab" type="button">
+<span class="purpose-tab-icon"><img alt="" src="assets/icons/database-gear.svg"/></span>
+<span><strong>Platform services</strong><small>Collaboration, AI, automation and administration</small></span>
+<b>3</b>
+</button>
+</div>
+<div class="purpose-results">
+<div aria-live="polite" class="purpose-results-head">
+<div><small>Selected area</small><strong data-purpose-title="">Commercial</strong></div>
+<span data-purpose-count="">2 workspaces</span>
+</div>
+<div class="purpose-module-grid"><article class="purpose-module core-module" data-purpose-module="work" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/monitor.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Home &amp; My Work</span></div>
+<h4>Role-based operational Home</h4>
+<p class="purpose-module-description">Gives each user a clear view of priorities, recent work and performance. It combines attention cards, quick actions, favourites, KPIs and process health in the active organisation context.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"><div><small>Process</small><strong>Typical operating flow</strong></div></img></div>
+<ol><li>Assess attention</li><li>Continue priority work</li><li>Start authorised actions</li><li>Monitor performance</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="work" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/clipboard-check.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Home &amp; My Work</span></div>
+<h4>My Work</h4>
+<p class="purpose-module-description">Concentrates actionable work in one permission-aware queue. It covers tasks, approvals, requests, delegation, mentions, due dates, escalation and completion history.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"><div><small>Process</small><strong>Typical operating flow</strong></div></img></div>
+<ol><li>Collect assignments</li><li>Prioritise &amp; route</li><li>Act or delegate</li><li>Complete &amp; audit</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="commercial">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/shopping-cart.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Commercial</span></div>
+<h4>Commercial — Buy</h4>
+<p class="purpose-module-description">Controls purchasing and supplier spend from demand to receipt. It covers guided intake, sourcing, suppliers, catalogues, contracts, purchase orders and receiving.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"><div><small>Process</small><strong>Typical operating flow</strong></div></img></div>
+<ol><li>Capture demand</li><li>Source &amp; contract</li><li>Order &amp; collaborate</li><li>Receive &amp; evaluate</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="commercial">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/growth-chart.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Commercial</span></div>
+<h4>Commercial — Sell</h4>
+<p class="purpose-module-description">Connects commercial activity from lead to service. It covers customers, opportunities, quotations, contracts, sales orders, fulfilment, pricing, returns and cases.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"><div><small>Process</small><strong>Typical operating flow</strong></div></img></div>
+<ol><li>Build pipeline</li><li>Quote &amp; contract</li><li>Order &amp; fulfil</li><li>Bill, collect &amp; serve</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="finance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/pie-chart.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
+<h4>Planning, Budgets &amp; Forecasts</h4>
+<p class="purpose-module-description">Moves financial control to the point of decision. It covers budgets, requests, commitments, transfers, forecasts, versions and variance analysis.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"><div><small>Process</small><strong>Typical operating flow</strong></div></img></div>
+<ol><li>Plan budgets</li><li>Approve demand</li><li>Commit &amp; transfer</li><li>Forecast &amp; analyse</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="finance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/invoice-dollar.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
+<h4>Accounts Payable</h4>
+<p class="purpose-module-description">Reduces manual invoice administration and focuses finance on exceptions. It covers capture, AI/OCR extraction, validation, matching, approval, ERP posting and payment status.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"><div><small>Process</small><strong>Typical operating flow</strong></div></img></div>
+<ol><li>Capture invoice</li><li>Validate &amp; match</li><li>Resolve exceptions</li><li>Post &amp; track payment</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="finance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/dollar-circle.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
+<h4>Expenses, Cards &amp; Advances</h4>
+<p class="purpose-module-description">Creates one controlled flow for employee spend. It covers receipt capture, cards, advances, policy checks, approval, reimbursement and reconciliation.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Capture spend</li><li>Check policy</li><li>Approve &amp; settle</li><li>Reconcile &amp; report</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="finance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/renew.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
+<h4>Receivables</h4>
+<p class="purpose-module-description">Improves visibility and control of customer balances. It covers billing status, open items, collections, disputes, credit activity and cash application.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Bill customer</li><li>Manage collections</li><li>Apply cash</li><li>Resolve &amp; report</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="finance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/database-gear.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
+<h4>Payments &amp; Treasury</h4>
+<p class="purpose-module-description">Strengthens cash and payment control. It covers payment proposals, approvals, bank connectivity, cash positions, reconciliation and treasury visibility.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Prepare payments</li><li>Approve &amp; release</li><li>Import &amp; reconcile</li><li>Forecast cash</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="finance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/scales.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Finance</span></div>
+<h4>Accounting &amp; Period Close</h4>
+<p class="purpose-module-description">Provides a governed accounting and close workspace. It covers journals, ledgers, accruals, reconciliations, close tasks, consolidation support and financial reporting.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Configure ledger</li><li>Post transactions</li><li>Reconcile &amp; close</li><li>Report &amp; consolidate</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="operations" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/box-package.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
+<h4>Inventory</h4>
+<p class="purpose-module-description">Controls stock availability, traceability and movement. It covers items, locations, balances, lots, serials, expiry, movements, FEFO, recalls and cycle counts.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Maintain items &amp; locations</li><li>Receive &amp; move</li><li>Plan &amp; count</li><li>Control quality &amp; traceability</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="operations" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/target.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
+<h4>Projects, Resources &amp; Profitability</h4>
+<p class="purpose-module-description">Coordinates delivery, capacity and financial performance. It covers projects, milestones, resources, allocations, cost, revenue, time and profitability.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Plan work</li><li>Allocate capacity</li><li>Capture time &amp; cost</li><li>Forecast margin</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="operations" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/globe.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
+<h4>Travel &amp; Corporate Mobility</h4>
+<p class="purpose-module-description">Connects travel approval, booking context and employee spend. It covers requests, itineraries, advances, cards, expenses, policy and traveller visibility.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Request &amp; approve</li><li>Book &amp; confirm</li><li>Travel &amp; support</li><li>Expense &amp; settle</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="operations" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/people-group.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Planned</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
+<h4>People Operations</h4>
+<p class="purpose-module-description">Coordinates high-volume employee processes with clear ownership. It covers onboarding, changes, access, documents, offboarding and employee service requests.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Onboard</li><li>Maintain changes</li><li>Manage time &amp; requests</li><li>Offboard</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="operations" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/handshake.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
+<h4>Service Management</h4>
+<p class="purpose-module-description">Structures internal and external service delivery. It covers requests, triage, ownership, SLAs, knowledge, escalation and resolution evidence.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Request service</li><li>Triage &amp; assign</li><li>Resolve or escalate</li><li>Learn &amp; improve</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="operations" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/tools-automation.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
+<h4>Enterprise Assets &amp; Maintenance</h4>
+<p class="purpose-module-description">Improves control of physical assets and maintenance work. It covers asset records, inspections, work orders, schedules, parts, downtime and service history.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Register assets</li><li>Plan maintenance</li><li>Execute work orders</li><li>Analyse reliability</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="operations" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/flask.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
+<h4>Quality Management</h4>
+<p class="purpose-module-description">Embeds quality activity into operations. It covers deviations, non-conformances, CAPA, change control, inspections, training links and audit evidence.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Detect issue</li><li>Investigate cause</li><li>Correct &amp; CAPA</li><li>Verify effectiveness</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="operations" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/folder.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Operations</span></div>
+<h4>Documents &amp; Records</h4>
+<p class="purpose-module-description">Creates a controlled source for operational documents and records. It covers classification, versioning, review, approval, retention, access and evidence links.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Author &amp; classify</li><li>Review &amp; publish</li><li>Acknowledge &amp; use</li><li>Retain or dispose</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="governance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/governance-shield.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Governance</span></div>
+<h4>Governance, Risk &amp; Compliance</h4>
+<p class="purpose-module-description">Turns governance into daily execution rather than retrospective reporting. It covers risks, controls, obligations, policies, audits, findings, incidents and CAPA.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Identify risk &amp; obligation</li><li>Define controls &amp; policy</li><li>Test &amp; collect evidence</li><li>Remediate &amp; report</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="governance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/growth-chart.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Planned - August</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Governance</span></div>
+<h4>ESG &amp; Sustainability</h4>
+<p class="purpose-module-description">Coordinates sustainability data, ownership and evidence. It covers metrics, questionnaires, supplier data, actions, disclosures and reporting support.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Define metrics</li><li>Collect evidence</li><li>Track targets</li><li>Review &amp; disclose</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="governance" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/shield-alert.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Governance</span></div>
+<h4>Privacy, Security &amp; Resilience</h4>
+<p class="purpose-module-description">Coordinates privacy, security and continuity obligations. It covers assessments, incidents, assets, controls, recovery plans, testing and evidence.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Map data &amp; processes</li><li>Assess risk &amp; impact</li><li>Control &amp; plan</li><li>Test &amp; recover</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="insights" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/data-analytics.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Insights</span></div>
+<h4>Insights, Reporting &amp; Data Quality</h4>
+<p class="purpose-module-description">Gives leaders a shared view of performance, workload and exposure. It covers dashboards, KPIs, drill-through, data quality, exceptions and governed reporting.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Define metrics</li><li>Aggregate data</li><li>Analyse &amp; drill through</li><li>Schedule &amp; act</li></ol>
+</div>
+</article><article class="purpose-module next-module" data-purpose-module="platform" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/globe.svg"/></div>
+<div class="purpose-module-meta"><span class="availability planned">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Platform services</span></div>
+<h4>External Workspace</h4>
+<p class="purpose-module-description">Extends controlled collaboration to suppliers, customers and partners. It covers submissions, documents, acknowledgements, tasks, status and secure communication.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Invite &amp; verify</li><li>Assign work</li><li>Collaborate securely</li><li>Review &amp; update</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="platform" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/tools-automation.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Platform services</span></div>
+<h4>AI &amp; Automation</h4>
+<p class="purpose-module-description">Automates routine work within defined rules and decision rights. It covers document understanding, agents, workflow actions, validation, enrichment, monitoring and usage control.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Read context</li><li>Extract or suggest</li><li>Confirm &amp; execute</li><li>Audit every run</li></ol>
+</div>
+</article><article class="purpose-module core-module" data-purpose-module="platform" hidden="">
+<div class="purpose-module-top">
+<div class="purpose-module-icon"><img alt="" src="assets/icons/database-gear.svg"/></div>
+<div class="purpose-module-meta"><span class="availability available">Available now</span></div>
+</div><div aria-label="Business area" class="purpose-module-tags"><span class="purpose-module-tag">Platform services</span></div>
+<h4>Administration &amp; Platform Operations</h4>
+<p class="purpose-module-description">Provides governed configuration and operational control of the platform. It covers identity, permissions, workflows, fields, layouts, integrations, databases, monitoring and audit.</p>
+<div class="purpose-process-card">
+<div class="purpose-process-title"><img alt="" src="assets/selyvo-topic-mark.png"/><div><small>Process</small><strong>Typical operating flow</strong></div></div>
+<ol><li>Configure structure</li><li>Govern access &amp; process</li><li>Connect data &amp; AI</li><li>Monitor &amp; migrate</li></ol>
+</div>
+</article></div>
+</div>
+</div>
+</div></div>
+</section>
+<section class="section section-alt executive-section" id="executive-value">
+<div class="container">
+<div class="section-heading center"><p class="eyebrow"><i></i> Executive relevance</p><h2>A shared operating platform for COO, CFO and CIO priorities.</h2><p>Each leader sees a different business outcome, while teams work from the same governed processes, data and evidence.</p></div>
 <div class="buyers-grid">
-<article class="buyer-card"><span class="label">FOR COO</span><h3>Run with less friction.</h3><p>Coordinate work across departments and sites without losing pace or accountability.</p><ul><li>Faster operational throughput</li><li>Shared ownership and visibility</li><li>Repeatable execution at scale</li></ul></article>
-<article class="buyer-card"><span class="label">FOR CFO</span><h3>Move control earlier.</h3><p>See commitments, spend, contract obligations, stock exposure and policy adherence before problems harden.</p><ul><li>Better control of business exposure</li><li>Decision traceability</li><li>Evidence built into the process</li></ul></article>
-<article class="buyer-card"><span class="label">FOR CIO</span><h3>Simplify the stack.</h3><p>Replace fragmented workflow tools with one configurable platform around ERP, CRM and document systems.</p><ul><li>Modular deployment path</li><li>Integration-friendly architecture</li><li>Governed change without rebuilding</li></ul></article>
+<article class="buyer-card"><span class="label">FOR COO</span><h3>Run with less friction.</h3><p>Coordinate work across functions and sites without losing pace, ownership or service quality.</p><ul><li>Faster operational throughput</li><li>Visible workload and bottlenecks</li><li>Repeatable execution at scale</li></ul><a class="text-link" href="operational-scale.html">Explore COO use cases <span>→</span></a></article>
+<article class="buyer-card"><span class="label">FOR CFO</span><h3>Move control earlier.</h3><p>See commitments, cash, exceptions and policy adherence before problems become financial outcomes.</p><ul><li>Earlier spend and cash visibility</li><li>Decision traceability</li><li>Evidence built into execution</li></ul><a class="text-link" href="finance-administration.html">Explore CFO use cases <span>→</span></a></article>
+<article class="buyer-card"><span class="label">FOR CIO</span><h3>Modernise without disruption.</h3><p>Create one governed work layer around ERP, CRM, S2P, content and legacy systems.</p><ul><li>Modular deployment path</li><li>Integration-friendly architecture</li><li>Gradual replacement where valuable</li></ul><a class="text-link" href="operating-layer.html">Explore CIO use cases <span>→</span></a></article>
+</div>
+<div class="industry-paths"><strong>Common environments</strong><span>Multi-entity groups</span><span>Healthcare &amp; life sciences</span><span>Professional services</span><span>Manufacturing &amp; distribution</span></div>
+</div>
+</section>
+<section class="section section-dark architecture-section" id="integrations">
+<div class="container">
+<div class="section-heading"><p class="eyebrow"><i></i> Integrations, security and controlled AI</p><h2>Architectural confidence for enterprise deployment.</h2><p>SELYVO coordinates work around your systems of record while keeping identity, access, data exchange, AI actions and evidence governed.</p></div>
+<div class="architecture-grid">
+<article><img alt="" src="assets/icons/link.svg"/><h3>Integration without another silo</h3><p>Connect master data, transactions, documents and status through APIs, files or controlled integration services.</p><div class="architecture-tags"><span>ERP</span><span>CRM</span><span>S2P</span><span>Identity</span><span>Content</span><span>E-sign</span></div></article>
+<article><img alt="" src="assets/icons/shield-check.svg"/><h3>Security and governance by design</h3><p>Apply role, organisation, record and process permissions with full action history and controlled administration.</p><div class="architecture-tags"><span>RBAC</span><span>Entity scope</span><span>Audit trail</span><span>Segregation</span><span>Retention</span><span>Monitoring</span></div></article>
+<article><img alt="" src="assets/icons/tools-automation.svg"/><h3>Controlled AI inside the workflow</h3><p>Use document understanding, agents and anomaly detection only within approved data, rules and human decision rights.</p><div class="architecture-tags"><span>Document AI</span><span>Agents</span><span>Validation</span><span>Enrichment</span><span>Exceptions</span><span>Usage control</span></div></article>
 </div>
 </div>
 </section>
-<section class="section section-dark" id="integrations">
-<div class="container">
-<div class="section-heading">
-<p class="eyebrow"><i></i> Integrations &amp; AI</p>
-<h2>Powerful on its own. Stronger when connected.</h2>
-<p>SELYVO sits at the center of daily operation and orchestrates work around your systems of record, external services and AI-enabled actions.</p>
-</div>
-<div class="integration-shell">
-<article class="integration-card">
-<h3>Integrate with the tools already in place</h3>
-<p>Connect master data, transactions, documents, suppliers, customers, workflows and notifications without creating another silo.</p>
-<div class="logo-cloud">
-<span>ERP</span><span>CRM</span><span>E-Sign</span><span>Payments</span>
-<span>Identity</span><span>Content</span><span>Search</span><span>BI</span>
-</div>
-</article>
-<article class="integration-card">
-<h3>Use controlled AI wherever work can be automated safely</h3>
-<p>Use AI to capture and structure data, understand documents, enrich records, identify anomalies and progress routine workflow steps—always within defined rules, decision rights, validations and a complete audit trail.</p>
-<div class="ai-list">
-<span>Contract AI</span><span>Invoice AI</span>
-<span>Research Agents</span><span>Risk Checks</span>
-<span>Data Enrichment</span><span>Workflow Actions</span>
-</div>
-</article>
-</div>
+<section class="section evidence-section" id="evidence">
+<div class="container evidence-layout">
+<div class="evidence-use-case"><p class="eyebrow"><i></i> Evidence before scale</p><h2>Prove the outcome in one operational use case.</h2><p>A focused pilot establishes the baseline, configures the governed process and measures the result before wider deployment.</p><div class="evidence-flow"><span>Baseline current work</span><b>→</b><span>Deploy one workflow</span><b>→</b><span>Measure verified change</span></div><a class="button button-outline" href="operating-layer.html">View the 5-minute Platform Overview</a></div>
+<div class="evidence-measures"><h3>Typical pilot measures</h3><div><strong>Cycle time</strong><span>How quickly standard and exception cases move.</span></div><div><strong>Manual touches</strong><span>How many times people re-enter, chase or reconcile information.</span></div><div><strong>Exception rate</strong><span>How often transactions require correction or escalation.</span></div><div><strong>Data completeness</strong><span>How reliably the required information and evidence are captured.</span></div><small>Results depend on the selected process, starting baseline, integration scope and adoption. Demonstration figures shown on this website are illustrative.</small></div>
 </div>
 </section>
 <section class="section" id="contact">
 <div class="container contact-shell">
-<div class="contact-copy">
-<p class="eyebrow"><i></i> See the SELYVO software</p>
-<h2>Book a product demo around your business priority.</h2>
-<p>See how the SELYVO platform works, which workspaces and capabilities fit your requirements and how the software can be deployed across your teams, entities and existing systems.</p>
-<div class="contact-points">
-<span>See a live product walkthrough using a business process relevant to your company.</span>
-<span>Review where controlled AI can remove manual entry, automate routine steps and direct users to exceptions.</span>
-<span>Discuss deployment scope, commercial model and the path from one workflow to enterprise-wide adoption.</span>
-</div>
-</div>
+<div class="contact-copy"><p class="eyebrow"><i></i> See SELYVO in your process</p><h2>Book a product demo around your business priority.</h2><p>See the relevant workflow, understand the deployment options and define the evidence required to prove value.</p><div class="contact-points"><span>Use a process relevant to your company.</span><span>Identify where controlled automation removes manual work.</span><span>Review modules, integrations, security and commercial scope.</span></div><div class="low-commitment"><strong>Prefer to explore first?</strong><a href="operating-layer.html">Open the short platform overview →</a></div></div>
 <form accept-charset="UTF-8" action="/thank-you.html" class="contact-form" data-netlify="true" method="POST" name="selyvo-platform-review" netlify-honeypot="bot-field"><input name="form-name" type="hidden" value="selyvo-platform-review"/><p aria-hidden="true" hidden=""><label>Do not fill in this field: <input autocomplete="off" name="bot-field" tabindex="-1"/></label></p><input name="submission-source" type="hidden" value="SELYVO website contact form"/>
-
 <div class="field-row">
 <label>First name<input autocomplete="given-name" name="first-name" required=""/></label>
 <label>Last name<input autocomplete="family-name" name="last-name" required=""/></label>
@@ -1490,23 +1336,24 @@
 </div>
 </section>
 </main>
+
 <footer class="site-footer">
 <div class="container footer-grid">
 <div class="footer-brand">
 <img alt="SELYVO" src="assets/selyvo-white.png"/>
-<p>SELYVO is modular enterprise operations software for running, controlling and improving daily business processes in one connected system.</p>
+<p>SELYVO is modular enterprise operations software and a harmonised work layer for running, controlling and improving daily business processes.</p>
 </div>
 <div class="footer-links">
 <div>
 <strong>PLATFORM</strong>
-<a href="#platform">Architecture</a>
-<a href="#daily-ops">Daily operations</a>
+<a href="#integrations">Architecture</a>
+<a href="#operating-model">Operating model</a>
 <a href="#integrations">Integrations &amp; AI</a>
 </div>
 <div>
 <strong>MODULES</strong>
 <a href="#modules">All capabilities</a>
-<a href="#modules">Commercial</a>
+<a href="#use-cases">Priority use cases</a>
 <a href="#modules">Finance &amp; Operations</a>
 <a href="#modules">Governance &amp; Insights</a>
 </div>
@@ -1547,14 +1394,14 @@
       });
 
       const purposeLabels = {
-        all: ['All SELYVO capabilities', '25 workspaces'],
-        work: ['Home & My Work', '2 workspaces'],
-        commercial: ['Commercial', '2 workspaces'],
-        finance: ['Finance', '6 workspaces'],
-        operations: ['Operations', '8 workspaces'],
-        governance: ['Governance', '3 workspaces'],
-        insights: ['Insights', '1 workspace'],
-        platform: ['Platform services', '3 workspaces']
+        all: ['All SELYVO capabilities', '25 capabilities'],
+        work: ['Personal work', '2 capabilities'],
+        commercial: ['Commercial', '2 capabilities'],
+        finance: ['Finance', '6 capabilities'],
+        operations: ['Operations', '8 capabilities'],
+        governance: ['Governance', '3 capabilities'],
+        insights: ['Insights', '1 capability'],
+        platform: ['Platform services', '3 capabilities']
       };
       const purposeTitle = document.querySelector('[data-purpose-title]');
       const purposeCount = document.querySelector('[data-purpose-count]');
@@ -1575,7 +1422,7 @@
           });
           const label = purposeLabels[purpose] || [button.querySelector('strong')?.textContent || 'Selected workspaces', `${visible} modules`];
           if (purposeTitle) purposeTitle.textContent = label[0];
-          if (purposeCount) purposeCount.textContent = `${visible} ${visible === 1 ? 'workspace' : 'workspaces'}`;
+          if (purposeCount) purposeCount.textContent = `${visible} ${visible === 1 ? 'capability' : 'capabilities'}`;
         });
       });
 
