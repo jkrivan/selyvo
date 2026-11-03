@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "Novità",
+      "videoGuide": "Guida video",
+      "watchIt": "Guarda il video",
+      "product": "Prodotto",
+      "getInvited": "Ricevi l’invito",
+      "illustrative": "Le aziende e le cifre di esempio in questa pagina hanno scopo puramente illustrativo.",
+      "tour": {
+        "title": "SELYVO Market in cinque minuti",
+        "text": "Ogni area di SELYVO Market, mostrata sulle sue schermate: vendite e acquisti, ordini, fatture controllate da SELYVO, spese, progetti, MailChat, magazzino e sistemi collegati."
+      },
+      "connect": {
+        "eyebrow": "Sistemi collegati",
+        "title": "Funziona con i sistemi che già usi",
+        "text": "Collega il tuo software contabile o il tuo ERP e scegli cosa scambia, con quale frequenza e in quali dei suoi campi. I tuoi clienti e fornitori collegano i loro allo stesso modo, e ogni scambio resta registrato.",
+        "points": [
+          "Profili, richieste, ordini, pagamenti e giacenze, sempre allineati",
+          "Qualsiasi altro sistema tramite l’API delle giacenze del Market, con una chiave dedicata",
+          "Le fatture emesse dalla contabilità di un fornitore arrivano all’indirizzo invoice@market.selyvo.com, dove vengono lette e controllate",
+          "Ogni fattura inviata via e-mail ha in allegato il PDF e il file ISDOC, per la contabilità del cliente"
+        ],
+        "yours": "Il tuo software contabile o ERP",
+        "market": "SELYVO Market",
+        "partners": "I sistemi dei tuoi clienti e fornitori",
+        "carries": "Profili · richieste · ordini · pagamenti · giacenze",
+        "api": "Qualsiasi altro sistema, tramite l’API delle giacenze del Market",
+        "invoices": "Fatture in PDF e ISDOC, controllate all’arrivo",
+        "log": "Ogni scambio registrato"
+      },
+      "check": {
+        "eyebrow": "Controllata da SELYVO",
+        "title": "Ogni fattura che ricevi viene prima controllata",
+        "text": "Che arrivi via e-mail, come file, tramite MailChat o da un fornitore su SELYVO, una fattura viene controllata prima che qualcuno la veda. Se non supera il controllo, può essere restituita automaticamente al fornitore, con ciò che va corretto.",
+        "steps": [
+          [
+            "Ricevuta",
+            "All’indirizzo invoice@market.selyvo.com, da un file, tramite MailChat o su SELYVO."
+          ],
+          [
+            "Controllata",
+            "Tutti gli elementi richiesti dalla legge, i tuoi dati come su SELYVO, ogni riga confrontata con il suo ordine e niente più di quanto hai ricevuto."
+          ],
+          [
+            "Restituita automaticamente",
+            "Se lo desideri: il fornitore viene avvisato subito, nella sua lingua, con ciò che va corretto."
+          ],
+          [
+            "Sostituita",
+            "La fattura corretta prende il posto di quella restituita, che non viene pagata nemmeno in parte."
+          ]
+        ],
+        "card": {
+          "title": "Controllo SELYVO",
+          "ok1": "Tutti gli elementi obbligatori della fattura",
+          "ok2": "Intestata a te, come su SELYVO",
+          "bad": "Consegna da 80,00 € non prevista dall’ordine",
+          "returned": "Restituita automaticamente al fornitore, con ciò che va corretto"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "Marketplace B2B solo su invito",
+        "title1": "Vendi di più. Compra meglio.",
+        "title2": "Incassa prima.",
+        "lede": "Su SELYVO Market le aziende verificate fanno affari dalla prima richiesta alla fattura pagata: in un unico posto, e ognuno nella propria lingua.",
+        "cta": "Ricevi l’invito",
+        "cta2": "Guarda la panoramica",
+        "ticks": [
+          "Trovata nel suo registro delle imprese",
+          "Verificata sulle liste delle sanzioni",
+          "Valutata prima del suo primo affare"
+        ],
+        "shotAlt": "Gli acquisti su SELYVO Market: i risparmi, il saldo aperto, ciò che è stato ricevuto e fatturato e le attività di acquisto da svolgere",
+        "offer": {
+          "title": "Offerta accettata",
+          "note": "4,8% in meno dopo la negoziazione"
+        },
+        "paid": {
+          "status": "Pagata",
+          "country": "Danimarca"
+        },
+        "facts": [
+          [
+            "3 controlli",
+            "prima che un’azienda possa operare: il suo registro, le liste delle sanzioni e le domande di SELYVO"
+          ],
+          [
+            "1 catena",
+            "dalla richiesta al pagamento, ogni documento nasce dal precedente"
+          ],
+          [
+            "7 lingue",
+            "nell’app, ognuno nella propria; questo sito e le sue guide in 15"
+          ],
+          [
+            "2 modi di pagare",
+            "con carta all’ordine, o su fattura dopo la consegna, come decide ciascun fornitore"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "Un’unica piattaforma",
+          "title": "L’intero affare, per entrambe le parti, in un unico posto",
+          "lede": "Vendite, acquisti, ordini, fatture e pagamenti: ognuno nasce dal precedente. I tuoi clienti e i tuoi fornitori vedono gli stessi dati che vedi tu.",
+          "items": [
+            [
+              "Vendi di più",
+              "Fatti trovare dagli acquirenti verificati delle tue categorie. Rispondi alle loro richieste, invia offerte mirate e segui ogni trattativa dal primo contatto alla firma.",
+              "Vendere su SELYVO"
+            ],
+            [
+              "Compra meglio",
+              "Confronta riga per riga le offerte di fornitori che sai essere reali: i tuoi, quelli nuovi su SELYVO o quelli che l’IA trova per te.",
+              "Acquistare su SELYVO"
+            ],
+            [
+              "Incassa prima",
+              "Fattura dall’ordine con l’IVA per paese. Il tuo cliente paga con carta, oppure salda la fattura sul tuo conto Revolut Business.",
+              "Fatture e pagamenti"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Vendite",
+            "title": "Ogni trattativa, dal primo contatto alla firma",
+            "text": "La tua pipeline per fase, le tue trattative in un elenco e, accanto, quella selezionata con il suo passo successivo. Una trattativa avanza da sola man mano che arrivano richieste, offerte e ordini.",
+            "points": [
+              "Nuovi contatti dai tuoi clienti, da nuove aziende o da potenziali acquirenti trovati dall’IA",
+              "Offerte mirate ai clienti che scegli",
+              "Inserzioni promosse nel feed degli acquirenti"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Acquisti",
+            "title": "Confronta le offerte riga per riga, poi ordina la migliore",
+            "text": "Pubblica una richiesta con i suoi lotti e le sue righe, invita i fornitori che scegli e vedi tutte le offerte affiancate. Quella che accetti diventa l’ordine d’acquisto.",
+            "points": [
+              "Una richiesta che l’IA ricava dal tuo capitolato",
+              "La valutazione di ogni fornitore accanto alla sua offerta",
+              "Un negoziatore IA che ti chiede conferma prima di ogni accordo"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Fatture e pagamenti",
+            "title": "Fattura dall’ordine. Incassa puntualmente.",
+            "text": "Le fatture nascono dai rispettivi ordini, con l’IVA per paese e le diciture richieste in ogni caso. Le fatture che ricevi vengono lette dall’IA, controllate da SELYVO rispetto al loro ordine e poi pagate.",
+            "points": [
+              "Pagamenti con carta tramite Stripe",
+              "Incassi accreditati sul tuo conto Revolut Business",
+              "Una fattura che non supera il controllo può tornare da sola al fornitore",
+              "Ciò che paghi e ciò che incassi, fianco a fianco"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Fiducia",
+          "title": "Qui ogni azienda esiste davvero",
+          "lede": "Prima che un’azienda operi su SELYVO, viene trovata nel suo registro, verificata e qualificata. Poi sono i suoi clienti a parlare per lei."
+        },
+        "ai": {
+          "button": "Cerca con l’IA — circa 0,60 EUR",
+          "caption": "Prima che l’IA cerchi fornitori, il pulsante indica quanto costerà.",
+          "found": "8 fornitori trovati",
+          "foundText": "Ognuno con la sua valutazione, le sue categorie e le aree in cui consegna."
+        },
+        "invite": {
+          "title": "In SELYVO si entra su invito",
+          "text": "Ogni azienda su SELYVO è conosciuta da almeno un’altra. Chiedi a un cliente o a un fornitore che è già membro di invitarti. Non conosci ancora nessuno su SELYVO? Scrivici.",
+          "cta": "Come ricevere l’invito",
+          "mockWho": "ti invita su SELYVO Market",
+          "mockText": "Vorremmo acquistare da te su SELYVO. Diventa nostro fornitore: lì ti arriveranno le nostre richieste.",
+          "mockButton": "Diventa suo fornitore",
+          "mockValid": "Valido una sola volta, per 14 giorni, solo per l’indirizzo e-mail a cui è stato inviato."
+        },
+        "faqAccounting": [
+          "Funziona con la nostra contabilità?",
+          "Sì. Collega il tuo software contabile o il tuo ERP nella sezione Sistemi collegati e scegli cosa scambia. Le fatture create nella tua contabilità si possono inviare tramite SELYVO caricandone il file, e ogni fattura inviata via e-mail ha in allegato il PDF e il file ISDOC."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "Cosa succede a una fattura che non corrisponde al suo ordine?",
+          "Ti aspetta, insieme a quanto rilevato dal controllo. Se lo desideri, viene restituita automaticamente al fornitore con ciò che va corretto, e la fattura corretta ne prende il posto."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Progetti",
+          "title": "Un progetto, con il suo budget",
+          "text": "Un progetto raccoglie le richieste, gli ordini, le fatture, i fogli ore e le spese che lo riguardano. Il suo budget si calcola da solo sulla base di questi documenti: impegnato, consuntivo e fatturato, con una stima al completamento.",
+          "points": [
+            "Milestone accettate dal cliente e poi fatturate",
+            "Il team: i tuoi collaboratori e quelli dei tuoi fornitori",
+            "Anche il cliente può seguire il progetto"
+          ],
+          "tiles": [
+            "Budget",
+            "Consuntivo",
+            "Fatturato"
+          ],
+          "milestones": [
+            [
+              "1 · Portale configurato",
+              "Accettata"
+            ],
+            [
+              "2 · Fornitori migrati",
+              "In corso"
+            ],
+            [
+              "3 · Collaudo utente",
+              "Pianificata"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "common": {
+    "b": {
+      "simple": "Einfach",
+      "compliant": "Rechtssicher",
+      "performing": "Leistungsstark",
+      "gtk": "Gut zu wissen",
+      "watchPart": "Diesen Teil des Rundgangs ansehen",
+      "fromStart": "Von Anfang an ansehen",
+      "chaptersLabel": "Kapitel",
+      "tourNote": "Das Video ist auf Englisch.",
+      "next": "Nächster Schritt",
+      "chapters": [
+        "Einstieg",
+        "Öffentliche Startseite und Beitritt",
+        "Startseite, Feeds und Shop",
+        "Verkauf und Kunden",
+        "Einkauf und Lieferanten",
+        "Bestellungen",
+        "Rechnungen, SELYVO-Prüfung und Zahlungen",
+        "Auslagen",
+        "Projekte",
+        "MailChat, Shop-Angebote und Bestand",
+        "Verbundene Systeme",
+        "Gut zu wissen"
+      ],
+      "navTour": "5-Minuten-Rundgang",
+      "screensNote": "Die gezeigten Bildschirme sind auf Englisch. Die App selbst ist in sieben Sprachen verfügbar."
+    }
+  },
+  "pages": {
+    "index": {
+      "b": {
+        "pill": "Der B2B-Marktplatz nur auf Einladung",
+        "title": [
+          "Einfach.",
+          "Rechtssicher.",
+          "Leistungsstark."
+        ],
+        "lede": "SELYVO Market ist die beste Adresse für Geschäfte zwischen verifizierten Unternehmen. Einkaufen, verkaufen, abrechnen und bezahlt werden – alles an einem Ort, von der ersten Anfrage bis zur bezahlten Rechnung.",
+        "cta2": "5-Minuten-Rundgang ansehen",
+        "factLang": [
+          "7 Sprachen",
+          "in der App, für jede Person ihre eigene; diese Website in 15"
+        ],
+        "pillars": {
+          "eyebrow": "Warum SELYVO Market",
+          "title": "Drei Versprechen, auf jedem Bildschirm eingelöst",
+          "lede": "Alles, was ein Unternehmen mit seinen Kunden und Lieferanten abwickelt – einfach gemacht, rechtssicher geregelt, auf Leistung ausgelegt.",
+          "simple": {
+            "lead": "Ein Ort für das ganze Geschäft",
+            "text": "Jedes Dokument entsteht aus dem vorherigen: Aus einer Anfrage werden Angebot, Bestellung, Lieferung und Rechnung. Nichts wird doppelt erfasst, und beide Seiten sehen denselben Stand.",
+            "points": [
+              "Auf Ihrer Startseite: was auf Sie wartet, mit dem nächsten Schritt",
+              "Ein Bestellvorgang für alles in Ihrem Warenkorb",
+              "Im Browser auf Computer, Tablet oder Smartphone"
+            ],
+            "gtk": "Die Schaltfläche rechts in jedem Bereich zeigt, was sie erstellt – über ihren Pfeil erreichen Sie alles Weitere."
+          },
+          "compliant": {
+            "lead": "Jedes Unternehmen echt, jede Rechnung korrekt",
+            "text": "Mitglieder treten auf Einladung bei und werden im Handelsregister gefunden, mit Sanktionslisten abgeglichen und qualifiziert, bevor sie mit dem Handel beginnen. Rechnungen entsprechen dem Recht des jeweiligen Landes.",
+            "points": [
+              "Handelsregister, USt-IdNr. und Sanktionslisten geprüft",
+              "MwSt., Reverse-Charge-Verfahren und Pflichtangaben je Land",
+              "Jede Eingangsrechnung gegen gesetzliche Vorgaben und ihre Bestellung geprüft"
+            ],
+            "gtk": "Eine Einladung ist einmal gültig, 14 Tage lang und nur für die E-Mail-Adresse, an die sie gesendet wurde."
+          },
+          "performing": {
+            "lead": "Bessere Preise, schnellere Zahlungen, weniger Arbeit",
+            "text": "Angebote Position für Position verglichen, eine KI, die das Lesen übernimmt, und Zahlungen direkt auf Ihre eigenen Konten – so kaufen Sie klüger ein, verkaufen mehr und werden schneller bezahlt.",
+            "points": [
+              "Angebote nebeneinander, je Los und Position",
+              "Die KI findet Lieferanten und potenzielle Kunden, liest Dateien, Rechnungen und E-Mails",
+              "Kartenzahlungen über Stripe; Überweisungen, abgeglichen in Ihrem eigenen Konto bei Revolut Business"
+            ],
+            "gtk": "Die KI zeigt, was sie kostet, bevor sie startet – und nichts wird gesendet oder vereinbart, bevor ein Mensch es bestätigt."
+          }
+        },
+        "process": {
+          "eyebrow": "So funktioniert es",
+          "title": "Von der Idee zur bezahlten Rechnung",
+          "lede": "Sieben Schritte, eine Belegkette. So läuft ein Einkauf auf SELYVO Market ab – direkt im Produkt gezeigt.",
+          "steps": [
+            {
+              "title": "Die Idee wird zur Anfrage",
+              "text": "Beschreiben Sie, was Sie brauchen, oder ziehen Sie eine Spezifikation, eine Ausschreibung oder ein Leistungsverzeichnis hinein: Die KI füllt Titel, Kategorie, Positionen, Lieferung und Budget aus – Sie wählen, was Sie übernehmen.",
+              "gtk": "Eine Anfrage kann Lieferanten bitten, zuerst einen Fragebogen zu beantworten.",
+              "alt": "Eine neue Anfrage auf SELYVO Market: Was braucht Ihr Unternehmen?"
+            },
+            {
+              "title": "Die richtigen Lieferanten, verifiziert",
+              "text": "Laden Sie Ihre eigenen Lieferanten oder bereits auf SELYVO vertretene Unternehmen ein oder lassen Sie die KI weitere finden – jeweils mit Bewertung, Kategorien und Liefergebiet.",
+              "gtk": "Bevor die KI sucht, zeigt die Schaltfläche, was die Suche kostet: etwa 0,60 EUR.",
+              "alt": "Von der KI für eine Anfrage gefundene Lieferanten, jeder zum Prüfen und Einladen"
+            },
+            {
+              "title": "Angebote nebeneinander",
+              "text": "Jeder Lieferant antwortet auf SELYVO. Sie sehen, wer ein Angebot senden wird, vergleichen die Angebote Position für Position und wählen das beste.",
+              "gtk": "Von der KI gefundene Lieferanten werden per E-Mail eingeladen und können SELYVO beitreten, um ihr Angebot zu senden.",
+              "alt": "Eine Anfrage in der Angebotsphase: wer ein Angebot senden wird, und zwei Angebote zum Vergleichen"
+            },
+            {
+              "title": "Die Bestellung",
+              "text": "Das Angebot, das Sie annehmen, wird zur Bestellung. Der Lieferant nimmt sie an, und beide Seiten verfolgen denselben Status: offen, Eingang ausstehend, empfangen, berechnet, bezahlt.",
+              "gtk": "Jeder Lieferant legt fest, wie er bezahlt wird: vorab per Karte oder per Rechnung nach Lieferung.",
+              "alt": "Bestellungen: jede Einkaufsbestellung mit Status, Wareneingang und Rechnung"
+            },
+            {
+              "title": "Geliefert und empfangen",
+              "text": "Mit der Ware kommt ein Lieferschein. Sie bestätigen, was angekommen ist – ganz oder teilweise –, und die Bestellung rückt von selbst weiter; Artikel, die Sie auf Lager führen, werden automatisch eingebucht.",
+              "gtk": "Etwas stimmt nicht? Melden Sie es auf dem Lieferschein, und der Lieferant wird sofort informiert.",
+              "alt": "Den Eingang auf einem Lieferschein bestätigen"
+            },
+            {
+              "title": "Die Rechnung, von SELYVO geprüft",
+              "text": "Der Lieferant erstellt die Rechnung aus der Bestellung. Bevor jemand sie ansieht, prüft SELYVO alle gesetzlichen Pflichtangaben, Ihre Daten und jede Position gegen die Bestellung und den Wareneingang.",
+              "gtk": "Wenn Sie es wünschen, geht eine Rechnung, die die Prüfung nicht besteht, automatisch an ihren Lieferanten zurück – samt Hinweis, was zu korrigieren ist.",
+              "alt": "Eine von SELYVO geprüfte Rechnung mit einer Position, die nicht in der Bestellung steht – zurück an den Lieferanten"
+            },
+            {
+              "title": "Bezahlt – und abgehakt",
+              "text": "Bezahlen Sie freigegebene Rechnungen direkt von Ihrem eigenen Konto bei Revolut Business – zum jeweiligen Fälligkeitstermin oder sofort. Sobald das Geld eingeht, sehen beide Seiten die Rechnung als bezahlt.",
+              "gtk": "Innerhalb des Limits, das Sie festlegen, werden Zahlungen sofort ausgeführt; darüber warten sie in Revolut auf Ihre Freigabeberechtigten.",
+              "alt": "Freigegebene Rechnungen, bezahlt über Revolut Business"
+            }
+          ]
+        },
+        "compare": {
+          "eyebrow": "Die beste Adresse für Geschäfte",
+          "title": "Weniger Nachfassen. Mehr Geschäft.",
+          "lede": "Was sich ändert, wenn Ihre Kunden und Lieferanten auf SELYVO Market sind.",
+          "without": "Ohne SELYVO",
+          "with": "Mit SELYVO Market",
+          "rows": [
+            [
+              "Lieferanten finden",
+              "Suchen, sich umhören, auf Antworten warten",
+              "Verifizierte Lieferanten nach Kategorie – oder von der KI gefunden, jeweils mit Bewertung"
+            ],
+            [
+              "Angebote",
+              "Anhänge in jedem Format, von Hand verglichen",
+              "Angebote nebeneinander, je Los und Position"
+            ],
+            [
+              "Bestellungen",
+              "Abgetippt, dann per E-Mail nachverfolgt",
+              "Das angenommene Angebot wird zur Bestellung – ein Status für beide Seiten"
+            ],
+            [
+              "Rechnungen",
+              "Von Hand gegen die Bestellung geprüft",
+              "Von SELYVO gegen gesetzliche Vorgaben und Bestellung geprüft – bei Fehlern auf Wunsch automatisch zurückgesendet"
+            ],
+            [
+              "Bezahlt werden",
+              "Mahnen und Überweisungen von Hand abgleichen",
+              "Kartenzahlungen und Überweisungen, abgeglichen in Ihrem eigenen Konto bei Revolut Business"
+            ]
+          ]
+        },
+        "gtk": {
+          "title": "Die Details, die jeden Tag Zeit sparen",
+          "lede": "Kleinigkeiten, die Mitgliedern am ersten Tag auffallen – und über die sie sich danach jeden Tag freuen.",
+          "items": [
+            "Die Bereiche richten sich nach Ihrer Arbeit – Einkauf, Verkauf, Buchhaltung, Projekte –, ganz wie Sie es in Ihren Einstellungen wählen.",
+            "Die Schaltfläche rechts zeigt immer, was sie erstellt – über ihren Pfeil erreichen Sie alles Weitere.",
+            "Ihre Startseite gehört Ihnen: passend zu Ihrer Rolle und in Ihrem Stil – Tagesgeschäft, Leistung oder Planung.",
+            "Die KI zeigt ihre Kosten, bevor sie startet, und nichts wird gesendet, vereinbart oder gebucht, bevor ein Mensch es bestätigt.",
+            "Jeder Lieferant legt fest, wie er bezahlt wird: vorab per Karte oder per Rechnung nach Lieferung.",
+            "Jede Rechnung enthält die MwSt. je Land, die gesetzlichen Pflichtangaben, ihr PDF und ihre ISDOC-Datei.",
+            "Ihr Unternehmen erhält eine eigene SELYVO-E-Mail-Adresse: Steckt eine Bestellung oder Rechnung in einer E-Mail, liest die KI sie und bereitet sie für Sie vor.",
+            "Demnächst: der KI-Verhandler, Transport und Lagerhaltung, Analysen, Dokumente und Signatur."
+          ]
+        },
+        "video": {
+          "eyebrow": "Video",
+          "title": "Erleben Sie SELYVO Market in fünf Minuten",
+          "lede": "Jeder Bereich des Marktplatzes, direkt im Produkt gezeigt. Sehen Sie das Video von Anfang bis Ende oder springen Sie zum gewünschten Teil."
+        }
+      }
+    },
+    "spend-control": {
+      "b": {
+        "pillars": [
+          "Eine Anfrage in fünf Schritten – getippt oder von der KI aus Ihrer Spezifikation gelesen.",
+          "Nur verifizierte Lieferanten, jeder mit seiner Bewertung; wer ein Angebot abgegeben hat, wird über jede Änderung informiert.",
+          "Angebote Position für Position und je Los verglichen; das beste wird mit einem Klick zur Bestellung."
+        ],
+        "gtk": [
+          "Bevor die KI nach Lieferanten sucht, zeigt die Schaltfläche, was die Suche kostet.",
+          "Von der KI gefundene Lieferanten werden per E-Mail eingeladen und können SELYVO beitreten, um ihr Angebot zu senden.",
+          "Sie bestimmen die Angebotsfrist – verschieben Sie sie oder beenden Sie die Angebotsphase jederzeit."
+        ]
+      }
+    },
+    "revenue-acceleration": {
+      "b": {
+        "pillars": [
+          "Ihre Pipeline nach Phasen und Ihre Fälle in einer Liste, jeder mit seinem nächsten Schritt.",
+          "Sie verkaufen nur an verifizierte Unternehmen – im Handelsregister gefunden und geprüft, bevor sie handeln können.",
+          "Neue Interessenten aus Ihrem Kundenstamm, neue Unternehmen oder Kontakte, die die KI findet; gezielte Angebote; Shop-Angebote, beworben in den Feeds der Einkäufer."
+        ],
+        "gtk": [
+          "Ein Fall rückt von selbst weiter, sobald Anfragen, Angebote und Bestellungen eingehen.",
+          "Neue Interessenten kommen durch drei Türen: Ihre Kunden, neue Kunden oder Kontakte, die die KI findet.",
+          "Jedes Shop-Angebot zeigt seinen Umsatz und seine Marge."
+        ]
+      }
+    },
+    "inventory-control": {
+      "b": {
+        "pillars": [
+          "Einkaufsbestellungen und Verkaufsaufträge in einer Liste: offen, Eingang ausstehend, empfangen, zu berechnen.",
+          "Der Lieferschein, den Sie bestätigen, ist Ihr Wareneingang – direkt bei der Bestellung abgelegt.",
+          "Teillieferungen, bei denen jeder Lieferschein nur anbietet, was noch offen ist; die Rechnung folgt dem Wareneingang."
+        ],
+        "gtk": [
+          "Stimmt etwas mit einer Lieferung nicht? Melden Sie es auf dem Lieferschein – der Lieferant wird sofort informiert.",
+          "Artikel, die Sie auf Lager führen, werden automatisch eingebucht, sobald Sie den Eingang bestätigen.",
+          "Was knapp wird, landet mit einem Klick wieder im Warenkorb."
+        ]
+      }
+    },
+    "finance-administration": {
+      "b": {
+        "pillars": [
+          "Rechnungen im Handumdrehen aus ihren Bestellungen erstellt; Eingangsrechnungen von der KI aus einer Datei oder Ihrem Postfach gelesen.",
+          "MwSt., Reverse-Charge-Verfahren und Pflichtangaben je Land; jede Eingangsrechnung von SELYVO geprüft.",
+          "Kartenzahlungen über Stripe und Überweisungen, abgeglichen in Ihrem eigenen Konto bei Revolut Business."
+        ],
+        "gtk": [
+          "Eine Rechnung, die die Prüfung nicht besteht, kann automatisch an ihren Lieferanten zurückgehen – samt Hinweis, was zu korrigieren ist.",
+          "Jede Rechnungs-E-Mail enthält das PDF und die ISDOC-Datei.",
+          "Zahlungen innerhalb Ihres Limits werden sofort ausgeführt; darüber warten sie in Revolut auf Ihre Freigabeberechtigten."
+        ]
+      }
+    },
+    "operational-scale": {
+      "b": {
+        "pillars": [
+          "Leistungsnachweise wochenweise, Auslagen aus dem Foto des Belegs und eine Rechnung für beides.",
+          "Die Regeln jedes Kunden: vor der Rechnung freigegeben, ihr beigefügt oder nicht nötig.",
+          "Das Budget eines Projekts schreibt sich selbst fort – beauftragt, angefallen und abgerechnet – samt Prognose zum Projektende."
+        ],
+        "gtk": [
+          "Die Regeln Ihres Landes bestimmen, wie viel Vorsteuer Sie aus einer Auslage abziehen können.",
+          "Eigene Zeit – Pre-Sales, Angebotserstellung, Weiterbildung – wird zu internen Sätzen bewertet und erreicht nie einen Kunden.",
+          "MailChat gibt Ihrem Unternehmen eine eigene SELYVO-E-Mail-Adresse."
+        ]
+      }
+    },
+    "compliance-by-design": {
+      "b": {
+        "pillars": [
+          "Der Beitritt ist in wenigen Schritten erledigt: Die Daten Ihres Unternehmens kommen aus dem Handelsregister.",
+          "Nur auf Einladung; Register, USt-IdNr. und Sanktionslisten geprüft; eine erste Bewertung aus den Fragen von SELYVO.",
+          "Kundenbewertungen folgen jeder abgeschlossenen Bestellung, und die Bewertung jedes Lieferanten steht neben seinem Angebot."
+        ],
+        "gtk": [
+          "Eine Einladung ist einmal gültig, 14 Tage lang und nur für die E-Mail-Adresse, an die sie gesendet wurde.",
+          "Jeder Vorgang behält seine Historie: wer was wann geändert hat.",
+          "Geheime Zugangsdaten bleiben auf dem Server: Von einem API-Schlüssel sehen Sie nur Anfang und Ende."
+        ]
+      }
+    },
+    "operating-layer": {
+      "b": {
+        "pillars": [
+          "Ihr eigener Arbeitsbereich für Lieferanten, Fragebögen, Kataloge und Freigabeprozesse.",
+          "Fragebögen mit Nachweisen, Versionen und Freigaben – jede Antwort bleibt erhalten.",
+          "Mit SELYVO Market verbunden: Profile, Anfragen und Bestellungen in beide Richtungen synchron."
+        ],
+        "gtk": [
+          "SELYVO Core verbinden Sie unter Verbundene Systeme mit SELYVO Market.",
+          "Fragebögen aus SELYVO Core erreichen Ihre Lieferanten auf SELYVO Market.",
+          "Core läuft parallel zu den Systemen, die Sie bereits nutzen."
+        ]
+      }
+    },
+    "thank-you": {
+      "b": {
+        "lede": "Wir antworten per E-Mail. Sehen Sie sich bis dahin den 5-Minuten-Rundgang an oder lesen Sie, wie der Beitritt funktioniert."
+      }
+    }
+  }
+}

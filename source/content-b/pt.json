@@ -1,0 +1,289 @@
+{
+  "common": {
+    "b": {
+      "simple": "Simples",
+      "compliant": "Conforme",
+      "performing": "Eficaz",
+      "gtk": "Bom saber",
+      "watchPart": "Ver esta parte da visita guiada",
+      "fromStart": "Ver desde o início",
+      "chaptersLabel": "Capítulos",
+      "tourNote": "O vídeo está em inglês.",
+      "next": "Passo seguinte",
+      "chapters": [
+        "Introdução",
+        "A página pública e a adesão",
+        "Página inicial, Feeds e a Loja",
+        "Vendas e clientes",
+        "Compras e fornecedores",
+        "Encomendas",
+        "Faturas, verificadas no SELYVO, e pagamentos",
+        "Despesas",
+        "Projetos",
+        "MailChat, anúncios e stock",
+        "Sistemas ligados",
+        "Bom saber"
+      ],
+      "navTour": "Visita de 5 minutos",
+      "screensNote": "Os ecrãs são apresentados em inglês. A própria aplicação funciona em sete idiomas."
+    }
+  },
+  "pages": {
+    "index": {
+      "b": {
+        "pill": "O marketplace B2B só por convite",
+        "title": [
+          "Simples.",
+          "Conforme.",
+          "Eficaz."
+        ],
+        "lede": "O SELYVO Market é o melhor lugar para fazer negócio entre empresas verificadas. Compre, venda, fature e receba pagamentos numa só plataforma — do primeiro pedido à fatura paga.",
+        "cta2": "Ver a visita de 5 minutos",
+        "factLang": [
+          "7 idiomas",
+          "na aplicação, cada pessoa no seu; este site, em 15"
+        ],
+        "pillars": {
+          "eyebrow": "Porquê o SELYVO Market",
+          "title": "Três promessas, cumpridas em cada ecrã",
+          "lede": "Tudo o que uma empresa faz com os seus clientes e fornecedores — mais simples, sempre em conformidade e feito para dar resultados.",
+          "simple": {
+            "lead": "Um só lugar para todo o negócio",
+            "text": "Cada documento é criado a partir do anterior: um pedido torna-se proposta, encomenda, entrega e fatura. Nada é escrito duas vezes e ambas as partes veem o mesmo registo.",
+            "points": [
+              "O que aguarda por si, com o passo seguinte, na sua página inicial",
+              "Tudo o que está no cesto, encomendado de uma só vez",
+              "No navegador de um computador, tablet ou telemóvel"
+            ],
+            "gtk": "O botão à direita de cada separador indica o que cria; a seta mostra as restantes opções."
+          },
+          "compliant": {
+            "lead": "Empresas reais, faturas corretas",
+            "text": "Os membros aderem por convite e, antes de operarem, são encontrados no registo comercial, verificados nas listas de sanções e qualificados. As faturas cumprem a lei de cada país.",
+            "points": [
+              "Registo comercial, número de IVA e listas de sanções: tudo verificado",
+              "IVA, autoliquidação e menções legais de cada país",
+              "Cada fatura que recebe, verificada face à lei e conferida com a encomenda"
+            ],
+            "gtk": "Um convite funciona uma só vez, durante 14 dias, e apenas para o endereço de e-mail para o qual foi enviado."
+          },
+          "performing": {
+            "lead": "Melhores preços, recebimentos mais rápidos, menos trabalho",
+            "text": "Propostas comparadas linha a linha, IA que trata da leitura e pagamentos diretamente nas suas próprias contas — para comprar melhor, vender mais e receber mais cedo.",
+            "points": [
+              "Propostas lado a lado, por lote e por linha",
+              "A IA encontra fornecedores e potenciais clientes e lê ficheiros, faturas e e-mails",
+              "Pagamentos com cartão via Stripe; transferências reconciliadas na sua própria conta Revolut Business"
+            ],
+            "gtk": "A IA mostra quanto vai custar antes de avançar — e nada é enviado ou acordado sem que uma pessoa o decida."
+          }
+        },
+        "process": {
+          "eyebrow": "Como funciona",
+          "title": "De uma ideia a uma fatura paga",
+          "lede": "Sete passos, uma só cadeia. É assim que decorre uma compra no SELYVO Market — nos ecrãs reais.",
+          "steps": [
+            {
+              "title": "Uma ideia torna-se um pedido",
+              "text": "Descreva aquilo de que precisa, ou arraste um caderno de encargos, as peças de um concurso ou um mapa de quantidades: a IA preenche o título, a categoria, as linhas, a entrega e o orçamento — e cabe-lhe a si escolher o que fica.",
+              "gtk": "Um pedido pode solicitar aos fornecedores que respondam primeiro a um questionário.",
+              "alt": "Um novo pedido no SELYVO Market: de que precisa a sua empresa?"
+            },
+            {
+              "title": "Os fornecedores certos, verificados",
+              "text": "Convide os seus próprios fornecedores ou empresas que já estão no SELYVO, ou deixe a IA encontrar mais — cada um com a sua classificação, as suas categorias e onde entrega.",
+              "gtk": "Antes de a IA pesquisar, o botão indica quanto vai custar: cerca de 0,60 EUR.",
+              "alt": "Fornecedores encontrados pela IA para um pedido, cada um pronto a verificar e convidar"
+            },
+            {
+              "title": "Propostas, lado a lado",
+              "text": "Cada fornecedor responde no SELYVO. Vê quem vai enviar proposta, compara as propostas linha a linha e escolhe a melhor.",
+              "gtk": "Os fornecedores encontrados pela IA são convidados por e-mail e podem aderir ao SELYVO para enviar a sua proposta.",
+              "alt": "Um pedido a receber propostas: quem vai enviar a sua e duas propostas para comparar"
+            },
+            {
+              "title": "A encomenda",
+              "text": "A proposta que aceitar passa a ser a nota de encomenda. O fornecedor aceita-a, e ambas as partes acompanham um único estado: em aberto, por receber, recebida, faturada, paga.",
+              "gtk": "Cada fornecedor decide como recebe: antecipadamente com cartão, ou por fatura após a entrega.",
+              "alt": "Encomendas: cada nota de encomenda com o seu estado, a sua receção e a sua fatura"
+            },
+            {
+              "title": "Entregue e recebida",
+              "text": "Com a mercadoria chega uma guia de remessa. Confirma o que chegou — na totalidade ou em parte — e a encomenda avança sozinha; o stock dos artigos que gere atualiza-se automaticamente.",
+              "gtk": "Algo não está bem? Indique-o na guia de remessa e o fornecedor é avisado de imediato.",
+              "alt": "Confirmar o que chegou numa guia de remessa"
+            },
+            {
+              "title": "A fatura, verificada no SELYVO",
+              "text": "O fornecedor emite a fatura a partir da encomenda. Antes de alguém olhar para ela, o SELYVO verifica todos os campos exigidos por lei e os seus dados, e confere cada linha com a encomenda e com o que foi recebido.",
+              "gtk": "Se assim o decidir, uma fatura que não passe na verificação é devolvida automaticamente ao fornecedor, com o que há a corrigir.",
+              "alt": "Uma fatura verificada no SELYVO: uma linha não consta da encomenda e a fatura é devolvida ao fornecedor"
+            },
+            {
+              "title": "Paga — e marcada como paga",
+              "text": "Pague as faturas aprovadas diretamente a partir da sua própria conta Revolut Business, nas datas de vencimento ou de imediato. Quando o dinheiro chega, ambas as partes veem a fatura como paga.",
+              "gtk": "Dentro do limite que definir, os pagamentos saem de imediato; acima dele, aguardam os seus aprovadores no Revolut.",
+              "alt": "Faturas aprovadas, pagas através do Revolut Business"
+            }
+          ]
+        },
+        "compare": {
+          "eyebrow": "O melhor lugar para fazer negócio",
+          "title": "Menos idas e voltas. Mais negócio.",
+          "lede": "O que muda quando os seus clientes e fornecedores estão no SELYVO Market.",
+          "without": "Sem o SELYVO",
+          "with": "Com o SELYVO Market",
+          "rows": [
+            [
+              "Encontrar fornecedores",
+              "Pesquisar, perguntar a conhecidos, esperar por respostas",
+              "Fornecedores verificados por categoria — ou encontrados pela IA, cada um com a sua classificação"
+            ],
+            [
+              "Propostas",
+              "Anexos em todos os formatos, comparados à mão",
+              "Propostas lado a lado, por lote e por linha"
+            ],
+            [
+              "Encomendas",
+              "Reintroduzidas e depois acompanhadas por e-mail",
+              "A proposta aceite passa a ser a encomenda — um só estado para ambas as partes"
+            ],
+            [
+              "Faturas",
+              "Conferidas à mão com a encomenda",
+              "Verificadas no SELYVO face à lei e à encomenda e, se assim o decidir, devolvidas automaticamente quando têm erros"
+            ],
+            [
+              "Recebimentos",
+              "Lembretes e transferências reconciliadas à mão",
+              "Pagamentos com cartão e transferências reconciliadas na sua própria conta Revolut Business"
+            ]
+          ]
+        },
+        "gtk": {
+          "title": "Os detalhes que poupam tempo todos os dias",
+          "lede": "Pequenas coisas que os membros notam logo no primeiro dia — e que agradecem todos os dias a seguir.",
+          "items": [
+            "Os separadores seguem o que faz — compras, vendas, contabilidade, projetos — conforme escolher nas suas Preferências.",
+            "O botão à direita indica sempre o que cria; a seta mostra as restantes opções.",
+            "A página inicial é sua: a sua função, ao seu estilo — trabalho diário, desempenho ou planeamento.",
+            "A IA mostra o custo antes de avançar, e nada é enviado, acordado ou registado sem que uma pessoa o decida.",
+            "Cada fornecedor decide como recebe: antecipadamente com cartão, ou por fatura após a entrega.",
+            "Cada fatura inclui o IVA por país, as menções exigidas por lei, o PDF e o ficheiro ISDOC.",
+            "A sua empresa tem o seu próprio endereço de e-mail SELYVO: uma encomenda ou fatura recebida por e-mail é lida pela IA e apresentada como tal.",
+            "Em breve: o negociador de IA, transporte e armazenagem, análise de dados, documentos e assinatura."
+          ]
+        },
+        "video": {
+          "eyebrow": "Vídeo",
+          "title": "Veja o SELYVO Market em cinco minutos",
+          "lede": "Todo o mercado, ecrã a ecrã. Veja do início ao fim ou salte diretamente para a parte de que precisa."
+        }
+      }
+    },
+    "spend-control": {
+      "b": {
+        "pillars": [
+          "Um pedido em cinco passos — escrito, ou lido pela IA a partir do seu caderno de encargos.",
+          "Apenas fornecedores verificados, cada um com a sua classificação; quem apresentou proposta é avisado de cada alteração.",
+          "Propostas comparadas linha a linha e por lote; a melhor passa a encomenda com um clique."
+        ],
+        "gtk": [
+          "Antes de a IA procurar fornecedores, o botão indica quanto vai custar.",
+          "Os fornecedores encontrados pela IA são convidados por e-mail e podem aderir ao SELYVO para enviar a sua proposta.",
+          "O prazo das propostas é decidido por si — pode adiá-lo ou deixar de aceitar propostas a qualquer momento."
+        ]
+      }
+    },
+    "revenue-acceleration": {
+      "b": {
+        "pillars": [
+          "O seu funil de vendas por fases e os seus processos numa só lista, cada um com o passo seguinte.",
+          "Vende apenas a empresas verificadas: encontradas no registo comercial e validadas antes de poderem operar.",
+          "Novos contactos vindos dos seus clientes, de novas empresas ou de potenciais clientes encontrados pela IA; propostas dirigidas; anúncios promovidos nos feeds dos compradores."
+        ],
+        "gtk": [
+          "Cada processo avança sozinho à medida que chegam pedidos, propostas e encomendas.",
+          "Um novo contacto pode chegar por três vias: um cliente seu, um cliente novo ou potenciais clientes encontrados pela IA.",
+          "Cada anúncio mostra a receita e a margem que gera."
+        ]
+      }
+    },
+    "inventory-control": {
+      "b": {
+        "pillars": [
+          "Encomendas de compra e de venda numa só lista: em aberto, por receber, recebidas, por faturar.",
+          "A guia de remessa que confirma é a sua receção de mercadoria e fica guardada com a encomenda.",
+          "Entregas por partes, cada guia a propor apenas o que falta; a fatura segue a receção."
+        ],
+        "gtk": [
+          "Algo não está bem numa entrega? Indique-o na guia — o fornecedor é avisado de imediato.",
+          "O stock dos artigos que gere atualiza-se sozinho quando confirma o que chegou.",
+          "O que está a acabar volta ao cesto com um clique."
+        ]
+      }
+    },
+    "finance-administration": {
+      "b": {
+        "pillars": [
+          "Faturas criadas a partir das encomendas num instante; as faturas que recebe, lidas pela IA a partir de um ficheiro ou da sua caixa de correio.",
+          "IVA, autoliquidação e menções legais por país; cada fatura que recebe, verificada no SELYVO.",
+          "Pagamentos com cartão via Stripe e transferências reconciliadas na sua própria conta Revolut Business."
+        ],
+        "gtk": [
+          "Uma fatura que não passe na verificação pode ser devolvida automaticamente ao fornecedor, com o que há a corrigir.",
+          "Cada fatura enviada por e-mail leva em anexo o PDF e o ficheiro ISDOC.",
+          "Os pagamentos dentro do seu limite saem de imediato; acima dele, aguardam os seus aprovadores no Revolut."
+        ]
+      }
+    },
+    "operational-scale": {
+      "b": {
+        "pillars": [
+          "Folhas de horas semana a semana, despesas a partir de uma fotografia do recibo e uma só fatura para ambas.",
+          "As regras de cada cliente: folhas de horas aprovadas antes da fatura, anexadas a ela ou dispensadas.",
+          "O orçamento de um projeto calcula-se sozinho — comprometido, real e faturado — com a previsão de fecho."
+        ],
+        "gtk": [
+          "As regras do seu país determinam que parte do IVA de uma despesa pode ser deduzida.",
+          "O tempo próprio — pré-venda, concursos, formação — é contabilizado a taxas internas e nunca chega a um cliente.",
+          "O MailChat dá à sua empresa o seu próprio endereço de e-mail SELYVO."
+        ]
+      }
+    },
+    "compliance-by-design": {
+      "b": {
+        "pillars": [
+          "A adesão faz-se em poucos passos: os dados da sua empresa vêm do registo comercial.",
+          "Só por convite; registo, número de IVA e listas de sanções verificados; uma primeira classificação a partir das perguntas do SELYVO.",
+          "As avaliações dos clientes acompanham cada encomenda concluída, e a classificação de cada fornecedor surge ao lado da respetiva proposta."
+        ],
+        "gtk": [
+          "Um convite funciona uma só vez, durante 14 dias, e apenas para o endereço de e-mail para o qual foi enviado.",
+          "Cada documento guarda o seu histórico: quem alterou o quê, e quando.",
+          "Os segredos ficam no servidor: de uma chave de API só se mostram o início e o fim."
+        ]
+      }
+    },
+    "operating-layer": {
+      "b": {
+        "pillars": [
+          "O seu próprio espaço de trabalho para fornecedores, questionários, catálogos e fluxos de aprovação.",
+          "Questionários com comprovativos, versões e aprovações — todas as respostas guardadas.",
+          "Ligado ao SELYVO Market: perfis, pedidos e encomendas sincronizados nos dois sentidos."
+        ],
+        "gtk": [
+          "O SELYVO Core liga-se ao SELYVO Market em Sistemas ligados.",
+          "Os questionários do SELYVO Core chegam aos seus fornecedores no SELYVO Market.",
+          "O Core funciona ao lado dos sistemas que já utiliza."
+        ]
+      }
+    },
+    "thank-you": {
+      "b": {
+        "lede": "Responderemos por e-mail. Entretanto, veja a visita guiada de cinco minutos ou leia como aderir."
+      }
+    }
+  }
+}

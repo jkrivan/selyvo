@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "Novo",
+      "videoGuide": "Guia em vídeo",
+      "watchIt": "Ver agora",
+      "product": "Produto",
+      "getInvited": "Receba um convite",
+      "illustrative": "As empresas e os valores de exemplo desta página são ilustrativos.",
+      "tour": {
+        "title": "SELYVO Market em cinco minutos",
+        "text": "Todo o SELYVO Market, ecrã a ecrã: vendas e compras, encomendas, faturas verificadas no SELYVO, despesas, projetos, MailChat, stock e sistemas ligados."
+      },
+      "connect": {
+        "eyebrow": "Sistemas ligados",
+        "title": "Funciona com os sistemas que já utiliza",
+        "text": "Ligue a sua contabilidade ou o seu ERP e escolha o que é sincronizado, com que frequência e em que campos. Os seus clientes e fornecedores ligam os sistemas deles da mesma forma, e cada troca de dados fica registada.",
+        "points": [
+          "Perfis, pedidos, encomendas, pagamentos e stock, sempre sincronizados",
+          "Qualquer outro sistema, através da API de stock do mercado, com chave própria",
+          "As faturas emitidas na contabilidade de um fornecedor chegam a invoice@market.selyvo.com, onde são lidas e verificadas",
+          "Cada fatura enviada por e-mail leva em anexo o PDF e o ficheiro ISDOC, para a contabilidade do cliente"
+        ],
+        "yours": "A sua contabilidade ou ERP",
+        "market": "SELYVO Market",
+        "partners": "Os sistemas dos seus clientes e fornecedores",
+        "carries": "Perfis · pedidos · encomendas · pagamentos · stock",
+        "api": "Qualquer outro sistema, através da API de stock do mercado",
+        "invoices": "Faturas em PDF e ISDOC, verificadas à chegada",
+        "log": "Todas as trocas de dados registadas"
+      },
+      "check": {
+        "eyebrow": "Verificação no SELYVO",
+        "title": "Cada fatura que recebe chega já verificada",
+        "text": "Quer chegue por e-mail, como ficheiro, pelo MailChat ou de um fornecedor no SELYVO, a fatura é verificada antes de alguém olhar para ela. Se não passar na verificação, pode ser devolvida automaticamente ao fornecedor, com o que há a corrigir.",
+        "steps": [
+          [
+            "Recebida",
+            "Em invoice@market.selyvo.com, a partir de um ficheiro, pelo MailChat ou no SELYVO."
+          ],
+          [
+            "Verificada",
+            "Todos os campos exigidos por lei, os seus dados tal como constam do SELYVO, cada linha conferida com a encomenda e nada além do que foi recebido."
+          ],
+          [
+            "Devolvida automaticamente",
+            "Se assim o decidir: o fornecedor é avisado de imediato, no idioma deste, com o que há a corrigir."
+          ],
+          [
+            "Substituída",
+            "A fatura corrigida substitui a devolvida. Da fatura devolvida não se paga nada."
+          ]
+        ],
+        "card": {
+          "title": "A verificação do SELYVO",
+          "ok1": "Todos os campos obrigatórios de uma fatura",
+          "ok2": "Emitida em seu nome, tal como no SELYVO",
+          "bad": "Os portes de 80,00 € não constam da encomenda",
+          "returned": "Devolvida automaticamente ao fornecedor, com o que há a corrigir"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "Marketplace B2B só por convite",
+        "title1": "Venda mais. Compre melhor.",
+        "title2": "Receba mais cedo.",
+        "lede": "O SELYVO Market é onde as empresas verificadas fazem negócio, do primeiro pedido à fatura paga: num só lugar e no idioma de cada pessoa.",
+        "cta": "Receba um convite",
+        "cta2": "Ver a visita guiada",
+        "ticks": [
+          "Encontrada no seu registo comercial",
+          "Verificada nas listas de sanções",
+          "Classificada antes do primeiro negócio"
+        ],
+        "shotAlt": "Compras no SELYVO Market: as poupanças, o saldo em aberto, o que foi recebido e faturado, e as tarefas de compras pendentes",
+        "offer": {
+          "title": "Proposta aceite",
+          "note": "4,8 % menos após a negociação"
+        },
+        "paid": {
+          "status": "Paga",
+          "country": "Dinamarca"
+        },
+        "facts": [
+          [
+            "3 verificações",
+            "antes de uma empresa poder operar: o registo comercial, as listas de sanções e as perguntas do SELYVO"
+          ],
+          [
+            "1 cadeia",
+            "do pedido ao pagamento, com cada documento criado a partir do anterior"
+          ],
+          [
+            "7 idiomas",
+            "na aplicação, cada pessoa no seu; este site e os seus guias, em 15"
+          ],
+          [
+            "2 formas de pagamento",
+            "antecipadamente com cartão, ou por fatura após a entrega, conforme decida cada fornecedor"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "Uma só plataforma",
+          "title": "Todo o negócio, para ambas as partes, num só lugar",
+          "lede": "Vendas, compras, encomendas, faturas e pagamentos: cada passo nasce do anterior. Os seus clientes e os seus fornecedores veem o mesmo registo que a sua empresa.",
+          "items": [
+            [
+              "Venda mais",
+              "Dê-se a conhecer a compradores verificados das suas categorias. Responda aos pedidos deles, envie propostas dirigidas e acompanhe cada processo, do primeiro contacto ao negócio ganho.",
+              "Vender no SELYVO"
+            ],
+            [
+              "Compre melhor",
+              "Compare propostas linha a linha de fornecedores que sabe que são reais: os seus, novos fornecedores no SELYVO ou os que a IA encontra para si.",
+              "Comprar no SELYVO"
+            ],
+            [
+              "Receba mais cedo",
+              "Fature a partir da encomenda, com o IVA de cada país. Receba pagamentos com cartão, ou por fatura na sua própria conta Revolut Business.",
+              "Faturas e pagamentos"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Vender",
+            "title": "Cada processo, do primeiro contacto ao negócio ganho",
+            "text": "O seu funil de vendas por fases, os seus processos numa lista e, ao lado, o processo escolhido com o passo seguinte. Cada processo avança sozinho à medida que chegam pedidos, propostas e encomendas.",
+            "points": [
+              "Novos contactos vindos dos seus clientes, de novas empresas ou de potenciais clientes encontrados pela IA",
+              "Propostas dirigidas aos clientes que escolher",
+              "Anúncios promovidos nos feeds dos compradores"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Comprar",
+            "title": "Compare propostas linha a linha e encomende a melhor",
+            "text": "Publique um pedido com os seus lotes e linhas, convide os fornecedores que escolher e veja todas as propostas lado a lado. A que aceitar passa a ser a nota de encomenda.",
+            "points": [
+              "Um pedido lido pela IA a partir do seu caderno de encargos",
+              "A classificação de cada fornecedor ao lado da respetiva proposta",
+              "Um negociador de IA que lhe pergunta antes de fechar qualquer acordo"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Faturas e pagamentos",
+            "title": "Fature a partir da encomenda. Receba a tempo e horas.",
+            "text": "As faturas são criadas a partir das respetivas encomendas, com o IVA de cada país e as menções que cada caso exige. As faturas que recebe são lidas pela IA, conferidas no SELYVO com a encomenda e depois pagas.",
+            "points": [
+              "Pagamentos com cartão via Stripe",
+              "Recebimentos na sua própria conta Revolut Business",
+              "Uma fatura que não passe na verificação pode ser devolvida automaticamente ao fornecedor",
+              "O que paga e o que recebe, lado a lado"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Confiança",
+          "title": "Aqui, todas as empresas são reais",
+          "lede": "Antes de operar no SELYVO, cada empresa é encontrada, verificada e qualificada. Depois disso, são os clientes que falam por ela."
+        },
+        "ai": {
+          "button": "Pesquisar com IA — cerca de 0,60 EUR",
+          "caption": "Antes de a IA procurar fornecedores, o botão indica quanto vai custar.",
+          "found": "8 fornecedores encontrados",
+          "foundText": "Cada um com a sua classificação, as suas categorias e onde entrega."
+        },
+        "invite": {
+          "title": "No SELYVO, entra-se por convite",
+          "text": "Cada empresa no SELYVO é conhecida por, pelo menos, outra. Peça a um cliente ou fornecedor que seja membro que convide a sua empresa. Ainda não conhece ninguém no SELYVO? Escreva-nos.",
+          "cta": "Como receber um convite",
+          "mockWho": "convida a sua empresa para o SELYVO Market",
+          "mockText": "Gostaríamos de lhe comprar no SELYVO. Adira como nosso fornecedor e passará a receber lá os nossos pedidos.",
+          "mockButton": "Aderir como seu fornecedor",
+          "mockValid": "Válido uma só vez, durante 14 dias, e apenas para o endereço de e-mail para o qual foi enviado."
+        },
+        "faqAccounting": [
+          "Funciona com a nossa contabilidade?",
+          "Sim. Ligue a sua contabilidade ou o seu ERP em Sistemas ligados e escolha o que é sincronizado. As faturas emitidas na sua própria contabilidade podem ser enviadas através do SELYVO a partir de um ficheiro, e cada fatura enviada por e-mail leva em anexo o PDF e o ficheiro ISDOC."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "O que acontece a uma fatura que não corresponde à encomenda?",
+          "Fica à sua espera, com o que a verificação encontrou. Se assim o decidir, é devolvida automaticamente ao fornecedor, com o que há a corrigir, e a fatura corrigida substitui-a."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Projetos",
+          "title": "Um projeto, com o seu orçamento",
+          "text": "Um projeto reúne os seus pedidos, encomendas, faturas, folhas de horas e despesas. O orçamento calcula-se sozinho a partir deles: comprometido, real e faturado, com a previsão de fecho.",
+          "points": [
+            "Marcos, aceites pelo cliente e depois faturados",
+            "A equipa: os seus colaboradores e os dos seus fornecedores",
+            "O cliente também pode acompanhar o projeto"
+          ],
+          "tiles": [
+            "Orçamento",
+            "Real",
+            "Faturado"
+          ],
+          "milestones": [
+            [
+              "1 · Portal configurado",
+              "Aceite"
+            ],
+            [
+              "2 · Fornecedores migrados",
+              "Em curso"
+            ],
+            [
+              "3 · Aceitação pelos utilizadores",
+              "Planeado"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,876 @@
+{
+ "lang": "fr",
+ "cc": "FR",
+ "hreflang": "fr-FR",
+ "name": "Français",
+ "common": {
+  "site": "SELYVO Market",
+  "skip": "Aller au contenu",
+  "nav": {
+   "buy": "Achats",
+   "sell": "Ventes",
+   "orders": "Commandes",
+   "invoices": "Factures",
+   "projects": "Projets",
+   "trust": "Confiance",
+   "core": "SELYVO Core",
+   "videos": "Vidéos",
+   "join": "Comment adhérer",
+   "signIn": "Se connecter",
+   "menu": "Menu",
+   "language": "Langue",
+   "home": "Accueil"
+  },
+  "areas": {
+   "buy": "Achats",
+   "sell": "Ventes",
+   "orders": "Commandes et livraisons",
+   "invoices": "Factures et paiements",
+   "projects": "Projets et MailChat",
+   "trust": "Confiance et conformité",
+   "core": "SELYVO Core"
+  },
+  "readMore": "En savoir plus",
+  "trail": {
+   "label": "Une affaire, une seule chaîne de documents",
+   "lede": "Chaque document naît du précédent : rien n’est saisi deux fois, et les deux parties voient le même dossier.",
+   "request": "Demande",
+   "offer": "Offre",
+   "order": "Commande",
+   "invoice": "Facture",
+   "requestNote": "Panneaux et quincaillerie, demandés à cinq fournisseurs invités",
+   "offerNote": "8 469,60 € de Holzwerk Brandt, 4,8 % de moins après la négociation",
+   "orderNote": "Acceptée par le fournisseur, livraison d’ici le 13 novembre",
+   "invoiceNote": "Établie à partir de la commande et rapprochée de ce qui a été reçu"
+  },
+  "videos": {
+   "eyebrow": "Guides vidéo",
+   "title": "Découvrez-le en action",
+   "lede": "De courts guides filmés dans le produit lui-même, commentés et sous-titrés dans votre langue.",
+   "enScreens": "Les écrans de ces vidéos sont en anglais ; la voix et les sous-titres sont en français.",
+   "watch": "Regarder",
+   "watchVideo": "Regarder la vidéo",
+   "more": "Tous les guides vidéo",
+   "minutes": "min",
+   "overview": {
+    "title": "SELYVO Market en un coup d’œil",
+    "text": "Fil d’actualité, boutique, achats, ventes, commandes, factures, projets et MailChat en une seule visite."
+   },
+   "joining": {
+    "title": "Rejoindre SELYVO à partir d’une invitation",
+    "text": "De l’e-mail d’invitation à votre premier jour sur SELYVO, étape par étape."
+   },
+   "buying": {
+    "title": "De l’idée à la commande approuvée",
+    "text": "Un appel d’offres, les offres, une négociation menée par l’IA, le bon de commande et l’approbation du fournisseur."
+   },
+   "freelancer": {
+    "title": "Le temps, les dépenses et la facture",
+    "text": "La feuille de temps d’un indépendant, des dépenses lues sur les justificatifs, et une seule facture pour les deux."
+   }
+  },
+  "join": {
+   "eyebrow": "Adhésion",
+   "title": "Rejoignez SELYVO sur invitation",
+   "text": "SELYVO Market n’est ouvert qu’aux entreprises invitées par un membre : chaque entreprise présente y est donc connue d’au moins une autre. Demandez à un client ou à un fournisseur déjà sur SELYVO de vous inviter. L’e-mail d’invitation vous guide ensuite dans l’inscription.",
+   "points": [
+    "L’invitation fonctionne une seule fois, pendant 14 jours, et uniquement pour l’adresse e-mail à laquelle elle a été envoyée.",
+    "Votre entreprise est retrouvée dans son registre du commerce et contrôlée sur les listes de sanctions avant de pouvoir faire des affaires.",
+    "Les frais de SELYVO sont prélevés sur un budget prépayé, à leur échéance. Vous l’alimentez par carte ou par virement."
+   ],
+   "write": "Écrivez-nous",
+   "watch": "Voir comment adhérer",
+   "signIn": "Se connecter"
+  },
+  "contact": {
+   "eyebrow": "Contact",
+   "title": "Des questions avant d’adhérer ?",
+   "lede": "Écrivez-nous au sujet de SELYVO Market, de SELYVO Core ou d’un partenariat. Nous répondons par e-mail.",
+   "firstName": "Prénom",
+   "lastName": "Nom",
+   "company": "Entreprise",
+   "email": "E-mail professionnel",
+   "country": "Pays",
+   "topic": "Objet",
+   "topics": [
+    "Adhérer à SELYVO Market",
+    "SELYVO Core pour mon organisation",
+    "Un partenariat",
+    "Autre chose"
+   ],
+   "message": "Votre message",
+   "send": "Envoyer",
+   "note": "Nous utilisons vos coordonnées uniquement pour vous répondre.",
+   "required": "Indiquez votre nom, votre e-mail et votre message."
+  },
+  "faqTitle": "Questions fréquentes",
+  "related": "Également sur SELYVO",
+  "coming": "Bientôt",
+  "example": "Exemple",
+  "footer": {
+   "about": "SELYVO Market est une place de marché B2B pour entreprises vérifiées et indépendants : acheter, vendre, facturer et travailler ensemble au même endroit.",
+   "market": "Place de marché",
+   "company": "SELYVO",
+   "contact": "Contact",
+   "guides": "Guides vidéo",
+   "rights": "© 2026 SELYVO. Tous droits réservés.",
+   "languages": "Langues"
+  }
+ },
+ "pages": {
+  "index": {
+   "title": "SELYVO Market — la place de marché B2B des entreprises vérifiées",
+   "description": "Place de marché B2B sur invitation : demandes et offres, commandes, factures avec TVA par pays, feuilles de temps, dépenses, et une IA qui lit vos documents.",
+   "hero": {
+    "eyebrow": "Place de marché B2B sur invitation",
+    "title": "Là où les entreprises vérifiées achètent, vendent et travaillent ensemble.",
+    "lede": "SELYVO Market réunit clients et fournisseurs sur une seule plateforme, de la première demande à la facture payée. Chaque membre est retrouvé dans son registre du commerce, contrôlé et qualifié avant de faire des affaires.",
+    "cta": "Comment adhérer",
+    "cta2": "Voir la visite guidée",
+    "shot": "Les achats sur SELYVO Market : ce qui vous attend, et chaque demande, offre et négociation."
+   },
+   "trust": [
+    [
+     "Trouvée dans son registre",
+     "Numéro d’identification, adresse et numéro de TVA proviennent du registre du commerce."
+    ],
+    [
+     "Contrôlée",
+     "Les listes de sanctions sont vérifiées avant qu’une entreprise puisse faire des affaires."
+    ],
+    [
+     "Qualifiée",
+     "Ses réponses aux questions de SELYVO, justificatifs à l’appui, lui donnent une première note."
+    ],
+    [
+     "Évaluée",
+     "Les avis des clients prennent le relais au fil des commandes terminées."
+    ]
+   ],
+   "areas": {
+    "eyebrow": "La place de marché",
+    "title": "Une seule place de marché pour toute l’entreprise",
+    "lede": "Chaque espace fonctionne seul et passe le relais au suivant : une demande devient une offre, une commande, une livraison et une facture, sans ressaisie.",
+    "buy": "Appels d’offres, offres comparées ligne par ligne et bons de commande, avec un négociateur IA qui vous consulte avant tout accord.",
+    "sell": "Des annonces à prix membres, les demandes de vos catégories, des offres ciblées et un pipeline du prospect à l’affaire gagnée.",
+    "orders": "Chaque commande fournisseur et client avec son statut : acceptée, livrée en plusieurs fois, reçue, facturée, payée.",
+    "invoices": "Des factures établies à partir des commandes, avec la TVA par pays, et les factures reçues lues par l’IA, depuis un fichier ou par e-mail.",
+    "projects": "Des feuilles de temps par client, des dépenses avec justificatifs, et une boîte mail professionnelle avec chat, en une seule liste.",
+    "trust": "Membres invités, données du registre, contrôle des sanctions, qualification, approbations et historique de chaque document.",
+    "core": "Votre propre espace de travail pour les fournisseurs, les questionnaires, les catalogues et les circuits de validation, en complément du Market."
+   },
+   "how": {
+    "eyebrow": "Premiers pas",
+    "title": "Comment une entreprise démarre sur SELYVO",
+    "steps": [
+     [
+      "Recevez une invitation",
+      "Un client ou un fournisseur membre vous invite par e-mail."
+     ],
+     [
+      "Inscrivez votre entreprise",
+      "SELYVO la retrouve dans le registre du commerce. Vous la confirmez et indiquez ce que vous achetez et vendez."
+     ],
+     [
+      "Qualifiez-vous",
+      "Répondez aux questions de SELYVO et, le cas échéant, à celles de votre invitant. Vous obtenez ensuite votre première note."
+     ],
+     [
+      "Faites des affaires",
+      "Publiez des annonces, répondez aux demandes, envoyez des offres, recevez des commandes et facturez, le tout sur SELYVO."
+     ]
+    ]
+   },
+   "ai": {
+    "eyebrow": "IA",
+    "title": "Une IA qui lit et rédige. Vous décidez.",
+    "lede": "L’IA se charge de la lecture et du premier jet. Rien n’est envoyé, conclu ni enregistré tant qu’une personne ne l’a pas décidé.",
+    "items": [
+     [
+      "Lit vos fichiers",
+      "Un cahier des charges devient une demande avec lots et lignes. Le PDF d’un fournisseur devient une offre. Un justificatif devient une dépense.",
+      ""
+     ],
+     [
+      "Lit vos e-mails",
+      "Les factures, offres et commandes reçues par e-mail sont reconnues et préparées pour vous.",
+      ""
+     ],
+     [
+      "Négocie pour vous",
+      "Un négociateur IA écrit au fournisseur dans sa langue, dans les limites de la position que vous fixez, et vous consulte avant tout accord.",
+      "coming"
+     ],
+     [
+      "Le modèle de votre choix",
+      "Votre entreprise choisit le modèle d’IA qu’elle utilise, parmi ceux que propose SELYVO, et l’effort qu’il doit fournir. Chaque utilisation est listée avec son coût.",
+      ""
+     ]
+    ]
+   },
+   "audiences": {
+    "eyebrow": "Pour qui",
+    "title": "Conçu pour tous les acteurs d’une affaire",
+    "items": [
+     [
+      "Pour les acheteurs",
+      "Publiez des demandes, comparez les offres, commandez et payez, avec des fournisseurs dont vous savez qu’ils existent bel et bien."
+     ],
+     [
+      "Pour les fournisseurs",
+      "Les acheteurs vérifiés de vos catégories vous trouvent : répondez à leurs demandes et encaissez selon vos conditions."
+     ],
+     [
+      "Pour les indépendants",
+      "Suivez votre temps et vos dépenses pour chaque client, et facturez-les en une seule fois."
+     ]
+    ]
+   },
+   "core": {
+    "eyebrow": "Pour les grandes organisations",
+    "title": "SELYVO Core : votre propre couche opérationnelle",
+    "text": "Besoin des processus de SELYVO au sein de votre organisation ? SELYVO Core ajoute la gestion des fournisseurs, les questionnaires, les catalogues et les circuits de validation avec contrôles par IA, en complément du Market et des systèmes que vous utilisez déjà.",
+    "link": "Découvrir SELYVO Core"
+   },
+   "langs": {
+    "title": "Dans votre langue",
+    "text": "SELYVO Market parle anglais, tchèque, slovaque, allemand, espagnol, danois et suédois, et chacun choisit sa langue. Les questionnaires sont rédigés dans chaque langue, et l’IA traduit les versions manquantes. Ce site et ses guides vidéo existent en 15 langues."
+   },
+   "faq": [
+    [
+     "Qui peut rejoindre SELYVO Market ?",
+     "Les entreprises et les indépendants invités par un membre. Demandez à un client ou à un fournisseur présent sur SELYVO de vous inviter. Si vous ne connaissez encore personne sur SELYVO, écrivez-nous."
+    ],
+    [
+     "Comment SELYVO sait-il qu’une entreprise existe vraiment ?",
+     "Chaque entreprise est retrouvée dans son registre du commerce, contrôlée sur les listes de sanctions et qualifiée par les questions de SELYVO avant de pouvoir faire des affaires. Viennent ensuite les avis des clients, commande après commande."
+    ],
+    [
+     "Combien cela coûte-t-il ?",
+     "Les frais de SELYVO sont prélevés sur un budget prépayé, à leur échéance. Vous l’alimentez par carte ou par virement, et chaque débit apparaît dans votre compte."
+    ],
+    [
+     "Est-ce compatible avec notre comptabilité ?",
+     "Les factures appliquent la TVA selon le pays, portent les mentions requises dans chaque cas, et s’impriment ou s’enregistrent en PDF. Les factures émises dans votre propre comptabilité peuvent être envoyées via SELYVO à partir d’un fichier."
+    ],
+    [
+     "Existe-t-il une application mobile ?",
+     "SELYVO fonctionne dans le navigateur, sur ordinateur, tablette ou smartphone. Chaque écran s’adapte au smartphone."
+    ]
+   ]
+  },
+  "spend-control": {
+   "title": "Acheter sur SELYVO Market — appels d’offres et bons de commande",
+   "description": "Publiez un appel d’offres, saisi ou lu par l’IA dans un fichier. Comparez les offres par lot et ligne, négociez, puis commandez auprès de fournisseurs vérifiés.",
+   "hero": {
+    "eyebrow": "Achats",
+    "title": "Du besoin à la commande approuvée, avec des fournisseurs de confiance.",
+    "lede": "Décrivez votre besoin, ou déposez le cahier des charges et laissez l’IA le lire. Des fournisseurs vérifiés font leurs offres ; vous les comparez ligne par ligne, négociez et passez commande. Chaque étape reste tracée.",
+    "shot": "Comparaison des offres par lot : 8 894,40 € chez Holzwerk Brandt pour les panneaux et la quincaillerie, face aux 9 138,60 € de Nordic Panels."
+   },
+   "features": {
+    "title": "Tout ce qu’il faut pour acheter",
+    "items": [
+     [
+      "Des demandes à partir d’un fichier",
+      "Déposez un cahier des charges : l’IA y trouve les lots, les lignes avec quantités et unités, et les questions pour les fournisseurs. Rien n’est rempli avant votre vérification."
+     ],
+     [
+      "Des lots pour produits et services",
+      "Mettez les matériaux dans un lot, le transport ou le montage dans un autre. Chaque lot a son propre budget et est attribué séparément."
+     ],
+     [
+      "Vous choisissez qui répond",
+      "Tout fournisseur de la catégorie dans les pays que vous retenez, ou seulement ceux que vous invitez nommément. Vos questionnaires accompagnent la demande."
+     ],
+     [
+      "Des offres comparées côte à côte",
+      "Par lot, par offre ou ligne par ligne : prix, livraison et conditions alignés, avec le prix le plus bas et la livraison la plus rapide signalés."
+     ],
+     [
+      "Des bons de commande issus de l’offre",
+      "Attribuez chaque lot et créez le bon de commande à partir de l’offre retenue. Le fournisseur l’accepte sur SELYVO, et vous le suivez jusqu’à la livraison et la facture."
+     ],
+     [
+      "Les achats courants dans la boutique",
+      "Pour les articles habituels, commandez directement depuis les annonces de fournisseurs vérifiés, à prix membres, ou rassemblez-les dans le panier."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Un achat, étape par étape",
+    "steps": [
+     [
+      "Demande",
+      "Saisie ou lue dans un fichier, avec lots, lignes et questions."
+     ],
+     [
+      "Offres",
+      "Les fournisseurs répondent avant la date limite que vous fixez."
+     ],
+     [
+      "Négociation",
+      "Par vous-même, ou avec le négociateur IA."
+     ],
+     [
+      "Attribution",
+      "La meilleure offre pour chaque lot."
+     ],
+     [
+      "Commande",
+      "Envoyée, acceptée et suivie jusqu’à la facture."
+     ]
+    ]
+   },
+   "highlight": {
+    "title": "Le négociateur IA",
+    "badge": "coming",
+    "text": "Fixez ce qui compte, votre objectif et votre limite. L’IA écrit au fournisseur dans sa langue depuis votre boîte mail SELYVO, indique qu’elle est une IA et vous consulte avant tout accord. Dans la vidéo, elle obtient 8 469,60 € sur une offre de 8 894,40 €, soit 4,8 % de moins."
+   },
+   "video": "buying",
+   "faq": [
+    [
+     "Un fournisseur absent de SELYVO peut-il envoyer une offre ?",
+     "Invitez-le par e-mail avec votre demande. Il rejoint SELYVO avant de pouvoir faire une offre : chaque offre vient ainsi d’une entreprise vérifiée."
+    ],
+    [
+     "Les fournisseurs voient-ils mon budget ?",
+     "Non. Le budget d’un lot sert à votre propre planification. Les fournisseurs ne le voient que si vous choisissez de le partager."
+    ],
+    [
+     "Puis-je acheter sans demande ?",
+     "Oui. Commandez directement depuis une annonce de la boutique, au prix membre fixé par le fournisseur."
+    ]
+   ],
+   "related": [
+    "sell",
+    "orders",
+    "invoices"
+   ]
+  },
+  "revenue-acceleration": {
+   "title": "Vendre sur SELYVO Market — annonces, demandes et offres ciblées",
+   "description": "Touchez des acheteurs vérifiés : produits et services à prix membres, demandes de vos catégories, offres ciblées et chaque vente suivie jusqu’à la signature.",
+   "hero": {
+    "eyebrow": "Ventes",
+    "title": "Faites-vous trouver par des acheteurs prêts à commander.",
+    "lede": "Mettez en ligne ce que vous vendez, répondez aux demandes publiées dans vos catégories et envoyez des offres aux clients de votre choix. Votre pipeline montre chaque affaire, du premier prospect à la signature.",
+    "shot": "Les ventes sur SELYVO Market : chaque affaire, du prospect à la signature, avec sa valeur à chaque étape."
+   },
+   "features": {
+    "title": "Vendre, de bout en bout",
+    "items": [
+     [
+      "Des annonces à prix membres",
+      "Produits et services avec photos, prix par quantité ou par conditionnement, délais de livraison et régions desservies."
+     ],
+     [
+      "Des demandes qui vous correspondent",
+      "Les demandes de vos catégories et de vos régions arrivent dans l’espace Ventes sous forme d’opportunités. Répondez par une offre, ligne par ligne."
+     ],
+     [
+      "Des offres ciblées",
+      "Envoyez une offre aux clients de votre choix. Ils la voient dans leur fil d’actualité et peuvent commander directement."
+     ],
+     [
+      "Votre pipeline",
+      "Chaque affaire, du prospect à son issue, gagnée ou perdue, avec sa valeur à chaque étape et la prochaine action."
+     ],
+     [
+      "Un fil d’actualité qui travaille pour vous",
+      "Publiez des actualités pour vos clients et pour les entreprises de vos catégories, et mettez en avant une actualité ou une annonce pour en toucher davantage."
+     ],
+     [
+      "Encaissez plus tôt",
+      "Facturez depuis la commande, avec la TVA par pays. Ou confiez l’encaissement à SELYVO : SELYVO vous paie, déduction faite de sa commission, et le client paie SELYVO."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Une vente, étape par étape",
+    "steps": [
+     [
+      "Annonce",
+      "Vos produits et services, à prix membres."
+     ],
+     [
+      "Demande",
+      "Un acheteur publie une demande dans votre catégorie."
+     ],
+     [
+      "Offre",
+      "Votre réponse, ligne par ligne."
+     ],
+     [
+      "Commande",
+      "Acceptée et livrée."
+     ],
+     [
+      "Facture",
+      "Émise depuis la commande, puis payée."
+     ]
+    ]
+   },
+   "video": "overview",
+   "faq": [
+    [
+     "Qui voit mes annonces ?",
+     "Les membres de SELYVO Market, dans les régions où vous livrez. Ils voient vos prix membres et votre note."
+    ],
+    [
+     "Puis-je vendre à une entreprise qui n’est pas encore sur SELYVO ?",
+     "Invitez-la. Une fois inscrite, elle peut vous passer commande et recevoir vos factures sur SELYVO."
+    ],
+    [
+     "Comment les demandes me parviennent-elles ?",
+     "Les demandes publiées dans vos catégories et vos pays apparaissent dans l’espace Ventes. Un acheteur peut aussi vous inviter nommément."
+    ]
+   ],
+   "related": [
+    "buy",
+    "orders",
+    "invoices"
+   ]
+  },
+  "inventory-control": {
+   "title": "Suivi des commandes et des livraisons sur SELYVO Market",
+   "description": "Commandes fournisseurs et clients en une liste : acceptées, livrées en partie avec bons de livraison, reçues, facturées et payées, avec messages et documents.",
+   "hero": {
+    "eyebrow": "Commandes et livraisons",
+    "title": "Chaque commande, de l’acceptation au paiement, au même endroit.",
+    "lede": "Sur SELYVO, chaque commande a sa propre chronologie. Le fournisseur accepte et livre, en plusieurs fois si besoin ; le client confirme ce qu’il a reçu ; la facture suit. Les deux parties voient le même dossier.",
+    "shot": "Commande ORD-7311 : acceptée par Holzwerk Brandt, livraison d’ici le 13 novembre, et la suite."
+   },
+   "features": {
+    "title": "Des commandes fiables pour les deux parties",
+    "items": [
+     [
+      "Un même statut pour les deux parties",
+      "Commandée, acceptée, livrée, reçue, facturée, payée : client et fournisseur voient les mêmes étapes et les mêmes dates."
+     ],
+     [
+      "Des livraisons en plusieurs fois",
+      "Chaque livraison a son bon de livraison. Le client confirme ce qu’il a reçu, et le reste demeure ouvert."
+     ],
+     [
+      "Des messages sur la commande",
+      "Échangez à son sujet directement dans la commande. Rien ne part tant que vous n’avez pas cliqué sur Envoyer."
+     ],
+     [
+      "Des documents liés entre eux",
+      "La commande, ses bons de livraison, l’offre dont elle est issue et ses factures renvoient tous les uns aux autres."
+     ],
+     [
+      "Quand quelque chose ne va pas",
+      "Signalez un problème sur la commande, et gardez-y l’échange et les preuves."
+     ],
+     [
+      "Imprimer ou enregistrer en PDF",
+      "Avec votre logo, pour vos archives ou votre entrepôt."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Les étapes d’une commande",
+    "steps": [
+     [
+      "Commandée",
+      "Envoyée depuis l’offre ou la boutique."
+     ],
+     [
+      "Acceptée",
+      "Le fournisseur la confirme."
+     ],
+     [
+      "Livrée",
+      "Avec un bon de livraison, en plusieurs fois si besoin."
+     ],
+     [
+      "Reçue",
+      "Le client confirme ce qu’il a reçu."
+     ],
+     [
+      "Facturée et payée",
+      "La facture suit la commande."
+     ]
+    ]
+   },
+   "video": "buying",
+   "faq": [
+    [
+     "Un fournisseur peut-il livrer en plusieurs fois ?",
+     "Oui. Chaque livraison a son bon de livraison, et le client confirme ce qu’il a reçu. La commande reste ouverte jusqu’à réception complète."
+    ],
+    [
+     "Qui voit les messages d’une commande ?",
+     "Les personnes qui travaillent sur la commande, dans les deux entreprises. Un message ne part que lorsque vous cliquez sur Envoyer."
+    ],
+    [
+     "Les commandes suivent-elles des règles d’approbation ?",
+     "Oui. Votre entreprise décide qui approuve quelles commandes, et la commande attend cette approbation."
+    ]
+   ],
+   "related": [
+    "buy",
+    "sell",
+    "invoices"
+   ]
+  },
+  "finance-administration": {
+   "title": "Facturation B2B, TVA et paiements sur SELYVO Market",
+   "description": "Facturez depuis vos commandes avec la bonne TVA par pays, recevez des factures lues par l’IA (fichier ou e-mail) et suivez échéances et retards en une liste.",
+   "hero": {
+    "eyebrow": "Factures et paiements",
+    "title": "Des factures qui se vérifient d’elles-mêmes par rapport à la commande.",
+    "lede": "Émettez vos factures à partir de vos commandes, avec la TVA par pays et les mentions exigées par la loi. Les factures reçues, par e-mail, en fichier ou sur SELYVO, sont lues par l’IA et rapprochées de leur commande avant votre approbation.",
+    "shot": "Facture FV-2026-0018 à Nordform ApS : les heures et les dépenses d’octobre, en autoliquidation."
+   },
+   "features": {
+    "title": "Moins de ressaisie, moins de surprises",
+    "items": [
+     [
+      "La TVA par pays",
+      "Le taux, l’autoliquidation ou l’exonération selon les deux pays, et les mentions légales de chaque cas."
+     ],
+     [
+      "Des factures par e-mail",
+      "Les fournisseurs envoient leurs factures à invoice@market.selyvo.com. L’IA lit chacune d’elles, retrouve votre entreprise et la commande, et demande à l’expéditeur ce qui manque."
+     ],
+     [
+      "Des factures à partir d’un fichier",
+      "Déposez un PDF : l’IA lit le fournisseur, les lignes, la TVA et les totaux, à vous de vérifier."
+     ],
+     [
+      "Sans bon de commande, selon vos règles",
+      "Acceptez des factures sans bon de commande de la part des fournisseurs que vous choisissez, jusqu’au montant que vous fixez."
+     ],
+     [
+      "Des dépenses avec justificatifs",
+      "Justificatifs lus par l’IA, dépenses refacturées sur la commande d’un client ou laissées à votre charge."
+     ],
+     [
+      "À payer, à encaisser, en retard",
+      "Une seule liste pour les deux sens, avec ce qui est dû et ce qui est en retard."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Une facture reçue",
+    "steps": [
+     [
+      "Arrivée",
+      "Sur SELYVO, par e-mail ou en fichier."
+     ],
+     [
+      "Lue par l’IA",
+      "Fournisseur, lignes, TVA et totaux."
+     ],
+     [
+      "Rapprochée",
+      "De sa commande et de ce qui a été reçu."
+     ],
+     [
+      "Approuvée",
+      "Par la personne que désignent vos règles."
+     ],
+     [
+      "Payée",
+      "Et marquée comme payée des deux côtés."
+     ]
+    ]
+   },
+   "video": "freelancer",
+   "faq": [
+    [
+     "Puis-je envoyer des factures émises dans ma propre comptabilité ?",
+     "Oui. Importez le fichier : SELYVO le lit et l’envoie au client avec sa commande."
+    ],
+    [
+     "Pouvons-nous reprendre nos anciennes factures ?",
+     "Oui. Vos anciennes factures sont lues par l’IA, et leurs fournisseurs peuvent être invités sur SELYVO."
+    ],
+    [
+     "Comment la TVA est-elle gérée entre pays ?",
+     "SELYVO applique le taux, l’autoliquidation ou l’exonération qui correspond aux deux pays, et imprime les mentions exigées par la loi."
+    ]
+   ],
+   "related": [
+    "orders",
+    "projects",
+    "buy"
+   ]
+  },
+  "operational-scale": {
+   "title": "Projets, feuilles de temps, dépenses et MailChat — SELYVO Market",
+   "description": "Feuilles de temps hebdomadaires par client, dépenses avec justificatifs, une facture unique, et e-mail et chat avec vos partenaires dans une seule boîte mail.",
+   "hero": {
+    "eyebrow": "Projets et MailChat",
+    "title": "Travaillez pour vos clients, sans la paperasse.",
+    "lede": "Feuilles de temps, dépenses et messages sont regroupés avec les commandes auxquelles ils se rattachent. Les clients approuvent ce qu’ils veulent approuver, et vous facturez le reste en une seule fois.",
+    "shot": "Votre temps dans l’espace Projets : semaine par semaine pour chaque client, et ce qui demande votre attention."
+   },
+   "features": {
+    "title": "Temps et dépenses, prêts à facturer",
+    "items": [
+     [
+      "Votre semaine, tous vos clients",
+      "Saisissez des heures ou des jours par client et par commande, avec ce que vous avez fait. Le client le lit sur la feuille de temps."
+     ],
+     [
+      "Les règles de chaque client",
+      "Feuilles de temps approuvées avant la facture, jointes à celle-ci ou non requises, à la semaine ou au mois, comme chaque client le décide."
+     ],
+     [
+      "Des dépenses refacturées",
+      "Enregistrez une dépense avec son justificatif. Elle attend dans le relevé mensuel du client jusqu’à son approbation."
+     ],
+     [
+      "Une seule facture pour les deux",
+      "Heures approuvées et dépenses figurent sur une seule facture, chaque dépense hors TVA."
+     ],
+     [
+      "Le temps interne, à part",
+      "Avant-vente, réponses aux appels d’offres et formation sont comptées à des taux internes et ne parviennent jamais à un client."
+     ],
+     [
+      "MailChat",
+      "Une boîte mail professionnelle dans SELYVO : e-mails et chats avec clients et fournisseurs en une seule liste, avec une IA qui reconnaît factures, offres et commandes."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Des heures à la facture",
+    "steps": [
+     [
+      "Heures",
+      "Saisies semaine par semaine."
+     ],
+     [
+      "Feuille de temps",
+      "Envoyée pour la période du client."
+     ],
+     [
+      "Approbation",
+      "Par le client, s’il la demande."
+     ],
+     [
+      "Facture",
+      "Heures et dépenses ensemble."
+     ]
+    ]
+   },
+   "highlight": {
+    "title": "Des projets avec budgets et jalons",
+    "badge": "coming",
+    "text": "Des projets avec un budget, des jalons et des tâches, auxquels chaque achat, chaque vente, chaque heure et chaque dépense sont imputés."
+   },
+   "video": "freelancer",
+   "faq": [
+    [
+     "Un client peut-il approuver les feuilles de temps sur SELYVO ?",
+     "Oui. L’approbateur du client voit chaque feuille de temps avec ses jours et le travail effectué, puis l’approuve ou la renvoie avec un commentaire."
+    ],
+    [
+     "Ai-je besoin de MailChat ?",
+     "Non, c’est facultatif. MailChat donne à votre entreprise une boîte mail SELYVO pour écrire à vos partenaires, et votre propre adresse e-mail n’est jamais affichée."
+    ],
+    [
+     "Les indépendants peuvent-ils utiliser SELYVO ?",
+     "Oui. Un indépendant rejoint SELYVO en tant qu’entreprise individuelle, sur invitation comme toute autre, et travaille avec les mêmes outils."
+    ]
+   ],
+   "related": [
+    "invoices",
+    "sell",
+    "trust"
+   ]
+  },
+  "compliance-by-design": {
+   "title": "Confiance et conformité : entreprises vérifiées sur SELYVO Market",
+   "description": "Membres invités, retrouvés au registre du commerce, contrôlés sur les listes de sanctions et qualifiés avant de commercer. Chaque document garde son historique.",
+   "hero": {
+    "eyebrow": "Confiance et conformité",
+    "title": "Sachez avec qui vous traitez, et gardez la preuve de ce qui a été convenu.",
+    "lede": "Chaque entreprise sur SELYVO est invitée par un membre, retrouvée dans son registre, contrôlée et qualifiée avant de faire des affaires. Chaque document garde son historique : qui a fait quoi, et quand.",
+    "shot": "Inscription : l’entreprise retrouvée dans son registre du commerce, confirmée en un clic."
+   },
+   "features": {
+    "title": "La confiance intégrée à chaque étape",
+    "items": [
+     [
+      "Invitée par un membre",
+      "Aucune inscription anonyme. Chaque entreprise rejoint SELYVO sur l’invitation d’un client ou d’un fournisseur déjà présent."
+     ],
+     [
+      "Retrouvée au registre",
+      "Numéro d’identification, adresse, numéro de TVA et activités enregistrées proviennent du registre officiel du commerce."
+     ],
+     [
+      "Contrôle des sanctions",
+      "Chaque entreprise est contrôlée sur les listes de sanctions à son arrivée, avant de pouvoir faire des affaires."
+     ],
+     [
+      "Qualification et questionnaires",
+      "Les questions de SELYVO, justificatifs à l’appui, donnent une première note. Vos propres questionnaires sont envoyés à vos fournisseurs et à vos clients."
+     ],
+     [
+      "Droits et approbations",
+      "Chacun voit ce que son rôle lui permet. Vos règles d’approbation déterminent qui approuve commandes, feuilles de temps et dépenses."
+     ],
+     [
+      "Un historique pour chaque document",
+      "Demandes, offres, commandes et factures gardent leur historique : qui a modifié quoi, et quand."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Comment une entreprise est admise",
+    "steps": [
+     [
+      "Invitation",
+      "Par un membre."
+     ],
+     [
+      "Registre",
+      "Les données de l’entreprise, issues du registre du commerce."
+     ],
+     [
+      "Contrôles",
+      "Listes de sanctions."
+     ],
+     [
+      "Qualification",
+      "Réponses, justificatifs, une première note."
+     ],
+     [
+      "Avis",
+      "Des clients, commande après commande."
+     ]
+    ]
+   },
+   "video": "joining",
+   "faq": [
+    [
+     "Pouvons-nous fixer nos propres exigences pour les fournisseurs ?",
+     "Oui. Envoyez vos propres questionnaires avec une invitation ou une demande, et consultez les réponses et leurs justificatifs avant de décider."
+    ],
+    [
+     "Qui voit quoi dans notre entreprise ?",
+     "Chacun voit ce que son rôle lui permet. Les montants et les données financières ne sont affichés qu’aux personnes qui ont les droits pour les voir."
+    ],
+    [
+     "Que voit de nous un partenaire ?",
+     "Seulement ce que vous envoyez ou publiez : vos annonces, vos offres, les commandes et factures échangées avec lui, et votre profil."
+    ]
+   ],
+   "related": [
+    "buy",
+    "sell",
+    "core"
+   ]
+  },
+  "operating-layer": {
+   "title": "SELYVO Core — la couche opérationnelle de vos propres processus",
+   "description": "Gestion des fournisseurs, questionnaires, catalogues et circuits de validation avec contrôles IA, pour vos propres processus, en complément de SELYVO Market.",
+   "hero": {
+    "eyebrow": "SELYVO Core · en option",
+    "title": "Vos propres processus, sur les mêmes fondations que le Market.",
+    "lede": "SELYVO Core donne aux grandes organisations leur propre espace de travail : fournisseurs avec leur niveau de risque et leur performance, questionnaires, catalogues et flux de processus avec contrôles par IA, reliés à SELYVO Market et aux systèmes que vous utilisez déjà.",
+    "shot": "Le tableau des fournisseurs dans SELYVO Core : fournisseurs actifs, privilégiés, à haut risque et en cours de référencement, et chaque demande d’ajout."
+   },
+   "features": {
+    "title": "Ce qu’apporte SELYVO Core",
+    "items": [
+     [
+      "Tableau des fournisseurs",
+      "Fournisseurs actifs, privilégiés, à haut risque et en cours de référencement, avec les KPI de votre choix, et chaque demande d’ajout de fournisseur dans une seule file."
+     ],
+     [
+      "Questionnaires",
+      "Des jeux de questions réutilisables pour le référencement, l’évaluation et l’ESG, remplis par les fournisseurs avec justificatifs, puis notés."
+     ],
+     [
+      "Demander et acheter",
+      "Un catalogue pour les salariés, avec articles privilégiés, packs et budgets par centre de coûts. Les demandes partent en approbation."
+     ],
+     [
+      "Des processus avec contrôles IA",
+      "Des circuits de validation où un contrôle IA examine un fournisseur ou un document et renvoie conforme, non conforme ou à revoir. Une personne décide."
+     ],
+     [
+      "S’adapte à votre environnement",
+      "Utilisez-le sous forme de modules SELYVO intégrés, ou comme une interface unique et harmonisée au-dessus des ERP, CRM et outils achats que vous conservez."
+     ],
+     [
+      "Configuré, pas codé",
+      "Chaque limite et chaque seuil sont fixés par vos opérateurs. Rien n’est écrit dans le code."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Un seul modèle opérationnel",
+    "steps": [
+     [
+      "Capter",
+      "Demandes, documents et données n’entrent qu’une seule fois."
+     ],
+     [
+      "Comprendre",
+      "L’IA les lit, les vérifie et les classe."
+     ],
+     [
+      "Exécuter",
+      "Les processus orientent le travail."
+     ],
+     [
+      "Contrôler",
+      "Approbations et règles en fixent les limites."
+     ],
+     [
+      "Améliorer",
+      "Les KPI montrent où agir."
+     ]
+    ]
+   },
+   "shots": [
+    "Le tableau des fournisseurs, avec les KPI de votre choix.",
+    "Les questionnaires de référencement, d’évaluation et ESG.",
+    "Demander et acheter : le catalogue pour les salariés.",
+    "Un processus avec un contrôle IA comme étape d’approbation."
+   ],
+   "faq": [
+    [
+     "Faut-il SELYVO Core pour utiliser le Market ?",
+     "Non. SELYVO Market fonctionne seul. Core s’adresse aux organisations qui veulent leurs propres processus et leur propre espace de travail."
+    ],
+    [
+     "Core peut-il fonctionner aux côtés de notre ERP ?",
+     "Oui. Il peut être le système où le travail se fait, ou une interface unique au-dessus des systèmes que vous conservez."
+    ],
+    [
+     "Comment démarrer ?",
+     "Par un seul processus, comme le référencement des fournisseurs ou les achats des salariés, mesuré avant et après."
+    ]
+   ],
+   "related": [
+    "buy",
+    "trust",
+    "invoices"
+   ]
+  },
+  "thank-you": {
+   "title": "Merci — SELYVO",
+   "description": "Merci pour votre message à SELYVO.",
+   "hero": {
+    "eyebrow": "Message envoyé",
+    "title": "Merci. Nous avons bien reçu votre message.",
+    "lede": "Nous vous répondrons par e-mail. En attendant, regardez les guides vidéo ou découvrez comment adhérer."
+   },
+   "links": {
+    "videos": "Regarder les guides vidéo",
+    "join": "Comment adhérer",
+    "home": "Retour à l’accueil"
+   }
+  }
+ }
+}

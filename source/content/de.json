@@ -1,0 +1,876 @@
+{
+ "lang": "de",
+ "cc": "DE",
+ "hreflang": "de-DE",
+ "name": "Deutsch",
+ "common": {
+  "site": "SELYVO Market",
+  "skip": "Zum Inhalt springen",
+  "nav": {
+   "buy": "Einkauf",
+   "sell": "Verkauf",
+   "orders": "Bestellungen",
+   "invoices": "Rechnungen",
+   "projects": "Projekte",
+   "trust": "Vertrauen",
+   "core": "SELYVO Core",
+   "videos": "Videos",
+   "join": "So treten Sie bei",
+   "signIn": "Anmelden",
+   "menu": "Menü",
+   "language": "Sprache",
+   "home": "Startseite"
+  },
+  "areas": {
+   "buy": "Einkauf",
+   "sell": "Verkauf",
+   "orders": "Bestellungen & Lieferungen",
+   "invoices": "Rechnungen & Zahlungen",
+   "projects": "Projekte & MailChat",
+   "trust": "Vertrauen & Compliance",
+   "core": "SELYVO Core"
+  },
+  "readMore": "Mehr erfahren",
+  "trail": {
+   "label": "Ein Geschäft, eine Belegkette",
+   "lede": "Jedes Dokument entsteht aus dem vorherigen: Nichts wird doppelt erfasst, und beide Seiten sehen denselben Stand.",
+   "request": "Anfrage",
+   "offer": "Angebot",
+   "order": "Bestellung",
+   "invoice": "Rechnung",
+   "requestNote": "Platten und Beschläge, an fünf eingeladene Lieferanten gesendet",
+   "offerNote": "8.469,60 € von Holzwerk Brandt, 4,8 % weniger nach der Verhandlung",
+   "orderNote": "Vom Lieferanten angenommen, Lieferung bis 13. November",
+   "invoiceNote": "Aus der Bestellung erstellt und mit dem Wareneingang abgeglichen"
+  },
+  "videos": {
+   "eyebrow": "Videoanleitungen",
+   "title": "So funktioniert es",
+   "lede": "Kurze Anleitungen, direkt im Produkt gefilmt, mit Sprecher und Untertiteln in Ihrer Sprache.",
+   "enScreens": "Die Bildschirme in diesen Videos sind auf Englisch; Sprecher und Untertitel sind auf Deutsch.",
+   "watch": "Ansehen",
+   "watchVideo": "Video ansehen",
+   "more": "Alle Videoanleitungen",
+   "minutes": "Min.",
+   "overview": {
+    "title": "SELYVO Market auf einen Blick",
+    "text": "Feeds, Shop, Einkauf, Verkauf, Bestellungen, Rechnungen, Projekte und MailChat in einem Rundgang."
+   },
+   "joining": {
+    "title": "Beitreten mit einer Einladung",
+    "text": "Von der Einladungs-E-Mail bis zu Ihrem ersten Tag auf SELYVO, Schritt für Schritt."
+   },
+   "buying": {
+    "title": "Von der Idee zur bestätigten Bestellung",
+    "text": "Eine Angebotsanfrage, die Angebote, eine KI-Verhandlung, die Bestellung und die Annahme durch den Lieferanten."
+   },
+   "freelancer": {
+    "title": "Zeit, Auslagen und die Rechnung",
+    "text": "Der Leistungsnachweis eines Freiberuflers, aus Belegen gelesene Auslagen und eine Rechnung für beides."
+   }
+  },
+  "join": {
+   "eyebrow": "Mitgliedschaft",
+   "title": "Beitritt nur auf Einladung",
+   "text": "SELYVO Market steht nur Unternehmen offen, die ein Mitglied eingeladen hat – so ist jedes Unternehmen dort mindestens einem anderen bekannt. Bitten Sie einen Kunden oder Lieferanten, der bereits auf SELYVO ist, Sie einzuladen. Die Einladungs-E-Mail führt Sie durch die Registrierung.",
+   "points": [
+    "Die Einladung funktioniert einmal, 14 Tage lang und nur für die E-Mail-Adresse, an die sie ging.",
+    "Ihr Unternehmen wird im Handelsregister gefunden und mit Sanktionslisten abgeglichen, bevor es handeln kann.",
+    "Die Gebühren von SELYVO werden bei Fälligkeit aus einem vorausbezahlten Budget beglichen. Sie laden es per Karte oder Überweisung auf."
+   ],
+   "write": "Schreiben Sie uns",
+   "watch": "Ansehen, wie der Beitritt funktioniert",
+   "signIn": "Anmelden"
+  },
+  "contact": {
+   "eyebrow": "Kontakt",
+   "title": "Fragen vor dem Beitritt?",
+   "lede": "Schreiben Sie uns zu SELYVO Market, SELYVO Core oder einer Partnerschaft. Wir antworten per E-Mail.",
+   "firstName": "Vorname",
+   "lastName": "Nachname",
+   "company": "Unternehmen",
+   "email": "Geschäftliche E-Mail",
+   "country": "Land",
+   "topic": "Worum es geht",
+   "topics": [
+    "Beitritt zu SELYVO Market",
+    "SELYVO Core für meine Organisation",
+    "Eine Partnerschaft",
+    "Etwas anderes"
+   ],
+   "message": "Ihre Nachricht",
+   "send": "Senden",
+   "note": "Wir verwenden Ihre Angaben nur, um Ihnen zu antworten.",
+   "required": "Geben Sie Ihren Namen, Ihre E-Mail-Adresse und Ihre Nachricht ein."
+  },
+  "faqTitle": "Häufige Fragen",
+  "related": "Ebenfalls auf SELYVO",
+  "coming": "Demnächst",
+  "example": "Beispiel",
+  "footer": {
+   "about": "SELYVO Market ist ein B2B-Marktplatz für verifizierte Unternehmen und Freiberufler: an einem Ort einkaufen, verkaufen, abrechnen und zusammenarbeiten.",
+   "market": "Marktplatz",
+   "company": "SELYVO",
+   "contact": "Kontakt",
+   "guides": "Videoanleitungen",
+   "rights": "© 2026 SELYVO. Alle Rechte vorbehalten.",
+   "languages": "Sprachen"
+  }
+ },
+ "pages": {
+  "index": {
+   "title": "SELYVO Market – der B2B-Marktplatz für verifizierte Unternehmen",
+   "description": "B2B-Marktplatz nur auf Einladung: Anfragen, Angebote, Bestellungen, Rechnungen mit MwSt. je Land, Zeiterfassung und Auslagen – mit KI, die Ihre Dokumente liest.",
+   "hero": {
+    "eyebrow": "B2B-Marktplatz nur auf Einladung",
+    "title": "Wo verifizierte Unternehmen einkaufen, verkaufen und zusammenarbeiten.",
+    "lede": "SELYVO Market bringt Kunden und Lieferanten auf eine Plattform, von der ersten Anfrage bis zur bezahlten Rechnung. Jedes Mitglied wird im Handelsregister gefunden, geprüft und qualifiziert, bevor es mit dem Handel beginnt.",
+    "cta": "So treten Sie bei",
+    "cta2": "Rundgang ansehen",
+    "shot": "Einkauf auf SELYVO Market: was auf Sie wartet, und jede Anfrage, jedes Angebot und jede Verhandlung."
+   },
+   "trust": [
+    [
+     "Im Handelsregister gefunden",
+     "Registernummer, Adresse und USt-IdNr. stammen aus dem Handelsregister."
+    ],
+    [
+     "Geprüft",
+     "Sanktionslisten werden geprüft, bevor ein Unternehmen handeln kann."
+    ],
+    [
+     "Qualifiziert",
+     "Antworten auf die Fragen von SELYVO, mit Nachweisen, ergeben eine erste Bewertung."
+    ],
+    [
+     "Bewertet",
+     "Mit abgeschlossenen Bestellungen übernehmen die Bewertungen der Kunden."
+    ]
+   ],
+   "areas": {
+    "eyebrow": "Der Marktplatz",
+    "title": "Ein Marktplatz für das ganze Unternehmen",
+    "lede": "Jeder Bereich funktioniert für sich und übergibt an den nächsten: Aus einer Anfrage werden Angebot, Bestellung, Lieferung und Rechnung – ohne erneute Eingabe.",
+    "buy": "Angebotsanfragen, Angebotsvergleich Position für Position und Bestellungen – mit einem KI-Verhandler, der Sie fragt, bevor etwas vereinbart wird.",
+    "sell": "Shop-Angebote mit Mitgliederpreisen, Anfragen aus Ihren Kategorien, gezielte Angebote und eine Pipeline vom Interessenten bis zum Abschluss.",
+    "orders": "Jede Einkaufsbestellung und jeder Verkaufsauftrag mit Status: angenommen, in Teilen geliefert, empfangen, in Rechnung gestellt, bezahlt.",
+    "invoices": "Rechnungen aus Bestellungen mit MwSt. je Land und Eingangsrechnungen, die die KI aus einer Datei oder E-Mail liest.",
+    "projects": "Leistungsnachweise für jeden Kunden, Auslagen mit Belegen und ein Geschäftspostfach mit Chat in einer Liste.",
+    "trust": "Eingeladene Mitglieder, Registerdaten, Sanktionsprüfung, Qualifikation, Freigaben und die Historie jedes Vorgangs.",
+    "core": "Ihr eigener Arbeitsbereich für Lieferanten, Fragebögen, Kataloge und Freigabeprozesse – neben SELYVO Market."
+   },
+   "how": {
+    "eyebrow": "Erste Schritte",
+    "title": "So startet ein Unternehmen auf SELYVO",
+    "steps": [
+     [
+      "Einladung erhalten",
+      "Ein Kunde oder Lieferant, der Mitglied ist, lädt Sie per E-Mail ein."
+     ],
+     [
+      "Unternehmen registrieren",
+      "SELYVO findet es im Handelsregister. Sie bestätigen es und geben an, was Sie einkaufen und verkaufen."
+     ],
+     [
+      "Qualifizieren",
+      "Beantworten Sie die Fragen von SELYVO und gegebenenfalls die Ihres Einladenden. Ihre erste Bewertung folgt."
+     ],
+     [
+      "Handeln",
+      "Angebote im Shop einstellen, Anfragen beantworten, Angebote senden, Bestellungen annehmen und abrechnen – alles auf SELYVO."
+     ]
+    ]
+   },
+   "ai": {
+    "eyebrow": "KI",
+    "title": "KI, die liest und entwirft. Sie entscheiden.",
+    "lede": "Die KI übernimmt das Lesen und den ersten Entwurf. Nichts wird gesendet, vereinbart oder gebucht, bevor ein Mensch es bestätigt.",
+    "items": [
+     [
+      "Liest Ihre Dateien",
+      "Aus einer Spezifikation wird eine Anfrage mit Losen und Positionen. Aus dem PDF eines Lieferanten wird ein Angebot. Aus einem Beleg wird eine Auslage.",
+      ""
+     ],
+     [
+      "Liest Ihre E-Mails",
+      "Rechnungen, Angebote und Bestellungen, die per E-Mail eingehen, werden erkannt und für Sie vorbereitet.",
+      ""
+     ],
+     [
+      "Verhandelt für Sie",
+      "Ein KI-Verhandler schreibt dem Lieferanten in dessen Sprache, im Rahmen der Position, die Sie festlegen, und fragt Sie, bevor etwas vereinbart wird.",
+      "coming"
+     ],
+     [
+      "Das Modell Ihrer Wahl",
+      "Ihr Unternehmen wählt sein KI-Modell unter denen, die SELYVO anbietet, und legt fest, wie gründlich es arbeitet. Jede Nutzung wird mit ihren Kosten aufgeführt.",
+      ""
+     ]
+    ]
+   },
+   "audiences": {
+    "eyebrow": "Für wen",
+    "title": "Für alle Seiten eines Geschäfts",
+    "items": [
+     [
+      "Für Einkäufer",
+      "Anfragen veröffentlichen, Angebote vergleichen, bestellen und bezahlen – bei Lieferanten, die nachweislich echt sind."
+     ],
+     [
+      "Für Lieferanten",
+      "Von verifizierten Einkäufern in Ihren Kategorien gefunden werden, ihre Anfragen beantworten und zu Ihren Bedingungen bezahlt werden."
+     ],
+     [
+      "Für Freiberufler",
+      "Zeit und Auslagen für jeden Kunden erfassen und alles in einem Zug abrechnen."
+     ]
+    ]
+   },
+   "core": {
+    "eyebrow": "Für größere Organisationen",
+    "title": "SELYVO Core: Ihre eigene Prozessplattform",
+    "text": "Sie brauchen die Prozesse von SELYVO in Ihrer Organisation? SELYVO Core ergänzt Lieferantenmanagement, Fragebögen, Kataloge und Freigabeprozesse mit KI-Prüfungen – neben SELYVO Market und den Systemen, die Sie bereits nutzen.",
+    "link": "SELYVO Core entdecken"
+   },
+   "langs": {
+    "title": "In Ihrer Sprache",
+    "text": "SELYVO Market spricht Englisch, Tschechisch, Slowakisch, Deutsch, Spanisch, Dänisch und Schwedisch, und jede Person wählt ihre eigene Sprache. Fragebögen werden in jeder Sprache verfasst, fehlende übersetzt die KI. Diese Website und ihre Videoanleitungen gibt es in 15 Sprachen."
+   },
+   "faq": [
+    [
+     "Wer kann SELYVO Market beitreten?",
+     "Unternehmen und Freiberufler, die ein Mitglied eingeladen hat. Bitten Sie einen Kunden oder Lieferanten auf SELYVO, Sie einzuladen. Wenn Sie noch niemanden auf SELYVO kennen, schreiben Sie uns."
+    ],
+    [
+     "Woran erkennt SELYVO, dass ein Unternehmen echt ist?",
+     "Jedes Unternehmen wird im Handelsregister gefunden, mit Sanktionslisten abgeglichen und mit den Fragen von SELYVO qualifiziert, bevor es handeln kann. Mit seinen Bestellungen folgen die Bewertungen der Kunden."
+    ],
+    [
+     "Was kostet es?",
+     "Die Gebühren von SELYVO werden bei Fälligkeit aus einem vorausbezahlten Budget beglichen. Sie laden es per Karte oder Überweisung auf und sehen jede Belastung in Ihrem Konto."
+    ],
+    [
+     "Funktioniert es mit unserer Buchhaltung?",
+     "Rechnungen enthalten die MwSt. je Land und die Angaben, die der jeweilige Fall verlangt, und lassen sich drucken oder als PDF speichern. Rechnungen aus Ihrer eigenen Buchhaltung können Sie als Datei über SELYVO senden."
+    ],
+    [
+     "Gibt es eine App für das Smartphone?",
+     "SELYVO läuft im Browser auf Computer, Tablet oder Smartphone. Jede Ansicht passt sich dem Smartphone an."
+    ]
+   ]
+  },
+  "spend-control": {
+   "title": "B2B-Einkauf auf SELYVO Market – Anfragen, Angebote, Bestellungen",
+   "description": "Angebotsanfrage tippen oder per KI aus einer Datei lesen lassen. Angebote je Los und Position vergleichen, verhandeln und verifizierte Lieferanten beauftragen.",
+   "hero": {
+    "eyebrow": "Einkauf",
+    "title": "Vom Bedarf zur bestätigten Bestellung – mit vertrauenswürdigen Lieferanten.",
+    "lede": "Beschreiben Sie, was Sie brauchen, oder ziehen Sie die Spezifikation hinein und lassen Sie die KI sie lesen. Verifizierte Lieferanten bieten an, Sie vergleichen die Angebote Position für Position, verhandeln und geben die Bestellung auf. Jeder Schritt bleibt dokumentiert.",
+    "shot": "Angebote nach Los vergleichen: 8.894,40 € von Holzwerk Brandt für Platten und Beschläge neben 9.138,60 € von Nordic Panels."
+   },
+   "features": {
+    "title": "Alles, was ein Einkauf braucht",
+    "items": [
+     [
+      "Anfragen aus einer Datei",
+      "Ziehen Sie eine Spezifikation hinein: Die KI findet die Lose, die Positionen mit Mengen und Einheiten und die Fragen an die Lieferanten. Nichts wird übernommen, bevor Sie es geprüft haben."
+     ],
+     [
+      "Lose für Produkte und Dienstleistungen",
+      "Das Material in ein Los, Transport oder Montage in ein anderes. Jedes Los hat ein eigenes Budget und wird einzeln vergeben."
+     ],
+     [
+      "Sie bestimmen, wer anbietet",
+      "Jeder Lieferant der Kategorie aus den Ländern Ihrer Wahl – oder nur die, die Sie namentlich einladen. Ihre Fragebögen gehen mit der Anfrage hinaus."
+     ],
+     [
+      "Angebote im direkten Vergleich",
+      "Nach Los, nach Angebot oder Position für Position: Preis, Lieferung und Bedingungen nebeneinander, der niedrigste Preis und die früheste Lieferung markiert."
+     ],
+     [
+      "Bestellungen aus dem Angebot",
+      "Vergeben Sie jedes Los und erstellen Sie die Bestellung aus dem Gewinnerangebot. Der Lieferant nimmt sie auf SELYVO an, und Sie verfolgen sie bis zu Lieferung und Rechnung."
+     ],
+     [
+      "Alltagseinkauf im Shop",
+      "Regelmäßig benötigte Artikel bestellen Sie direkt aus den Shop-Angeboten verifizierter Lieferanten zu Mitgliederpreisen – oder sammeln sie im Warenkorb."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Ein Einkauf, Schritt für Schritt",
+    "steps": [
+     [
+      "Anfrage",
+      "Getippt oder aus einer Datei gelesen, mit Losen, Positionen und Fragen."
+     ],
+     [
+      "Angebote",
+      "Lieferanten bieten bis zu der Frist an, die Sie setzen."
+     ],
+     [
+      "Verhandlung",
+      "Selbst oder mit dem KI-Verhandler."
+     ],
+     [
+      "Vergabe",
+      "Das beste Angebot für jedes Los."
+     ],
+     [
+      "Bestellung",
+      "Gesendet, angenommen und bis zur Rechnung verfolgt."
+     ]
+    ]
+   },
+   "highlight": {
+    "title": "Der KI-Verhandler",
+    "badge": "coming",
+    "text": "Legen Sie fest, was wichtig ist, Ihr Ziel und Ihr Limit. Die KI schreibt dem Lieferanten in dessen Sprache aus Ihrem SELYVO-Postfach, gibt sich als KI zu erkennen und fragt Sie, bevor etwas vereinbart wird. Im Video erzielt sie 8.469,60 € bei einem Angebot von 8.894,40 € – 4,8 % weniger."
+   },
+   "video": "buying",
+   "faq": [
+    [
+     "Kann ein Lieferant, der nicht auf SELYVO ist, ein Angebot senden?",
+     "Laden Sie ihn mit Ihrer Anfrage per E-Mail ein. Er tritt SELYVO bei, bevor er ein Angebot senden kann – so kommt jedes Angebot von einem verifizierten Unternehmen."
+    ],
+    [
+     "Sehen Lieferanten mein Budget?",
+     "Nein. Das Budget eines Loses dient Ihrer eigenen Planung. Lieferanten sehen es nur, wenn Sie es ausdrücklich teilen."
+    ],
+    [
+     "Kann ich ohne Anfrage einkaufen?",
+     "Ja. Bestellen Sie direkt aus einem Shop-Angebot, zu dem Mitgliederpreis, den der Lieferant festlegt."
+    ]
+   ],
+   "related": [
+    "sell",
+    "orders",
+    "invoices"
+   ]
+  },
+  "revenue-acceleration": {
+   "title": "B2B-Vertrieb auf SELYVO Market – Shop, Anfragen, Angebote",
+   "description": "Erreichen Sie verifizierte Einkäufer: Shop-Angebote mit Mitgliederpreisen, Anfragen aus Ihren Kategorien, gezielte Angebote und jeder Verkaufsfall im Blick.",
+   "hero": {
+    "eyebrow": "Verkauf",
+    "title": "Werden Sie von Einkäufern gefunden, die bestellen wollen.",
+    "lede": "Stellen Sie ein, was Sie verkaufen, beantworten Sie die Anfragen in Ihren Kategorien und senden Sie Angebote an Kunden Ihrer Wahl. Ihre Pipeline zeigt jeden Fall vom ersten Interessenten bis zum Abschluss.",
+    "shot": "Verkauf auf SELYVO Market: jeder Fall vom Interessenten bis zum Abschluss, mit seinem Wert in jeder Phase."
+   },
+   "features": {
+    "title": "Verkaufen, von Anfang bis Ende",
+    "items": [
+     [
+      "Shop-Angebote mit Mitgliederpreisen",
+      "Produkte und Dienstleistungen mit Fotos, Preisen nach Menge oder Paket, Lieferzeiten und den Regionen, die Sie beliefern."
+     ],
+     [
+      "Anfragen, die zu Ihnen passen",
+      "Anfragen in Ihren Kategorien und Regionen erreichen Sie unter Verkauf als Chancen. Antworten Sie mit einem Angebot, Position für Position."
+     ],
+     [
+      "Gezielte Angebote",
+      "Senden Sie ein Angebot an Kunden Ihrer Wahl. Sie sehen es in ihrem Feed und können direkt daraus bestellen."
+     ],
+     [
+      "Ihre Pipeline",
+      "Jeder Verkaufsfall vom Interessenten, bis er gewonnen oder verloren ist – mit seinem Wert in jeder Phase und dem nächsten Schritt."
+     ],
+     [
+      "Feeds, die für Sie arbeiten",
+      "Teilen Sie Neuigkeiten mit Ihren Kunden und mit Unternehmen in Ihren Kategorien, und bewerben Sie eine Neuigkeit oder ein Shop-Angebot, um mehr von ihnen zu erreichen."
+     ],
+     [
+      "Schneller bezahlt",
+      "Erstellen Sie die Rechnung aus der Bestellung, mit MwSt. je Land. Oder lassen Sie SELYVO die Rechnung einziehen: SELYVO zahlt Ihnen den Betrag abzüglich seiner Gebühr aus, und der Kunde zahlt an SELYVO."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Ein Verkauf, Schritt für Schritt",
+    "steps": [
+     [
+      "Shop-Angebot",
+      "Ihre Produkte und Dienstleistungen, mit Mitgliederpreisen."
+     ],
+     [
+      "Anfrage",
+      "Ein Einkäufer fragt an, in Ihrer Kategorie."
+     ],
+     [
+      "Angebot",
+      "Ihre Antwort, Position für Position."
+     ],
+     [
+      "Bestellung",
+      "Angenommen und geliefert."
+     ],
+     [
+      "Rechnung",
+      "Aus der Bestellung ausgestellt und bezahlt."
+     ]
+    ]
+   },
+   "video": "overview",
+   "faq": [
+    [
+     "Wer sieht meine Shop-Angebote?",
+     "Mitglieder von SELYVO Market in den Regionen, die Sie beliefern. Sie sehen Ihre Mitgliederpreise und Ihre Bewertung."
+    ],
+    [
+     "Kann ich an ein Unternehmen verkaufen, das noch nicht auf SELYVO ist?",
+     "Laden Sie es ein. Sobald es beigetreten ist, kann es bei Ihnen bestellen und Ihre Rechnungen auf SELYVO empfangen."
+    ],
+    [
+     "Wie erreichen mich Anfragen?",
+     "Anfragen, die in Ihren Kategorien und Ländern veröffentlicht werden, erscheinen unter Verkauf. Ein Einkäufer kann Sie auch namentlich einladen."
+    ]
+   ],
+   "related": [
+    "buy",
+    "orders",
+    "invoices"
+   ]
+  },
+  "inventory-control": {
+   "title": "Bestellungen, Lieferungen und Lieferscheine auf SELYVO Market",
+   "description": "Einkaufsbestellungen und Verkaufsaufträge mit Status in einer Liste: angenommen, in Teilen mit Lieferschein geliefert, empfangen, berechnet, bezahlt.",
+   "hero": {
+    "eyebrow": "Bestellungen & Lieferungen",
+    "title": "Jede Bestellung von der Annahme bis zur Bezahlung an einem Ort.",
+    "lede": "Eine Bestellung auf SELYVO hat ihren eigenen Zeitverlauf. Der Lieferant nimmt an und liefert, bei Bedarf in Teilen; der Kunde bestätigt den Eingang; die Rechnung folgt. Beide Seiten sehen denselben Stand.",
+    "shot": "Bestellung ORD-7311: von Holzwerk Brandt angenommen, Lieferung bis 13. November – und wie es weitergeht."
+   },
+   "features": {
+    "title": "Bestellungen, auf die sich beide Seiten verlassen können",
+    "items": [
+     [
+      "Ein Status für beide Seiten",
+      "Bestellt, angenommen, geliefert, empfangen, in Rechnung gestellt, bezahlt: Kunde und Lieferant sehen dieselben Schritte und Termine."
+     ],
+     [
+      "Teillieferungen",
+      "Jede Lieferung hat ihren Lieferschein. Der Kunde bestätigt den Eingang, und der Rest bleibt offen."
+     ],
+     [
+      "Nachrichten zur Bestellung",
+      "Besprechen Sie alles direkt in der Bestellung. Nichts wird gesendet, bevor Sie auf Senden klicken."
+     ],
+     [
+      "Verknüpfte Dokumente",
+      "Die Bestellung, ihre Lieferscheine, das Angebot, aus dem sie stammt, und ihre Rechnungen verweisen aufeinander."
+     ],
+     [
+      "Wenn etwas nicht stimmt",
+      "Melden Sie ein Problem zur Bestellung und behalten Sie Kommunikation und Nachweise direkt dabei."
+     ],
+     [
+      "Drucken oder als PDF speichern",
+      "Mit Ihrem Logo, für Ihre Unterlagen oder Ihr Lager."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Die Schritte einer Bestellung",
+    "steps": [
+     [
+      "Bestellt",
+      "Aus dem Angebot oder dem Shop gesendet."
+     ],
+     [
+      "Angenommen",
+      "Der Lieferant bestätigt sie."
+     ],
+     [
+      "Geliefert",
+      "Mit Lieferschein, bei Bedarf in Teilen."
+     ],
+     [
+      "Empfangen",
+      "Der Kunde bestätigt den Eingang."
+     ],
+     [
+      "Berechnet und bezahlt",
+      "Die Rechnung folgt der Bestellung."
+     ]
+    ]
+   },
+   "video": "buying",
+   "faq": [
+    [
+     "Kann ein Lieferant in mehreren Teilen liefern?",
+     "Ja. Jede Teillieferung hat ihren Lieferschein, und der Kunde bestätigt den Eingang. Die Bestellung bleibt offen, bis alles da ist."
+    ],
+    [
+     "Wer sieht die Nachrichten einer Bestellung?",
+     "Die Personen, die bei beiden Unternehmen an der Bestellung arbeiten. Eine Nachricht geht erst hinaus, wenn Sie auf Senden klicken."
+    ],
+    [
+     "Folgen Bestellungen Freigaberegeln?",
+     "Ja. Ihr Unternehmen legt fest, wer welche Bestellungen freigibt, und die Bestellung wartet, bis das geschehen ist."
+    ]
+   ],
+   "related": [
+    "buy",
+    "sell",
+    "invoices"
+   ]
+  },
+  "finance-administration": {
+   "title": "Rechnungen, Mehrwertsteuer und Zahlungen auf SELYVO Market",
+   "description": "Rechnungen aus Bestellungen mit der richtigen MwSt. je Land, Eingangsrechnungen per KI gelesen, Verbindlichkeiten, Forderungen und Überfälliges in einer Liste.",
+   "hero": {
+    "eyebrow": "Rechnungen & Zahlungen",
+    "title": "Rechnungen, die sich selbst mit der Bestellung abgleichen.",
+    "lede": "Stellen Sie Rechnungen aus Ihren Bestellungen aus, mit der MwSt. je Land und den gesetzlich vorgeschriebenen Angaben. Eingehende Rechnungen – per E-Mail, als Datei oder auf SELYVO – liest die KI und gleicht sie mit ihrer Bestellung ab, bevor Sie sie freigeben.",
+    "shot": "Rechnung FV-2026-0018 an Nordform ApS: die Stunden und Auslagen für Oktober, im Reverse-Charge-Verfahren."
+   },
+   "features": {
+    "title": "Weniger Abtippen, weniger Überraschungen",
+    "items": [
+     [
+      "MwSt. je Land",
+      "Der Steuersatz, das Reverse-Charge-Verfahren oder die Steuerbefreiung für die beiden Länder – und die gesetzlich vorgeschriebenen Angaben für jeden Fall."
+     ],
+     [
+      "Rechnungen per E-Mail",
+      "Lieferanten senden Rechnungen an invoice@market.selyvo.com. Die KI liest jede, findet Ihr Unternehmen und die Bestellung und fragt beim Absender nach, was fehlt."
+     ],
+     [
+      "Rechnungen aus einer Datei",
+      "Ziehen Sie ein PDF hinein, und die KI liest Lieferant, Positionen, MwSt. und Summen – zur Prüfung durch Sie."
+     ],
+     [
+      "Ohne Bestellung, nach Ihren Regeln",
+      "Akzeptieren Sie Rechnungen ohne Bestellung von Lieferanten Ihrer Wahl, bis zu dem Betrag, den Sie festlegen."
+     ],
+     [
+      "Auslagen mit Belegen",
+      "Belege, von der KI gelesen, an die Bestellung eines Kunden weiterberechnet oder als eigene Kosten behalten."
+     ],
+     [
+      "Verbindlichkeiten, Forderungen, Überfälliges",
+      "Eine Liste für beide Seiten, mit dem, was fällig ist, und dem, was im Verzug ist."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Eine eingehende Rechnung",
+    "steps": [
+     [
+      "Geht ein",
+      "Auf SELYVO, per E-Mail oder als Datei."
+     ],
+     [
+      "Von der KI gelesen",
+      "Lieferant, Positionen, MwSt. und Summen."
+     ],
+     [
+      "Abgeglichen",
+      "Mit ihrer Bestellung und dem Wareneingang."
+     ],
+     [
+      "Freigegeben",
+      "Von der Person, die Ihre Regeln vorsehen."
+     ],
+     [
+      "Bezahlt",
+      "Und auf beiden Seiten als bezahlt markiert."
+     ]
+    ]
+   },
+   "video": "freelancer",
+   "faq": [
+    [
+     "Kann ich Rechnungen aus meiner eigenen Buchhaltung senden?",
+     "Ja. Laden Sie die Datei hoch: SELYVO liest sie und sendet sie zur zugehörigen Bestellung an den Kunden."
+    ],
+    [
+     "Können wir unsere bisherigen Rechnungen übernehmen?",
+     "Ja. Die KI liest Ihre bisherigen Rechnungen, und deren Lieferanten können zu SELYVO eingeladen werden."
+    ],
+    [
+     "Wie wird die MwSt. grenzüberschreitend behandelt?",
+     "SELYVO wendet je nach den beiden Ländern den passenden Steuersatz, das Reverse-Charge-Verfahren oder die Steuerbefreiung an und druckt die gesetzlich vorgeschriebenen Angaben."
+    ]
+   ],
+   "related": [
+    "orders",
+    "projects",
+    "buy"
+   ]
+  },
+  "operational-scale": {
+   "title": "Projekte, Zeiterfassung, Auslagen und MailChat auf SELYVO Market",
+   "description": "Leistungsnachweise wochenweise je Kunde, Auslagen mit Belegen, eine Rechnung für beides – und E-Mail und Chat mit Partnern in einem Geschäftspostfach.",
+   "hero": {
+    "eyebrow": "Projekte & MailChat",
+    "title": "Für Ihre Kunden arbeiten – ohne Papierkram.",
+    "lede": "Leistungsnachweise, Auslagen und Nachrichten liegen direkt bei den Bestellungen, zu denen sie gehören. Kunden geben frei, was sie freigeben wollen, und Sie rechnen den Rest in einem Zug ab.",
+    "shot": "Ihre Zeit unter Projekte: Woche für Woche für jeden Kunden – und was Ihre Aufmerksamkeit braucht."
+   },
+   "features": {
+    "title": "Zeit und Auslagen, bereit zur Abrechnung",
+    "items": [
+     [
+      "Ihre Woche, jeder Kunde",
+      "Erfassen Sie Stunden oder Tage für jeden Kunden und jede Bestellung, mit Ihrer Tätigkeit. Der Kunde liest sie im Leistungsnachweis."
+     ],
+     [
+      "Die Regeln jedes Kunden",
+      "Vor der Rechnung freigegeben, der Rechnung beigefügt oder nicht nötig, wöchentlich oder monatlich – wie jeder Kunde es festlegt."
+     ],
+     [
+      "Weiterberechnete Auslagen",
+      "Erfassen Sie eine Auslage mit ihrem Beleg. Sie wartet in der Monatsabrechnung des Kunden, bis sie freigegeben ist."
+     ],
+     [
+      "Eine Rechnung für beides",
+      "Freigegebene Stunden und Auslagen kommen auf eine Rechnung, jede Auslage ohne MwSt."
+     ],
+     [
+      "Eigene Zeit, getrennt geführt",
+      "Pre-Sales, Angebotserstellung und Weiterbildung werden zu internen Sätzen bewertet und erreichen nie einen Kunden."
+     ],
+     [
+      "MailChat",
+      "Ein Geschäftspostfach in SELYVO: E-Mails und Chats mit Kunden und Lieferanten in einer Liste, mit KI, die Rechnungen, Angebote und Bestellungen erkennt."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Von Stunden zur Rechnung",
+    "steps": [
+     [
+      "Stunden",
+      "Wochenweise erfasst."
+     ],
+     [
+      "Leistungsnachweis",
+      "Für den Zeitraum des Kunden gesendet."
+     ],
+     [
+      "Freigabe",
+      "Durch den Kunden, wenn er sie verlangt."
+     ],
+     [
+      "Rechnung",
+      "Stunden und Auslagen zusammen."
+     ]
+    ]
+   },
+   "highlight": {
+    "title": "Projekte mit Budgets und Meilensteinen",
+    "badge": "coming",
+    "text": "Projekte mit Budget, Meilensteinen und Aufgaben, auf die jeder Einkauf, jeder Verkauf, jede Stunde und jede Auslage angerechnet wird."
+   },
+   "video": "freelancer",
+   "faq": [
+    [
+     "Kann ein Kunde Leistungsnachweise auf SELYVO freigeben?",
+     "Ja. Die freigebende Person beim Kunden sieht jeden Leistungsnachweis mit seinen Tagen und Tätigkeiten und gibt ihn frei oder mit einem Kommentar zurück."
+    ],
+    [
+     "Brauche ich MailChat?",
+     "Nein, es ist optional. Ihr Unternehmen erhält damit ein SELYVO-Postfach, um Partnern zu schreiben, und Ihre eigene E-Mail-Adresse wird nie angezeigt."
+    ],
+    [
+     "Können Freiberufler SELYVO nutzen?",
+     "Ja. Ein Freiberufler tritt als Ein-Personen-Unternehmen bei, auf Einladung wie jedes andere, und arbeitet mit denselben Werkzeugen."
+    ]
+   ],
+   "related": [
+    "invoices",
+    "sell",
+    "trust"
+   ]
+  },
+  "compliance-by-design": {
+   "title": "Vertrauen, Compliance und Lieferantenprüfung auf SELYVO Market",
+   "description": "Jedes Mitglied ist eingeladen, im Handelsregister gefunden, auf Sanktionen geprüft und qualifiziert, bevor es handeln kann. Jeder Vorgang behält seine Historie.",
+   "hero": {
+    "eyebrow": "Vertrauen & Compliance",
+    "title": "Wissen, mit wem Sie es zu tun haben – und belegen, was vereinbart wurde.",
+    "lede": "Jedes Unternehmen auf SELYVO wird von einem Mitglied eingeladen, im Register gefunden, geprüft und qualifiziert, bevor es mit dem Handel beginnt. Jeder Vorgang behält seine Historie: wer was wann getan hat.",
+    "shot": "Registrierung: das Unternehmen im Handelsregister gefunden, mit einem Klick bestätigt."
+   },
+   "features": {
+    "title": "Vertrauen in jedem Schritt",
+    "items": [
+     [
+      "Von einem Mitglied eingeladen",
+      "Keine anonymen Registrierungen. Jedes Unternehmen tritt über die Einladung eines Kunden oder Lieferanten bei, der bereits auf SELYVO ist."
+     ],
+     [
+      "Im Register gefunden",
+      "Registernummer, Adresse, USt-IdNr. und eingetragene Tätigkeiten stammen aus dem amtlichen Handelsregister."
+     ],
+     [
+      "Sanktionsprüfung",
+      "Jedes Unternehmen wird beim Beitritt mit Sanktionslisten abgeglichen, bevor es handeln kann."
+     ],
+     [
+      "Qualifikation und Fragebögen",
+      "Die Fragen von SELYVO mit Nachweisen ergeben eine erste Bewertung. Ihre eigenen Fragebögen gehen an Ihre Lieferanten und Kunden."
+     ],
+     [
+      "Rechte und Freigaben",
+      "Jede Person sieht, was ihre Rolle erlaubt. Ihre Freigaberegeln bestimmen, wer Bestellungen, Leistungsnachweise und Auslagen freigibt."
+     ],
+     [
+      "Eine Historie für jeden Vorgang",
+      "Anfragen, Angebote, Bestellungen und Rechnungen behalten ihre Historie: wer was wann geändert hat."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Wie ein Unternehmen aufgenommen wird",
+    "steps": [
+     [
+      "Einladung",
+      "Von einem Mitglied."
+     ],
+     [
+      "Register",
+      "Unternehmensdaten aus dem Handelsregister."
+     ],
+     [
+      "Prüfungen",
+      "Sanktionslisten."
+     ],
+     [
+      "Qualifikation",
+      "Antworten, Nachweise, eine erste Bewertung."
+     ],
+     [
+      "Bewertungen",
+      "Von Kunden, Bestellung für Bestellung."
+     ]
+    ]
+   },
+   "video": "joining",
+   "faq": [
+    [
+     "Können wir eigene Anforderungen an Lieferanten stellen?",
+     "Ja. Senden Sie Ihre eigenen Fragebögen mit einer Einladung oder einer Anfrage, und sehen Sie die Antworten und Nachweise, bevor Sie entscheiden."
+    ],
+    [
+     "Wer sieht was in unserem Unternehmen?",
+     "Jede Person sieht, was ihre Rolle erlaubt. Beträge und Finanzen sehen nur Personen mit den entsprechenden Rechten."
+    ],
+    [
+     "Was sieht ein Partner von uns?",
+     "Nur das, was Sie senden oder veröffentlichen: Ihre Shop-Angebote, Ihre Angebote, Ihre Bestellungen mit den zugehörigen Rechnungen und Ihr Profil."
+    ]
+   ],
+   "related": [
+    "buy",
+    "sell",
+    "core"
+   ]
+  },
+  "operating-layer": {
+   "title": "SELYVO Core – die Prozessplattform für Ihre eigenen Abläufe",
+   "description": "Für Unternehmen mit eigenen Einkaufsprozessen: Lieferantenmanagement, Fragebögen, Kataloge und Freigaben mit KI-Prüfung, neben SELYVO Market und Ihren Systemen.",
+   "hero": {
+    "eyebrow": "SELYVO Core · auf Wunsch",
+    "title": "Ihre eigenen Prozesse, auf derselben Grundlage wie SELYVO Market.",
+    "lede": "SELYVO Core gibt größeren Organisationen einen eigenen Arbeitsbereich: Lieferanten mit Risiko- und Leistungsbewertung, Fragebögen, Kataloge und Prozessabläufe mit KI-Prüfungen – verbunden mit SELYVO Market und den Systemen, die Sie bereits nutzen.",
+    "shot": "Die Lieferantenübersicht in SELYVO Core: aktive, bevorzugte, risikoreiche und neue Lieferanten im Onboarding – und jeder Antrag auf einen weiteren."
+   },
+   "features": {
+    "title": "Was SELYVO Core ergänzt",
+    "items": [
+     [
+      "Lieferantenübersicht",
+      "Aktive, bevorzugte, risikoreiche und neue Lieferanten im Onboarding mit den KPIs Ihrer Wahl – und jeder Antrag auf einen neuen Lieferanten in einer Warteschlange."
+     ],
+     [
+      "Fragebögen",
+      "Wiederverwendbare Fragensätze für Onboarding, Lieferantenbewertung und ESG, von Lieferanten mit Nachweisen beantwortet und mit Punkten bewertet."
+     ],
+     [
+      "Anfordern & einkaufen",
+      "Ein Katalog für Mitarbeitende mit bevorzugten Artikeln, Bundles und Budgets je Kostenstelle. Anforderungen laufen in die Freigabe."
+     ],
+     [
+      "Prozesse mit KI-Prüfung",
+      "Freigabeprozesse, in denen die KI einen Lieferanten oder ein Dokument prüft und „bestanden“, „nicht bestanden“ oder „Prüfung nötig“ meldet. Ein Mensch entscheidet."
+     ],
+     [
+      "Passt in Ihre Systemlandschaft",
+      "Nutzen Sie es als integrierte SELYVO-Module oder als einheitliche Oberfläche über den ERP-, CRM- und Einkaufssystemen, die Sie behalten."
+     ],
+     [
+      "Konfiguriert, nicht programmiert",
+      "Jedes Limit und jeden Schwellenwert legen Ihre Administratoren fest. Nichts ist fest im Code verankert."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Ein Betriebsmodell",
+    "steps": [
+     [
+      "Erfassen",
+      "Anfragen, Dokumente und Daten gehen nur einmal ein."
+     ],
+     [
+      "Verstehen",
+      "Die KI liest, prüft und klassifiziert sie."
+     ],
+     [
+      "Ausführen",
+      "Prozesse leiten die Arbeit weiter."
+     ],
+     [
+      "Kontrollieren",
+      "Freigaben und Regeln halten sie im Rahmen."
+     ],
+     [
+      "Verbessern",
+      "KPIs zeigen, wo Handlungsbedarf besteht."
+     ]
+    ]
+   },
+   "shots": [
+    "Die Lieferantenübersicht mit den KPIs Ihrer Wahl.",
+    "Fragebögen für Onboarding, Lieferantenbewertung und ESG.",
+    "Anfordern & einkaufen: der Katalog für Mitarbeitende.",
+    "Ein Prozess mit KI-Prüfung als Freigabeschritt."
+   ],
+   "faq": [
+    [
+     "Brauchen wir SELYVO Core, um SELYVO Market zu nutzen?",
+     "Nein. SELYVO Market funktioniert eigenständig. Core ist für Organisationen, die eigene Prozesse und einen eigenen Arbeitsbereich wollen."
+    ],
+    [
+     "Kann Core parallel zu unserem ERP laufen?",
+     "Ja. Es kann das System sein, in dem gearbeitet wird, oder eine Oberfläche über den Systemen, die Sie behalten."
+    ],
+    [
+     "Wie fangen wir an?",
+     "Mit einem Prozess, etwa dem Lieferanten-Onboarding oder dem Einkauf durch Mitarbeitende – mit einer Messung vorher und nachher."
+    ]
+   ],
+   "related": [
+    "buy",
+    "trust",
+    "invoices"
+   ]
+  },
+  "thank-you": {
+   "title": "Vielen Dank – SELYVO",
+   "description": "Vielen Dank für Ihre Nachricht an SELYVO.",
+   "hero": {
+    "eyebrow": "Nachricht gesendet",
+    "title": "Vielen Dank. Ihre Nachricht ist bei uns angekommen.",
+    "lede": "Wir antworten per E-Mail. Sehen Sie sich in der Zwischenzeit die Videoanleitungen an oder lesen Sie, wie der Beitritt funktioniert."
+   },
+   "links": {
+    "videos": "Videoanleitungen ansehen",
+    "join": "So treten Sie bei",
+    "home": "Zurück zur Startseite"
+   }
+  }
+ }
+}

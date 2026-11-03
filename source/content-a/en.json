@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "New",
+      "videoGuide": "Video guide",
+      "watchIt": "Watch it",
+      "product": "Product",
+      "getInvited": "Get invited",
+      "illustrative": "Example businesses and figures on this page are illustrative.",
+      "tour": {
+        "title": "SELYVO Market in five minutes",
+        "text": "Every part of SELYVO Market on its own screens: selling and buying, orders, invoices checked at SELYVO, expenses, projects, MailChat, stock and connected systems."
+      },
+      "connect": {
+        "eyebrow": "Connected systems",
+        "title": "Works with the systems you already run",
+        "text": "Connect your accounting or ERP, and choose what it carries, how often and to which of its fields. Your customers and suppliers connect theirs the same way, and every exchange is logged.",
+        "points": [
+          "Profiles, requests, orders, payments and stock, kept in step",
+          "Any other system through the market’s stock API, with a key of its own",
+          "Invoices from a supplier’s accounting arrive at invoice@market.selyvo.com, read and checked",
+          "Every invoice e-mail carries its PDF and its ISDOC file, for the customer’s accounting"
+        ],
+        "yours": "Your accounting or ERP",
+        "market": "SELYVO Market",
+        "partners": "Your customers’ and suppliers’ systems",
+        "carries": "Profiles · requests · orders · payments · stock",
+        "api": "Any other system, through the market’s stock API",
+        "invoices": "Invoices as PDF and ISDOC, checked on arrival",
+        "log": "Every exchange logged"
+      },
+      "check": {
+        "eyebrow": "Checked at SELYVO",
+        "title": "Every invoice you receive is checked first",
+        "text": "Whether it comes by e-mail, as a file, through MailChat or from a supplier on SELYVO, an invoice is checked before anyone looks at it. One that fails can go back to its supplier by itself, with what to correct.",
+        "steps": [
+          [
+            "Received",
+            "At invoice@market.selyvo.com, from a file, through MailChat or on SELYVO."
+          ],
+          [
+            "Checked",
+            "Every field the law asks for, your details as on SELYVO, each line against its order, and not more than you received."
+          ],
+          [
+            "Returned by itself",
+            "If you choose: the supplier is told at once, in its own language, with what to correct."
+          ],
+          [
+            "Replaced",
+            "The corrected invoice takes the returned one’s place. Nothing of the returned one is paid."
+          ]
+        ],
+        "card": {
+          "title": "SELYVO’s check",
+          "ok1": "Every field an invoice must carry",
+          "ok2": "Made out to you, as on SELYVO",
+          "bad": "Delivery €80.00 is not in the order",
+          "returned": "Returned to the supplier by itself, with what to correct"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "Invitation-only B2B marketplace",
+        "title1": "Sell more. Buy smarter.",
+        "title2": "Get paid sooner.",
+        "lede": "SELYVO Market is where verified businesses trade, from the first request to the paid invoice: in one place, and in each person’s own language.",
+        "cta": "Get invited",
+        "cta2": "Watch the tour",
+        "ticks": [
+          "Found in its business register",
+          "Screened against sanctions lists",
+          "Rated before its first deal"
+        ],
+        "shotAlt": "Purchases on SELYVO Market: savings, the open balance, what was received and invoiced, and the purchasing work to do",
+        "offer": {
+          "title": "Offer accepted",
+          "note": "4.8 % less after negotiation"
+        },
+        "paid": {
+          "status": "Paid",
+          "country": "Denmark"
+        },
+        "facts": [
+          [
+            "3 checks",
+            "before a business can trade: its register, sanctions lists and SELYVO’s questions"
+          ],
+          [
+            "1 trail",
+            "from request to payment, each document made from the one before it"
+          ],
+          [
+            "7 languages",
+            "in the app, each person in their own; this website and its guides in 15"
+          ],
+          [
+            "2 ways to pay",
+            "up front by card, or by invoice after delivery, as each supplier decides"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "One platform",
+          "title": "The whole deal, both sides, one place",
+          "lede": "Selling, buying, orders, invoices and payments, each made from the one before. Your customers and your suppliers see the same record you do.",
+          "items": [
+            [
+              "Sell more",
+              "Be found by verified buyers in your categories. Answer their requests, send targeted offers, and follow every case from the first lead to the win.",
+              "Selling on SELYVO"
+            ],
+            [
+              "Buy smarter",
+              "Compare offers line by line from suppliers you know are real: your own, new ones on SELYVO, or ones AI finds for you.",
+              "Buying on SELYVO"
+            ],
+            [
+              "Get paid sooner",
+              "Invoice from the order, with VAT by country. Your customer pays by card, or by invoice into your own Revolut Business account.",
+              "Invoices & payments"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Selling",
+            "title": "Every case, from the first lead to the win",
+            "text": "Your pipeline by stage, your cases in a list, and the chosen one beside it with its next step. A case moves on by itself as requests, offers and orders arrive.",
+            "points": [
+              "New leads from your customers, new businesses, or prospects AI finds",
+              "Targeted offers to the customers you choose",
+              "Listings promoted into buyers’ feeds"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Buying",
+            "title": "Compare offers line by line, then order the best",
+            "text": "Publish a request with its lots and lines, invite the suppliers you choose, and see every offer side by side. The one you accept becomes the purchase order.",
+            "points": [
+              "A request read from your specification by AI",
+              "Each supplier’s rating beside its offer",
+              "An AI negotiator that asks you before anything is agreed"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Invoices & payments",
+            "title": "Invoice from the order. Get paid on time.",
+            "text": "Invoices are made from their orders, with VAT by country and the wording each case needs. Invoices you receive are read by AI, checked at SELYVO against their order, then paid.",
+            "points": [
+              "Card payments through Stripe",
+              "Paid into your own Revolut Business account",
+              "An invoice that fails the check can go back to its supplier by itself",
+              "What you pay and what you are paid, side by side"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Trust",
+          "title": "Every business here is real",
+          "lede": "Before a company trades on SELYVO, it is found, checked and qualified. After that, its customers speak for it."
+        },
+        "ai": {
+          "button": "Search with AI — about 0.60 EUR",
+          "caption": "Before AI searches for suppliers, the button says what it will cost.",
+          "found": "8 suppliers found",
+          "foundText": "Each with its rating, its categories and where it delivers."
+        },
+        "invite": {
+          "title": "SELYVO opens by invitation",
+          "text": "Every company on SELYVO is known to at least one other. Ask a customer or a supplier who is a member to invite you. Don’t know anyone on SELYVO yet? Write to us.",
+          "cta": "How to get invited",
+          "mockWho": "invites you to SELYVO Market",
+          "mockText": "We would like to buy from you on SELYVO. Join as our supplier, and our requests will reach you there.",
+          "mockButton": "Join as their supplier",
+          "mockValid": "Valid once, for 14 days, only for the e-mail address it was sent to."
+        },
+        "faqAccounting": [
+          "Does it work with our accounting?",
+          "Yes. Connect your accounting or ERP in Connected systems and choose what it carries. Invoices made in your own accounting can be sent through SELYVO from a file, and every invoice e-mail carries its PDF and its ISDOC file."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "What happens to an invoice that does not match its order?",
+          "It waits for you with what the check found. If you choose, it goes back to its supplier by itself, with what to correct, and the corrected invoice takes its place."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Projects",
+          "title": "A project, with its budget",
+          "text": "A project gathers its requests, orders, invoices, time sheets and expenses. Its budget counts itself from them: committed, actual and billed, with a forecast at completion.",
+          "points": [
+            "Milestones, accepted by the customer and then billed",
+            "The team: your own people and your suppliers’",
+            "The customer can follow the project too"
+          ],
+          "tiles": [
+            "Budget",
+            "Actual",
+            "Billed"
+          ],
+          "milestones": [
+            [
+              "1 · Portal configured",
+              "Accepted"
+            ],
+            [
+              "2 · Suppliers migrated",
+              "In progress"
+            ],
+            [
+              "3 · User acceptance",
+              "Planned"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

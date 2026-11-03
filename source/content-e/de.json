@@ -1,0 +1,600 @@
+{
+ "common": {
+  "c": {
+   "nav": {
+    "sell": "Verkauf",
+    "buy": "Einkauf",
+    "projects": "Projekte",
+    "finance": "Finanzen",
+    "trust": "Vertrauen",
+    "tour": "5-Minuten-Rundgang",
+    "orders": "Bestellungen & Lieferungen",
+    "core": "SELYVO Core",
+    "functions": "Der Marktplatz"
+   },
+   "fn": {
+    "sell": {
+     "name": "Verkauf"
+    },
+    "buy": {
+     "name": "Einkauf"
+    },
+    "projects": {
+     "name": "Projekte"
+    },
+    "finance": {
+     "name": "Finanzen"
+    }
+   },
+   "steps": {
+    "sell": [
+     [
+      "Interessent",
+      "Neues Interesse"
+     ],
+     [
+      "Chance",
+      "Anfragen"
+     ],
+     [
+      "Vorschlag",
+      "Angebot gesendet"
+     ],
+     [
+      "Verhandlung",
+      "Antwort & Gebote"
+     ],
+     [
+      "Abgeschlossen",
+      "Gewonnen oder verloren"
+     ]
+    ],
+    "buy": [
+     [
+      "Anfrage",
+      "Getippt oder per KI gelesen"
+     ],
+     [
+      "Lieferanten",
+      "Eingeladen oder per KI gefunden"
+     ],
+     [
+      "Angebote",
+      "Bis zu Ihrer Frist"
+     ],
+     [
+      "Vergabe",
+      "Das beste Angebot je Los"
+     ],
+     [
+      "Bestellung",
+      "Gesendet und angenommen"
+     ]
+    ],
+    "projects": [
+     [
+      "Geplant",
+      "Meilensteine und Budget"
+     ],
+     [
+      "In Arbeit",
+      "Zeit, Kosten, Einkäufe"
+     ],
+     [
+      "Abgenommen",
+      "Vom Kunden"
+     ],
+     [
+      "Abgerechnet",
+      "Auf der nächsten Rechnung"
+     ]
+    ],
+    "finance": [
+     [
+      "Eingegangen",
+      "Per E-Mail, Datei oder SELYVO"
+     ],
+     [
+      "Geprüft",
+      "Von SELYVO: Gesetz & Bestellung"
+     ],
+     [
+      "Freigegeben",
+      "Von Ihnen"
+     ],
+     [
+      "Bezahlt",
+      "Per Karte oder Überweisung"
+     ]
+    ],
+    "orders": [
+     [
+      "Bestellt",
+      "Aufgegeben"
+     ],
+     [
+      "Angenommen",
+      "Vom Lieferanten"
+     ],
+     [
+      "Geliefert",
+      "Mit Lieferschein"
+     ],
+     [
+      "Empfangen",
+      "Von Ihnen bestätigt"
+     ],
+     [
+      "Berechnet",
+      "Nach Wareneingang"
+     ],
+     [
+      "Bezahlt",
+      "Bei Fälligkeit"
+     ]
+    ],
+    "trust": [
+     [
+      "Eingeladen",
+      "Von einem Mitglied"
+     ],
+     [
+      "Register",
+      "Gefunden und bestätigt"
+     ],
+     [
+      "Prüfungen",
+      "USt-IdNr. und Sanktionen"
+     ],
+     [
+      "Qualifiziert",
+      "Die Fragen von SELYVO"
+     ],
+     [
+      "Bewertet",
+      "Von Kunden, nach Bestellungen"
+     ]
+    ]
+   },
+   "gtk": "Gut zu wissen"
+  },
+  "d": {
+   "learn": "Mehr erfahren",
+   "how": "So funktioniert es",
+   "watch": "Rundgang ansehen",
+   "local": {
+    "overview": "Übersicht",
+    "how": "Ablauf",
+    "features": "Funktionen",
+    "faq": "Fragen"
+   },
+   "fn": {
+    "sell": {
+     "line": "Kunden unter verifizierten Unternehmen gewinnen."
+    },
+    "buy": {
+     "line": "Das richtige Angebot von vertrauenswürdigen Lieferanten."
+    },
+    "projects": {
+     "line": "Die Arbeit erledigen. Das Budget im Blick behalten."
+    },
+    "finance": {
+     "line": "Abrechnen, prüfen, bezahlt werden – mit weniger Aufwand."
+    }
+   },
+   "stepWord": "Schritt",
+   "scrollHint": "Scrollen und Schritt für Schritt verfolgen",
+   "others": "Mehr vom Marktplatz.",
+   "gtkTitle": "Gut zu wissen."
+  },
+  "e": {
+   "eyebrow": "Video",
+   "title": "Im Einsatz erleben.",
+   "sub": "Kurze Filme, direkt im Produkt gedreht. Wählen Sie einen aus und springen Sie zum gewünschten Schritt.",
+   "homeTitle": "SELYVO Market im Einsatz.",
+   "homeSub": "Der 5-Minuten-Rundgang durch den ganzen Marktplatz und kurze Filme zu jeweils einer Aufgabe – direkt im Produkt gedreht.",
+   "nowPlaying": "Jetzt läuft",
+   "guideWord": "Anleitung",
+   "tourWord": "Rundgang",
+   "fromWord": "ab",
+   "watch": "Video ansehen",
+   "localVideo": "Video",
+   "seenHint": "Schritt wählen und erneut ansehen",
+   "guides": {
+    "sales": {
+     "title": "Vom ersten Gespräch zum Abschluss",
+     "text": "Verkauf auf SELYVO Market: ein neuer Interessent in fünf Schritten, der Fall unter Verkauf und als Formular – und wie er von „Interessent“ bis „Abgeschlossen“ wandert.",
+     "chapters": [
+      "Einstieg",
+      "Verkauf: alle Fälle",
+      "Neuer Interessent",
+      "Aus dem Handelsregister",
+      "Mit wem Sie gesprochen haben",
+      "Was es wert ist",
+      "Der nächste Schritt",
+      "Speichern und einladen",
+      "Der Fall unter Verkauf",
+      "Der Fall als Formular",
+      "Rückt von selbst weiter",
+      "Gut zu wissen"
+     ]
+    },
+    "buying": {
+     "chapters": [
+      "Einstieg",
+      "Aus einer Datei ausgefüllt",
+      "Lose und wer anbieten darf",
+      "Die Angebote sind da",
+      "Mit KI verhandeln",
+      "Die KI fragt Sie zuerst",
+      "Einigung: Sie geben frei",
+      "Vergabe und Bestellung",
+      "Der Lieferant nimmt an",
+      "Gut zu wissen"
+     ]
+    },
+    "requestai": {
+     "title": "Lieferanten per KI finden und anfragen",
+     "text": "Einkauf auf SELYVO Market: eine neue Anfrage in fünf Schritten – und Lieferanten, die Sie noch nicht kennen, von der KI gefunden, geprüft und per E-Mail eingeladen.",
+     "chapters": [
+      "Einstieg",
+      "Der Umfang",
+      "Die Positionen",
+      "Lieferung und Budget",
+      "Wer anbieten darf",
+      "Die KI findet Lieferanten",
+      "Geprüft, dann eingeladen",
+      "Prüfen und veröffentlichen",
+      "Die Angebotsphase",
+      "Gut zu wissen"
+     ]
+    },
+    "receiving": {
+     "title": "Bestellte Ware ins Lager einbuchen",
+     "text": "Bestellungen auf SELYVO Market: der Lieferschein des Lieferanten, was Sie als angekommen bestätigen – und Ihr Lagerbestand, der sich von selbst aktualisiert.",
+     "chapters": [
+      "Einstieg",
+      "Wo jede Bestellung steht",
+      "„Empfangen“ wartet auf Sie",
+      "Eingang bestätigen",
+      "Auf Lager führen",
+      "Bestand: was Sie verbrauchen",
+      "Verlauf eines Artikels",
+      "Gut zu wissen"
+     ]
+    },
+    "freelancer": {
+     "chapters": [
+      "Einstieg",
+      "Woche für Woche",
+      "Leistungsnachweis je Kunde",
+      "Regeln aus der Bestellung",
+      "Auslagen aus dem Beleg",
+      "Eine Rechnung für beides",
+      "Ausstellen",
+      "Gut zu wissen"
+     ]
+    }
+   },
+   "note": "Dieses Video ist auf Englisch."
+  }
+ },
+ "pages": {
+  "index": {
+   "c": {
+    "processShort": [
+     "Anfrage",
+     "Lieferanten",
+     "Angebote",
+     "Bestellung",
+     "Empfangen",
+     "Geprüft",
+     "Bezahlt"
+    ]
+   },
+   "d": {
+    "eyebrow": "SELYVO Market",
+    "title": "Verkauf. Einkauf. Projekte. Finanzen.",
+    "sub": "Ein Marktplatz für alles – nur mit verifizierten Unternehmen.",
+    "heroAlt": "Die Startseite von SELYVO Market: was heute auf Sie wartet, Ihr Guthaben, Angebotsfristen und Ihr Geschäftsnetzwerk",
+    "story": {
+     "eyebrow": "So funktioniert es",
+     "title": "Von der Idee zur bezahlten Rechnung.",
+     "sub": "Sieben Schritte, eine Belegkette. Verfolgen Sie einen Einkauf durch SELYVO Market – direkt im Produkt gezeigt."
+    },
+    "verified": {
+     "eyebrow": "Nur verifizierte Unternehmen",
+     "title": "Jedes Unternehmen. Geprüft.",
+     "sub": "SELYVO öffnet sich nur auf Einladung. Jedes Unternehmen wird im Handelsregister gefunden, seine USt-IdNr. und die Sanktionslisten werden geprüft, und vor seinem ersten Geschäft beantwortet es die Fragen von SELYVO.",
+     "kpis": [
+      [
+       3,
+       "Prüfungen",
+       "bevor ein Unternehmen handeln kann"
+      ],
+      [
+       1,
+       "Belegkette",
+       "die Einkäufer und Lieferant gemeinsam sehen"
+      ],
+      [
+       2,
+       "Zahlungswege",
+       "vorab per Karte oder per Rechnung"
+      ]
+     ],
+     "more": "Wie Vertrauen entsteht"
+    },
+    "gtkSub": "Die Details, die Mitgliedern am ersten Tag auffallen – und über die sie sich danach jeden Tag freuen.",
+    "invite": {
+     "title": "Beitritt auf Einladung.",
+     "sub": "Jedes Unternehmen auf SELYVO ist mindestens einem anderen bekannt. Bitten Sie einen Kunden oder Lieferanten, der Mitglied ist, Sie einzuladen – oder schreiben Sie uns."
+    }
+   }
+  },
+  "spend-control": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Anfragen",
+      "title": "Angebote landen in der Anfrage",
+      "text": "Sie sehen, wer ein Angebot sendet und wer noch nicht geantwortet hat, verschieben die Frist oder beenden die Angebotsphase – und vergleichen dann, was eingegangen ist.",
+      "points": [
+       "Lieferanten sagen, ob sie ein Angebot senden",
+       "Wer angeboten hat, wird über jede Änderung informiert",
+       "Vergleich je Los, je Angebot oder Position für Position"
+      ]
+     },
+     {
+      "eyebrow": "Lieferanten",
+      "title": "Vertrauenswürdige Lieferanten",
+      "text": "Jeder Lieferant auf SELYVO ist verifiziert und bewertet. Finden Sie Lieferanten nach Kategorie und Land, speichern Sie sie und fordern Sie mit einem Klick ein Angebot an.",
+      "points": [
+       "Nur verifizierte Lieferanten, mit ihrer Bewertung",
+       "Ihre eigenen Lieferanten, zu SELYVO eingeladen",
+       "Angebot direkt von der Lieferantenkarte anfragen"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Einkaufen bei Lieferanten Ihres Vertrauens.",
+    "sub": "Beschreiben Sie Ihren Bedarf, vergleichen Sie Angebote verifizierter Lieferanten Position für Position und senden Sie die Bestellung – jeder Schritt dokumentiert.",
+    "story": {
+     "title": "Vom Bedarf zur bestätigten Bestellung.",
+     "sub": "Die Anfrage bringt die Angebote, die Bestellung folgt.",
+     "steps": [
+      {
+       "title": "Beschreiben Sie Ihren Bedarf.",
+       "text": "Tippen Sie ihn ein oder ziehen Sie eine Spezifikation, eine Ausschreibung oder ein Leistungsverzeichnis hinein – die KI füllt Titel, Kategorie, Positionen, Lieferung und Budget aus."
+      },
+      {
+       "title": "Wählen Sie, wer anbietet.",
+       "text": "Ihre eigenen Lieferanten, Unternehmen auf SELYVO oder weitere, die die KI findet. Bevor die KI sucht, zeigt die Schaltfläche, was das kostet: etwa 0,60 EUR."
+      },
+      {
+       "title": "Angebote gehen ein.",
+       "text": "Jeder Lieferant sagt, ob er ein Angebot senden wird, und die Angebote kommen bis zu Ihrer Frist direkt in der Anfrage an."
+      },
+      {
+       "title": "Das beste gewinnt.",
+       "text": "Vergleichen Sie die Angebote je Position oder Los und vergeben Sie den Zuschlag an das beste."
+      },
+      {
+       "title": "Die Bestellung geht hinaus.",
+       "text": "Das Angebot, das Sie annehmen, wird zur Bestellung. Beide Seiten verfolgen sie bis zu Lieferung und Rechnung."
+      }
+     ]
+    }
+   }
+  },
+  "revenue-acceleration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Shop-Angebote",
+      "title": "Was Sie verkaufen – und was es einbringt",
+      "text": "Produkte und Dienstleistungen mit Mitgliederpreisen, Fotos und eigener Seite. Jedes Shop-Angebot zeigt seinen Umsatz und seine Marge, und Sie können es in den Feeds der Einkäufer bewerben.",
+      "points": [
+       "Staffelpreise oder eine Mindestmenge",
+       "Entwürfe und Shop-Angebote ohne Fotos markiert",
+       "In den Feeds der Einkäufer Ihrer Wahl beworben"
+      ]
+     },
+     {
+      "eyebrow": "Kunden",
+      "title": "Ihre Kunden – und die, an die Sie verkaufen könnten",
+      "text": "Unternehmen, die bei Ihnen kaufen, und Einkäufer auf SELYVO in Ihren Kategorien. Senden Sie ein gezieltes Angebot an die Unternehmen Ihrer Wahl.",
+      "points": [
+       "Filter nach Kategorie, Land und Team",
+       "Was jeder Kunde gekauft hat – und wann",
+       "Gezielte Angebote an Kunden Ihrer Wahl – und wer sie angesehen hat"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Verkaufen an verifizierte Einkäufer.",
+    "sub": "Stellen Sie ein, was Sie verkaufen, beantworten Sie die Anfragen in Ihren Kategorien und verfolgen Sie jeden Fall vom ersten Interessenten bis zum Ergebnis.",
+    "story": {
+     "title": "Vom ersten Interessenten zum klaren Ergebnis.",
+     "sub": "Jeder Fall durchläuft die Pipeline, die Sie unter Verkauf sehen.",
+     "steps": [
+      {
+       "title": "Neuer Interessent.",
+       "text": "Von einem Ihrer Kunden, einem neuen Unternehmen auf SELYVO oder aus Kontakten, die die KI findet. Jeder Interessent eröffnet einen Fall mit seinem nächsten Schritt."
+      },
+      {
+       "title": "Eine Anfrage geht ein.",
+       "text": "Anfragen in Ihren Kategorien machen aus dem Interesse eine Chance – der Fall rückt von selbst weiter."
+      },
+      {
+       "title": "Sie senden Ihr Angebot.",
+       "text": "Beantworten Sie die Anfrage mit einem Angebot oder senden Sie ein gezieltes Angebot an Kunden Ihrer Wahl."
+      },
+      {
+       "title": "Konditionen vereinbart.",
+       "text": "Antworten und Gebote bleiben beim Fall, und beide Seiten sehen denselben Stand."
+      },
+      {
+       "title": "Gewonnen oder verloren – erfasst.",
+       "text": "Jeder Fall endet mit einem klaren Ergebnis, und Ihre Konversionsrate und Gewinnquote berechnen sich von selbst."
+      }
+     ]
+    }
+   }
+  },
+  "inventory-control": {
+   "d": {
+    "title": "Jede Bestellung, von angenommen bis bezahlt.",
+    "sub": "Eine Bestellung, ein Zeitverlauf, derselbe Stand für beide Seiten – bei Bedarf in Teilen.",
+    "story": {
+     "title": "Der aktuelle Stand. Immer.",
+     "sub": "Eine Bestellung folgt denselben Schritten, die Sie in SELYVO sehen.",
+     "steps": [
+      {
+       "title": "Bestellung aufgegeben.",
+       "text": "Aus dem angenommenen Angebot oder direkt aus einem Shop-Angebot. Beide Seiten sehen dieselbe Bestellung."
+      },
+      {
+       "title": "Der Lieferant nimmt an.",
+       "text": "Der Lieferant nimmt die Bestellung an – mit ihrem Liefertermin."
+      },
+      {
+       "title": "Geliefert, mit Lieferschein.",
+       "text": "Jede Lieferung kommt mit ihrem Lieferschein – bei Bedarf in Teilen."
+      },
+      {
+       "title": "Sie bestätigen den Eingang.",
+       "text": "Ganz oder teilweise. Etwas stimmt nicht? Melden Sie es auf dem Lieferschein, und der Lieferant wird sofort informiert."
+      },
+      {
+       "title": "Die Rechnung folgt.",
+       "text": "Nach dem Wareneingang aus der Bestellung erstellt – und von SELYVO geprüft, sobald sie eintrifft."
+      },
+      {
+       "title": "Bezahlt bei Fälligkeit.",
+       "text": "Vorab per Karte oder per Rechnung, wie der Lieferant es festlegt – und beide Seiten sehen sie als bezahlt."
+      }
+     ]
+    }
+   }
+  },
+  "finance-administration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Rechnungen",
+      "title": "Verbindlichkeiten, Forderungen und Überfälliges in einer Liste",
+      "text": "Jede Rechnung, die Sie ausstellen oder erhalten, mit Status und Fälligkeit. Öffnen Sie eine, um ihre Bestellung, ihre Positionen und ihren Verlauf zu sehen.",
+      "points": [
+       "Rechnungen per E-Mail an invoice@market.selyvo.com, von der KI gelesen",
+       "Jede Rechnungs-E-Mail mit PDF und ISDOC-Datei",
+       "Auslagen mit Belegen, weiterberechnet"
+      ]
+     },
+     {
+      "eyebrow": "Verbundene Systeme",
+      "title": "Funktioniert mit Ihren bestehenden Systemen",
+      "text": "Verbinden Sie Ihre Buchhaltung oder Ihr ERP und legen Sie fest, was übertragen wird und wie oft. Ihre Kunden und Lieferanten verbinden ihre Systeme auf dieselbe Weise, und jeder Austausch wird protokolliert.",
+      "points": [
+       "Profile, Anfragen, Bestellungen, Zahlungen und Bestände – immer synchron",
+       "Jedes andere System über die Bestands-API des Marktplatzes",
+       "Jeder Austausch protokolliert"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Abrechnen. Prüfen. Bezahlt werden.",
+    "sub": "Rechnungen aus ihren Bestellungen, jede Eingangsrechnung von SELYVO geprüft und Zahlungen von Ihrem eigenen Konto.",
+    "story": {
+     "title": "Jede Rechnung geprüft, bevor jemand hinsieht.",
+     "sub": "Eine Rechnung, die Sie erhalten – vom Eintreffen bis zur Zahlung.",
+     "steps": [
+      {
+       "title": "Eine Rechnung geht ein.",
+       "text": "Per E-Mail an invoice@market.selyvo.com, als Datei oder auf SELYVO – von der KI gelesen und dem zugehörigen Unternehmen zugeordnet."
+      },
+      {
+       "title": "SELYVO prüft sie.",
+       "text": "Alle gesetzlichen Pflichtangaben, Ihre Daten und jede Position gegen die Bestellung und den Wareneingang. Wenn Sie es wünschen, geht eine Rechnung, die die Prüfung nicht besteht, automatisch an ihren Lieferanten zurück."
+      },
+      {
+       "title": "Sie geben sie frei.",
+       "text": "Freigegebene Rechnungen warten auf die Zahlung, nach Fälligkeit sortiert."
+      },
+      {
+       "title": "Bezahlt von Ihrem eigenen Konto.",
+       "text": "Zahlen Sie von Ihrem Konto bei Revolut Business, zum Fälligkeitstermin oder jetzt. Innerhalb Ihres Limits gehen Zahlungen sofort hinaus; darüber warten sie auf Ihre Freigabeberechtigten."
+      }
+     ]
+    }
+   }
+  },
+  "operational-scale": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Budget",
+      "title": "Ein Budget, das mitrechnet",
+      "text": "Beauftragte, angefallene und abgerechnete Beträge stammen direkt aus den Belegen des Projekts: Leistungsnachweisen, Bestellungen, Rechnungen und Auslagen. Dazu kommt eine Prognose zum Projektende.",
+      "points": [
+       "Jeder Betrag bis zum Beleg rückverfolgbar",
+       "Meilensteine, vom Kunden abgenommen und dann abgerechnet",
+       "Die Arbeit Ihrer Lieferanten im selben Projekt"
+      ]
+     },
+     {
+      "eyebrow": "MailChat",
+      "title": "E-Mail und Chat in einer Liste",
+      "text": "Ihr Unternehmen erhält eine eigene SELYVO-E-Mail-Adresse. E-Mails und Chats mit Kunden und Lieferanten stehen in einer Liste, und die KI erkennt darin Rechnungen, Angebote und Bestellungen.",
+      "points": [
+       "Ordner und Labels: Arbeit, Kunden, Abrechnung",
+       "Chats mit Ihren Partnern neben deren E-Mails",
+       "Bestellung oder Rechnung in einer E-Mail – zur Übernahme bereit"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Projekte, mit dem Budget im Blick.",
+    "sub": "Meilensteine, Team, Zeit, Auslagen und Einkäufe in einem Projekt. Das Budget schreibt sich selbst fort, und der Kunde verfolgt alles mit.",
+    "story": {
+     "title": "Planen. Umsetzen. Abrechnen.",
+     "sub": "Ein Kundenprojekt von seinen Meilensteinen bis zur Rechnung.",
+     "steps": [
+      {
+       "title": "Planen.",
+       "text": "Meilensteine mit ihren Beträgen, das Team und das Budget – Ihre Leute und Ihre Lieferanten in einem Projekt."
+      },
+      {
+       "title": "An die Arbeit.",
+       "text": "Leistungsnachweise, Auslagen und Einkäufe landen im Projekt, während die Arbeit erledigt wird."
+      },
+      {
+       "title": "Der Kunde nimmt ab.",
+       "text": "Jeden Meilenstein nimmt der Kunde ab, der das Projekt mit Ihnen verfolgt."
+      },
+      {
+       "title": "Abrechnen.",
+       "text": "Abgenommene Meilensteine kommen auf die Rechnung, und das Budget zeigt, was beauftragt, angefallen und abgerechnet ist."
+      }
+     ]
+    }
+   }
+  },
+  "compliance-by-design": {
+   "d": {
+    "title": "Wissen, mit wem Sie handeln.",
+    "sub": "Jedes Unternehmen wird eingeladen, im Handelsregister gefunden, geprüft und qualifiziert, bevor es handelt. Jeder Vorgang behält seine Historie."
+   }
+  },
+  "operating-layer": {
+   "d": {
+    "title": "Ihre eigenen Prozesse. Ein Fundament.",
+    "sub": "SELYVO Core gibt größeren Organisationen einen eigenen Arbeitsbereich, verbunden mit SELYVO Market: Lieferanten, Fragebögen, Kataloge und Prozessabläufe mit KI-Prüfungen."
+   }
+  }
+ }
+}

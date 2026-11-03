@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "Nowość",
+      "videoGuide": "Poradnik wideo",
+      "watchIt": "Obejrzyj",
+      "product": "Produkt",
+      "getInvited": "Otrzymaj zaproszenie",
+      "illustrative": "Przykładowe firmy i dane na tej stronie mają charakter poglądowy.",
+      "tour": {
+        "title": "SELYVO Market w pięć minut",
+        "text": "Wszystkie części SELYVO Market na ekranach samej aplikacji: sprzedaż i zakupy, zamówienia, faktury sprawdzane na SELYVO, wydatki, projekty, MailChat, magazyn i połączone systemy."
+      },
+      "connect": {
+        "eyebrow": "Połączone systemy",
+        "title": "Działa z systemami, których już używasz",
+        "text": "Podłącz swój system księgowy lub ERP i wybierz, co ma być przesyłane, jak często i do których jego pól. Twoi klienci i dostawcy podłączają swoje w ten sam sposób, a każda wymiana danych jest rejestrowana.",
+        "points": [
+          "Profile, zapytania, zamówienia, płatności i stany magazynowe, synchronizowane na bieżąco",
+          "Każdy inny system przez API magazynowe platformy, z własnym kluczem",
+          "Faktury z systemu księgowego dostawcy trafiają na adres invoice@market.selyvo.com, gdzie są odczytywane i sprawdzane",
+          "Każdy e-mail z fakturą zawiera jej PDF i plik ISDOC dla księgowości klienta"
+        ],
+        "yours": "Twój system księgowy lub ERP",
+        "market": "SELYVO Market",
+        "partners": "Systemy twoich klientów i dostawców",
+        "carries": "Profile · zapytania · zamówienia · płatności · stany magazynowe",
+        "api": "Każdy inny system przez API magazynowe platformy",
+        "invoices": "Faktury jako PDF i ISDOC, sprawdzane po nadejściu",
+        "log": "Rejestr każdej wymiany danych"
+      },
+      "check": {
+        "eyebrow": "Kontrola na SELYVO",
+        "title": "Każda otrzymana faktura najpierw przechodzi kontrolę",
+        "text": "Niezależnie od tego, czy przychodzi e-mailem, jako plik, przez MailChat, czy od dostawcy na SELYVO, faktura zostaje sprawdzona, zanim ktokolwiek na nią spojrzy. Jeśli nie przejdzie kontroli, może sama wrócić do dostawcy z informacją, co poprawić.",
+        "steps": [
+          [
+            "Otrzymana",
+            "Na adres invoice@market.selyvo.com, z pliku, przez MailChat lub na SELYVO."
+          ],
+          [
+            "Sprawdzona",
+            "Wszystkie elementy wymagane przepisami, twoje dane zgodne z SELYVO, każda pozycja względem zamówienia i nic ponad to, co dotarło."
+          ],
+          [
+            "Zwrócona automatycznie",
+            "Jeśli tak zdecydujesz: dostawca od razu dostaje wiadomość w swoim języku z informacją, co poprawić."
+          ],
+          [
+            "Zastąpiona",
+            "Poprawiona faktura zastępuje zwróconą. Zwrócona nie zostaje opłacona nawet częściowo."
+          ]
+        ],
+        "card": {
+          "title": "Kontrola SELYVO",
+          "ok1": "Wszystkie obowiązkowe elementy faktury",
+          "ok2": "Wystawiona na twoje dane z SELYVO",
+          "bad": "Koszt dostawy 80,00 € nie wynika z zamówienia",
+          "returned": "Automatycznie zwrócona dostawcy z informacją, co poprawić"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "Platforma B2B tylko na zaproszenie",
+        "title1": "Sprzedawaj więcej. Kupuj mądrzej.",
+        "title2": "Otrzymuj zapłatę szybciej.",
+        "lede": "Na SELYVO Market zweryfikowane firmy handlują od pierwszego zapytania po opłaconą fakturę: w jednym miejscu i każdy we własnym języku.",
+        "cta": "Otrzymaj zaproszenie",
+        "cta2": "Obejrzyj prezentację",
+        "ticks": [
+          "Odnalezione w rejestrze przedsiębiorców",
+          "Sprawdzone pod kątem list sankcyjnych",
+          "Ocenione przed pierwszą transakcją"
+        ],
+        "shotAlt": "Zakupy na SELYVO Market: oszczędności, saldo do zapłaty, to, co dotarło i zostało zafakturowane, oraz zadania zakupowe do wykonania",
+        "offer": {
+          "title": "Oferta przyjęta",
+          "note": "4,8% mniej po negocjacjach"
+        },
+        "paid": {
+          "status": "Zapłacono",
+          "country": "Dania"
+        },
+        "facts": [
+          [
+            "3 kontrole",
+            "zanim firma zacznie handlować: rejestr przedsiębiorców, listy sankcyjne i pytania SELYVO"
+          ],
+          [
+            "1 ślad",
+            "od zapytania do płatności, każdy dokument powstaje z poprzedniego"
+          ],
+          [
+            "7 języków",
+            "w aplikacji, każdy we własnym; ta strona i jej poradniki wideo w 15"
+          ],
+          [
+            "2 sposoby płatności",
+            "z góry kartą lub na fakturę po dostawie — tak, jak zdecyduje każdy dostawca"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "Jedna platforma",
+          "title": "Cała transakcja, obie strony, jedno miejsce",
+          "lede": "Sprzedaż, zakupy, zamówienia, faktury i płatności — każdy krok powstaje z poprzedniego. Twoi klienci i dostawcy widzą ten sam zapis co ty.",
+          "items": [
+            [
+              "Sprzedawaj więcej",
+              "Daj się znaleźć zweryfikowanym kupującym z twoich kategorii. Odpowiadaj na ich zapytania, wysyłaj oferty kierowane i śledź każdą transakcję od pierwszego leada do wygranej.",
+              "Sprzedaż na SELYVO"
+            ],
+            [
+              "Kupuj mądrzej",
+              "Porównuj pozycja po pozycji oferty dostawców, o których wiesz, że naprawdę istnieją: twoich stałych, nowych na SELYVO albo tych, których AI znajdzie dla ciebie.",
+              "Zakupy na SELYVO"
+            ],
+            [
+              "Otrzymuj zapłatę szybciej",
+              "Wystawiaj faktury z zamówienia z VAT według kraju. Klient płaci kartą albo przelewem na podstawie faktury na twoje własne konto Revolut Business.",
+              "Faktury i płatności"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Sprzedaż",
+            "title": "Każda transakcja od pierwszego leada do wygranej",
+            "text": "Twój lejek sprzedaży według etapów, lista transakcji, a obok wybrana transakcja z kolejnym krokiem. Transakcja sama przechodzi dalej, gdy napływają zapytania, oferty i zamówienia.",
+            "points": [
+              "Nowe leady od twoich klientów, nowych firm lub tych, które znajdzie AI",
+              "Oferty kierowane do wybranych przez ciebie klientów",
+              "Oferty ze sklepu promowane w aktualnościach kupujących"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Zakupy",
+            "title": "Porównaj oferty pozycja po pozycji i zamów najlepszą",
+            "text": "Opublikuj zapytanie z częściami i pozycjami, zaproś wybranych dostawców i zobacz wszystkie oferty obok siebie. Oferta, którą przyjmiesz, staje się zamówieniem zakupu.",
+            "points": [
+              "Zapytanie odczytane przez AI z twojej specyfikacji",
+              "Ocena każdego dostawcy obok jego oferty",
+              "Negocjator AI, który pyta cię, zanim cokolwiek zostanie uzgodnione"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Faktury i płatności",
+            "title": "Fakturuj z zamówienia. Otrzymuj zapłatę na czas.",
+            "text": "Faktury powstają z zamówień, z VAT według kraju i adnotacjami wymaganymi w danym przypadku. Otrzymane faktury są odczytywane przez AI, sprawdzane na SELYVO względem zamówienia, a następnie opłacane.",
+            "points": [
+              "Płatności kartą przez Stripe",
+              "Wpływy na twoje własne konto Revolut Business",
+              "Faktura, która nie przejdzie kontroli, może sama wrócić do dostawcy",
+              "To, co płacisz, i to, co płacą tobie, obok siebie"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Zaufanie",
+          "title": "Każda firma tutaj naprawdę istnieje",
+          "lede": "Zanim firma zacznie handlować na SELYVO, zostaje odnaleziona, sprawdzona i zakwalifikowana. Potem świadczą o niej jej klienci."
+        },
+        "ai": {
+          "button": "Szukaj z AI — ok. 0,60 EUR",
+          "caption": "Zanim AI zacznie szukać dostawców, przycisk pokazuje, ile to będzie kosztować.",
+          "found": "Znaleziono 8 dostawców",
+          "foundText": "Każdy z oceną, kategoriami i obszarem dostaw."
+        },
+        "invite": {
+          "title": "Do SELYVO dołącza się na zaproszenie",
+          "text": "Każdą firmę na SELYVO zna co najmniej jedna inna. Poproś klienta lub dostawcę, który jest członkiem, o zaproszenie. Nie znasz jeszcze nikogo na SELYVO? Napisz do nas.",
+          "cta": "Jak otrzymać zaproszenie",
+          "mockWho": "zaprasza cię do SELYVO Market",
+          "mockText": "Chcielibyśmy kupować od ciebie na SELYVO. Dołącz jako nasz dostawca, a nasze zapytania będą do ciebie trafiać właśnie tam.",
+          "mockButton": "Dołącz jako ich dostawca",
+          "mockValid": "Jednorazowe, ważne 14 dni i tylko dla adresu e-mail, na który zostało wysłane."
+        },
+        "faqAccounting": [
+          "Czy SELYVO współpracuje z naszą księgowością?",
+          "Tak. Podłącz swój system księgowy lub ERP w sekcji Połączone systemy i wybierz, co ma być przesyłane. Faktury wystawione w twoim systemie księgowym możesz wysłać przez SELYVO z pliku, a każdy e-mail z fakturą zawiera jej PDF i plik ISDOC."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "Co się dzieje z fakturą, która nie zgadza się z zamówieniem?",
+          "Czeka na ciebie wraz z wynikiem kontroli. Jeśli tak zdecydujesz, sama wraca do dostawcy z informacją, co poprawić, a jej miejsce zajmuje poprawiona faktura."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Projekty",
+          "title": "Projekt i jego budżet",
+          "text": "Projekt gromadzi swoje zapytania, zamówienia, faktury, karty czasu pracy i wydatki. Budżet sam się z nich wylicza: kwoty zaangażowane, wydane i zafakturowane, wraz z prognozą na koniec projektu.",
+          "points": [
+            "Kamienie milowe akceptowane przez klienta, a potem fakturowane",
+            "Zespół: twoi ludzie i ludzie twoich dostawców",
+            "Klient też może śledzić projekt"
+          ],
+          "tiles": [
+            "Budżet",
+            "Wydano",
+            "Zafakturowano"
+          ],
+          "milestones": [
+            [
+              "1 · Konfiguracja portalu",
+              "Zaakceptowany"
+            ],
+            [
+              "2 · Migracja dostawców",
+              "W trakcie"
+            ],
+            [
+              "3 · Testy akceptacyjne",
+              "Zaplanowany"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

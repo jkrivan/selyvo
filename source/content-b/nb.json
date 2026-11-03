@@ -1,0 +1,289 @@
+{
+  "common": {
+    "b": {
+      "simple": "Enkelt",
+      "compliant": "Korrekt",
+      "performing": "Effektivt",
+      "gtk": "Greit å vite",
+      "watchPart": "Se denne delen av gjennomgangen",
+      "fromStart": "Se fra begynnelsen",
+      "chaptersLabel": "Kapitler",
+      "tourNote": "Videoen er på engelsk.",
+      "next": "Neste steg",
+      "chapters": [
+        "Start",
+        "Offentlig forside og registrering",
+        "Startsiden, feeder og butikken",
+        "Salg og kunder",
+        "Innkjøp og leverandører",
+        "Ordrer",
+        "Fakturaer, kontrollert hos SELYVO, og betalinger",
+        "Utlegg",
+        "Prosjekter",
+        "MailChat, annonser og lager",
+        "Tilkoblede systemer",
+        "Greit å vite"
+      ],
+      "navTour": "5 min gjennomgang",
+      "screensNote": "Skjermbildene vises på engelsk. Selve appen finnes på sju språk."
+    }
+  },
+  "pages": {
+    "index": {
+      "b": {
+        "pill": "B2B-markedsplassen kun for inviterte",
+        "title": [
+          "Enkelt.",
+          "Korrekt.",
+          "Effektivt."
+        ],
+        "lede": "SELYVO Market er det beste stedet for handel mellom verifiserte bedrifter. Kjøp, selg, fakturer og få betalt på ett sted – fra den første forespørselen til den betalte fakturaen.",
+        "cta2": "Se gjennomgangen på 5 minutter",
+        "factLang": [
+          "7 språk",
+          "i appen, hver person på sitt eget; dette nettstedet på 15"
+        ],
+        "pillars": {
+          "eyebrow": "Hvorfor SELYVO Market",
+          "title": "Tre løfter vi holder på hvert skjermbilde",
+          "lede": "Alt en bedrift gjør med kundene og leverandørene sine – gjort enkelt, korrekt og effektivt.",
+          "simple": {
+            "lead": "Ett sted for hele handelen",
+            "text": "Hvert dokument lages fra det forrige: en forespørsel blir et tilbud, en ordre, en levering og en faktura. Ingenting skrives inn to ganger, og begge parter ser de samme opplysningene.",
+            "points": [
+              "Startsiden din viser hva som venter på deg – og neste steg",
+              "Én samlet betaling for alt i handlekurven",
+              "I nettleseren på datamaskin, nettbrett eller mobil"
+            ],
+            "gtk": "Knappen til høyre på hver fane viser hva den oppretter – og pilen på den gir tilgang til resten."
+          },
+          "compliant": {
+            "lead": "Hver bedrift ekte, hver faktura riktig",
+            "text": "Medlemmer blir med på invitasjon, slås opp i foretaksregisteret, sjekkes mot sanksjonslister og kvalifiseres før de handler. Fakturaene følger loven i hvert land.",
+            "points": [
+              "Sjekk av foretaksregister, mva-nummer og sanksjonslister",
+              "Mva, omvendt avgiftsplikt og lovpålagt tekst per land",
+              "Hver faktura du mottar, kontrolleres mot loven og ordren"
+            ],
+            "gtk": "En invitasjon virker én gang, i 14 dager, og bare for e-postadressen den ble sendt til."
+          },
+          "performing": {
+            "lead": "Bedre priser, raskere betaling, mindre arbeid",
+            "text": "Tilbud sammenlignet linje for linje, AI som står for lesingen, og betalinger rett inn på dine egne kontoer – så du kjøper smartere, selger mer og får betalt raskere.",
+            "points": [
+              "Tilbud side om side, per delkontrakt og per linje",
+              "AI finner leverandører og potensielle kunder og leser filer, fakturaer og e-poster",
+              "Kortbetaling via Stripe; overføringer avstemt på din egen Revolut Business-konto"
+            ],
+            "gtk": "AI viser hva det vil koste før den setter i gang – og ingenting sendes eller avtales før et menneske sier ja."
+          }
+        },
+        "process": {
+          "eyebrow": "Slik fungerer det",
+          "title": "Fra idé til betalt faktura",
+          "lede": "Sju steg, ett spor. Slik foregår et innkjøp på SELYVO Market – vist på ekte skjermbilder.",
+          "steps": [
+            {
+              "title": "En idé blir en forespørsel",
+              "text": "Beskriv hva du trenger, eller dra inn en spesifikasjon, et anbudsgrunnlag eller en mengdebeskrivelse: AI fyller ut tittel, kategori, linjer, levering og budsjett – du velger hva du vil beholde.",
+              "gtk": "En forespørsel kan be leverandørene om å svare på et spørreskjema først.",
+              "alt": "En ny forespørsel på SELYVO Market: hva trenger bedriften din?"
+            },
+            {
+              "title": "De rette, verifiserte leverandørene",
+              "text": "Inviter dine egne leverandører og bedrifter som allerede er på SELYVO, eller la AI finne flere – hver med sin vurdering, sine kategorier og sitt leveringsområde.",
+              "gtk": "Før AI søker, viser knappen hva det vil koste: ca. 0,60 EUR.",
+              "alt": "Leverandører som AI har funnet til en forespørsel – hver kan sjekkes og inviteres"
+            },
+            {
+              "title": "Tilbud side om side",
+              "text": "Hver leverandør svarer på SELYVO. Du ser hvem som vil sende tilbud, sammenligner tilbudene linje for linje og velger det beste.",
+              "gtk": "Leverandører som AI har funnet, inviteres på e-post og kan bli med i SELYVO for å sende tilbudet sitt.",
+              "alt": "En forespørsel som tar imot tilbud: hvem som vil sende ett, og to tilbud å sammenligne"
+            },
+            {
+              "title": "Ordren",
+              "text": "Tilbudet du aksepterer, blir innkjøpsordren. Leverandøren aksepterer den, og begge parter følger én status: åpen, til mottak, mottatt, fakturert, betalt.",
+              "gtk": "Hver leverandør bestemmer hvordan den får betalt: med kort på forhånd eller mot faktura etter levering.",
+              "alt": "Ordrer: hver innkjøpsordre med status, varemottak og faktura"
+            },
+            {
+              "title": "Levert og mottatt",
+              "text": "Varene kommer med en følgeseddel. Du bekrefter det som kom – helt eller delvis – og ordren går videre av seg selv; varer du har på lager, legges automatisk til i lagerbeholdningen.",
+              "gtk": "Er noe galt? Si fra på følgeseddelen, så får leverandøren beskjed med en gang.",
+              "alt": "Det som kom, bekreftes på en følgeseddel"
+            },
+            {
+              "title": "Fakturaen, kontrollert hos SELYVO",
+              "text": "Leverandøren fakturerer fra ordren. Før noen ser på fakturaen, kontrollerer SELYVO alle felt loven krever, opplysningene dine og hver linje mot ordren og det du har mottatt.",
+              "gtk": "Hvis du ønsker det, sendes en faktura med feil automatisk tilbake til leverandøren med beskjed om hva som skal rettes.",
+              "alt": "En faktura kontrollert hos SELYVO: én linje som ikke står i ordren – fakturaen sendes tilbake til leverandøren"
+            },
+            {
+              "title": "Betalt – og merket som betalt",
+              "text": "Betal godkjente fakturaer rett fra din egen Revolut Business-konto – på forfallsdatoen eller med en gang. Når pengene er kommet, ser begge parter at fakturaen er betalt.",
+              "gtk": "Innenfor grensen du setter, gjennomføres betalingene med en gang; over den venter de på godkjennerne dine i Revolut.",
+              "alt": "Godkjente fakturaer betalt fra Revolut Business"
+            }
+          ]
+        },
+        "compare": {
+          "eyebrow": "Det beste stedet for handel",
+          "title": "Mindre mas. Flere avtaler.",
+          "lede": "Dette endrer seg når kundene og leverandørene dine er på SELYVO Market.",
+          "without": "Uten SELYVO",
+          "with": "Med SELYVO Market",
+          "rows": [
+            [
+              "Finne leverandører",
+              "Søke, spørre rundt, vente på svar",
+              "Verifiserte leverandører per kategori – eller funnet av AI, hver med sin vurdering"
+            ],
+            [
+              "Tilbud",
+              "Vedlegg i alle formater, sammenlignet manuelt",
+              "Tilbud side om side, per delkontrakt og per linje"
+            ],
+            [
+              "Ordrer",
+              "Skrevet inn på nytt og fulgt opp på e-post",
+              "Det aksepterte tilbudet blir ordren – én status for begge parter"
+            ],
+            [
+              "Fakturaer",
+              "Kontrollert manuelt mot ordren",
+              "Kontrollert hos SELYVO mot loven og ordren – og sendt automatisk tilbake ved feil, hvis du ønsker det"
+            ],
+            [
+              "Få betalt",
+              "Purringer og overføringer avstemt manuelt",
+              "Kortbetalinger og overføringer avstemt på din egen Revolut Business-konto"
+            ]
+          ]
+        },
+        "gtk": {
+          "title": "Detaljene som sparer tid hver dag",
+          "lede": "Små ting som medlemmer legger merke til den første dagen – og setter pris på hver dag etterpå.",
+          "items": [
+            "Hver fane følger det du gjør – kjøp, salg, regnskap, prosjekter – slik du velger under Innstillinger.",
+            "Knappen til høyre viser alltid hva den oppretter – og pilen på den gir tilgang til resten.",
+            "Startsiden er din: din rolle, på din måte – daglig arbeid, resultater eller planlegging.",
+            "AI viser kostnaden før den setter i gang, og ingenting sendes, avtales eller bokføres før et menneske sier ja.",
+            "Hver leverandør bestemmer hvordan den får betalt: med kort på forhånd eller mot faktura etter levering.",
+            "Hver faktura har mva per land, den lovpålagte teksten og både PDF- og ISDOC-fil.",
+            "Bedriften din får sin egen e-postadresse på SELYVO: kommer en ordre eller en faktura på e-post, leser AI den og legger den klar for deg.",
+            "På vei: AI-forhandleren, transport og lagerhold, analyse, dokumenter og signering."
+          ]
+        },
+        "video": {
+          "eyebrow": "Video",
+          "title": "Se SELYVO Market på fem minutter",
+          "lede": "Hele markedsplassen, skjermbilde for skjermbilde. Se videoen fra start til slutt, eller hopp til delen du trenger."
+        }
+      }
+    },
+    "spend-control": {
+      "b": {
+        "pillars": [
+          "En forespørsel i fem steg – skrevet inn av deg eller lest av AI fra spesifikasjonen din.",
+          "Bare verifiserte leverandører, hver med sin vurdering; alle som har gitt tilbud, får beskjed om hver endring.",
+          "Tilbud sammenlignet linje for linje og per delkontrakt; det beste blir ordren med ett klikk."
+        ],
+        "gtk": [
+          "Før AI søker etter leverandører, viser knappen hva det vil koste.",
+          "Leverandører som AI har funnet, inviteres på e-post og kan bli med i SELYVO for å sende tilbudet sitt.",
+          "Du bestemmer tilbudsfristen – og kan når som helst utsette den eller slutte å ta imot tilbud."
+        ]
+      }
+    },
+    "revenue-acceleration": {
+      "b": {
+        "pillars": [
+          "Salgspipelinen din fordelt på faser og sakene dine i én liste, hver med neste steg.",
+          "Du selger bare til verifiserte bedrifter – funnet i foretaksregisteret og sjekket før de handler.",
+          "Nye leads fra kundene dine, fra nye bedrifter eller potensielle kunder som AI finner; målrettede tilbud; annonser fremhevet i kjøpernes feeder."
+        ],
+        "gtk": [
+          "En sak flyttes automatisk videre når forespørsler, tilbud og ordrer kommer inn.",
+          "Et nytt lead har tre innganger: en av kundene dine, en ny kunde eller potensielle kunder som AI finner.",
+          "Hver annonse viser omsetningen og marginen sin."
+        ]
+      }
+    },
+    "inventory-control": {
+      "b": {
+        "pillars": [
+          "Innkjøps- og salgsordrer i én liste: åpne, til mottak, mottatt, til fakturering.",
+          "Følgeseddelen du bekrefter, er varemottaket ditt – lagret sammen med ordren.",
+          "Delleveranser der hver følgeseddel bare tar med det som gjenstår; fakturaen følger varemottaket."
+        ],
+        "gtk": [
+          "Er noe galt med en leveranse? Si fra på følgeseddelen – leverandøren får beskjed med en gang.",
+          "Lagervarer legges automatisk til i lagerbeholdningen når du bekrefter det som kom.",
+          "Det som holder på å gå tomt, havner i handlekurven igjen med ett klikk."
+        ]
+      }
+    },
+    "finance-administration": {
+      "b": {
+        "pillars": [
+          "Fakturaer lages fra ordrene på et øyeblikk; fakturaer du mottar, leses av AI fra en fil eller fra postkassen din.",
+          "Mva, omvendt avgiftsplikt og lovpålagt tekst per land; hver faktura du mottar, kontrolleres hos SELYVO.",
+          "Kortbetaling via Stripe og overføringer avstemt på din egen Revolut Business-konto."
+        ],
+        "gtk": [
+          "En faktura som ikke består kontrollen, kan automatisk sendes tilbake til leverandøren med beskjed om hva som skal rettes.",
+          "Hver e-post med faktura har både PDF- og ISDOC-fil vedlagt.",
+          "Betalinger innenfor grensen din gjennomføres med en gang; over den venter de på godkjennerne dine i Revolut."
+        ]
+      }
+    },
+    "operational-scale": {
+      "b": {
+        "pillars": [
+          "Timelister én uke om gangen, utlegg fra et bilde av kvitteringen og én faktura for begge deler.",
+          "Hver kundes egne regler: godkjent før fakturaen, vedlagt fakturaen eller ikke påkrevd.",
+          "Budsjettet for et prosjekt beregnes automatisk – forpliktet, faktisk og fakturert – med en sluttprognose."
+        ],
+        "gtk": [
+          "Reglene i landet ditt avgjør hvor mye mva på et utlegg du kan få fradrag for.",
+          "Egen tid – presalg, tilbudsarbeid, opplæring – beregnes etter interne satser og når aldri en kunde.",
+          "Med MailChat får bedriften din sin egen e-postadresse på SELYVO."
+        ]
+      }
+    },
+    "compliance-by-design": {
+      "b": {
+        "pillars": [
+          "Å bli med tar bare noen få steg: opplysningene om bedriften hentes fra foretaksregisteret.",
+          "Kun for inviterte; register, mva-nummer og sanksjonslister sjekket; en første vurdering ut fra SELYVOs spørsmål.",
+          "Kundenes anmeldelser følger hver fullført ordre, og hver leverandørs vurdering står ved siden av tilbudet."
+        ],
+        "gtk": [
+          "En invitasjon virker én gang, i 14 dager, og bare for e-postadressen den ble sendt til.",
+          "Hvert dokument beholder historikken sin: hvem som endret hva, og når.",
+          "Hemmeligheter blir på serveren: en API-nøkkel vises bare med de første og siste tegnene."
+        ]
+      }
+    },
+    "operating-layer": {
+      "b": {
+        "pillars": [
+          "Ditt eget arbeidsområde for leverandører, spørreskjemaer, kataloger og godkjenningsflyter.",
+          "Spørreskjemaer med dokumentasjon, versjoner og godkjenninger – hvert svar tas vare på.",
+          "Koblet til markedsplassen: profiler, forespørsler og ordrer holdes synkronisert begge veier."
+        ],
+        "gtk": [
+          "SELYVO Core kobles til markedsplassen under Tilkoblede systemer.",
+          "Spørreskjemaer fra SELYVO Core når leverandørene dine på markedsplassen.",
+          "Core fungerer ved siden av systemene du allerede bruker."
+        ]
+      }
+    },
+    "thank-you": {
+      "b": {
+        "lede": "Vi svarer på e-post. I mellomtiden kan du se gjennomgangen på fem minutter eller lese hvordan du blir med."
+      }
+    }
+  }
+}

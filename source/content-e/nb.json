@@ -1,0 +1,600 @@
+{
+ "common": {
+  "c": {
+   "nav": {
+    "sell": "Selg",
+    "buy": "Kjøp",
+    "projects": "Prosjekter",
+    "finance": "Økonomi",
+    "trust": "Tillit",
+    "tour": "5 min gjennomgang",
+    "orders": "Ordrer og leveranser",
+    "core": "SELYVO Core",
+    "functions": "Markedsplassen"
+   },
+   "fn": {
+    "sell": {
+     "name": "Selg"
+    },
+    "buy": {
+     "name": "Kjøp"
+    },
+    "projects": {
+     "name": "Prosjekter"
+    },
+    "finance": {
+     "name": "Økonomi"
+    }
+   },
+   "steps": {
+    "sell": [
+     [
+      "Lead",
+      "Ny interesse"
+     ],
+     [
+      "Mulighet",
+      "Forespørsler og henvendelser"
+     ],
+     [
+      "Forslag",
+      "Tilbud sendt"
+     ],
+     [
+      "Forhandling",
+      "Svar og budgivning"
+     ],
+     [
+      "Lukket",
+      "Vunnet eller tapt noteres"
+     ]
+    ],
+    "buy": [
+     [
+      "Forespørsel",
+      "Skrevet eller lest av AI"
+     ],
+     [
+      "Leverandører",
+      "Invitert eller funnet av AI"
+     ],
+     [
+      "Tilbud",
+      "Innen fristen du setter"
+     ],
+     [
+      "Tildeling",
+      "Beste tilbud per delkontrakt"
+     ],
+     [
+      "Ordre",
+      "Sendt og akseptert"
+     ]
+    ],
+    "projects": [
+     [
+      "Planlagt",
+      "Milepæler og budsjett"
+     ],
+     [
+      "Pågår",
+      "Tid, kostnader, innkjøp"
+     ],
+     [
+      "Godkjent",
+      "Av kunden"
+     ],
+     [
+      "Fakturert",
+      "På neste faktura"
+     ]
+    ],
+    "finance": [
+     [
+      "Mottatt",
+      "Via e-post, fil eller SELYVO"
+     ],
+     [
+      "Kontrollert",
+      "Hos SELYVO, mot loven og ordren"
+     ],
+     [
+      "Godkjent",
+      "Av deg"
+     ],
+     [
+      "Betalt",
+      "Med kort eller overføring"
+     ]
+    ],
+    "orders": [
+     [
+      "Bestilt",
+      "Lagt inn"
+     ],
+     [
+      "Akseptert",
+      "Av leverandøren"
+     ],
+     [
+      "Levert",
+      "Med følgeseddel"
+     ],
+     [
+      "Mottatt",
+      "Bekreftet av deg"
+     ],
+     [
+      "Fakturert",
+      "Etter mottak"
+     ],
+     [
+      "Betalt",
+      "På forfallsdatoen"
+     ]
+    ],
+    "trust": [
+     [
+      "Invitert",
+      "Av et medlem"
+     ],
+     [
+      "Register",
+      "Funnet og bekreftet"
+     ],
+     [
+      "Kontroller",
+      "Mva og sanksjoner"
+     ],
+     [
+      "Kvalifisert",
+      "SELYVOs spørsmål"
+     ],
+     [
+      "Vurdert",
+      "Anmeldelser etter ordrer"
+     ]
+    ]
+   },
+   "gtk": "Greit å vite"
+  },
+  "d": {
+   "learn": "Les mer",
+   "how": "Slik virker det",
+   "watch": "Se gjennomgangen",
+   "local": {
+    "overview": "Oversikt",
+    "how": "Slik virker det",
+    "features": "Funksjoner",
+    "faq": "Spørsmål"
+   },
+   "fn": {
+    "sell": {
+     "line": "Vinn kunder blant verifiserte bedrifter."
+    },
+    "buy": {
+     "line": "Det rette tilbudet – fra leverandører du kan stole på."
+    },
+    "projects": {
+     "line": "Lever arbeidet. Ha budsjettet i sikte."
+    },
+    "finance": {
+     "line": "Fakturer, kontroller og få betalt – med mindre arbeid."
+    }
+   },
+   "stepWord": "Steg",
+   "scrollHint": "Rull for å følge det steg for steg",
+   "others": "Resten av markedsplassen.",
+   "gtkTitle": "Greit å vite."
+  },
+  "e": {
+   "eyebrow": "Video",
+   "title": "Se hvordan det fungerer.",
+   "sub": "Korte filmer laget på markedsplassens ekte skjermbilder. Velg én, og hopp rett til steget du trenger.",
+   "homeTitle": "Se SELYVO Market i bruk.",
+   "homeSub": "Gjennomgangen på fem minutter av hele markedsplassen, og korte filmer som hver viser én oppgave – laget på de ekte skjermbildene.",
+   "nowPlaying": "Spilles nå",
+   "guideWord": "Guide",
+   "tourWord": "Gjennomgang",
+   "fromWord": "fra",
+   "watch": "Se videoen",
+   "localVideo": "Video",
+   "seenHint": "Velg et steg for å se det igjen",
+   "guides": {
+    "sales": {
+     "title": "Fra første samtale til vunnet avtale",
+     "text": "Salg på SELYVO Market: et nytt lead i fem steg, saken under Salg og som skjema – og hvordan den går fra Lead til Lukket.",
+     "chapters": [
+      "Start",
+      "Salg: alle saker",
+      "Et nytt lead",
+      "Fra foretaksregisteret",
+      "Hvem du snakket med",
+      "Hva det er verdt",
+      "Neste steg",
+      "Lagre og inviter",
+      "Saken under Salg",
+      "Saken som skjema",
+      "Den går videre av seg selv",
+      "Greit å vite"
+     ]
+    },
+    "buying": {
+     "chapters": [
+      "Start",
+      "Fylt ut fra en fil",
+      "Delkontrakter, tilbudsgivere",
+      "Tilbudene er inne",
+      "Forhandle med AI",
+      "AI spør deg først",
+      "Avtalt: du godkjenner",
+      "Tildelingen og ordren",
+      "Leverandøren godkjenner",
+      "Greit å vite"
+     ]
+    },
+    "requestai": {
+     "title": "En forespørsel til leverandører funnet av AI",
+     "text": "Innkjøp på SELYVO Market: en ny forespørsel i fem steg – og leverandører du ikke kjenner ennå, funnet av AI, sjekket og invitert på e-post.",
+     "chapters": [
+      "Start",
+      "Omfanget",
+      "Linjene",
+      "Levering og budsjett",
+      "Hvem som kan gi tilbud",
+      "Leverandører funnet av AI",
+      "Sjekket, så invitert",
+      "Se over og publiser",
+      "Tar imot tilbud",
+      "Greit å vite"
+     ]
+    },
+    "receiving": {
+     "title": "Mottak av bestilte varer på lager",
+     "text": "Ordrer på SELYVO Market: leverandørens følgeseddel, det du bekrefter som mottatt – og lageret ditt, som følger med automatisk.",
+     "chapters": [
+      "Start",
+      "Status for hver ordre",
+      "«Mottatt» venter på deg",
+      "Bekreft det som kom",
+      "Hold på lager",
+      "Lager: det du bruker",
+      "En vares historikk",
+      "Greit å vite"
+     ]
+    },
+    "freelancer": {
+     "chapters": [
+      "Start",
+      "Én uke om gangen",
+      "En timeliste per kunde",
+      "Ordren setter reglene",
+      "Utlegg fra kvitteringen",
+      "Én faktura for begge deler",
+      "Utsted den",
+      "Greit å vite"
+     ]
+    }
+   },
+   "note": "Denne videoen er på engelsk."
+  }
+ },
+ "pages": {
+  "index": {
+   "c": {
+    "processShort": [
+     "Forespørsel",
+     "Leverandører",
+     "Tilbud",
+     "Ordre",
+     "Mottatt",
+     "Kontrollert",
+     "Betalt"
+    ]
+   },
+   "d": {
+    "eyebrow": "SELYVO Market",
+    "title": "Selg. Kjøp. Prosjekter. Økonomi.",
+    "sub": "Én markedsplass for alt sammen – bare med verifiserte bedrifter.",
+    "heroAlt": "Startsiden i SELYVO Market: det som venter på deg i dag, saldoen din, tilbudsfrister og forretningsnettverket ditt",
+    "story": {
+     "eyebrow": "Slik virker det",
+     "title": "Fra idé til betalt faktura.",
+     "sub": "Sju steg, ett spor. Følg et innkjøp gjennom SELYVO Market – på de ekte skjermbildene."
+    },
+    "verified": {
+     "eyebrow": "Kun verifiserte bedrifter",
+     "title": "Hver bedrift. Kontrollert.",
+     "sub": "SELYVO er kun for inviterte. Hver bedrift slås opp i foretaksregisteret, mva-nummeret og sanksjonslistene sjekkes, og bedriften svarer på SELYVOs spørsmål før sin første handel.",
+     "kpis": [
+      [
+       3,
+       "kontroller",
+       "før en bedrift kan handle"
+      ],
+      [
+       1,
+       "spor",
+       "som både kjøper og leverandør ser"
+      ],
+      [
+       2,
+       "betalingsmåter",
+       "med kort på forhånd eller mot faktura"
+      ]
+     ],
+     "more": "Slik skaper vi tillit"
+    },
+    "gtkSub": "Detaljene som medlemmer legger merke til den første dagen – og setter pris på hver dag etterpå.",
+    "invite": {
+     "title": "Åpent for inviterte.",
+     "sub": "Hver bedrift på SELYVO er kjent av minst én annen. Be en kunde eller leverandør som er medlem, om å invitere deg – eller skriv til oss."
+    }
+   }
+  },
+  "spend-control": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Forespørsler",
+      "title": "Tilbudene samles på forespørselen",
+      "text": "Se hvem som vil sende tilbud, og hvem som ikke har svart, utsett fristen eller slutt å ta imot tilbud – og sammenlign så det som har kommet inn.",
+      "points": [
+       "Leverandørene sier fra om de vil sende tilbud",
+       "Alle som har gitt tilbud, får beskjed om hver endring",
+       "Sammenlign tilbud per delkontrakt, per tilbud eller linje for linje"
+      ]
+     },
+     {
+      "eyebrow": "Leverandører",
+      "title": "Leverandører du kan stole på",
+      "text": "Hver leverandør på SELYVO er verifisert og vurdert. Finn dem etter kategori og land, lagre dem, og be om tilbud med ett klikk.",
+      "points": [
+       "Kun verifiserte leverandører, med vurdering",
+       "Dine egne leverandører, invitert til SELYVO",
+       "Be om tilbud rett fra et leverandørkort"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Kjøp fra leverandører du kan stole på.",
+    "sub": "Beskriv hva du trenger, sammenlign tilbud linje for linje fra verifiserte leverandører, og send ordren – hvert steg dokumentert.",
+    "story": {
+     "title": "Fra behov til godkjent ordre.",
+     "sub": "Forespørselen som henter inn tilbudene – og ordren som følger.",
+     "steps": [
+      {
+       "title": "Beskriv hva du trenger.",
+       "text": "Skriv det selv, eller dra inn en spesifikasjon, et anbudsgrunnlag eller en mengdebeskrivelse – AI fyller ut tittel, kategori, linjer, levering og budsjett."
+      },
+      {
+       "title": "Velg hvem som gir tilbud.",
+       "text": "Dine egne leverandører, bedrifter på SELYVO eller flere som AI finner. Før AI søker, viser knappen hva det vil koste: ca. 0,60 EUR."
+      },
+      {
+       "title": "Tilbudene kommer inn.",
+       "text": "Hver leverandør sier fra om den vil sende tilbud, og tilbudene samles på forespørselen innen fristen du setter."
+      },
+      {
+       "title": "Velg det beste.",
+       "text": "Sammenlign tilbudene linje for linje eller per delkontrakt, og tildel det beste."
+      },
+      {
+       "title": "Ordren sendes.",
+       "text": "Tilbudet du aksepterer, blir innkjøpsordren. Begge parter følger den til levering og faktura."
+      }
+     ]
+    }
+   }
+  },
+  "revenue-acceleration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Annonser",
+      "title": "Det du selger – og hva det innbringer",
+      "text": "Produkter og tjenester med medlemspriser, bilder og egen side. Hver annonse viser omsetningen og marginen sin, og du kan fremheve den i kjøpernes feeder.",
+      "points": [
+       "Priser etter mengde eller en minstebestilling",
+       "Utkast og annonser uten bilder markeres",
+       "Fremheving i feedene til kjøperne du retter deg mot"
+      ]
+     },
+     {
+      "eyebrow": "Kunder",
+      "title": "Kundene dine – og dem du kunne selge til",
+      "text": "Bedrifter som kjøper fra deg, og kjøpere på SELYVO i kategoriene dine. Send et målrettet tilbud til dem du velger.",
+      "points": [
+       "Filtrer etter kategori, land og team",
+       "Hva hver kunde har kjøpt, og når",
+       "Målrettede tilbud til kundene du velger – og hvem som har sett dem"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Selg til verifiserte kjøpere.",
+    "sub": "Legg ut det du selger, svar på forespørslene i kategoriene dine, og følg hver sak fra første lead til utfallet.",
+    "story": {
+     "title": "Fra første lead til et klart utfall.",
+     "sub": "Hver sak går gjennom salgspipelinen du ser under Salg.",
+     "steps": [
+      {
+       "title": "Et lead kommer inn.",
+       "text": "Fra en av kundene dine, en ny bedrift på SELYVO eller potensielle kunder som AI finner. Hvert lead åpner en sak med neste steg."
+      },
+      {
+       "title": "En forespørsel når deg.",
+       "text": "Forespørsler og henvendelser i kategoriene dine gjør interessen til en mulighet – saken flyttes automatisk videre."
+      },
+      {
+       "title": "Tilbudet ditt sendes.",
+       "text": "Svar på forespørselen med et tilbud, eller send et målrettet tilbud til kundene du velger."
+      },
+      {
+       "title": "Dere avtaler vilkårene.",
+       "text": "Svar og budgivning ligger samlet på saken, og begge parter ser de samme opplysningene."
+      },
+      {
+       "title": "Vunnet eller tapt – dokumentert.",
+       "text": "Hver sak ender med et klart utfall, og konverteringen og treffprosenten din beregnes automatisk."
+      }
+     ]
+    }
+   }
+  },
+  "inventory-control": {
+   "d": {
+    "title": "Hver ordre, fra akseptert til betalt.",
+    "sub": "Én ordre, én tidslinje, de samme opplysningene for begge parter – i deler om nødvendig.",
+    "story": {
+     "title": "Hvor ordren står. Alltid.",
+     "sub": "En ordre følger de samme stegene som du ser på den i SELYVO.",
+     "steps": [
+      {
+       "title": "Ordren legges inn.",
+       "text": "Fra det aksepterte tilbudet eller rett fra en annonse. Begge parter ser den samme ordren."
+      },
+      {
+       "title": "Leverandøren aksepterer.",
+       "text": "Leverandøren aksepterer ordren – med leveringsdato."
+      },
+      {
+       "title": "Levert – med følgeseddel.",
+       "text": "Hver leveranse kommer med sin følgeseddel – i deler om nødvendig."
+      },
+      {
+       "title": "Du bekrefter det som kom.",
+       "text": "Helt eller delvis. Er noe galt? Si fra på følgeseddelen, så får leverandøren beskjed med en gang."
+      },
+      {
+       "title": "Fakturaen følger.",
+       "text": "Laget fra ordren etter varemottaket – og kontrollert hos SELYVO når den kommer inn."
+      },
+      {
+       "title": "Betalt på forfallsdatoen.",
+       "text": "Med kort på forhånd eller mot faktura, slik leverandøren bestemmer – og begge parter ser at den er betalt."
+      }
+     ]
+    }
+   }
+  },
+  "finance-administration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Fakturaer",
+      "title": "Leverandørgjeld, kundefordringer og forfalt i én liste",
+      "text": "Hver faktura du utsteder og mottar, med status og forfallsdato. Åpne en for å se ordren, linjene og historikken.",
+      "points": [
+       "Fakturaer på e-post til invoice@market.selyvo.com, lest av AI",
+       "PDF- og ISDOC-fil i hver e-post med faktura",
+       "Utlegg med kvitteringer viderefaktureres"
+      ]
+     },
+     {
+      "eyebrow": "Tilkoblede systemer",
+      "title": "Fungerer med systemene du allerede bruker",
+      "text": "Koble til regnskaps- eller ERP-systemet ditt, og velg hva som skal overføres, og hvor ofte. Kundene og leverandørene dine kobler til sine på samme måte, og hver utveksling logges.",
+      "points": [
+       "Profiler, forespørsler, ordrer, betalinger og lager holdes synkronisert",
+       "Alle andre systemer via markedsplassens lager-API",
+       "Hver utveksling logges"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Fakturer. Kontroller. Få betalt.",
+    "sub": "Fakturaer laget fra ordrene, hver mottatt faktura kontrollert hos SELYVO, og betalinger fra din egen konto.",
+    "story": {
+     "title": "Hver faktura kontrollert før noen ser på den.",
+     "sub": "En faktura du mottar – fra den kommer inn til den er betalt.",
+     "steps": [
+      {
+       "title": "En faktura kommer inn.",
+       "text": "På e-post til invoice@market.selyvo.com, som fil eller på SELYVO – lest av AI og koblet til bedriften den gjelder."
+      },
+      {
+       "title": "SELYVO kontrollerer den.",
+       "text": "Alle felt loven krever, opplysningene dine og hver linje mot ordren og det du har mottatt. Hvis du ønsker det, sendes en faktura som ikke består kontrollen, automatisk tilbake til leverandøren."
+      },
+      {
+       "title": "Du godkjenner den.",
+       "text": "Godkjente fakturaer venter på betaling – nærmeste forfallsdato først."
+      },
+      {
+       "title": "Betalt fra din egen konto.",
+       "text": "Betal fra Revolut Business-kontoen din på forfallsdatoene eller nå. Innenfor grensen din går betalingene med en gang; over den venter de på godkjennerne dine."
+      }
+     ]
+    }
+   }
+  },
+  "operational-scale": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Budsjett",
+      "title": "Et budsjett som regner selv",
+      "text": "Forpliktet, faktisk og fakturert hentes fra dokumentene prosjektet bygger på – timelister, innkjøpsordrer, fakturaer og utlegg – med en sluttprognose.",
+      "points": [
+       "Hvert beløp kan spores til dokumentet sitt",
+       "Milepæler som kunden godkjenner, og som deretter faktureres",
+       "Arbeidet til leverandørene dine i samme prosjekt"
+      ]
+     },
+     {
+      "eyebrow": "MailChat",
+      "title": "E-post og chat i én liste",
+      "text": "Bedriften din får sin egen e-postadresse på SELYVO. E-poster og chatter med kunder og leverandører samles i én liste, og AI gjenkjenner fakturaer, tilbud og ordrer i dem.",
+      "points": [
+       "Mapper og etiketter: arbeid, kunder, fakturering",
+       "Chatter med partnerne dine ved siden av e-postene deres",
+       "Ordrer og fakturaer i e-post legges klar for deg"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Prosjekter – med budsjettet i sikte.",
+    "sub": "Milepæler, team, tid, utlegg og innkjøp i ett prosjekt. Budsjettet beregnes automatisk, og kunden følger med.",
+    "story": {
+     "title": "Planlegg. Gjennomfør. Fakturer.",
+     "sub": "Et kundeprosjekt fra milepæler til faktura.",
+     "steps": [
+      {
+       "title": "Planlegg det.",
+       "text": "Milepæler med beløp, team og budsjett – dine egne folk og leverandørene dine i ett prosjekt."
+      },
+      {
+       "title": "Gjør jobben.",
+       "text": "Timelister, utlegg og innkjøp havner i prosjektet etter hvert som arbeidet gjøres."
+      },
+      {
+       "title": "Kunden godkjenner.",
+       "text": "Hver milepæl godkjennes av kunden, som følger prosjektet sammen med deg."
+      },
+      {
+       "title": "Fakturer det.",
+       "text": "Godkjente milepæler kommer på fakturaen, og budsjettet viser hva som er forpliktet, faktisk og fakturert."
+      }
+     ]
+    }
+   }
+  },
+  "compliance-by-design": {
+   "d": {
+    "title": "Vit hvem du handler med.",
+    "sub": "Hver bedrift er invitert, funnet i registeret, sjekket og kvalifisert før den handler. Hvert dokument beholder historikken sin."
+   }
+  },
+  "operating-layer": {
+   "d": {
+    "title": "Dine egne prosesser. Ett fundament.",
+    "sub": "SELYVO Core gir større organisasjoner et eget arbeidsområde – leverandører, spørreskjemaer, kataloger og prosessflyter med AI-kontroller – koblet til SELYVO Market."
+   }
+  }
+ }
+}

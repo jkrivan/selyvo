@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "Nou",
+      "videoGuide": "Ghid video",
+      "watchIt": "Vizionați acum",
+      "product": "Produs",
+      "getInvited": "Primiți o invitație",
+      "illustrative": "Firmele și cifrele din exemplele de pe această pagină sunt ilustrative.",
+      "tour": {
+        "title": "SELYVO Market în cinci minute",
+        "text": "Întregul SELYVO Market, ecran cu ecran: vânzări și achiziții, comenzi, facturi verificate la SELYVO, cheltuieli, proiecte, MailChat, stocuri și sisteme conectate."
+      },
+      "connect": {
+        "eyebrow": "Sisteme conectate",
+        "title": "Funcționează cu sistemele pe care le folosiți deja",
+        "text": "Conectați contabilitatea sau ERP-ul firmei și alegeți ce se sincronizează, cât de des și în ce câmpuri. Clienții și furnizorii dumneavoastră își conectează sistemele la fel, iar fiecare schimb de date este înregistrat.",
+        "points": [
+          "Profiluri, cereri, comenzi, plăți și stocuri, mereu sincronizate",
+          "Orice alt sistem, prin API-ul de stocuri al platformei, cu o cheie proprie",
+          "Facturile din contabilitatea unui furnizor ajung la invoice@market.selyvo.com, unde sunt citite și verificate",
+          "Fiecare factură trimisă prin e-mail are atașate PDF-ul și fișierul ISDOC, pentru contabilitatea clientului"
+        ],
+        "yours": "Contabilitatea sau ERP-ul dumneavoastră",
+        "market": "SELYVO Market",
+        "partners": "Sistemele clienților și furnizorilor dumneavoastră",
+        "carries": "Profiluri · cereri · comenzi · plăți · stocuri",
+        "api": "Orice alt sistem, prin API-ul de stocuri al platformei",
+        "invoices": "Facturi PDF și ISDOC, verificate la sosire",
+        "log": "Fiecare schimb de date, înregistrat"
+      },
+      "check": {
+        "eyebrow": "Verificare la SELYVO",
+        "title": "Fiecare factură pe care o primiți vine deja verificată",
+        "text": "Fie că sosește prin e-mail, ca fișier, prin MailChat sau de la un furnizor de pe SELYVO, factura este verificată înainte ca cineva să se uite la ea. Dacă nu trece verificarea, poate fi returnată automat furnizorului, cu indicații despre ce trebuie corectat.",
+        "steps": [
+          [
+            "Primită",
+            "La invoice@market.selyvo.com, dintr-un fișier, prin MailChat sau pe SELYVO."
+          ],
+          [
+            "Verificată",
+            "Fiecare câmp cerut de lege, datele dumneavoastră exact ca pe SELYVO, fiecare poziție corelată cu comanda și nimic peste ce s-a recepționat."
+          ],
+          [
+            "Returnată automat",
+            "Dacă doriți: furnizorul este anunțat imediat, în limba lui, cu indicații despre ce trebuie corectat."
+          ],
+          [
+            "Înlocuită",
+            "Factura corectată o înlocuiește pe cea returnată. Din cea returnată nu se plătește nimic."
+          ]
+        ],
+        "card": {
+          "title": "Verificarea SELYVO",
+          "ok1": "Toate câmpurile obligatorii ale unei facturi",
+          "ok2": "Emisă pe numele dumneavoastră, ca pe SELYVO",
+          "bad": "Transportul de 80,00 € nu apare în comandă",
+          "returned": "Returnată automat furnizorului, cu indicații despre ce trebuie corectat"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "Marketplace B2B doar pe bază de invitație",
+        "title1": "Vindeți mai mult. Cumpărați mai bine.",
+        "title2": "Încasați mai repede.",
+        "lede": "Pe SELYVO Market, firmele verificate fac afaceri de la prima cerere până la factura plătită: totul într-un singur loc și în limba fiecărei persoane.",
+        "cta": "Primiți o invitație",
+        "cta2": "Vizionați prezentarea",
+        "ticks": [
+          "Găsită în registrul comerțului",
+          "Verificată în listele de sancțiuni",
+          "Evaluată înainte de prima tranzacție"
+        ],
+        "shotAlt": "Achizițiile pe SELYVO Market: economiile, soldul restant, ce s-a recepționat și facturat, plus sarcinile de achiziție în așteptare",
+        "offer": {
+          "title": "Ofertă acceptată",
+          "note": "Cu 4,8% mai puțin după negociere"
+        },
+        "paid": {
+          "status": "Plătită",
+          "country": "Danemarca"
+        },
+        "facts": [
+          [
+            "3 verificări",
+            "înainte ca o firmă să poată tranzacționa: registrul comerțului, listele de sancțiuni și întrebările SELYVO"
+          ],
+          [
+            "1 lanț",
+            "de la cerere la plată, fiecare document creat din cel dinainte"
+          ],
+          [
+            "7 limbi",
+            "în aplicație, fiecare persoană în limba sa; acest site și ghidurile sale, în 15"
+          ],
+          [
+            "2 moduri de plată",
+            "în avans cu cardul sau pe bază de factură după livrare, după cum decide fiecare furnizor"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "O singură platformă",
+          "title": "Toată tranzacția, pentru ambele părți, într-un singur loc",
+          "lede": "Vânzări, achiziții, comenzi, facturi și plăți: fiecare pas pornește din cel dinainte. Clienții și furnizorii dumneavoastră văd aceleași date ca și dumneavoastră.",
+          "items": [
+            [
+              "Vindeți mai mult",
+              "Fiți găsiți de cumpărători verificați din categoriile dumneavoastră. Răspundeți la cererile lor, trimiteți oferte țintite și urmăriți fiecare afacere, de la primul lead până la câștig.",
+              "Vânzări pe SELYVO"
+            ],
+            [
+              "Cumpărați mai bine",
+              "Comparați ofertele poziție cu poziție, de la furnizori despre care știți că sunt reali: furnizorii proprii, alții noi de pe SELYVO sau cei pe care vi-i găsește IA.",
+              "Achiziții pe SELYVO"
+            ],
+            [
+              "Încasați mai repede",
+              "Facturați din comandă, cu TVA-ul fiecărei țări. Clientul plătește cu cardul sau achită factura în propriul dumneavoastră cont Revolut Business.",
+              "Facturi și plăți"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Vânzări",
+            "title": "Fiecare afacere, de la primul lead până la câștig",
+            "text": "Pipeline-ul pe etape, afacerile într-o listă și, alături, afacerea aleasă, cu pasul următor. O afacere avansează singură pe măsură ce sosesc cereri, oferte și comenzi.",
+            "points": [
+              "Lead-uri noi de la clienții dumneavoastră, de la firme noi sau clienți potențiali găsiți de IA",
+              "Oferte țintite către clienții aleși",
+              "Listări promovate în fluxurile de noutăți ale cumpărătorilor"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Achiziții",
+            "title": "Comparați ofertele poziție cu poziție și comandați-o pe cea mai bună",
+            "text": "Publicați o cerere cu loturile și pozițiile ei, invitați furnizorii aleși și vedeți toate ofertele una lângă alta. Cea pe care o acceptați devine comanda de achiziție.",
+            "points": [
+              "O cerere citită de IA din specificația dumneavoastră",
+              "Ratingul fiecărui furnizor alături de oferta lui",
+              "Un negociator IA care vă întreabă înainte de orice acord"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Facturi și plăți",
+            "title": "Facturați din comandă. Încasați la timp.",
+            "text": "Facturile se creează din comenzile lor, cu TVA-ul fiecărei țări și mențiunile cerute în fiecare caz. Facturile primite sunt citite de IA, verificate la SELYVO față de comanda lor și apoi plătite.",
+            "points": [
+              "Plăți cu cardul prin Stripe",
+              "Încasări direct în contul dumneavoastră Revolut Business",
+              "O factură care nu trece verificarea poate fi returnată automat furnizorului",
+              "Plățile și încasările, alăturate"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Încredere",
+          "title": "Aici, fiecare firmă este reală",
+          "lede": "Înainte să tranzacționeze pe SELYVO, o firmă este găsită, verificată și calificată. După aceea, clienții ei vorbesc pentru ea."
+        },
+        "ai": {
+          "button": "Căutați cu IA — circa 0,60 EUR",
+          "caption": "Înainte ca IA să caute furnizori, butonul arată cât va costa.",
+          "found": "8 furnizori găsiți",
+          "foundText": "Fiecare cu ratingul, categoriile și zonele în care livrează."
+        },
+        "invite": {
+          "title": "Pe SELYVO se intră pe bază de invitație",
+          "text": "Fiecare firmă de pe SELYVO este cunoscută de cel puțin una dintre celelalte. Rugați un client sau un furnizor care este membru să vă invite. Nu cunoașteți încă pe nimeni pe SELYVO? Scrieți-ne.",
+          "cta": "Cum primiți o invitație",
+          "mockWho": "vă invită pe SELYVO Market",
+          "mockText": "Am dori să cumpărăm de la dumneavoastră pe SELYVO. Aderați ca furnizor al nostru, iar cererile noastre vă vor ajunge acolo.",
+          "mockButton": "Aderați ca furnizor al lor",
+          "mockValid": "Valabilă o singură dată, timp de 14 zile, doar pentru adresa de e-mail la care a fost trimisă."
+        },
+        "faqAccounting": [
+          "Funcționează cu contabilitatea noastră?",
+          "Da. Conectați contabilitatea sau ERP-ul în secțiunea Sisteme conectate și alegeți ce se sincronizează. Facturile emise din propria contabilitate pot fi trimise prin SELYVO dintr-un fișier, iar fiecare factură trimisă prin e-mail are atașate PDF-ul și fișierul ISDOC."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "Ce se întâmplă cu o factură care nu corespunde comenzii?",
+          "Vă așteaptă, împreună cu ce a găsit verificarea. Dacă doriți, este returnată automat furnizorului, cu indicații despre ce trebuie corectat, iar factura corectată îi ia locul."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Proiecte",
+          "title": "Un proiect, cu bugetul său",
+          "text": "Un proiect își adună cererile, comenzile, facturile, foile de pontaj și cheltuielile. Bugetul se calculează singur din ele: angajat, realizat și facturat, cu o estimare la finalizare.",
+          "points": [
+            "Etape-cheie, acceptate de client și apoi facturate",
+            "Echipa: oamenii dumneavoastră și cei ai furnizorilor",
+            "Clientul poate urmări și el proiectul"
+          ],
+          "tiles": [
+            "Buget",
+            "Realizat",
+            "Facturat"
+          ],
+          "milestones": [
+            [
+              "1 · Portal configurat",
+              "Acceptată"
+            ],
+            [
+              "2 · Furnizori migrați",
+              "În desfășurare"
+            ],
+            [
+              "3 · Acceptare de către utilizatori",
+              "Planificată"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

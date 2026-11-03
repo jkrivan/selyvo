@@ -1,0 +1,600 @@
+{
+ "common": {
+  "c": {
+   "nav": {
+    "sell": "Sell",
+    "buy": "Buy",
+    "projects": "Projects",
+    "finance": "Finance",
+    "trust": "Trust",
+    "tour": "5-minute tour",
+    "orders": "Orders & deliveries",
+    "core": "SELYVO Core",
+    "functions": "The market"
+   },
+   "fn": {
+    "sell": {
+     "name": "Sell"
+    },
+    "buy": {
+     "name": "Buy"
+    },
+    "projects": {
+     "name": "Projects"
+    },
+    "finance": {
+     "name": "Finance"
+    }
+   },
+   "steps": {
+    "sell": [
+     [
+      "Lead",
+      "New interest"
+     ],
+     [
+      "Opportunity",
+      "Requests & enquiries"
+     ],
+     [
+      "Proposal",
+      "Offer sent"
+     ],
+     [
+      "Negotiation",
+      "Response & bidding"
+     ],
+     [
+      "Closed",
+      "Win or loss recorded"
+     ]
+    ],
+    "buy": [
+     [
+      "Request",
+      "Typed or read by AI"
+     ],
+     [
+      "Suppliers",
+      "Invited or found by AI"
+     ],
+     [
+      "Offers",
+      "By the date you set"
+     ],
+     [
+      "Award",
+      "The best offer per lot"
+     ],
+     [
+      "Order",
+      "Sent and accepted"
+     ]
+    ],
+    "projects": [
+     [
+      "Planned",
+      "Milestones and budget"
+     ],
+     [
+      "In progress",
+      "Time, costs, purchases"
+     ],
+     [
+      "Accepted",
+      "By the customer"
+     ],
+     [
+      "Billed",
+      "On the next invoice"
+     ]
+    ],
+    "finance": [
+     [
+      "Received",
+      "By e-mail, file or SELYVO"
+     ],
+     [
+      "Checked",
+      "At SELYVO, by law and order"
+     ],
+     [
+      "Approved",
+      "By you"
+     ],
+     [
+      "Paid",
+      "By card or transfer"
+     ]
+    ],
+    "orders": [
+     [
+      "Ordered",
+      "Placed"
+     ],
+     [
+      "Accepted",
+      "By the supplier"
+     ],
+     [
+      "Delivered",
+      "With a delivery note"
+     ],
+     [
+      "Received",
+      "Confirmed by you"
+     ],
+     [
+      "Invoiced",
+      "After receipt"
+     ],
+     [
+      "Paid",
+      "On its due date"
+     ]
+    ],
+    "trust": [
+     [
+      "Invited",
+      "By a member"
+     ],
+     [
+      "Register",
+      "Found and confirmed"
+     ],
+     [
+      "Checks",
+      "VAT and sanctions"
+     ],
+     [
+      "Qualified",
+      "SELYVO’s questions"
+     ],
+     [
+      "Rated",
+      "Reviews after orders"
+     ]
+    ]
+   },
+   "gtk": "Good to know"
+  },
+  "d": {
+   "learn": "Learn more",
+   "how": "How it works",
+   "watch": "Watch the tour",
+   "local": {
+    "overview": "Overview",
+    "how": "How it works",
+    "features": "Features",
+    "faq": "Questions"
+   },
+   "fn": {
+    "sell": {
+     "line": "Win customers among verified businesses."
+    },
+    "buy": {
+     "line": "The right offer, from suppliers you can trust."
+    },
+    "projects": {
+     "line": "Deliver the work. Keep the budget in sight."
+    },
+    "finance": {
+     "line": "Invoice, check and get paid — with less work."
+    }
+   },
+   "stepWord": "Step",
+   "scrollHint": "Scroll to follow it step by step",
+   "others": "The rest of the market.",
+   "gtkTitle": "Good to know."
+  },
+  "e": {
+   "eyebrow": "Video",
+   "title": "See it in action.",
+   "sub": "Short films made on the market’s real screens. Choose one, and jump to the step you need.",
+   "homeTitle": "See SELYVO Market at work.",
+   "homeSub": "The five-minute tour of the whole market, and short films of one task each — made on its real screens.",
+   "nowPlaying": "Now playing",
+   "guideWord": "Guide",
+   "tourWord": "Tour",
+   "fromWord": "from",
+   "watch": "Watch the video",
+   "localVideo": "Video",
+   "seenHint": "Choose a step to see it again",
+   "guides": {
+    "sales": {
+     "title": "From a first talk to a won case",
+     "text": "Selling on SELYVO Market: a new lead in five steps, the case in Sales and as a form, and how it moves from Lead to Closed.",
+     "chapters": [
+      "Start",
+      "Sales: every case",
+      "A new lead",
+      "From the business register",
+      "Whom you spoke to",
+      "What it is worth",
+      "The next step",
+      "Save and invite",
+      "The case in Sales",
+      "The case as a form",
+      "It moves by itself",
+      "Good to know"
+     ]
+    },
+    "buying": {
+     "chapters": [
+      "Start",
+      "Filled from a file",
+      "Lots and who may quote",
+      "The offers are in",
+      "Negotiate with AI",
+      "The AI asks you first",
+      "Agreed: you approve",
+      "The award and the order",
+      "The supplier approves",
+      "Good to know"
+     ]
+    },
+    "requestai": {
+     "title": "A request to suppliers found by AI",
+     "text": "Buying on SELYVO Market: a new request in five steps — and suppliers you do not know yet, found by AI, checked and invited by e-mail.",
+     "chapters": [
+      "Start",
+      "The scope",
+      "The line items",
+      "Delivery and budget",
+      "Who can quote",
+      "Suppliers found by AI",
+      "Checked, then invited",
+      "Check and publish",
+      "Taking offers",
+      "Good to know"
+     ]
+    },
+    "receiving": {
+     "title": "Receiving ordered goods into stock",
+     "text": "Orders on SELYVO Market: the supplier’s delivery note, what you confirm as arrived — and your stock, which follows by itself.",
+     "chapters": [
+      "Start",
+      "Where each order stands",
+      "Received waits for you",
+      "Confirm what arrived",
+      "Keep in stock",
+      "Stock: what you use",
+      "An item’s history",
+      "Good to know"
+     ]
+    },
+    "freelancer": {
+     "chapters": [
+      "Start",
+      "A week at a time",
+      "A time sheet per customer",
+      "The order sets the rules",
+      "Expenses from the receipt",
+      "One invoice for both",
+      "Issue it",
+      "Good to know"
+     ]
+    }
+   },
+   "note": "This video is in English."
+  }
+ },
+ "pages": {
+  "index": {
+   "c": {
+    "processShort": [
+     "Request",
+     "Suppliers",
+     "Offers",
+     "Order",
+     "Received",
+     "Checked",
+     "Paid"
+    ]
+   },
+   "d": {
+    "eyebrow": "SELYVO Market",
+    "title": "Sell. Buy. Projects. Finance.",
+    "sub": "One market for all of it — with verified businesses only.",
+    "heroAlt": "SELYVO Market’s Home: what needs you today, your balance, offers due and your business network",
+    "story": {
+     "eyebrow": "How it works",
+     "title": "From an idea to a paid invoice.",
+     "sub": "Seven steps, one record. Follow a purchase through SELYVO Market — on its real screens."
+    },
+    "verified": {
+     "eyebrow": "Verified businesses only",
+     "title": "Every business. Checked.",
+     "sub": "SELYVO opens by invitation. Each business is found in its register, its VAT number and the sanctions lists are checked, and it answers SELYVO’s questions before its first deal.",
+     "kpis": [
+      [
+       3,
+       "checks",
+       "before a business can trade"
+      ],
+      [
+       1,
+       "record",
+       "that buyer and supplier both see"
+      ],
+      [
+       2,
+       "ways to pay",
+       "by card up front, or by invoice"
+      ]
+     ],
+     "more": "How trust works"
+    },
+    "gtkSub": "The details members notice on their first day — and are glad of every day after.",
+    "invite": {
+     "title": "Open by invitation.",
+     "sub": "Every company on SELYVO is known to at least one other. Ask a customer or a supplier who is a member to invite you — or write to us."
+    }
+   }
+  },
+  "spend-control": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Requests",
+      "title": "Offers arrive on the request",
+      "text": "See who will send an offer and who has not answered, postpone the deadline or stop taking offers, then compare what came in.",
+      "points": [
+       "Suppliers say whether they will send an offer",
+       "Everyone who quoted is told of every change",
+       "Compare offers by lot, by offer or line by line"
+      ]
+     },
+     {
+      "eyebrow": "Suppliers",
+      "title": "Suppliers you can trust",
+      "text": "Every supplier on SELYVO is verified and rated. Find them by category and country, save them, and ask for an offer in one click.",
+      "points": [
+       "Verified suppliers only, with their rating",
+       "Your own suppliers, invited to SELYVO",
+       "Ask for an offer straight from a supplier’s card"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Buy from suppliers you can trust.",
+    "sub": "Describe what you need, compare offers line by line from verified suppliers, and send the order — every step on record.",
+    "story": {
+     "title": "From a need to an approved order.",
+     "sub": "The request that brings the offers, the order that follows.",
+     "steps": [
+      {
+       "title": "Describe what you need.",
+       "text": "Type it, or drop a specification, a tender or a bill of quantities — AI fills in the title, the category, the lines, the delivery and the budget."
+      },
+      {
+       "title": "Choose who quotes.",
+       "text": "Your own suppliers, businesses on SELYVO, or more found by AI. Before AI searches, the button says what it will cost: about 0.60 EUR."
+      },
+      {
+       "title": "Offers come in.",
+       "text": "Each supplier says whether it will send an offer, and the offers arrive on the request by the date you set."
+      },
+      {
+       "title": "Pick the best.",
+       "text": "Compare the offers line by line or by lot, and award the best one."
+      },
+      {
+       "title": "The order goes out.",
+       "text": "The offer you accept becomes the purchase order. Both sides follow it to delivery and invoice."
+      }
+     ]
+    }
+   }
+  },
+  "revenue-acceleration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Listings",
+      "title": "What you sell, with what it earns",
+      "text": "Products and services with member prices, photographs and their own page. Each listing shows its revenue and margin, and you can promote it into buyers’ feeds.",
+      "points": [
+       "Prices by quantity, or a minimum order",
+       "Drafts and listings without photographs flagged",
+       "Promotion into the feeds of the buyers you target"
+      ]
+     },
+     {
+      "eyebrow": "Customers",
+      "title": "Your customers, and the ones you could sell to",
+      "text": "Businesses that buy from you, and buyers on SELYVO in your categories. Send a targeted offer to the ones you choose.",
+      "points": [
+       "Filter by category, country and team",
+       "What each customer bought, and when",
+       "Targeted offers to the customers you choose, and who viewed them"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Sell to verified buyers.",
+    "sub": "List what you sell, answer the requests in your categories, and follow every case from the first lead to the outcome.",
+    "story": {
+     "title": "From the first lead to a clear outcome.",
+     "sub": "Every case runs through the pipeline you see in Sales.",
+     "steps": [
+      {
+       "title": "A lead comes in.",
+       "text": "From a customer of yours, a new business on SELYVO, or prospects AI finds. Each lead opens a case with its next step."
+      },
+      {
+       "title": "A request arrives.",
+       "text": "Requests and enquiries in your categories turn the interest into an opportunity — the case moves on by itself."
+      },
+      {
+       "title": "Your offer goes out.",
+       "text": "Answer the request with an offer, or send a targeted offer to the customers you choose."
+      },
+      {
+       "title": "You agree the terms.",
+       "text": "Responses and bidding stay on the case, and both sides see the same record."
+      },
+      {
+       "title": "Won or lost — on record.",
+       "text": "Every case ends with a clear outcome, and your conversion and win rate count themselves."
+      }
+     ]
+    }
+   }
+  },
+  "inventory-control": {
+   "d": {
+    "title": "Every order, accepted to paid.",
+    "sub": "One order, one timeline, the same record for both sides — in parts if needed.",
+    "story": {
+     "title": "Where it stands. Always.",
+     "sub": "An order follows the same steps you see on it in SELYVO.",
+     "steps": [
+      {
+       "title": "The order is placed.",
+       "text": "From the accepted offer, or straight from a listing. Both sides see the same order."
+      },
+      {
+       "title": "The supplier accepts.",
+       "text": "The supplier accepts the order, with its delivery date."
+      },
+      {
+       "title": "Delivered, with its note.",
+       "text": "Each delivery comes with its delivery note — in parts if needed."
+      },
+      {
+       "title": "You confirm what arrived.",
+       "text": "In full or in part. Something wrong? Say so on the note, and the supplier is told at once."
+      },
+      {
+       "title": "The invoice follows.",
+       "text": "Made from the order after the receipt — and checked at SELYVO when it arrives."
+      },
+      {
+       "title": "Paid on its due date.",
+       "text": "By card up front or by invoice, as the supplier decides — and both sides see it paid."
+      }
+     ]
+    }
+   }
+  },
+  "finance-administration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Invoices",
+      "title": "Payables, receivables and overdue in one list",
+      "text": "Every invoice you issue and receive, with its status and due date. Open one to see its order, its lines and its history.",
+      "points": [
+       "Invoices by e-mail to invoice@market.selyvo.com, read by AI",
+       "Each invoice e-mail with its PDF and ISDOC file",
+       "Expenses with receipts, billed on"
+      ]
+     },
+     {
+      "eyebrow": "Connected systems",
+      "title": "Works with the systems you already run",
+      "text": "Connect your accounting or ERP and choose what it carries and how often. Your customers and suppliers connect theirs the same way, and every exchange is logged.",
+      "points": [
+       "Profiles, requests, orders, payments and stock, kept in step",
+       "Any other system through the market’s stock API",
+       "Every exchange logged"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Invoice. Check. Get paid.",
+    "sub": "Invoices made from their orders, every invoice you receive checked at SELYVO, and payments from your own account.",
+    "story": {
+     "title": "Every invoice checked before anyone looks.",
+     "sub": "An invoice you receive, from its arrival to its payment.",
+     "steps": [
+      {
+       "title": "An invoice arrives.",
+       "text": "By e-mail to invoice@market.selyvo.com, as a file, or on SELYVO — read by AI and matched to its business."
+      },
+      {
+       "title": "SELYVO checks it.",
+       "text": "Every field the law asks for, your details, and each line against the order and what you received. If you choose, one that fails goes back to its supplier by itself."
+      },
+      {
+       "title": "You approve it.",
+       "text": "Approved invoices wait to be paid, soonest due first."
+      },
+      {
+       "title": "Paid from your own account.",
+       "text": "Pay from your Revolut Business on the due dates or now. Within your limit, payments go at once; above it, they wait for your approvers."
+      }
+     ]
+    }
+   }
+  },
+  "operational-scale": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Budget",
+      "title": "A budget that counts itself",
+      "text": "Committed, actual and billed come from the records that carry the project — time sheets, purchase orders, invoices and expenses — with a forecast at completion.",
+      "points": [
+       "Every amount traced to its record",
+       "Milestones accepted by the customer, then billed",
+       "Your suppliers’ work in the same project"
+      ]
+     },
+     {
+      "eyebrow": "MailChat",
+      "title": "E-mail and chat in one list",
+      "text": "Your business gets its own SELYVO e-mail address. E-mails and chats with customers and suppliers sit in one list, and AI recognises invoices, offers and orders in them.",
+      "points": [
+       "Folders and labels: work, customers, billing",
+       "Chats with your partners next to their e-mails",
+       "An order or an invoice in an e-mail, offered as one"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Projects, with the budget in sight.",
+    "sub": "Milestones, team, time, expenses and purchases in one project. The budget counts itself, and the customer follows along.",
+    "story": {
+     "title": "Plan it. Do it. Bill it.",
+     "sub": "A customer project from its milestones to the invoice.",
+     "steps": [
+      {
+       "title": "Plan it.",
+       "text": "Milestones with their amounts, the team and the budget — your people and your suppliers in one project."
+      },
+      {
+       "title": "Do the work.",
+       "text": "Time sheets, expenses and purchases land in the project as the work is done."
+      },
+      {
+       "title": "The customer accepts.",
+       "text": "Each milestone is accepted by the customer, who follows the project with you."
+      },
+      {
+       "title": "Bill it.",
+       "text": "Accepted milestones go on the invoice, and the budget shows what is committed, actual and billed."
+      }
+     ]
+    }
+   }
+  },
+  "compliance-by-design": {
+   "d": {
+    "title": "Know who you deal with.",
+    "sub": "Every business is invited, found in its register, checked and qualified before it trades. Every record keeps its history."
+   }
+  },
+  "operating-layer": {
+   "d": {
+    "title": "Your own processes. One foundation.",
+    "sub": "SELYVO Core gives larger organisations their own workspace — suppliers, questionnaires, catalogues and process flows with AI checks — connected to SELYVO Market."
+   }
+  }
+ }
+}

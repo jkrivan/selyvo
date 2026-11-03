@@ -1,0 +1,2506 @@
+{
+ "lang": "nl",
+ "cc": "NL",
+ "hreflang": "nl-NL",
+ "name": "Nederlands",
+ "common": {
+  "site": "SELYVO Market",
+  "skip": "Naar de inhoud",
+  "nav": {
+   "buy": "Inkopen",
+   "sell": "Verkopen",
+   "orders": "Orders",
+   "invoices": "Facturen",
+   "projects": "Projecten",
+   "trust": "Vertrouwen",
+   "core": "SELYVO Core",
+   "videos": "Video’s",
+   "join": "Aansluiten",
+   "signIn": "Inloggen",
+   "menu": "Menu",
+   "language": "Taal",
+   "home": "Home"
+  },
+  "areas": {
+   "buy": "Inkopen",
+   "sell": "Verkopen",
+   "orders": "Orders en leveringen",
+   "invoices": "Facturen en betalingen",
+   "projects": "Projecten en MailChat",
+   "trust": "Vertrouwen en compliance",
+   "core": "SELYVO Core"
+  },
+  "readMore": "Lees meer",
+  "trail": {
+   "label": "Eén deal, één spoor",
+   "lede": "Elk document ontstaat uit het vorige: niets wordt twee keer ingetypt en beide partijen zien hetzelfde dossier.",
+   "request": "Aanvraag",
+   "offer": "Offerte",
+   "order": "Order",
+   "invoice": "Factuur",
+   "requestNote": "Platen en beslag, verstuurd naar vijf uitgenodigde leveranciers",
+   "offerNote": "€ 8.469,60 van Holzwerk Brandt, 4,8% minder na de onderhandeling",
+   "orderNote": "Geaccepteerd door de leverancier, levering uiterlijk 13 november",
+   "invoiceNote": "Aangemaakt vanuit de order en afgestemd op wat er is ontvangen"
+  },
+  "videos": {
+   "eyebrow": "Videohandleidingen",
+   "title": "Bekijk het in actie",
+   "lede": "Korte handleidingen, gefilmd in het product zelf, met gesproken toelichting en ondertiteling in je eigen taal.",
+   "enScreens": "De schermen in deze video’s zijn in het Engels; de gesproken tekst en de ondertiteling zijn in het Nederlands.",
+   "watch": "Bekijken",
+   "watchVideo": "Bekijk de video",
+   "more": "Alle videohandleidingen",
+   "minutes": "min",
+   "overview": {
+    "title": "SELYVO Market in één oogopslag",
+    "text": "Feeds, de Store, inkoop, verkoop, orders, facturen, projecten en MailChat in één rondleiding."
+   },
+   "joining": {
+    "title": "Aansluiten met een uitnodiging",
+    "text": "Van de uitnodigingsmail tot je eerste dag op SELYVO, stap voor stap."
+   },
+   "buying": {
+    "title": "Van idee tot goedgekeurde order",
+    "text": "Een offerteaanvraag, de offertes, een AI-onderhandeling, de inkooporder en de goedkeuring van de leverancier."
+   },
+   "freelancer": {
+    "title": "Uren, onkosten en de factuur",
+    "text": "De urenstaat van een freelancer, onkosten uit bonnetjes gelezen, en één factuur voor allebei."
+   }
+  },
+  "join": {
+   "eyebrow": "Lidmaatschap",
+   "title": "Aansluiten op uitnodiging",
+   "text": "SELYVO Market staat alleen open voor bedrijven die door een lid zijn uitgenodigd. Zo is elk bedrijf op het platform bij minstens één ander bekend. Vraag een klant of leverancier die al op SELYVO actief is om je uit te nodigen. De uitnodigingsmail leidt je door de registratie.",
+   "points": [
+    "De uitnodiging werkt één keer, 14 dagen lang, en alleen voor het e-mailadres waarnaar ze is gestuurd.",
+    "Je bedrijf wordt teruggevonden in het handelsregister en gecontroleerd op sanctielijsten voordat het kan handelen.",
+    "De kosten van SELYVO worden op de vervaldag betaald uit een vooruitbetaald budget. Je waardeert het op per kaart of overboeking."
+   ],
+   "write": "Neem contact op",
+   "watch": "Bekijk hoe aansluiten werkt",
+   "signIn": "Inloggen"
+  },
+  "contact": {
+   "eyebrow": "Contact",
+   "title": "Nog vragen voordat je lid wordt?",
+   "lede": "Stuur ons een bericht over SELYVO Market, SELYVO Core of een samenwerking. We antwoorden per e-mail.",
+   "firstName": "Voornaam",
+   "lastName": "Achternaam",
+   "company": "Bedrijf",
+   "email": "Zakelijk e-mailadres",
+   "country": "Land",
+   "topic": "Waar gaat het over",
+   "topics": [
+    "Aansluiten bij SELYVO Market",
+    "SELYVO Core voor mijn organisatie",
+    "Een samenwerking",
+    "Iets anders"
+   ],
+   "message": "Je bericht",
+   "send": "Versturen",
+   "note": "We gebruiken je gegevens alleen om je bericht te beantwoorden.",
+   "required": "Vul je naam, je e-mailadres en je bericht in."
+  },
+  "faqTitle": "Veelgestelde vragen",
+  "related": "Ook op SELYVO",
+  "coming": "Binnenkort",
+  "example": "Voorbeeld",
+  "footer": {
+   "about": "SELYVO Market is een zakelijke marktplaats voor geverifieerde bedrijven en freelancers: inkopen, verkopen, factureren en samenwerken op één plek.",
+   "market": "Market",
+   "company": "SELYVO",
+   "contact": "Contact",
+   "guides": "Videohandleidingen",
+   "rights": "© 2026 SELYVO. Alle rechten voorbehouden.",
+   "languages": "Talen"
+  },
+  "a": {
+   "new": "Nieuw",
+   "videoGuide": "Videohandleiding",
+   "watchIt": "Nu bekijken",
+   "product": "Product",
+   "getInvited": "Word uitgenodigd",
+   "illustrative": "Voorbeeldbedrijven en -cijfers op deze pagina dienen alleen ter illustratie.",
+   "tour": {
+    "title": "SELYVO Market in vijf minuten",
+    "text": "Elk onderdeel van SELYVO Market, getoond in het product zelf: verkopen en inkopen, orders, facturen gecontroleerd door SELYVO, onkosten, projecten, MailChat, voorraad en gekoppelde systemen."
+   },
+   "connect": {
+    "eyebrow": "Gekoppelde systemen",
+    "title": "Werkt met de systemen die je al gebruikt",
+    "text": "Koppel je boekhouding of ERP en kies wat er wordt uitgewisseld, hoe vaak en naar welke velden. Je klanten en leveranciers koppelen hun systemen op dezelfde manier, en elke uitwisseling wordt vastgelegd.",
+    "points": [
+     "Profielen, aanvragen, orders, betalingen en voorraad, altijd gesynchroniseerd",
+     "Elk ander systeem via de voorraad-API van de marktplaats, met een eigen sleutel",
+     "Facturen uit de boekhouding van een leverancier komen binnen op invoice@market.selyvo.com en worden gelezen en gecontroleerd",
+     "Elke factuurmail bevat de pdf en het ISDOC-bestand, voor de boekhouding van de klant"
+    ],
+    "yours": "Je boekhouding of ERP",
+    "market": "SELYVO Market",
+    "partners": "De systemen van je klanten en leveranciers",
+    "carries": "Profielen · aanvragen · orders · betalingen · voorraad",
+    "api": "Elk ander systeem, via de voorraad-API van de marktplaats",
+    "invoices": "Facturen als pdf en ISDOC, bij ontvangst gecontroleerd",
+    "log": "Elke uitwisseling vastgelegd"
+   },
+   "check": {
+    "eyebrow": "Gecontroleerd door SELYVO",
+    "title": "Elke ontvangen factuur wordt eerst gecontroleerd",
+    "text": "Of een factuur nu per e-mail komt, als bestand, via MailChat of van een leverancier op SELYVO: hij wordt gecontroleerd voordat iemand ernaar kijkt. Keurt de controle hem af, dan kan hij automatisch terug naar de leverancier, met wat er gecorrigeerd moet worden.",
+    "steps": [
+     [
+      "Ontvangen",
+      "Op invoice@market.selyvo.com, uit een bestand, via MailChat of op SELYVO."
+     ],
+     [
+      "Gecontroleerd",
+      "Elk wettelijk verplicht veld, je gegevens zoals op SELYVO, elke regel getoetst aan de order, en niet meer gefactureerd dan je hebt ontvangen."
+     ],
+     [
+      "Automatisch teruggestuurd",
+      "Als je dat wilt: de leverancier krijgt meteen bericht, in zijn eigen taal, met wat er gecorrigeerd moet worden."
+     ],
+     [
+      "Vervangen",
+      "De gecorrigeerde factuur komt in de plaats van de teruggestuurde. Van de teruggestuurde factuur wordt niets betaald."
+     ]
+    ],
+    "card": {
+     "title": "SELYVO-controle",
+     "ok1": "Alle verplichte velden van een factuur",
+     "ok2": "Op jouw naam, zoals op SELYVO",
+     "bad": "Leveringskosten € 80,00 staan niet in de order",
+     "returned": "Automatisch teruggestuurd naar de leverancier, met wat er gecorrigeerd moet worden"
+    }
+   }
+  },
+  "b": {
+   "simple": "Eenvoudig",
+   "compliant": "Compliant",
+   "performing": "Effectief",
+   "gtk": "Goed om te weten",
+   "watchPart": "Bekijk dit deel van de rondleiding",
+   "fromStart": "Bekijk vanaf het begin",
+   "chaptersLabel": "Hoofdstukken",
+   "tourNote": "De video is in het Engels.",
+   "next": "Volgende stap",
+   "chapters": [
+    "Begin",
+    "Openbare startpagina en aansluiten",
+    "Startpagina, Feeds en de Store",
+    "Verkoop en klanten",
+    "Inkoop en leveranciers",
+    "Orders",
+    "Facturen, SELYVO-controle en betalingen",
+    "Onkosten",
+    "Projecten",
+    "MailChat, aanbod en voorraad",
+    "Gekoppelde systemen",
+    "Goed om te weten"
+   ],
+   "navTour": "Rondleiding 5 min",
+   "screensNote": "De getoonde schermen zijn in het Engels. De app zelf werkt in zeven talen."
+  },
+  "c": {
+   "nav": {
+    "sell": "Verkopen",
+    "buy": "Inkopen",
+    "projects": "Projecten",
+    "finance": "Financiën",
+    "trust": "Vertrouwen",
+    "tour": "Rondleiding 5 min",
+    "orders": "Orders en leveringen",
+    "core": "SELYVO Core",
+    "functions": "De marktplaats"
+   },
+   "fn": {
+    "sell": {
+     "name": "Verkopen",
+     "line": "Win customers among verified businesses.",
+     "points": [
+      "Listings at member prices, promoted into buyers’ feeds",
+      "Requests in your categories, answered with offers",
+      "Every case from the first lead to the outcome"
+     ],
+     "more": "Selling on SELYVO"
+    },
+    "buy": {
+     "name": "Inkopen",
+     "line": "Get the right offer from suppliers you can trust.",
+     "points": [
+      "Requests typed, or read by AI from your specification",
+      "Verified suppliers: your own, on SELYVO, or found by AI",
+      "Offers compared line by line; the best becomes the order"
+     ],
+     "more": "Buying on SELYVO"
+    },
+    "projects": {
+     "name": "Projecten",
+     "line": "Deliver work for customers with the budget in sight.",
+     "points": [
+      "Milestones, team, time and documents in one project",
+      "Time sheets and expenses, approved the way each customer wants",
+      "A budget that counts itself: committed, actual, billed"
+     ],
+     "more": "Projects on SELYVO"
+    },
+    "finance": {
+     "name": "Financiën",
+     "line": "Invoice, check and get paid with less work.",
+     "points": [
+      "Invoices from orders, with VAT and legal wording by country",
+      "Every invoice you receive checked at SELYVO",
+      "Paid by card through Stripe, or by transfer into your Revolut Business"
+     ],
+     "more": "Finance on SELYVO"
+    }
+   },
+   "steps": {
+    "sell": [
+     [
+      "Lead",
+      "Nieuwe interesse"
+     ],
+     [
+      "Verkoopkans",
+      "Aanvragen en verzoeken"
+     ],
+     [
+      "Voorstel",
+      "Offerte verstuurd"
+     ],
+     [
+      "Onderhandeling",
+      "Reactie en biedingen"
+     ],
+     [
+      "Afgesloten",
+      "Gewonnen of verloren"
+     ]
+    ],
+    "buy": [
+     [
+      "Aanvraag",
+      "Getypt of gelezen door AI"
+     ],
+     [
+      "Leveranciers",
+      "Uitgenodigd of gevonden door AI"
+     ],
+     [
+      "Offertes",
+      "Vóór jouw sluitingsdatum"
+     ],
+     [
+      "Gunning",
+      "De beste offerte per perceel"
+     ],
+     [
+      "Order",
+      "Verstuurd en geaccepteerd"
+     ]
+    ],
+    "projects": [
+     [
+      "Gepland",
+      "Mijlpalen en budget"
+     ],
+     [
+      "In uitvoering",
+      "Tijd, kosten, inkopen"
+     ],
+     [
+      "Geaccepteerd",
+      "Door de klant"
+     ],
+     [
+      "Gefactureerd",
+      "Op de volgende factuur"
+     ]
+    ],
+    "finance": [
+     [
+      "Ontvangen",
+      "Per e-mail, bestand of SELYVO"
+     ],
+     [
+      "Gecontroleerd",
+      "Door SELYVO, naar wet en order"
+     ],
+     [
+      "Goedgekeurd",
+      "Door jou"
+     ],
+     [
+      "Betaald",
+      "Per kaart of overboeking"
+     ]
+    ],
+    "orders": [
+     [
+      "Besteld",
+      "Geplaatst"
+     ],
+     [
+      "Geaccepteerd",
+      "Door de leverancier"
+     ],
+     [
+      "Geleverd",
+      "Met een pakbon"
+     ],
+     [
+      "Ontvangen",
+      "Door jou bevestigd"
+     ],
+     [
+      "Gefactureerd",
+      "Na ontvangst"
+     ],
+     [
+      "Betaald",
+      "Op de vervaldatum"
+     ]
+    ],
+    "trust": [
+     [
+      "Uitgenodigd",
+      "Door een lid"
+     ],
+     [
+      "Register",
+      "Gevonden en bevestigd"
+     ],
+     [
+      "Controles",
+      "Btw-nummer en sancties"
+     ],
+     [
+      "Kwalificatie",
+      "De vragen van SELYVO"
+     ],
+     [
+      "Beoordeeld",
+      "Door klanten, na orders"
+     ]
+    ],
+    "core": [
+     [
+      "Capture",
+      "Comes in once"
+     ],
+     [
+      "Understand",
+      "Read and checked by AI"
+     ],
+     [
+      "Execute",
+      "Routed by your processes"
+     ],
+     [
+      "Control",
+      "Approvals and rules"
+     ],
+     [
+      "Improve",
+      "KPIs show where to act"
+     ]
+    ]
+   },
+   "stepsLabel": "How it runs",
+   "gtk": "Goed om te weten",
+   "others": "The other areas of the market",
+   "screenAlt": "{name} on SELYVO Market",
+   "videoTitle": "The five-minute tour"
+  },
+  "d": {
+   "theme": {
+    "toDark": "Switch to dark",
+    "toLight": "Switch to light"
+   },
+   "learn": "Lees meer",
+   "how": "Zo werkt het",
+   "watch": "Bekijk de rondleiding",
+   "local": {
+    "overview": "Overzicht",
+    "how": "Zo werkt het",
+    "features": "Functies",
+    "faq": "Vragen"
+   },
+   "fn": {
+    "sell": {
+     "line": "Win klanten onder geverifieerde bedrijven.",
+     "shot": "sell-sales",
+     "url": "market.selyvo.com/#/sales"
+    },
+    "buy": {
+     "line": "De juiste offerte, van betrouwbare leveranciers.",
+     "shot": "p-3-offers",
+     "url": "market.selyvo.com/#/requests/REQ-2026-0398"
+    },
+    "projects": {
+     "line": "Lever het werk op. Houd het budget in beeld.",
+     "shot": "proj-plan",
+     "url": "market.selyvo.com/#/projects/PRJ-2026-0007"
+    },
+    "finance": {
+     "line": "Factureer, controleer en word betaald — met minder werk.",
+     "shot": "p-6-checked",
+     "url": "market.selyvo.com/#/invoices/received/FV-2026-0042"
+    }
+   },
+   "stepWord": "Stap",
+   "scrollHint": "Scroll om het stap voor stap te volgen",
+   "others": "De rest van de marktplaats.",
+   "gtkTitle": "Goed om te weten.",
+   "videoNote": "The video is in English."
+  },
+  "e": {
+   "eyebrow": "Video",
+   "title": "Bekijk het in actie.",
+   "sub": "Korte films, opgenomen in het product zelf. Kies er een en spring naar de stap die je nodig hebt.",
+   "homeTitle": "SELYVO Market in actie.",
+   "homeSub": "De rondleiding van vijf minuten door de hele marktplaats, en korte films over telkens één taak — opgenomen in het product zelf.",
+   "nowPlaying": "Nu te zien",
+   "guideWord": "Handleiding",
+   "tourWord": "Rondleiding",
+   "fromWord": "vanaf",
+   "watch": "Bekijk de video",
+   "localVideo": "Video",
+   "seenHint": "Kies een stap om hem opnieuw te zien",
+   "note": "Deze video is in het Engels.",
+   "guides": {
+    "sales": {
+     "title": "Van eerste gesprek tot gewonnen deal",
+     "text": "Verkopen op SELYVO Market: een nieuwe lead in vijf stappen, de deal in Verkoop en als formulier, en hoe hij van ‘Lead’ naar ‘Afgesloten’ gaat.",
+     "chapters": [
+      "Begin",
+      "Verkoop: alle deals",
+      "Een nieuwe lead",
+      "Uit het handelsregister",
+      "Met wie je sprak",
+      "Wat het waard is",
+      "De volgende stap",
+      "Opslaan en uitnodigen",
+      "De deal in Verkoop",
+      "De deal als formulier",
+      "Schuift vanzelf door",
+      "Goed om te weten"
+     ]
+    },
+    "buying": {
+     "title": "From an idea to an approved order",
+     "text": "Buying on SELYVO Market: a request for proposal, the offers, an AI negotiation, the purchase order and the supplier’s approval.",
+     "chapters": [
+      "Begin",
+      "Ingevuld uit een bestand",
+      "Percelen en wie mag offreren",
+      "De offertes zijn er",
+      "Onderhandelen met AI",
+      "De AI vraagt het jou eerst",
+      "Afgesproken: jij keurt goed",
+      "De gunning en de order",
+      "De leverancier keurt goed",
+      "Goed om te weten"
+     ]
+    },
+    "requestai": {
+     "title": "Een aanvraag aan leveranciers die AI vindt",
+     "text": "Inkopen op SELYVO Market: een nieuwe aanvraag in vijf stappen — en leveranciers die je nog niet kent, gevonden door AI, gecontroleerd en per e-mail uitgenodigd.",
+     "chapters": [
+      "Begin",
+      "De omvang",
+      "De regels",
+      "Levering en budget",
+      "Wie mag offreren",
+      "AI vindt leveranciers",
+      "Gecontroleerd en uitgenodigd",
+      "Nakijken en publiceren",
+      "Open voor offertes",
+      "Goed om te weten"
+     ]
+    },
+    "receiving": {
+     "title": "Bestelde goederen in voorraad nemen",
+     "text": "Orders op SELYVO Market: de pakbon van de leverancier, wat jij als aangekomen bevestigt — en je voorraad, die zichzelf bijwerkt.",
+     "chapters": [
+      "Begin",
+      "Waar elke order staat",
+      "‘Ontvangen’ wacht op jou",
+      "Bevestig wat er aankwam",
+      "Op voorraad houden",
+      "Voorraad: wat je verbruikt",
+      "Historie van een artikel",
+      "Goed om te weten"
+     ]
+    },
+    "freelancer": {
+     "title": "Time, expenses and the invoice",
+     "text": "For freelancers on SELYVO Market: a time sheet for each customer, expenses read from their receipts, and one invoice for both.",
+     "chapters": [
+      "Begin",
+      "Week voor week",
+      "Een urenstaat per klant",
+      "De order bepaalt de regels",
+      "Onkosten uit het bonnetje",
+      "Eén factuur voor beide",
+      "Definitief maken",
+      "Goed om te weten"
+     ]
+    }
+   }
+  }
+ },
+ "pages": {
+  "index": {
+   "title": "SELYVO Market — de B2B-marktplaats voor geverifieerde bedrijven",
+   "description": "B2B-marktplaats op uitnodiging: offerteaanvragen, offertes, orders, facturen met btw per land, urenstaten en onkosten, met AI die je documenten leest.",
+   "hero": {
+    "eyebrow": "Zakelijke marktplaats op uitnodiging",
+    "title": "Waar geverifieerde bedrijven inkopen, verkopen en samenwerken.",
+    "lede": "SELYVO Market brengt klanten en leveranciers samen op één platform, van de eerste aanvraag tot de betaalde factuur. Elk lid wordt teruggevonden in het handelsregister, gecontroleerd en gekwalificeerd voordat het handelt.",
+    "cta": "Zo sluit je aan",
+    "cta2": "Bekijk de rondleiding",
+    "shot": "Inkoop op SELYVO Market: wat op je wacht, en elke aanvraag, offerte en onderhandeling."
+   },
+   "trust": [
+    [
+     "Gevonden in het register",
+     "Registratienummer, adres en btw-nummer komen uit het handelsregister."
+    ],
+    [
+     "Gecontroleerd",
+     "Pas na controle van de sanctielijsten mag een bedrijf handelen."
+    ],
+    [
+     "Gekwalificeerd",
+     "De antwoorden op de vragen van SELYVO, met bewijsstukken, geven een eerste waardering."
+    ],
+    [
+     "Beoordeeld",
+     "Met elke afgeronde order nemen klantbeoordelingen het over."
+    ]
+   ],
+   "areas": {
+    "eyebrow": "De marktplaats",
+    "title": "Eén marktplaats voor het hele bedrijf",
+    "lede": "Elk onderdeel werkt zelfstandig en geeft het werk door aan het volgende: een aanvraag wordt een offerte, een order, een levering en een factuur, zonder overtypen.",
+    "buy": "Offerteaanvragen, offertes die je regel voor regel vergelijkt, en inkooporders, met een AI-onderhandelaar die het jou vraagt voordat er iets wordt afgesproken.",
+    "sell": "Aanbod met ledenprijzen, aanvragen uit je categorieën, gerichte offertes en een pipeline van lead tot gewonnen deal.",
+    "orders": "Elke inkoop- en verkooporder met zijn status: geaccepteerd, in delen geleverd, ontvangen, gefactureerd, betaald.",
+    "invoices": "Facturen vanuit orders met btw per land, en ontvangen facturen die AI uit een bestand of e-mail leest.",
+    "projects": "Urenstaten per klant, onkosten met bonnetjes en een zakelijke mailbox met chat in één lijst.",
+    "trust": "Uitgenodigde leden, gegevens uit het register, sanctiecontroles, kwalificatie, goedkeuringen en de historie van elk dossier.",
+    "core": "Je eigen werkomgeving voor leveranciers, vragenlijsten, catalogi en goedkeuringsprocessen, naast de Market."
+   },
+   "how": {
+    "eyebrow": "Aan de slag",
+    "title": "Zo begint een bedrijf op SELYVO",
+    "steps": [
+     [
+      "Word uitgenodigd",
+      "Een klant of leverancier die lid is, nodigt je per e-mail uit."
+     ],
+     [
+      "Registreer je bedrijf",
+      "SELYVO vindt het in het handelsregister. Jij bevestigt het en geeft aan wat je inkoopt en verkoopt."
+     ],
+     [
+      "Kwalificeer je",
+      "Beantwoord de vragen van SELYVO en eventuele vragen van wie jou uitnodigde. Je eerste waardering volgt."
+     ],
+     [
+      "Doe zaken",
+      "Publiceer je aanbod, beantwoord aanvragen, stuur offertes, neem orders aan en factureer, allemaal op SELYVO."
+     ]
+    ]
+   },
+   "ai": {
+    "eyebrow": "AI",
+    "title": "AI die leest en opstelt. Jij beslist.",
+    "lede": "AI doet het leeswerk en de eerste versie. Er wordt niets verstuurd, afgesproken of geboekt zonder akkoord van een mens.",
+    "items": [
+     [
+      "Leest je bestanden",
+      "Een specificatie wordt een aanvraag met percelen en regels. De pdf van een leverancier wordt een offerte. Een bonnetje wordt een onkostenpost.",
+      ""
+     ],
+     [
+      "Leest je mail",
+      "Facturen, offertes en orders die per e-mail binnenkomen, worden herkend en voor je klaargezet.",
+      ""
+     ],
+     [
+      "Onderhandelt namens jou",
+      "Een AI-onderhandelaar schrijft de leverancier aan in diens taal, binnen de positie die jij bepaalt, en vraagt het jou voordat er iets wordt afgesproken.",
+      "coming"
+     ],
+     [
+      "Jij kiest het model",
+      "Je bedrijf kiest het AI-model dat het gebruikt, uit het aanbod van SELYVO, en hoe grondig het werkt. Elk gebruik staat vermeld met de kosten.",
+      ""
+     ]
+    ]
+   },
+   "audiences": {
+    "eyebrow": "Voor wie",
+    "title": "Gemaakt voor elke kant van een deal",
+    "items": [
+     [
+      "Voor inkopers",
+      "Publiceer aanvragen, vergelijk offertes, bestel en betaal, bij leveranciers van wie je weet dat ze echt bestaan."
+     ],
+     [
+      "Voor leveranciers",
+      "Word gevonden door geverifieerde inkopers in je categorieën, beantwoord hun aanvragen en word betaald op jouw voorwaarden."
+     ],
+     [
+      "Voor freelancers",
+      "Houd uren en onkosten per klant bij en factureer ze in één keer."
+     ]
+    ]
+   },
+   "core": {
+    "eyebrow": "Voor grotere organisaties",
+    "title": "SELYVO Core: je eigen operationele laag",
+    "text": "Wil je de processen van SELYVO binnen je eigen organisatie? SELYVO Core voegt leveranciersbeheer, vragenlijsten, catalogi en goedkeuringsprocessen met AI-controles toe, naast de Market en de systemen die je al gebruikt.",
+    "link": "Ontdek SELYVO Core"
+   },
+   "langs": {
+    "title": "In je eigen taal",
+    "text": "SELYVO Market spreekt Engels, Tsjechisch, Slowaaks, Duits, Spaans, Deens en Zweeds, en iedereen kiest zijn eigen taal. Vragenlijsten worden in elke taal geschreven en AI vertaalt de ontbrekende versies. Deze website en de videohandleidingen zijn er in 15 talen."
+   },
+   "faq": [
+    [
+     "Wie kan zich aansluiten bij SELYVO Market?",
+     "Bedrijven en freelancers die door een lid zijn uitgenodigd. Vraag een klant of leverancier op SELYVO om je uit te nodigen. Ken je nog niemand op SELYVO? Neem dan contact met ons op."
+    ],
+    [
+     "Hoe weet SELYVO dat een bedrijf echt bestaat?",
+     "Elk bedrijf wordt teruggevonden in het handelsregister, gecontroleerd op sanctielijsten en gekwalificeerd met de vragen van SELYVO voordat het kan handelen. Na elke order volgen klantbeoordelingen."
+    ],
+    [
+     "Wat kost het?",
+     "De kosten van SELYVO worden op de vervaldag betaald uit een vooruitbetaald budget. Je waardeert het op per kaart of overboeking en ziet elke afschrijving in je account."
+    ],
+    [
+     "Werkt het met onze boekhouding?",
+     "Facturen vermelden de btw per land en de tekst die elke situatie vereist, en ze zijn af te drukken of op te slaan als pdf. Facturen uit je eigen boekhouding kun je als bestand via SELYVO versturen."
+    ],
+    [
+     "Is er een mobiele app?",
+     "SELYVO werkt in de browser op een computer, tablet of telefoon. Elk scherm past zich aan een telefoon aan."
+    ]
+   ],
+   "a": {
+    "pill": "B2B-marktplaats op uitnodiging",
+    "title1": "Meer verkopen. Slimmer inkopen.",
+    "title2": "Sneller betaald worden.",
+    "lede": "Op SELYVO Market doen geverifieerde bedrijven zaken, van de eerste aanvraag tot de betaalde factuur: op één plek, en voor iedereen in de eigen taal.",
+    "cta": "Word uitgenodigd",
+    "cta2": "Bekijk de rondleiding",
+    "ticks": [
+     "Gevonden in het handelsregister",
+     "Gecontroleerd op sanctielijsten",
+     "Beoordeeld vóór de eerste deal"
+    ],
+    "shotAlt": "Inkoop op SELYVO Market: besparingen, het openstaande saldo, wat er is ontvangen en gefactureerd, en het inkoopwerk dat klaarstaat",
+    "offer": {
+     "title": "Offerte geaccepteerd",
+     "note": "4,8% minder na de onderhandeling"
+    },
+    "paid": {
+     "status": "Betaald",
+     "country": "Denemarken"
+    },
+    "facts": [
+     [
+      "3 controles",
+      "voordat een bedrijf kan handelen: het register, sanctielijsten en de vragen van SELYVO"
+     ],
+     [
+      "1 spoor",
+      "van aanvraag tot betaling, elk document gemaakt vanuit het vorige"
+     ],
+     [
+      "7 talen",
+      "in de app, ieder in de eigen taal; deze website en de handleidingen in 15"
+     ],
+     [
+      "2 betaalwijzen",
+      "vooraf per kaart, of op factuur na levering, zoals elke leverancier zelf bepaalt"
+     ]
+    ],
+    "promise": {
+     "eyebrow": "Eén platform",
+     "title": "De hele deal, beide kanten, op één plek",
+     "lede": "Verkopen, inkopen, orders, facturen en betalingen: elke stap ontstaat uit de vorige. Je klanten en je leveranciers zien hetzelfde dossier als jij.",
+     "items": [
+      [
+       "Meer verkopen",
+       "Word gevonden door geverifieerde inkopers in je categorieën. Beantwoord hun aanvragen, stuur gerichte offertes en volg elke deal van de eerste lead tot hij binnen is.",
+       "Verkopen op SELYVO"
+      ],
+      [
+       "Slimmer inkopen",
+       "Vergelijk regel voor regel offertes van leveranciers van wie je weet dat ze echt bestaan: je eigen, nieuwe op SELYVO of leveranciers die AI voor je vindt.",
+       "Inkopen op SELYVO"
+      ],
+      [
+       "Sneller betaald worden",
+       "Factureer vanuit de order, met btw per land. Je klant betaalt per kaart, of op factuur naar je eigen Revolut Business-rekening.",
+       "Facturen en betalingen"
+      ]
+     ]
+    },
+    "rows": {
+     "sell": {
+      "eyebrow": "Verkopen",
+      "title": "Elke deal, van de eerste lead tot hij binnen is",
+      "text": "Je pipeline per fase, je deals in een lijst en de gekozen deal ernaast, met de volgende stap. Een deal schuift vanzelf door zodra er aanvragen, offertes en orders binnenkomen.",
+      "points": [
+       "Nieuwe leads van je klanten, nieuwe bedrijven of prospects die AI vindt",
+       "Gerichte offertes aan de klanten die jij kiest",
+       "Aanbod gepromoot in de feeds van inkopers"
+      ]
+     },
+     "buy": {
+      "eyebrow": "Inkopen",
+      "title": "Vergelijk offertes regel voor regel en bestel de beste",
+      "text": "Publiceer een aanvraag met percelen en regels, nodig de leveranciers van je keuze uit en bekijk alle offertes naast elkaar. De offerte die je accepteert, wordt de inkooporder.",
+      "points": [
+       "Een aanvraag die AI uit je specificatie leest",
+       "De waardering van elke leverancier naast zijn offerte",
+       "Een AI-onderhandelaar die het jou vraagt voordat er iets wordt afgesproken"
+      ]
+     },
+     "invoices": {
+      "eyebrow": "Facturen en betalingen",
+      "title": "Factureer vanuit de order. Word op tijd betaald.",
+      "text": "Facturen worden gemaakt vanuit hun orders, met btw per land en de tekst die elke situatie vereist. Facturen die je ontvangt, worden door AI gelezen, door SELYVO aan hun order getoetst en daarna betaald.",
+      "points": [
+       "Kaartbetalingen via Stripe",
+       "Betaald op je eigen Revolut Business-rekening",
+       "Een factuur die de controle niet doorstaat, kan automatisch terug naar de leverancier",
+       "Wat je betaalt en wat je ontvangt, naast elkaar"
+      ]
+     }
+    },
+    "trust": {
+     "eyebrow": "Vertrouwen",
+     "title": "Elk bedrijf hier bestaat echt",
+     "lede": "Voordat een bedrijf op SELYVO handelt, wordt het teruggevonden in het handelsregister, gecontroleerd en gekwalificeerd. Daarna zijn de klanten aan het woord."
+    },
+    "ai": {
+     "button": "Zoeken met AI — ongeveer 0,60 EUR",
+     "caption": "Voordat AI naar leveranciers zoekt, laat de knop zien wat dat kost.",
+     "found": "8 leveranciers gevonden",
+     "foundText": "Elke leverancier met zijn waardering, zijn categorieën en waar hij levert."
+    },
+    "invite": {
+     "title": "Toegang tot SELYVO krijg je op uitnodiging",
+     "text": "Elk bedrijf op SELYVO is bij minstens één ander bekend. Vraag een klant of leverancier die lid is om je uit te nodigen. Ken je nog niemand op SELYVO? Neem dan contact met ons op.",
+     "cta": "Zo word je uitgenodigd",
+     "mockWho": "nodigt je uit voor SELYVO Market",
+     "mockText": "We willen graag via SELYVO bij je inkopen. Sluit je aan als onze leverancier, dan ontvang je daar onze aanvragen.",
+     "mockButton": "Aansluiten als hun leverancier",
+     "mockValid": "Eén keer geldig, 14 dagen lang, alleen voor het e-mailadres van de ontvanger."
+    },
+    "faqAccounting": [
+     "Werkt het met onze boekhouding?",
+     "Ja. Koppel je boekhouding of ERP in Gekoppelde systemen en kies wat er wordt uitgewisseld. Facturen uit je eigen boekhouding kun je als bestand via SELYVO versturen, en elke factuurmail bevat de pdf en het ISDOC-bestand."
+    ]
+   },
+   "b": {
+    "pill": "De B2B-marktplaats op uitnodiging",
+    "title": [
+     "Eenvoudig.",
+     "Compliant.",
+     "Effectief."
+    ],
+    "lede": "SELYVO Market is de beste plek waar geverifieerde bedrijven zaken met elkaar doen. Inkopen, verkopen, factureren en betaald worden op één plek — van de eerste aanvraag tot de betaalde factuur.",
+    "cta2": "Bekijk de rondleiding (5 min)",
+    "factLang": [
+     "7 talen",
+     "in de app, ieder in de eigen taal; deze website in 15"
+    ],
+    "pillars": {
+     "eyebrow": "Waarom SELYVO Market",
+     "title": "Drie beloften, waargemaakt op elk scherm",
+     "lede": "Alles wat een bedrijf met zijn klanten en leveranciers doet — eenvoudig gemaakt, altijd compliant en gebouwd voor resultaat.",
+     "simple": {
+      "lead": "Eén plek voor de hele deal",
+      "text": "Elk document ontstaat uit het vorige: een aanvraag wordt een offerte, een order, een levering en een factuur. Niets wordt twee keer ingetypt en beide partijen zien hetzelfde dossier.",
+      "points": [
+       "Op je startpagina: wat op je wacht, met de volgende stap",
+       "Eén keer afrekenen voor alles in je winkelmandje",
+       "In de browser op een computer, tablet of telefoon"
+      ],
+      "gtk": "De knop rechts op elk tabblad zegt wat hij aanmaakt; via het pijltje vind je de rest."
+     },
+     "compliant": {
+      "lead": "Elk bedrijf echt, elke factuur correct",
+      "text": "Leden sluiten zich aan op uitnodiging en worden teruggevonden in het handelsregister, gecontroleerd op sanctielijsten en gekwalificeerd voordat ze handelen. Facturen voldoen aan de wetgeving van elk land.",
+      "points": [
+       "Handelsregister, btw-nummer en sanctielijsten gecontroleerd",
+       "Btw, verlegging en de wettelijke vermeldingen per land",
+       "Elke ontvangen factuur getoetst aan de wet en aan de bijbehorende order"
+      ],
+      "gtk": "Een uitnodiging werkt één keer, 14 dagen lang, en alleen voor het e-mailadres waarnaar ze is gestuurd."
+     },
+     "performing": {
+      "lead": "Betere prijzen, sneller je geld, minder werk",
+      "text": "Offertes regel voor regel vergeleken, AI die het leeswerk doet, en betalingen rechtstreeks op je eigen rekeningen — zodat je slimmer inkoopt, meer verkoopt en sneller betaald wordt.",
+      "points": [
+       "Offertes naast elkaar, per perceel en per regel",
+       "AI vindt leveranciers en prospects, en leest bestanden, facturen en e-mails",
+       "Kaartbetalingen via Stripe; overboekingen gekoppeld in je eigen Revolut Business"
+      ],
+      "gtk": "AI toont de kosten vooraf — en er wordt niets verstuurd of afgesproken zonder akkoord van een mens."
+     }
+    },
+    "process": {
+     "eyebrow": "Zo werkt het",
+     "title": "Van idee tot betaalde factuur",
+     "lede": "Zeven stappen, één spoor. Zo verloopt een inkoop op SELYVO Market — getoond in het product zelf.",
+     "steps": [
+      {
+       "title": "Een idee wordt een aanvraag",
+       "text": "Beschrijf wat je nodig hebt, of sleep een specificatie, aanbestedingsstukken of een staat van hoeveelheden erin: AI vult de titel, de categorie, de regels, de levering en het budget in — jij kiest wat je overneemt.",
+       "gtk": "Een aanvraag kan leveranciers vragen eerst een vragenlijst in te vullen.",
+       "alt": "Een nieuwe aanvraag op SELYVO Market: wat heeft je bedrijf nodig?"
+      },
+      {
+       "title": "De juiste leveranciers, geverifieerd",
+       "text": "Nodig je eigen leveranciers uit of bedrijven die al op SELYVO zitten, of laat AI er meer vinden — elk met zijn waardering, zijn categorieën en waar hij levert.",
+       "gtk": "Voordat AI zoekt, laat de knop zien wat dat kost: ongeveer 0,60 EUR.",
+       "alt": "Leveranciers die AI voor een aanvraag heeft gevonden, elk om te controleren en uit te nodigen"
+      },
+      {
+       "title": "Offertes naast elkaar",
+       "text": "Elke leverancier antwoordt op SELYVO. Je ziet wie een offerte gaat sturen, vergelijkt de offertes regel voor regel en kiest de beste.",
+       "gtk": "Leveranciers die AI heeft gevonden, worden per e-mail uitgenodigd en kunnen zich bij SELYVO aansluiten om hun offerte te sturen.",
+       "alt": "Een aanvraag die openstaat voor offertes: wie er een gaat sturen, en twee offertes om te vergelijken"
+      },
+      {
+       "title": "De order",
+       "text": "De offerte die je accepteert, wordt de inkooporder. De leverancier accepteert hem, en beide partijen volgen één status: open, te ontvangen, ontvangen, gefactureerd, betaald.",
+       "gtk": "Elke leverancier bepaalt zelf hoe hij betaald wordt: vooraf per kaart, of op factuur na levering.",
+       "alt": "Orders: elke inkooporder met zijn status, ontvangst en factuur"
+      },
+      {
+       "title": "Geleverd en ontvangen",
+       "text": "Bij de goederen zit een pakbon. Je bevestigt wat er is aangekomen — helemaal of gedeeltelijk — en de order schuift vanzelf door; artikelen die je op voorraad houdt, worden automatisch bijgeboekt.",
+       "gtk": "Klopt er iets niet? Meld het op de pakbon, en de leverancier krijgt meteen bericht.",
+       "alt": "Op een pakbon bevestigen wat er is aangekomen"
+      },
+      {
+       "title": "De factuur, gecontroleerd door SELYVO",
+       "text": "De leverancier factureert vanuit de order. Voordat iemand ernaar kijkt, controleert SELYVO elk wettelijk verplicht veld en je gegevens, en toetst elke regel aan de order en aan wat je hebt ontvangen.",
+       "gtk": "Als je dat wilt, gaat een factuur die de controle niet doorstaat automatisch terug naar de leverancier, met wat er gecorrigeerd moet worden.",
+       "alt": "Een door SELYVO gecontroleerde factuur met een regel die niet in de order staat, teruggestuurd naar de leverancier"
+      },
+      {
+       "title": "Betaald — en afgevinkt",
+       "text": "Betaal goedgekeurde facturen rechtstreeks vanaf je eigen Revolut Business-rekening, op de vervaldatum of meteen. Zodra het geld binnen is, zien beide partijen de factuur als betaald.",
+       "gtk": "Binnen de limiet die jij instelt, worden betalingen meteen uitgevoerd; daarboven wachten ze in Revolut op je fiatteurs.",
+       "alt": "Goedgekeurde facturen betaald vanuit Revolut Business"
+      }
+     ]
+    },
+    "compare": {
+     "eyebrow": "De beste plek om zaken te doen",
+     "title": "Minder gedoe. Meer ondernemen.",
+     "lede": "Wat er verandert als je klanten en leveranciers op SELYVO Market zitten.",
+     "without": "Zonder SELYVO",
+     "with": "Met SELYVO Market",
+     "rows": [
+      [
+       "Leveranciers vinden",
+       "Zoeken, rondvragen, wachten op antwoord",
+       "Geverifieerde leveranciers per categorie — of gevonden door AI, elk met zijn waardering"
+      ],
+      [
+       "Offertes",
+       "Bijlagen in elk formaat, met de hand vergeleken",
+       "Offertes naast elkaar, per perceel en per regel"
+      ],
+      [
+       "Orders",
+       "Overgetypt en daarna per e-mail opgevolgd",
+       "De geaccepteerde offerte wordt de order — één status voor beide partijen"
+      ],
+      [
+       "Facturen",
+       "Met de hand getoetst aan de order",
+       "Door SELYVO getoetst aan de wet en de order, en desgewenst automatisch teruggestuurd als er iets niet klopt"
+      ],
+      [
+       "Betaald worden",
+       "Herinneringen sturen, overboekingen handmatig koppelen",
+       "Kaartbetalingen en gekoppelde overboekingen in je eigen Revolut Business"
+      ]
+     ]
+    },
+    "gtk": {
+     "title": "De details die je elke dag tijd besparen",
+     "lede": "Kleine dingen die leden op hun eerste dag opvallen — en waar ze daarna elke dag blij mee zijn.",
+     "items": [
+      "De tabbladen passen zich aan je werk aan — inkopen, verkopen, boekhouding, projecten — zoals je in je voorkeuren kiest.",
+      "De knop rechts zegt altijd wat hij aanmaakt; via het pijltje vind je de rest.",
+      "Je startpagina is van jou: afgestemd op jouw rol, in jouw stijl — dagelijks werk, prestaties of planning.",
+      "AI toont de kosten vooraf, en er wordt niets verstuurd, afgesproken of geboekt zonder akkoord van een mens.",
+      "Elke leverancier bepaalt zelf hoe hij betaald wordt: vooraf per kaart, of op factuur na levering.",
+      "Elke factuur bevat de btw per land, de vermeldingen die de wet vereist, de pdf en het ISDOC-bestand.",
+      "Je bedrijf krijgt een eigen SELYVO-e-mailadres: een order of factuur in een e-mail wordt door AI gelezen en voor je klaargezet.",
+      "Binnenkort: de AI-onderhandelaar, transport en opslag, analyses, documenten en ondertekening."
+     ]
+    },
+    "video": {
+     "eyebrow": "Video",
+     "title": "Bekijk SELYVO Market in vijf minuten",
+     "lede": "Elk onderdeel van de marktplaats, getoond in het product zelf. Bekijk de video van begin tot eind, of spring naar het deel dat je nodig hebt."
+    }
+   },
+   "c": {
+    "pill": "The invitation-only B2B market",
+    "title": "Where verified businesses sell, buy, run projects and get paid.",
+    "lede": "SELYVO Market keeps every deal on one record that both sides see — from the first request to the paid invoice. Each business is checked before its first deal.",
+    "inside": {
+     "eyebrow": "Inside the market",
+     "title": "Four areas, one record",
+     "lede": "The same screens for you and your partners. Each area hands its work to the next, so nothing is typed twice.",
+     "sell": {
+      "title": "From the first lead to a clear outcome",
+      "text": "Your pipeline by stage and every case with its next step. A case moves on by itself as requests, offers and orders arrive.",
+      "gtk": "A new lead starts at three doors: a customer of yours, a new customer, or prospects AI finds."
+     },
+     "buy": {
+      "title": "From a need to an approved order",
+      "text": "Describe what you need or drop a specification. Verified suppliers answer on SELYVO, and you compare their offers line by line.",
+      "gtk": "Before AI searches for suppliers, the button says what it will cost: about 0.60 EUR."
+     },
+     "projects": {
+      "title": "Projects with their budget in sight",
+      "text": "Milestones, team, time, purchases and documents in one project. The budget counts itself from the records behind it, and the customer can follow along.",
+      "gtk": "Your own time — pre-sales, bids, training — is counted at internal rates and never reaches a customer."
+     },
+     "finance": {
+      "title": "Every invoice checked before anyone looks at it",
+      "text": "Invoices are made from their orders, with VAT by country. Every invoice you receive is checked at SELYVO against the law, your details and its order.",
+      "gtk": "If you choose, an invoice that fails the check goes back to its supplier by itself, with what to correct."
+     }
+    },
+    "processShort": [
+     "Aanvraag",
+     "Leveranciers",
+     "Offertes",
+     "Order",
+     "Ontvangen",
+     "Gecontroleerd",
+     "Betaald"
+    ],
+    "stepOf": "Step {n} of {m}",
+    "verified": {
+     "eyebrow": "Verified businesses only",
+     "title": "Every business is checked before its first deal",
+     "lede": "SELYVO opens by invitation. Each business is found in its business register, its VAT number and the sanctions lists are checked, and it answers SELYVO’s questions before it trades. Every record keeps its history.",
+     "kpis": [
+      [
+       "3 checks",
+       "before a business can trade"
+      ],
+      [
+       "1 record",
+       "that buyer and supplier both see"
+      ],
+      [
+       "2 ways to pay",
+       "by card up front, or by invoice"
+      ]
+     ],
+     "more": "How trust works"
+    }
+   },
+   "d": {
+    "eyebrow": "SELYVO Market",
+    "title": "Verkopen. Inkopen. Projecten. Financiën.",
+    "sub": "Eén marktplaats voor alles — alleen met geverifieerde bedrijven.",
+    "heroShot": "home",
+    "heroUrl": "market.selyvo.com/#/home",
+    "heroAlt": "De startpagina van SELYVO Market: wat vandaag op je wacht, je saldo, sluitingsdata voor offertes en je zakelijke netwerk",
+    "story": {
+     "eyebrow": "Zo werkt het",
+     "title": "Van idee tot betaalde factuur.",
+     "sub": "Zeven stappen, één dossier. Volg een inkoop door SELYVO Market — getoond in het product zelf.",
+     "boxes": [
+      [
+       [
+        4.1,
+        37.9,
+        66.8,
+        10.1
+       ]
+      ],
+      [
+       [
+        50.7,
+        67.7,
+        19.3,
+        4.4
+       ],
+       [
+        4.1,
+        79.1,
+        66.8,
+        8.5
+       ]
+      ],
+      [
+       [
+        3.8,
+        52.3,
+        64.2,
+        14.2
+       ],
+       [
+        78.4,
+        15.8,
+        10.4,
+        4.1
+       ]
+      ],
+      [
+       [
+        2.6,
+        85.3,
+        66.5,
+        8.9
+       ]
+      ],
+      [
+       [
+        52.3,
+        33.4,
+        10.8,
+        9.8
+       ],
+       [
+        55.6,
+        80.9,
+        12.0,
+        4.0
+       ]
+      ],
+      [
+       [
+        2.3,
+        32.9,
+        67.5,
+        27.1
+       ],
+       [
+        72.8,
+        45.0,
+        23.4,
+        14.3
+       ]
+      ],
+      [
+       [
+        46.8,
+        61.7,
+        12.1,
+        4.4
+       ],
+       [
+        62.7,
+        67.8,
+        33.7,
+        4.2
+       ]
+      ]
+     ]
+    },
+    "verified": {
+     "eyebrow": "Alleen geverifieerde bedrijven",
+     "title": "Elk bedrijf. Gecontroleerd.",
+     "sub": "Toegang tot SELYVO krijg je op uitnodiging. Elk bedrijf wordt teruggevonden in zijn register, zijn btw-nummer en de sanctielijsten worden gecontroleerd, en vóór zijn eerste deal beantwoordt het de vragen van SELYVO.",
+     "kpis": [
+      [
+       3,
+       "controles",
+       "voordat een bedrijf kan handelen"
+      ],
+      [
+       1,
+       "dossier",
+       "dat inkoper en leverancier allebei zien"
+      ],
+      [
+       2,
+       "betaalwijzen",
+       "vooraf per kaart, of op factuur"
+      ]
+     ],
+     "more": "Zo werkt vertrouwen"
+    },
+    "gtkSub": "De details die leden op hun eerste dag opvallen — en waar ze daarna elke dag blij mee zijn.",
+    "invite": {
+     "title": "Aansluiten op uitnodiging.",
+     "sub": "Elk bedrijf op SELYVO is bij minstens één ander bekend. Vraag een klant of leverancier die lid is om je uit te nodigen — of neem contact met ons op."
+    }
+   }
+  },
+  "spend-control": {
+   "title": "Inkopen op SELYVO Market — offerteaanvragen en inkooporders",
+   "description": "Zet een offerteaanvraag uit, getypt of door AI uit een bestand gelezen. Vergelijk offertes per perceel, onderhandel en bestel bij geverifieerde leveranciers.",
+   "hero": {
+    "eyebrow": "Inkopen",
+    "title": "Van behoefte tot goedgekeurde order, met betrouwbare leveranciers.",
+    "lede": "Beschrijf wat je nodig hebt, of sleep de specificatie erin en laat AI die lezen. Geverifieerde leveranciers offreren, jij vergelijkt hun offertes regel voor regel, onderhandelt en plaatst de order. Elke stap blijft vastgelegd.",
+    "shot": "Offertes per perceel vergelijken: € 8.894,40 van Holzwerk Brandt voor platen en beslag, naast € 9.138,60 van Nordic Panels."
+   },
+   "features": {
+    "title": "Alles wat een inkoop nodig heeft",
+    "items": [
+     [
+      "Aanvragen uit een bestand",
+      "Sleep een specificatie erin: AI vindt de percelen, de regels met aantallen en eenheden, en de vragen voor leveranciers. Er wordt niets ingevuld voordat jij het controleert."
+     ],
+     [
+      "Percelen voor producten en diensten",
+      "Zet de materialen in het ene perceel en het transport of de montage in een ander. Elk perceel heeft een eigen budget en wordt apart gegund."
+     ],
+     [
+      "Jij kiest wie offreert",
+      "Elke leverancier in de categorie uit de landen die jij kiest, of alleen wie je bij naam uitnodigt. Je vragenlijsten gaan met de aanvraag mee."
+     ],
+     [
+      "Offertes naast elkaar",
+      "Per perceel, per offerte of regel voor regel: prijs, levering en voorwaarden naast elkaar, met de laagste prijs en de snelste levering gemarkeerd."
+     ],
+     [
+      "Inkooporders vanuit de offerte",
+      "Gun elk perceel en maak de inkooporder vanuit de winnende offerte. De leverancier accepteert hem op SELYVO en jij volgt hem tot levering en factuur."
+     ],
+     [
+      "Dagelijkse inkoop in de Store",
+      "Bestel vaste artikelen rechtstreeks uit het aanbod van geverifieerde leveranciers tegen ledenprijzen, of verzamel ze in het winkelmandje."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Een inkoop, stap voor stap",
+    "steps": [
+     [
+      "Aanvraag",
+      "Getypt of uit een bestand gelezen, met percelen, regels en vragen."
+     ],
+     [
+      "Offertes",
+      "Leveranciers offreren vóór de sluitingsdatum die jij bepaalt."
+     ],
+     [
+      "Onderhandeling",
+      "Zelf, of met de AI-onderhandelaar."
+     ],
+     [
+      "Gunning",
+      "De beste offerte per perceel."
+     ],
+     [
+      "Order",
+      "Verstuurd, geaccepteerd en gevolgd tot de factuur."
+     ]
+    ]
+   },
+   "highlight": {
+    "title": "De AI-onderhandelaar",
+    "badge": "coming",
+    "text": "Bepaal wat telt, je streefprijs en je limiet. De AI schrijft de leverancier aan vanuit je SELYVO-mailbox, in diens taal, maakt zich bekend als AI en vraagt het jou voordat er iets wordt afgesproken. In de video spreekt hij € 8.469,60 af op een offerte van € 8.894,40: 4,8% minder."
+   },
+   "video": "buying",
+   "faq": [
+    [
+     "Kan een leverancier die niet op SELYVO zit een offerte sturen?",
+     "Nodig hem per e-mail uit met je aanvraag. Hij sluit zich aan bij SELYVO voordat hij een offerte kan sturen, dus elke offerte komt van een geverifieerd bedrijf."
+    ],
+    [
+     "Zien leveranciers mijn budget?",
+     "Nee. Het budget van een perceel is voor je eigen planning. Leveranciers zien het alleen als jij ervoor kiest het te delen."
+    ],
+    [
+     "Kan ik inkopen zonder aanvraag?",
+     "Ja. Bestel rechtstreeks uit het aanbod in de Store, tegen de ledenprijs die de leverancier bepaalt."
+    ]
+   ],
+   "related": [
+    "sell",
+    "orders",
+    "invoices"
+   ],
+   "b": {
+    "pillars": [
+     "Een aanvraag in vijf stappen — getypt, of door AI uit je specificatie gelezen.",
+     "Alleen geverifieerde leveranciers, elk met zijn waardering; wie een offerte heeft gestuurd, krijgt bericht van elke wijziging.",
+     "Offertes vergeleken per regel en per perceel; de beste wordt met één klik de order."
+    ],
+    "gtk": [
+     "Voordat AI naar leveranciers zoekt, laat de knop zien wat dat kost.",
+     "Leveranciers die AI heeft gevonden, worden per e-mail uitgenodigd en kunnen zich bij SELYVO aansluiten om hun offerte te sturen.",
+     "Jij bepaalt de sluitingsdatum voor offertes — stel die uit of sluit de offerteronde op elk moment."
+    ]
+   },
+   "c": {
+    "title": "Buy from verified suppliers, from the first need to the order.",
+    "lede": "Describe what you need, or drop the specification and let AI read it. Verified suppliers quote, you compare their offers line by line and place the order. Every step stays on record.",
+    "screen": "buy-purchases",
+    "screenUrl": "market.selyvo.com/#/purchases",
+    "rows": [
+     {
+      "screen": "buy-request",
+      "url": "market.selyvo.com/#/requests/REQ-2026-0398",
+      "eyebrow": "Aanvragen",
+      "title": "Offertes komen binnen op de aanvraag",
+      "text": "Bekijk wie een offerte gaat sturen en wie nog niet heeft gereageerd, stel de sluitingsdatum uit of sluit de offerteronde, en vergelijk daarna wat er binnenkwam.",
+      "points": [
+       "Leveranciers geven aan of ze een offerte sturen",
+       "Iedereen die offreerde, krijgt bericht van elke wijziging",
+       "Vergelijk per perceel, per offerte of regel voor regel"
+      ]
+     },
+     {
+      "screen": "buy-suppliers",
+      "url": "market.selyvo.com/#/suppliers",
+      "eyebrow": "Leveranciers",
+      "title": "Betrouwbare leveranciers",
+      "text": "Elke leverancier op SELYVO is geverifieerd en beoordeeld. Vind ze op categorie en land, sla ze op en vraag met één klik een offerte aan.",
+      "points": [
+       "Alleen geverifieerde leveranciers, met hun waardering",
+       "Je eigen leveranciers, uitgenodigd voor SELYVO",
+       "Offerte aanvragen, direct vanaf de leverancierskaart"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Inkopen bij betrouwbare leveranciers.",
+    "sub": "Beschrijf wat je nodig hebt, vergelijk offertes van geverifieerde leveranciers regel voor regel en verstuur de order — elke stap vastgelegd.",
+    "heroShot": "buy-purchases",
+    "heroUrl": "market.selyvo.com/#/purchases",
+    "story": {
+     "title": "Van behoefte tot goedgekeurde order.",
+     "sub": "De aanvraag die de offertes oplevert, en de order die volgt.",
+     "steps": [
+      {
+       "title": "Beschrijf wat je nodig hebt.",
+       "text": "Typ het in, of sleep een specificatie, aanbestedingsstukken of een staat van hoeveelheden erin — AI vult de titel, de categorie, de regels, de levering en het budget in.",
+       "shot": "p-1-request",
+       "url": "market.selyvo.com/#/new-request",
+       "boxes": [
+        [
+         4.1,
+         37.9,
+         66.8,
+         10.1
+        ]
+       ]
+      },
+      {
+       "title": "Kies wie offreert.",
+       "text": "Je eigen leveranciers, bedrijven op SELYVO, of meer die AI vindt. Voordat AI zoekt, laat de knop zien wat dat kost: ongeveer 0,60 EUR.",
+       "shot": "p-2-suppliers",
+       "url": "market.selyvo.com/#/new-request",
+       "boxes": [
+        [
+         50.7,
+         67.7,
+         19.3,
+         4.4
+        ],
+        [
+         4.1,
+         79.1,
+         66.8,
+         8.5
+        ]
+       ]
+      },
+      {
+       "title": "Offertes komen binnen.",
+       "text": "Elke leverancier geeft aan of hij een offerte stuurt, en de offertes komen binnen op de aanvraag, vóór de datum die jij bepaalt.",
+       "shot": "p-3-offers",
+       "url": "market.selyvo.com/#/requests/REQ-2026-0398",
+       "boxes": [
+        [
+         3.8,
+         52.3,
+         64.2,
+         14.2
+        ]
+       ]
+      },
+      {
+       "title": "Kies de beste.",
+       "text": "Vergelijk de offertes regel voor regel of per perceel, en gun de opdracht aan de beste.",
+       "shot": "p-3-offers",
+       "url": "market.selyvo.com/#/requests/REQ-2026-0398",
+       "boxes": [
+        [
+         3.8,
+         60.0,
+         64.2,
+         6.4
+        ],
+        [
+         78.4,
+         15.8,
+         10.4,
+         4.1
+        ]
+       ]
+      },
+      {
+       "title": "De order gaat de deur uit.",
+       "text": "De offerte die je accepteert, wordt de inkooporder. Beide partijen volgen hem tot levering en factuur.",
+       "shot": "p-4-order",
+       "url": "market.selyvo.com/#/orders",
+       "boxes": [
+        [
+         2.6,
+         85.3,
+         66.5,
+         8.9
+        ]
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "revenue-acceleration": {
+   "title": "Verkopen op SELYVO Market — aanbod, aanvragen, gerichte offertes",
+   "description": "Bereik geverifieerde inkopers: verkoop tegen ledenprijzen, beantwoord aanvragen in je categorieën, stuur gerichte offertes en volg elke deal tot hij binnen is.",
+   "hero": {
+    "eyebrow": "Verkopen",
+    "title": "Word gevonden door inkopers die klaar zijn om te bestellen.",
+    "lede": "Zet je aanbod online, beantwoord de aanvragen in je categorieën en stuur offertes naar de klanten die jij kiest. Je pipeline toont elke deal, van de eerste lead tot hij binnen is.",
+    "shot": "Verkoop op SELYVO Market: elke deal van lead tot gewonnen, met de waarde in elke fase."
+   },
+   "features": {
+    "title": "Verkopen, van begin tot eind",
+    "items": [
+     [
+      "Aanbod met ledenprijzen",
+      "Producten en diensten met foto’s, prijzen per aantal of verpakking, levertijden en de regio’s die je bedient."
+     ],
+     [
+      "Aanvragen die bij je passen",
+      "Aanvragen in je categorieën en regio’s komen bij je binnen in Verkoop, als verkoopkansen. Reageer met een offerte, regel voor regel."
+     ],
+     [
+      "Gerichte offertes",
+      "Stuur een offerte naar de klanten die jij kiest. Zij zien hem in hun feed en kunnen er direct uit bestellen."
+     ],
+     [
+      "Je pipeline",
+      "Elke deal van lead tot gewonnen of verloren, met de waarde in elke fase en de volgende stap."
+     ],
+     [
+      "Feeds die voor je werken",
+      "Plaats updates voor je klanten en voor bedrijven in je categorieën, en promoot een update of een aanbod om meer bedrijven te bereiken."
+     ],
+     [
+      "Sneller betaald",
+      "Factureer vanuit de order met btw per land. Of laat SELYVO de factuur innen: SELYVO betaalt jou, minus zijn vergoeding, en de klant betaalt SELYVO."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Een verkoop, stap voor stap",
+    "steps": [
+     [
+      "Aanbod",
+      "Je producten en diensten, met ledenprijzen."
+     ],
+     [
+      "Aanvraag",
+      "Een inkoper doet een aanvraag in jouw categorie."
+     ],
+     [
+      "Offerte",
+      "Jouw antwoord, regel voor regel."
+     ],
+     [
+      "Order",
+      "Geaccepteerd en geleverd."
+     ],
+     [
+      "Factuur",
+      "Vanuit de order gemaakt en betaald."
+     ]
+    ]
+   },
+   "video": "overview",
+   "faq": [
+    [
+     "Wie ziet mijn aanbod?",
+     "Leden van SELYVO Market in de regio’s waar je levert. Ze zien je ledenprijzen en je waardering."
+    ],
+    [
+     "Kan ik verkopen aan een bedrijf dat nog niet op SELYVO zit?",
+     "Nodig het uit. Zodra het zich heeft aangesloten, kan het bij je bestellen en je facturen op SELYVO ontvangen."
+    ],
+    [
+     "Hoe komen aanvragen bij mij binnen?",
+     "Aanvragen die in je categorieën en landen worden gepubliceerd, verschijnen in Verkoop. Een inkoper kan je ook bij naam uitnodigen."
+    ]
+   ],
+   "related": [
+    "buy",
+    "orders",
+    "invoices"
+   ],
+   "b": {
+    "pillars": [
+     "Je pipeline per fase en je deals in één lijst, elk met de volgende stap.",
+     "Je verkoopt alleen aan geverifieerde bedrijven — teruggevonden in het register en gecontroleerd voordat ze handelen.",
+     "Nieuwe leads van je klanten, van nieuwe bedrijven of prospects die AI vindt; gerichte offertes; aanbod gepromoot in de feeds van inkopers."
+    ],
+    "gtk": [
+     "Een deal schuift vanzelf door zodra er aanvragen, offertes en orders binnenkomen.",
+     "Een nieuwe lead komt binnen via een van drie deuren: een bestaande klant, een nieuwe klant of prospects die AI vindt.",
+     "Bij elk aanbod zie je de omzet en de marge."
+    ]
+   },
+   "c": {
+    "title": "Sell to verified businesses, from the first lead to the order.",
+    "lede": "List what you sell at member prices, answer the requests published in your categories, send offers to the customers you choose and follow every case to its outcome.",
+    "screen": "sell-sales",
+    "screenUrl": "market.selyvo.com/#/sales",
+    "rows": [
+     {
+      "screen": "sell-listings",
+      "url": "market.selyvo.com/#/my-listings",
+      "eyebrow": "Aanbod",
+      "title": "Wat je verkoopt, en wat het oplevert",
+      "text": "Producten en diensten met ledenprijzen, foto’s en een eigen pagina. Bij elk aanbod zie je de omzet en de marge, en je kunt het promoten in de feeds van inkopers.",
+      "points": [
+       "Prijzen per aantal, of een minimumbestelling",
+       "Concepten en aanbod zonder foto’s gemarkeerd",
+       "Gepromoot in de feeds van de inkopers die jij kiest"
+      ]
+     },
+     {
+      "screen": "sell-customers",
+      "url": "market.selyvo.com/#/customers",
+      "eyebrow": "Klanten",
+      "title": "Je klanten, en wie dat nog kunnen worden",
+      "text": "Bedrijven die bij je kopen, en inkopers op SELYVO in je categorieën. Stuur een gerichte offerte naar wie jij kiest.",
+      "points": [
+       "Filter op categorie, land en team",
+       "Wat elke klant kocht, en wanneer",
+       "Gerichte offertes aan de klanten die jij kiest, en wie ze bekeek"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Verkoop aan geverifieerde inkopers.",
+    "sub": "Zet je aanbod online, beantwoord de aanvragen in je categorieën en volg elke deal van de eerste lead tot de uitkomst.",
+    "heroShot": "sell-sales",
+    "heroUrl": "market.selyvo.com/#/sales",
+    "story": {
+     "title": "Van de eerste lead tot een duidelijke uitkomst.",
+     "sub": "Elke deal doorloopt de pipeline die je in Verkoop ziet.",
+     "steps": [
+      {
+       "title": "Een lead meldt zich.",
+       "text": "Van een van je klanten, een nieuw bedrijf op SELYVO, of prospects die AI vindt. Elke lead opent een deal met de volgende stap.",
+       "shot": "sell-sales",
+       "url": "market.selyvo.com/#/sales",
+       "boxes": [
+        [
+         4.2,
+         37.3,
+         8.0,
+         10.4
+        ],
+        [
+         59.6,
+         58.0,
+         8.6,
+         4.8
+        ]
+       ]
+      },
+      {
+       "title": "Een aanvraag komt binnen.",
+       "text": "Aanvragen en verzoeken in je categorieën maken van de interesse een verkoopkans — de deal schuift vanzelf door.",
+       "shot": "sell-sales",
+       "url": "market.selyvo.com/#/sales",
+       "boxes": [
+        [
+         12.5,
+         37.3,
+         8.2,
+         10.4
+        ]
+       ]
+      },
+      {
+       "title": "Je offerte gaat de deur uit.",
+       "text": "Beantwoord de aanvraag met een offerte, of stuur een gerichte offerte naar de klanten die jij kiest.",
+       "shot": "sell-sales",
+       "url": "market.selyvo.com/#/sales",
+       "boxes": [
+        [
+         20.6,
+         37.3,
+         8.8,
+         10.4
+        ]
+       ]
+      },
+      {
+       "title": "Je spreekt de voorwaarden af.",
+       "text": "Reacties en biedingen blijven bij de deal, en beide partijen zien hetzelfde dossier.",
+       "shot": "sell-sales",
+       "url": "market.selyvo.com/#/sales",
+       "boxes": [
+        [
+         29.3,
+         37.3,
+         8.2,
+         10.4
+        ]
+       ]
+      },
+      {
+       "title": "Gewonnen of verloren — vastgelegd.",
+       "text": "Elke deal eindigt met een duidelijke uitkomst, en je conversie en winratio worden vanzelf berekend.",
+       "shot": "sell-sales",
+       "url": "market.selyvo.com/#/sales",
+       "boxes": [
+        [
+         38.2,
+         37.3,
+         7.5,
+         10.4
+        ],
+        [
+         81.3,
+         41.8,
+         14.6,
+         11.4
+        ]
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "inventory-control": {
+   "title": "Orders, leveringen en pakbonnen op één plek — SELYVO Market",
+   "description": "Inkoop- en verkooporders in één lijst: geaccepteerd, in delen geleverd met pakbonnen, ontvangen, gefactureerd en betaald, met berichten en documenten per order.",
+   "hero": {
+    "eyebrow": "Orders en leveringen",
+    "title": "Elke order, van geaccepteerd tot betaald, op één plek.",
+    "lede": "Een order op SELYVO heeft zijn eigen tijdlijn. De leverancier accepteert en levert, zo nodig in delen; de klant bevestigt wat er is aangekomen; de factuur volgt. Beide partijen zien hetzelfde dossier.",
+    "shot": "Order ORD-7311: geaccepteerd door Holzwerk Brandt, levering uiterlijk 13 november, en wat er daarna gebeurt."
+   },
+   "features": {
+    "title": "Orders waar beide partijen op kunnen bouwen",
+    "items": [
+     [
+      "Eén status voor beide partijen",
+      "Besteld, geaccepteerd, geleverd, ontvangen, gefactureerd, betaald: klant en leverancier zien dezelfde stappen en datums."
+     ],
+     [
+      "Deelleveringen",
+      "Elke levering heeft een pakbon. De klant bevestigt wat er is aangekomen en de rest blijft open."
+     ],
+     [
+      "Berichten bij de order",
+      "Overleg direct in de order zelf. Er wordt niets verstuurd voordat jij op verzenden klikt."
+     ],
+     [
+      "Documenten aan elkaar gekoppeld",
+      "De order, de pakbonnen, de offerte waaruit hij is ontstaan en de facturen verwijzen allemaal naar elkaar."
+     ],
+     [
+      "Als er iets mis is",
+      "Meld een probleem bij de order en houd het gesprek en het bewijs erbij."
+     ],
+     [
+      "Afdrukken of opslaan als pdf",
+      "Met je logo, voor je administratie of je magazijn."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "De stappen van een order",
+    "steps": [
+     [
+      "Besteld",
+      "Verstuurd vanuit de offerte of de Store."
+     ],
+     [
+      "Geaccepteerd",
+      "De leverancier bevestigt hem."
+     ],
+     [
+      "Geleverd",
+      "Met een pakbon, zo nodig in delen."
+     ],
+     [
+      "Ontvangen",
+      "De klant bevestigt wat er is aangekomen."
+     ],
+     [
+      "Gefactureerd en betaald",
+      "De factuur volgt de order."
+     ]
+    ]
+   },
+   "video": "buying",
+   "faq": [
+    [
+     "Kan een leverancier in meerdere delen leveren?",
+     "Ja. Elk deel heeft een pakbon en de klant bevestigt wat er is aangekomen. De order blijft open tot alles binnen is."
+    ],
+    [
+     "Wie ziet de berichten bij een order?",
+     "De mensen die bij beide bedrijven aan de order werken. Een bericht wordt pas verstuurd als jij op verzenden klikt."
+    ],
+    [
+     "Gelden er goedkeuringsregels voor orders?",
+     "Ja. Je bedrijf bepaalt wie welke orders goedkeurt, en de order wacht tot dat is gebeurd."
+    ]
+   ],
+   "related": [
+    "buy",
+    "sell",
+    "invoices"
+   ],
+   "b": {
+    "pillars": [
+     "Inkoop- en verkooporders in één lijst: open, te ontvangen, ontvangen, te factureren.",
+     "De pakbon die je bevestigt, is je goederenontvangst, bewaard bij de order.",
+     "Deelleveringen, waarbij elke pakbon alleen aanbiedt wat er nog openstaat; de factuur volgt de ontvangst."
+    ],
+    "gtk": [
+     "Klopt er iets niet met een levering? Meld het op de pakbon — de leverancier krijgt meteen bericht.",
+     "Artikelen die je op voorraad houdt, worden automatisch bijgeboekt als je bevestigt wat er is aangekomen.",
+     "Wat bijna op is, zet je met één klik terug in je winkelmandje."
+    ]
+   },
+   "c": {
+    "title": "Every order, from accepted to paid, in one place.",
+    "lede": "An order on SELYVO carries its own timeline. The supplier accepts and delivers, in parts if needed; the customer confirms what arrived; the invoice follows. Both sides see the same record.",
+    "screen": "p-5-received",
+    "screenUrl": "market.selyvo.com/#/orders/ORD-2026-0612",
+    "rows": []
+   },
+   "d": {
+    "title": "Elke order, van geaccepteerd tot betaald.",
+    "sub": "Eén order, één tijdlijn, hetzelfde dossier voor beide partijen — zo nodig in delen.",
+    "heroShot": "p-5-received",
+    "heroUrl": "market.selyvo.com/#/orders/ORD-2026-0612",
+    "story": {
+     "title": "Waar je order staat. Altijd.",
+     "sub": "Een order volgt dezelfde stappen die je er in SELYVO op ziet.",
+     "steps": [
+      {
+       "title": "De order wordt geplaatst.",
+       "text": "Vanuit de geaccepteerde offerte, of rechtstreeks uit het aanbod. Beide partijen zien dezelfde order.",
+       "shot": "p-5-received",
+       "url": "market.selyvo.com/#/orders/ORD-2026-0612",
+       "boxes": [
+        [
+         6.1,
+         33.4,
+         10.8,
+         9.8
+        ]
+       ]
+      },
+      {
+       "title": "De leverancier accepteert.",
+       "text": "De leverancier accepteert de order, met de leverdatum.",
+       "shot": "p-5-received",
+       "url": "market.selyvo.com/#/orders/ORD-2026-0612",
+       "boxes": [
+        [
+         21.5,
+         33.4,
+         10.8,
+         9.8
+        ]
+       ]
+      },
+      {
+       "title": "Geleverd, met pakbon.",
+       "text": "Elke levering komt met een eigen pakbon — zo nodig in delen.",
+       "shot": "p-5-received",
+       "url": "market.selyvo.com/#/orders/ORD-2026-0612",
+       "boxes": [
+        [
+         36.9,
+         33.4,
+         10.8,
+         9.8
+        ]
+       ]
+      },
+      {
+       "title": "Je bevestigt wat er is aangekomen.",
+       "text": "Helemaal of gedeeltelijk. Klopt er iets niet? Meld het op de pakbon, en de leverancier krijgt meteen bericht.",
+       "shot": "p-5-received",
+       "url": "market.selyvo.com/#/orders/ORD-2026-0612",
+       "boxes": [
+        [
+         52.3,
+         33.4,
+         10.8,
+         9.8
+        ],
+        [
+         55.6,
+         80.9,
+         12.0,
+         4.0
+        ]
+       ]
+      },
+      {
+       "title": "De factuur volgt.",
+       "text": "Gemaakt vanuit de order na de ontvangst — en gecontroleerd door SELYVO zodra hij binnenkomt.",
+       "shot": "p-5-received",
+       "url": "market.selyvo.com/#/orders/ORD-2026-0612",
+       "boxes": [
+        [
+         67.7,
+         33.4,
+         10.8,
+         9.8
+        ]
+       ]
+      },
+      {
+       "title": "Betaald op de vervaldatum.",
+       "text": "Vooraf per kaart of op factuur, zoals de leverancier bepaalt — en beide partijen zien hem als betaald.",
+       "shot": "p-5-received",
+       "url": "market.selyvo.com/#/orders/ORD-2026-0612",
+       "boxes": [
+        [
+         83.1,
+         33.4,
+         10.8,
+         9.8
+        ]
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "finance-administration": {
+   "title": "Facturen, btw en betalingen voor bedrijven op SELYVO Market",
+   "description": "Factureer vanuit orders met de juiste btw per land, ontvang facturen die AI uit een bestand of e-mail leest, en zie in één lijst wat openstaat en wat te laat is.",
+   "hero": {
+    "eyebrow": "Facturen en betalingen",
+    "title": "Facturen die zichzelf aan de order toetsen.",
+    "lede": "Maak facturen vanuit je orders met btw per land en de vermeldingen die de wet vereist. Facturen die je ontvangt, per e-mail, als bestand of op SELYVO, worden door AI gelezen en aan hun order gekoppeld voordat jij ze goedkeurt.",
+    "shot": "Factuur FV-2026-0018 aan Nordform ApS: de uren en onkosten van oktober, met btw verlegd."
+   },
+   "features": {
+    "title": "Minder overtypen, minder verrassingen",
+    "items": [
+     [
+      "Btw per land",
+      "Het tarief, de verlegging of de vrijstelling voor de twee landen, en de wettelijke vermelding voor elke situatie."
+     ],
+     [
+      "Facturen per e-mail",
+      "Leveranciers sturen facturen naar invoice@market.selyvo.com. AI leest elke factuur, vindt je bedrijf en de order, en vraagt de afzender om wat ontbreekt."
+     ],
+     [
+      "Facturen uit een bestand",
+      "Sleep een pdf erin en AI leest de leverancier, de regels, de btw en de totalen, zodat jij ze kunt controleren."
+     ],
+     [
+      "Zonder inkooporder, binnen jouw regels",
+      "Accepteer facturen zonder inkooporder van de leveranciers die jij kiest, tot het bedrag dat jij bepaalt."
+     ],
+     [
+      "Onkosten met bonnetjes",
+      "Bonnetjes gelezen door AI, doorbelast aan de order van een klant of voor eigen rekening genomen."
+     ],
+     [
+      "Te betalen, te ontvangen, achterstallig",
+      "Eén lijst voor beide kanten, met wat er openstaat en wat te laat is."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Een factuur die je ontvangt",
+    "steps": [
+     [
+      "Komt binnen",
+      "Op SELYVO, per e-mail of als bestand."
+     ],
+     [
+      "Gelezen door AI",
+      "Leverancier, regels, btw en totalen."
+     ],
+     [
+      "Gekoppeld",
+      "Aan de order en wat er is ontvangen."
+     ],
+     [
+      "Goedgekeurd",
+      "Door wie jouw regels aanwijzen."
+     ],
+     [
+      "Betaald",
+      "En aan beide kanten als betaald gemarkeerd."
+     ]
+    ]
+   },
+   "video": "freelancer",
+   "faq": [
+    [
+     "Kan ik facturen uit mijn eigen boekhouding versturen?",
+     "Ja. Upload het bestand: SELYVO leest het en stuurt het met de order naar de klant."
+    ],
+    [
+     "Kunnen we onze oude facturen meenemen?",
+     "Ja. Je oude facturen worden door AI gelezen en hun leveranciers kunnen worden uitgenodigd voor SELYVO."
+    ],
+    [
+     "Hoe werkt btw over de grens?",
+     "SELYVO past het tarief, de verlegging of de vrijstelling toe die bij de twee landen hoort, en drukt de vermelding af die de wet vereist."
+    ]
+   ],
+   "related": [
+    "orders",
+    "projects",
+    "buy"
+   ],
+   "a": {
+    "faqAdd": [
+     "Wat gebeurt er met een factuur die niet overeenkomt met de order?",
+     "Hij wacht op je, met wat de controle heeft gevonden. Als je dat wilt, gaat hij automatisch terug naar de leverancier, met wat er gecorrigeerd moet worden, en komt de gecorrigeerde factuur ervoor in de plaats."
+    ]
+   },
+   "b": {
+    "pillars": [
+     "Facturen in een handomdraai gemaakt vanuit hun orders; ontvangen facturen door AI gelezen uit een bestand of uit je mailbox.",
+     "Btw, verlegging en de wettelijke vermeldingen per land; elke ontvangen factuur gecontroleerd door SELYVO.",
+     "Kaartbetalingen via Stripe en overboekingen die in je eigen Revolut Business-rekening worden gekoppeld."
+    ],
+    "gtk": [
+     "Een factuur die de controle niet doorstaat, kan automatisch terug naar de leverancier, met wat er gecorrigeerd moet worden.",
+     "Elke factuurmail bevat de pdf en het ISDOC-bestand.",
+     "Betalingen binnen je limiet worden meteen uitgevoerd; daarboven wachten ze in Revolut op je fiatteurs."
+    ]
+   },
+   "c": {
+    "title": "Invoice, check and get paid — with VAT by country built in.",
+    "lede": "Invoices are made from their orders. Invoices you receive are checked at SELYVO before anyone looks at them. You are paid by card, or by transfer into your own Revolut Business account.",
+    "screen": "fin-check",
+    "screenUrl": "market.selyvo.com/#/invoices/received/FV-2026-0042",
+    "rows": [
+     {
+      "screen": "fin-invoices",
+      "url": "market.selyvo.com/#/invoices",
+      "eyebrow": "Facturen",
+      "title": "Te betalen, te ontvangen en achterstallig in één lijst",
+      "text": "Elke factuur die je verstuurt en ontvangt, met status en vervaldatum. Open er een om de order, de regels en de historie te zien.",
+      "points": [
+       "Facturen per e-mail naar invoice@market.selyvo.com, gelezen door AI",
+       "Elke factuurmail met pdf en ISDOC-bestand",
+       "Onkosten met bonnetjes, doorbelast"
+      ]
+     },
+     {
+      "screen": "fin-connect",
+      "url": "market.selyvo.com/#/account/connected-systems",
+      "eyebrow": "Gekoppelde systemen",
+      "title": "Werkt met de systemen die je al gebruikt",
+      "text": "Koppel je boekhouding of ERP en kies wat er wordt uitgewisseld en hoe vaak. Je klanten en leveranciers koppelen hun systemen op dezelfde manier, en elke uitwisseling wordt vastgelegd.",
+      "points": [
+       "Profielen, aanvragen, orders, betalingen en voorraad, altijd gesynchroniseerd",
+       "Elk ander systeem via de voorraad-API van de marktplaats",
+       "Elke uitwisseling vastgelegd"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Factureer. Controleer. Word betaald.",
+    "sub": "Facturen gemaakt vanuit hun orders, elke ontvangen factuur gecontroleerd door SELYVO, en betalingen vanaf je eigen rekening.",
+    "heroShot": "p-6-checked",
+    "heroUrl": "market.selyvo.com/#/invoices/received/FV-2026-0042",
+    "story": {
+     "title": "Elke factuur gecontroleerd voordat iemand kijkt.",
+     "sub": "Een factuur die je ontvangt, van binnenkomst tot betaling.",
+     "steps": [
+      {
+       "title": "Er komt een factuur binnen.",
+       "text": "Per e-mail naar invoice@market.selyvo.com, als bestand of op SELYVO — gelezen door AI en gekoppeld aan het juiste bedrijf.",
+       "shot": "p-6-checked",
+       "url": "market.selyvo.com/#/invoices/received/FV-2026-0042",
+       "boxes": [
+        [
+         72.8,
+         81.2,
+         24.7,
+         18.8
+        ]
+       ]
+      },
+      {
+       "title": "SELYVO controleert hem.",
+       "text": "Elk wettelijk verplicht veld, je gegevens, en elke regel getoetst aan de order en aan wat je hebt ontvangen. Als je dat wilt, gaat een factuur die de controle niet doorstaat vanzelf terug naar de leverancier.",
+       "shot": "p-6-checked",
+       "url": "market.selyvo.com/#/invoices/received/FV-2026-0042",
+       "boxes": [
+        [
+         2.3,
+         32.9,
+         67.5,
+         27.1
+        ],
+        [
+         72.8,
+         45.0,
+         23.4,
+         14.3
+        ]
+       ]
+      },
+      {
+       "title": "Jij keurt hem goed.",
+       "text": "Goedgekeurde facturen wachten op betaling, de eerst vervallende vooraan.",
+       "shot": "p-7-paid",
+       "url": "market.selyvo.com/#/invoices/to-pay",
+       "boxes": [
+        [
+         2.5,
+         35.2,
+         56.3,
+         18.3
+        ]
+       ]
+      },
+      {
+       "title": "Betaald vanaf je eigen rekening.",
+       "text": "Betaal vanuit je Revolut Business, op de vervaldata of meteen. Binnen je limiet worden betalingen direct uitgevoerd; daarboven wachten ze op je fiatteurs.",
+       "shot": "p-7-paid",
+       "url": "market.selyvo.com/#/invoices/to-pay",
+       "boxes": [
+        [
+         46.8,
+         61.7,
+         12.1,
+         4.4
+        ],
+        [
+         62.7,
+         67.8,
+         33.7,
+         4.2
+        ]
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "operational-scale": {
+   "title": "Projecten, urenstaten, onkosten en MailChat op SELYVO Market",
+   "description": "Urenregistratie per week en een urenstaat per klant, onkosten met bonnetjes, één factuur voor beide, en e-mail en chat met partners in één zakelijke mailbox.",
+   "hero": {
+    "eyebrow": "Projecten en MailChat",
+    "title": "Werk voor je klanten zonder papierwerk.",
+    "lede": "Urenstaten, onkosten en berichten staan naast de orders waar ze bij horen. Klanten keuren goed wat ze willen goedkeuren, en jij factureert de rest in één keer.",
+    "shot": "Je uren in Projecten: week voor week voor elke klant, en wat je aandacht nodig heeft."
+   },
+   "features": {
+    "title": "Uren en onkosten, klaar om te factureren",
+    "items": [
+     [
+      "Je week, elke klant",
+      "Vul uren of dagen in per klant en order, met wat je hebt gedaan. De klant leest het op de urenstaat."
+     ],
+     [
+      "De eigen regels van elke klant",
+      "Goedgekeurd vóór de factuur, als bijlage erbij of niet nodig, per week of per maand, zoals elke klant bepaalt."
+     ],
+     [
+      "Doorbelaste onkosten",
+      "Boek een onkostenpost met het bonnetje. Die wacht in de maandafrekening van de klant tot hij is goedgekeurd."
+     ],
+     [
+      "Eén factuur voor beide",
+      "Goedgekeurde uren en onkosten komen op één factuur, elke onkostenpost zonder btw."
+     ],
+     [
+      "Eigen tijd, apart gehouden",
+      "Presales, offertewerk en opleiding worden tegen interne tarieven geboekt en komen nooit bij een klant terecht."
+     ],
+     [
+      "MailChat",
+      "Een zakelijke mailbox in SELYVO: e-mails en chats met klanten en leveranciers in één lijst, met AI die facturen, offertes en orders herkent."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Van uren naar factuur",
+    "steps": [
+     [
+      "Uren",
+      "Week voor week ingevuld."
+     ],
+     [
+      "Urenstaat",
+      "Verstuurd voor de periode die de klant hanteert."
+     ],
+     [
+      "Goedkeuring",
+      "Door de klant, als die erom vraagt."
+     ],
+     [
+      "Factuur",
+      "Uren en onkosten samen."
+     ]
+    ]
+   },
+   "highlight": {
+    "title": "Projecten met budgetten en mijlpalen",
+    "badge": "coming",
+    "text": "Projecten met een budget, mijlpalen en taken, waarop elke inkoop, verkoop, elk uur en elke onkostenpost wordt geboekt."
+   },
+   "video": "freelancer",
+   "faq": [
+    [
+     "Kan een klant urenstaten op SELYVO goedkeuren?",
+     "Ja. De fiatteur bij de klant ziet elke urenstaat met de dagen en wat er is gedaan, en keurt hem goed of stuurt hem terug met een opmerking."
+    ],
+    [
+     "Heb ik MailChat nodig?",
+     "Nee, het is optioneel. Het geeft je bedrijf een SELYVO-mailbox om partners te mailen, en je eigen e-mailadres wordt nooit getoond."
+    ],
+    [
+     "Kunnen freelancers SELYVO gebruiken?",
+     "Ja. Een freelancer sluit zich aan als eenmanszaak, op uitnodiging zoals ieder ander, en werkt met dezelfde tools."
+    ]
+   ],
+   "related": [
+    "invoices",
+    "sell",
+    "trust"
+   ],
+   "a": {
+    "project": {
+     "eyebrow": "Projecten",
+     "title": "Een project, met zijn eigen budget",
+     "text": "Een project bundelt zijn aanvragen, orders, facturen, urenstaten en onkosten. Het budget wordt daaruit vanzelf bijgewerkt: vastgelegd, werkelijk en gefactureerd, met een eindprognose.",
+     "points": [
+      "Mijlpalen, geaccepteerd door de klant en daarna gefactureerd",
+      "Het team: je eigen mensen en die van je leveranciers",
+      "Ook de klant kan het project volgen"
+     ],
+     "tiles": [
+      "Budget",
+      "Werkelijk",
+      "Gefactureerd"
+     ],
+     "milestones": [
+      [
+       "1 · Portal geconfigureerd",
+       "Geaccepteerd"
+      ],
+      [
+       "2 · Leveranciers gemigreerd",
+       "In uitvoering"
+      ],
+      [
+       "3 · Gebruikersacceptatie",
+       "Gepland"
+      ]
+     ]
+    }
+   },
+   "b": {
+    "pillars": [
+     "Urenstaten per week, onkosten uit een foto van het bonnetje, en één factuur voor beide.",
+     "De eigen regels van elke klant: goedgekeurd vóór de factuur, als bijlage erbij of niet nodig.",
+     "Het budget van een project wordt vanzelf bijgewerkt — vastgelegd, werkelijk en gefactureerd — met een eindprognose."
+    ],
+    "gtk": [
+     "De regels van je land bepalen hoeveel btw op een onkostenpost aftrekbaar is.",
+     "Eigen tijd — presales, offertewerk, opleiding — wordt tegen interne tarieven geboekt en komt nooit bij een klant terecht.",
+     "MailChat geeft je bedrijf een eigen SELYVO-e-mailadres."
+    ]
+   },
+   "c": {
+    "title": "Run customer projects with time, costs and budget in one place.",
+    "lede": "Milestones, team, time sheets, expenses, purchases and documents live in the project. The budget counts itself, and the customer follows the project with you.",
+    "screen": "proj-plan",
+    "screenUrl": "market.selyvo.com/#/projects/PRJ-2026-0007",
+    "rows": [
+     {
+      "screen": "proj-budget",
+      "url": "market.selyvo.com/#/projects/PRJ-2026-0007/budget",
+      "eyebrow": "Budget",
+      "title": "Een budget dat zichzelf bijhoudt",
+      "text": "Vastgelegde, werkelijke en gefactureerde bedragen komen uit de stukken van het project — urenstaten, inkooporders, facturen en onkosten — met een eindprognose.",
+      "points": [
+       "Elk bedrag herleidbaar tot zijn bron",
+       "Mijlpalen, geaccepteerd door de klant en daarna gefactureerd",
+       "Het werk van je leveranciers in hetzelfde project"
+      ]
+     },
+     {
+      "screen": "proj-mail",
+      "url": "market.selyvo.com/#/mailchat",
+      "eyebrow": "MailChat",
+      "title": "E-mail en chat in één lijst",
+      "text": "Je bedrijf krijgt een eigen SELYVO-e-mailadres. E-mails en chats met klanten en leveranciers staan in één lijst, en AI herkent er facturen, offertes en orders in.",
+      "points": [
+       "Mappen en labels: werk, klanten, facturatie",
+       "Chats met je partners naast hun e-mails",
+       "Een order of factuur in een e-mail, voor je klaargezet"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Projecten, met het budget in beeld.",
+    "sub": "Mijlpalen, team, tijd, onkosten en inkopen in één project. Het budget houdt zichzelf bij, en de klant kijkt mee.",
+    "heroShot": "proj-plan",
+    "heroUrl": "market.selyvo.com/#/projects/PRJ-2026-0007",
+    "story": {
+     "title": "Plannen. Uitvoeren. Factureren.",
+     "sub": "Een klantproject, van de mijlpalen tot de factuur.",
+     "steps": [
+      {
+       "title": "Plannen.",
+       "text": "Mijlpalen met hun bedragen, het team en het budget — je eigen mensen en je leveranciers in één project.",
+       "shot": "proj-plan",
+       "url": "market.selyvo.com/#/projects/PRJ-2026-0007",
+       "boxes": [
+        [
+         2.3,
+         52.3,
+         52.1,
+         26.0
+        ]
+       ]
+      },
+      {
+       "title": "Aan de slag.",
+       "text": "Urenstaten, onkosten en inkopen komen in het project terecht terwijl het werk gebeurt.",
+       "shot": "proj-plan",
+       "url": "market.selyvo.com/#/projects/PRJ-2026-0007",
+       "boxes": [
+        [
+         50.5,
+         33.3,
+         23.0,
+         16.5
+        ],
+        [
+         3.3,
+         65.1,
+         50.0,
+         4.3
+        ]
+       ]
+      },
+      {
+       "title": "De klant accepteert.",
+       "text": "Elke mijlpaal wordt geaccepteerd door de klant, die het project met je meevolgt.",
+       "shot": "proj-plan",
+       "url": "market.selyvo.com/#/projects/PRJ-2026-0007",
+       "boxes": [
+        [
+         3.3,
+         58.7,
+         50.0,
+         4.3
+        ]
+       ]
+      },
+      {
+       "title": "Factureren.",
+       "text": "Geaccepteerde mijlpalen gaan op de factuur, en het budget toont wat vastgelegd, werkelijk en gefactureerd is.",
+       "shot": "proj-budget",
+       "url": "market.selyvo.com/#/projects/PRJ-2026-0007/budget",
+       "boxes": [
+        [
+         60.0,
+         35.9,
+         18.2,
+         12.1
+        ],
+        [
+         4.2,
+         88.8,
+         65.8,
+         4.1
+        ]
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "compliance-by-design": {
+   "title": "Vertrouwen en compliance: geverifieerde bedrijven op SELYVO",
+   "description": "Leden zijn uitgenodigd, gevonden in het handelsregister, gecontroleerd op sanctielijsten en gekwalificeerd vóór ze handelen. Elk dossier bewaart zijn historie.",
+   "hero": {
+    "eyebrow": "Vertrouwen en compliance",
+    "title": "Weet met wie je zakendoet, en bewaar het bewijs van de afspraken.",
+    "lede": "Elk bedrijf op SELYVO is uitgenodigd door een lid, teruggevonden in het register, gecontroleerd en gekwalificeerd voordat het handelt. Elk dossier bewaart zijn historie: wie wat deed, en wanneer.",
+    "shot": "Registratie: het bedrijf gevonden in het handelsregister, bevestigd met één klik."
+   },
+   "features": {
+    "title": "Vertrouwen in elke stap ingebouwd",
+    "items": [
+     [
+      "Uitgenodigd door een lid",
+      "Geen anonieme aanmeldingen. Elk bedrijf sluit zich aan via een uitnodiging van een klant of leverancier die al op SELYVO actief is."
+     ],
+     [
+      "Gevonden in het register",
+      "Registratienummer, adres, btw-nummer en geregistreerde activiteiten komen uit het officiële handelsregister."
+     ],
+     [
+      "Sanctiecontroles",
+      "Elk bedrijf wordt bij aansluiting gecontroleerd op sanctielijsten, voordat het kan handelen."
+     ],
+     [
+      "Kwalificatie en vragenlijsten",
+      "De vragen van SELYVO met bewijsstukken geven een eerste waardering. Je eigen vragenlijsten gaan naar je leveranciers en klanten."
+     ],
+     [
+      "Rechten en goedkeuringen",
+      "Iedereen ziet wat zijn rol toestaat. Je goedkeuringsregels bepalen wie orders, urenstaten en onkosten goedkeurt."
+     ],
+     [
+      "Een historie voor elk dossier",
+      "Aanvragen, offertes, orders en facturen bewaren hun historie: wie wat heeft gewijzigd, en wanneer."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Zo wordt een bedrijf toegelaten",
+    "steps": [
+     [
+      "Uitnodiging",
+      "Van een lid."
+     ],
+     [
+      "Register",
+      "Bedrijfsgegevens uit het handelsregister."
+     ],
+     [
+      "Controles",
+      "Sanctielijsten."
+     ],
+     [
+      "Kwalificatie",
+      "Antwoorden, bewijsstukken, een eerste waardering."
+     ],
+     [
+      "Beoordelingen",
+      "Van klanten, order na order."
+     ]
+    ]
+   },
+   "video": "joining",
+   "faq": [
+    [
+     "Kunnen we eigen eisen aan leveranciers stellen?",
+     "Ja. Stuur je eigen vragenlijsten mee met een uitnodiging of een aanvraag, en bekijk de antwoorden en bewijsstukken voordat je beslist."
+    ],
+    [
+     "Wie ziet wat binnen ons bedrijf?",
+     "Iedereen ziet wat zijn rol toestaat. Bedragen en financiële gegevens zijn alleen zichtbaar voor mensen met de rechten om ze te zien."
+    ],
+    [
+     "Wat ziet een partner van ons?",
+     "Alleen wat je verstuurt of publiceert: je aanbod, je offertes, je orders met de bijbehorende facturen, en je profiel."
+    ]
+   ],
+   "related": [
+    "buy",
+    "sell",
+    "core"
+   ],
+   "b": {
+    "pillars": [
+     "Aansluiten kost maar een paar stappen: de gegevens van je bedrijf komen uit het handelsregister.",
+     "Alleen op uitnodiging; register, btw-nummer en sanctielijsten gecontroleerd; een eerste waardering op basis van de vragen van SELYVO.",
+     "Na elke afgeronde order volgen klantbeoordelingen, en de waardering van elke leverancier staat naast zijn offerte."
+    ],
+    "gtk": [
+     "Een uitnodiging werkt één keer, 14 dagen lang, en alleen voor het e-mailadres waarnaar ze is gestuurd.",
+     "Elk dossier bewaart zijn historie: wie wat heeft gewijzigd, en wanneer.",
+     "Vertrouwelijke gegevens blijven op de server: van een API-sleutel zie je alleen het begin en het einde."
+    ]
+   },
+   "c": {
+    "title": "Know who you deal with, and keep proof of what was agreed.",
+    "lede": "Every business on SELYVO is invited by a member, found in its register, checked and qualified before it trades. Every record keeps its history: who did what, and when.",
+    "screen": "register",
+    "screenUrl": "market.selyvo.com/#/join",
+    "rows": []
+   },
+   "d": {
+    "title": "Weet met wie je zakendoet.",
+    "sub": "Elk bedrijf wordt uitgenodigd, teruggevonden in zijn register, gecontroleerd en gekwalificeerd voordat het handelt. Elk dossier bewaart zijn historie.",
+    "heroShot": "register",
+    "heroUrl": "market.selyvo.com/#/join"
+   }
+  },
+  "operating-layer": {
+   "title": "SELYVO Core — de operationele laag voor je eigen processen",
+   "description": "Voor organisaties met eigen processen: leveranciersbeheer, vragenlijsten, catalogi en goedkeuringsprocessen met AI-controles, naast SELYVO Market.",
+   "hero": {
+    "eyebrow": "SELYVO Core · optioneel",
+    "title": "Je eigen processen, op hetzelfde fundament als de Market.",
+    "lede": "SELYVO Core geeft grotere organisaties een eigen werkomgeving: leveranciers met hun risico’s en prestaties, vragenlijsten, catalogi en processtromen met AI-controles, gekoppeld aan SELYVO Market en aan de systemen die je al gebruikt.",
+    "shot": "Het leveranciersdashboard in SELYVO Core: actieve, voorkeurs- en risicoleveranciers, leveranciers in onboarding, en elk verzoek om er een toe te voegen."
+   },
+   "features": {
+    "title": "Wat SELYVO Core toevoegt",
+    "items": [
+     [
+      "Leveranciersdashboard",
+      "Actieve, voorkeurs- en risicoleveranciers en leveranciers in onboarding, met de KPI’s die jij kiest, en elk verzoek om een leverancier toe te voegen in één wachtrij."
+     ],
+     [
+      "Vragenlijsten",
+      "Herbruikbare vragensets voor onboarding, beoordeling en ESG, door leveranciers beantwoord met bewijsstukken en gescoord."
+     ],
+     [
+      "Aanvragen en bestellen",
+      "Een catalogus voor medewerkers met voorkeursartikelen, bundels en budgetten per kostenplaats. Aanvragen stromen door naar goedkeuring."
+     ],
+     [
+      "Processen met AI-controles",
+      "Goedkeuringsprocessen waarin een AI-controle een leverancier of document toetst, met als uitkomst ‘voldoet’, ‘voldoet niet’ of ‘beoordeling nodig’. Een mens beslist."
+     ],
+     [
+      "Past in je IT-landschap",
+      "Gebruik het als geïntegreerde SELYVO-modules, of als één geharmoniseerde interface bovenop de ERP-, CRM- en inkoopsystemen die je behoudt."
+     ],
+     [
+      "Geconfigureerd, niet geprogrammeerd",
+      "Elke limiet en drempel wordt ingesteld door je beheerders. Niets ligt vast in de code."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Eén operationeel model",
+    "steps": [
+     [
+      "Vastleggen",
+      "Aanvragen, documenten en gegevens komen één keer binnen."
+     ],
+     [
+      "Begrijpen",
+      "AI leest, controleert en classificeert ze."
+     ],
+     [
+      "Uitvoeren",
+      "Processen sturen het werk."
+     ],
+     [
+      "Beheersen",
+      "Goedkeuringen en regels houden het binnen de perken."
+     ],
+     [
+      "Verbeteren",
+      "KPI’s laten zien waar je moet ingrijpen."
+     ]
+    ]
+   },
+   "shots": [
+    "Het leveranciersdashboard, met de KPI’s die jij kiest.",
+    "Vragenlijsten voor onboarding, beoordeling en ESG.",
+    "Aanvragen en bestellen: de catalogus voor medewerkers.",
+    "Een proces met een AI-controle als goedkeuringsstap."
+   ],
+   "faq": [
+    [
+     "Hebben we SELYVO Core nodig om de Market te gebruiken?",
+     "Nee. SELYVO Market werkt zelfstandig. Core is voor organisaties die hun eigen processen en werkomgeving willen."
+    ],
+    [
+     "Kan Core naast ons ERP draaien?",
+     "Ja. Het kan het systeem zijn waarin het werk gebeurt, of één interface bovenop de systemen die je behoudt."
+    ],
+    [
+     "Hoe beginnen we?",
+     "Met één proces, zoals onboarding van leveranciers of inkoop door medewerkers, met een meting vooraf en achteraf."
+    ]
+   ],
+   "related": [
+    "buy",
+    "trust",
+    "invoices"
+   ],
+   "b": {
+    "pillars": [
+     "Je eigen werkomgeving voor leveranciers, vragenlijsten, catalogi en goedkeuringsprocessen.",
+     "Vragenlijsten met bewijsstukken, versies en goedkeuringen — elk antwoord bewaard.",
+     "Gekoppeld aan de Market: profielen, aanvragen en orders in beide richtingen gesynchroniseerd."
+    ],
+    "gtk": [
+     "SELYVO Core koppel je aan de Market onder Gekoppelde systemen.",
+     "Vragenlijsten uit SELYVO Core bereiken je leveranciers op de Market.",
+     "Core werkt naast de systemen die je al gebruikt."
+    ]
+   },
+   "c": {
+    "title": "Your own processes, on the same foundation as the Market.",
+    "lede": "SELYVO Core gives larger organisations their own workspace: suppliers with risk and performance, questionnaires, catalogues and process flows with AI checks, connected to SELYVO Market and to the systems you already run.",
+    "screen": "core-suppliers",
+    "screenUrl": "SELYVO Core › Suppliers",
+    "rows": []
+   },
+   "d": {
+    "title": "Je eigen processen. Eén fundament.",
+    "sub": "SELYVO Core geeft grotere organisaties een eigen werkomgeving — leveranciers, vragenlijsten, catalogi en processtromen met AI-controles — gekoppeld aan SELYVO Market.",
+    "heroShot": "core-suppliers",
+    "heroUrl": "SELYVO Core › Suppliers"
+   }
+  },
+  "thank-you": {
+   "title": "Bedankt — SELYVO",
+   "description": "Bedankt voor je bericht aan SELYVO.",
+   "hero": {
+    "eyebrow": "Bericht verstuurd",
+    "title": "Bedankt. We hebben je bericht ontvangen.",
+    "lede": "We antwoorden per e-mail. Bekijk intussen de videohandleidingen of lees hoe aansluiten werkt."
+   },
+   "links": {
+    "videos": "Bekijk de videohandleidingen",
+    "join": "Zo sluit je aan",
+    "home": "Terug naar de homepage"
+   },
+   "b": {
+    "lede": "We antwoorden per e-mail. Bekijk intussen de rondleiding van vijf minuten of lees hoe aansluiten werkt."
+   }
+  }
+ }
+}

@@ -1,0 +1,289 @@
+{
+  "common": {
+    "b": {
+      "simple": "Prosto",
+      "compliant": "Rzetelnie",
+      "performing": "Skutecznie",
+      "gtk": "Warto wiedzieć",
+      "watchPart": "Obejrzyj tę część prezentacji",
+      "fromStart": "Obejrzyj od początku",
+      "chaptersLabel": "Rozdziały",
+      "tourNote": "Film jest po angielsku.",
+      "next": "Dalej",
+      "chapters": [
+        "Wstęp",
+        "Strona publiczna i dołączanie",
+        "Pulpit, aktualności i sklep",
+        "Sprzedaż i klienci",
+        "Zakupy i dostawcy",
+        "Zamówienia",
+        "Faktury, kontrola na SELYVO i płatności",
+        "Wydatki",
+        "Projekty",
+        "MailChat, oferty w sklepie i magazyn",
+        "Połączone systemy",
+        "Warto wiedzieć"
+      ],
+      "navTour": "Prezentacja w 5 minut",
+      "screensNote": "Ekrany są pokazane w wersji angielskiej. Sama aplikacja działa w siedmiu językach."
+    }
+  },
+  "pages": {
+    "index": {
+      "b": {
+        "pill": "Platforma B2B tylko na zaproszenie",
+        "title": [
+          "Prosto.",
+          "Rzetelnie.",
+          "Skutecznie."
+        ],
+        "lede": "SELYVO Market to najlepsze miejsce, w którym zweryfikowane firmy robią interesy. Kupuj, sprzedawaj, fakturuj i otrzymuj zapłatę na jednej platformie — od pierwszego zapytania po opłaconą fakturę.",
+        "cta2": "Obejrzyj 5-minutową prezentację",
+        "factLang": [
+          "7 języków",
+          "w aplikacji, każdy we własnym; ta strona w 15"
+        ],
+        "pillars": {
+          "eyebrow": "Dlaczego SELYVO Market",
+          "title": "Trzy obietnice dotrzymane na każdym ekranie",
+          "lede": "Wszystko, co firma robi ze swoimi klientami i dostawcami — prosto, rzetelnie i skutecznie.",
+          "simple": {
+            "lead": "Jedno miejsce na całą transakcję",
+            "text": "Każdy dokument powstaje z poprzedniego: zapytanie staje się ofertą, zamówieniem, dostawą i fakturą. Nic nie jest wpisywane dwa razy, a obie strony widzą ten sam zapis.",
+            "points": [
+              "Na pulpicie to, co na ciebie czeka, z kolejnym krokiem",
+              "Jedna kasa dla całego koszyka",
+              "W przeglądarce na komputerze, tablecie lub telefonie"
+            ],
+            "gtk": "Przycisk po prawej stronie każdej zakładki pokazuje, co utworzy, a jego strzałka oferuje pozostałe opcje."
+          },
+          "compliant": {
+            "lead": "Każda firma prawdziwa, każda faktura rzetelna",
+            "text": "Członkowie dołączają na zaproszenie, a zanim zaczną handlować, zostają odnalezieni w rejestrze przedsiębiorców, sprawdzeni pod kątem list sankcyjnych i zakwalifikowani. Faktury są zgodne z przepisami każdego kraju.",
+            "points": [
+              "Sprawdzanie rejestru przedsiębiorców, numeru VAT i list sankcyjnych",
+              "VAT, odwrotne obciążenie i wymagane adnotacje według kraju",
+              "Każda otrzymana faktura sprawdzana pod kątem przepisów i zgodności z zamówieniem"
+            ],
+            "gtk": "Zaproszenie jest jednorazowe, ważne 14 dni i tylko dla adresu e-mail, na który zostało wysłane."
+          },
+          "performing": {
+            "lead": "Lepsze ceny, szybsza zapłata, mniej pracy",
+            "text": "Oferty porównywane pozycja po pozycji, AI, która czyta dokumenty za ciebie, i płatności prosto na twoje własne konta — więc kupujesz korzystniej, sprzedajesz więcej i szybciej otrzymujesz zapłatę.",
+            "points": [
+              "Oferty obok siebie, według części i pozycji",
+              "AI znajduje dostawców i potencjalnych klientów, odczytuje pliki, faktury i e-maile",
+              "Płatności kartą przez Stripe; przelewy dopasowane na twoim własnym koncie Revolut Business"
+            ],
+            "gtk": "AI pokazuje, ile to będzie kosztować, zanim zacznie działać — i nic nie zostanie wysłane ani uzgodnione, dopóki nie zdecyduje człowiek."
+          }
+        },
+        "process": {
+          "eyebrow": "Jak to działa",
+          "title": "Od pomysłu do opłaconej faktury",
+          "lede": "Siedem kroków, jeden ślad. Tak przebiega zakup na SELYVO Market — na prawdziwych ekranach.",
+          "steps": [
+            {
+              "title": "Pomysł staje się zapytaniem",
+              "text": "Opisz, czego potrzebujesz, albo wrzuć specyfikację, dokumentację przetargową lub przedmiar: AI uzupełni tytuł, kategorię, pozycje, dostawę i budżet — ty wybierasz, co zachować.",
+              "gtk": "Zapytanie może najpierw poprosić dostawców o wypełnienie kwestionariusza.",
+              "alt": "Nowe zapytanie na SELYVO Market: czego potrzebuje twoja firma?"
+            },
+            {
+              "title": "Właściwi, zweryfikowani dostawcy",
+              "text": "Zaproś własnych dostawców, firmy, które już są na SELYVO, albo pozwól AI znaleźć kolejnych — każdy z oceną, kategoriami i obszarem dostaw.",
+              "gtk": "Zanim AI zacznie szukać, przycisk pokazuje, ile to będzie kosztować: ok. 0,60 EUR.",
+              "alt": "Dostawcy znalezieni przez AI do zapytania — każdego możesz sprawdzić i zaprosić"
+            },
+            {
+              "title": "Oferty obok siebie",
+              "text": "Każdy dostawca odpowiada na SELYVO. Widzisz, kto wyśle ofertę, porównujesz oferty pozycja po pozycji i wybierasz najlepszą.",
+              "gtk": "Dostawcy znalezieni przez AI dostają zaproszenie e-mailem i mogą dołączyć do SELYVO, aby wysłać ofertę.",
+              "alt": "Zapytanie przyjmujące oferty: kto wyśle ofertę, i dwie oferty do porównania"
+            },
+            {
+              "title": "Zamówienie",
+              "text": "Oferta, którą przyjmiesz, staje się zamówieniem zakupu. Dostawca je przyjmuje, a obie strony śledzą wspólny status: otwarte, do odbioru, odebrane, zafakturowane, opłacone.",
+              "gtk": "Każdy dostawca decyduje, jak otrzymuje zapłatę: z góry kartą lub na fakturę po dostawie.",
+              "alt": "Zamówienia: każde zamówienie zakupu wraz ze statusem, przyjęciem towaru i fakturą"
+            },
+            {
+              "title": "Dostarczone i odebrane",
+              "text": "Z towarem przychodzi dowód dostawy. Potwierdzasz, co dotarło — w całości lub w części — a zamówienie samo przechodzi dalej; towary magazynowe same trafiają na stan.",
+              "gtk": "Coś jest nie tak? Zaznacz to na dowodzie dostawy, a dostawca od razu się o tym dowie.",
+              "alt": "Potwierdzanie na dowodzie dostawy tego, co dotarło"
+            },
+            {
+              "title": "Faktura sprawdzona na SELYVO",
+              "text": "Dostawca wystawia fakturę z zamówienia. Zanim ktokolwiek na nią spojrzy, SELYVO sprawdza wszystkie elementy wymagane przepisami, twoje dane i każdą pozycję względem zamówienia oraz tego, co dotarło.",
+              "gtk": "Jeśli tak zdecydujesz, faktura, która nie przejdzie kontroli, sama wraca do dostawcy z informacją, co poprawić.",
+              "alt": "Faktura sprawdzona na SELYVO: jedna pozycja spoza zamówienia — zwrócona dostawcy"
+            },
+            {
+              "title": "Opłacone i rozliczone",
+              "text": "Płać zatwierdzone faktury bezpośrednio z własnego konta Revolut Business — w terminie płatności lub od razu. Gdy pieniądze dotrą, obie strony widzą fakturę jako opłaconą.",
+              "gtk": "Płatności w ramach ustalonego przez ciebie limitu wychodzą od razu; wyższe czekają na twoich zatwierdzających w Revolut Business.",
+              "alt": "Zatwierdzone faktury opłacone z konta Revolut Business"
+            }
+          ]
+        },
+        "compare": {
+          "eyebrow": "Najlepsze miejsce dla biznesu",
+          "title": "Mniej ponaglania. Więcej interesów.",
+          "lede": "Co się zmienia, gdy twoi klienci i dostawcy są na SELYVO Market.",
+          "without": "Bez SELYVO",
+          "with": "Z SELYVO Market",
+          "rows": [
+            [
+              "Szukanie dostawców",
+              "Szukanie, rozpytywanie, czekanie na odpowiedzi",
+              "Zweryfikowani dostawcy według kategorii — lub znalezieni przez AI, każdy z oceną"
+            ],
+            [
+              "Oferty",
+              "Załączniki w każdym formacie, porównywane ręcznie",
+              "Oferty obok siebie, według części i pozycji"
+            ],
+            [
+              "Zamówienia",
+              "Przepisywane ręcznie, potem monitowane e-mailem",
+              "Przyjęta oferta staje się zamówieniem — jeden status dla obu stron"
+            ],
+            [
+              "Faktury",
+              "Sprawdzane ręcznie względem zamówienia",
+              "Sprawdzane na SELYVO pod kątem przepisów i zgodności z zamówieniem, a błędne — jeśli tak zdecydujesz — same wracają do dostawcy"
+            ],
+            [
+              "Wpływy",
+              "Monity i ręczne dopasowywanie przelewów",
+              "Płatności kartą i przelewy dopasowane na twoim własnym koncie Revolut Business"
+            ]
+          ]
+        },
+        "gtk": {
+          "title": "Szczegóły, które codziennie oszczędzają czas",
+          "lede": "Drobiazgi, które członkowie zauważają już pierwszego dnia — i z których cieszą się każdego kolejnego.",
+          "items": [
+            "Zakładki dopasowują się do tego, czym się zajmujesz — zakupy, sprzedaż, księgowość, projekty — zgodnie z twoim wyborem w Preferencjach.",
+            "Przycisk po prawej zawsze pokazuje, co utworzy, a jego strzałka oferuje pozostałe opcje.",
+            "Pulpit na twoją miarę: twoja rola, twój styl — codzienna praca, wyniki lub planowanie.",
+            "AI pokazuje swój koszt, zanim zacznie działać, i nic nie zostanie wysłane, uzgodnione ani zaksięgowane, dopóki nie zdecyduje człowiek.",
+            "Każdy dostawca decyduje, jak otrzymuje zapłatę: z góry kartą lub na fakturę po dostawie.",
+            "Każda faktura ma VAT według kraju, adnotacje wymagane przepisami, a do tego swój PDF i plik ISDOC.",
+            "Twoja firma dostaje własny adres e-mail w SELYVO: AI odczytuje zamówienia oraz faktury z e-maili i przygotowuje je dla ciebie.",
+            "Wkrótce: negocjator AI, transport i magazynowanie, analityka, dokumenty i podpisywanie."
+          ]
+        },
+        "video": {
+          "eyebrow": "Wideo",
+          "title": "Poznaj SELYVO Market w pięć minut",
+          "lede": "Każda część platformy na ekranach samej aplikacji. Obejrzyj całość albo przejdź do części, której potrzebujesz."
+        }
+      }
+    },
+    "spend-control": {
+      "b": {
+        "pillars": [
+          "Zapytanie w pięciu krokach — wpisane ręcznie lub odczytane przez AI z twojej specyfikacji.",
+          "Tylko zweryfikowani dostawcy, każdy z oceną; wszyscy, którzy złożyli ofertę, dowiadują się o każdej zmianie.",
+          "Oferty porównywane pozycja po pozycji i według części; najlepsza jednym kliknięciem staje się zamówieniem."
+        ],
+        "gtk": [
+          "Zanim AI zacznie szukać dostawców, przycisk pokazuje, ile to będzie kosztować.",
+          "Dostawcy znalezieni przez AI dostają zaproszenie e-mailem i mogą dołączyć do SELYVO, aby wysłać ofertę.",
+          "Termin składania ofert ustalasz ty — w każdej chwili możesz go przesunąć lub zakończyć przyjmowanie ofert."
+        ]
+      }
+    },
+    "revenue-acceleration": {
+      "b": {
+        "pillars": [
+          "Twój lejek sprzedaży według etapów i twoje transakcje na jednej liście, każda z kolejnym krokiem.",
+          "Sprzedajesz wyłącznie zweryfikowanym firmom — odnalezionym w rejestrze i sprawdzonym, zanim zaczną handlować.",
+          "Nowe leady od twoich klientów, nowych firm lub tych, które znajdzie AI; oferty kierowane; oferty ze sklepu promowane w aktualnościach kupujących."
+        ],
+        "gtk": [
+          "Transakcja sama przechodzi dalej, gdy napływają zapytania, oferty i zamówienia.",
+          "Nowy lead ma trzy źródła: twój klient, nowy klient lub potencjalni klienci, których znajdzie AI.",
+          "Każda oferta w sklepie pokazuje swoje przychody i marżę."
+        ]
+      }
+    },
+    "inventory-control": {
+      "b": {
+        "pillars": [
+          "Zamówienia zakupu i sprzedaży na jednej liście: otwarte, do odbioru, odebrane, do zafakturowania.",
+          "Potwierdzony przez ciebie dowód dostawy to twoje przyjęcie towaru, zapisane przy zamówieniu.",
+          "Dostawy częściowe, a każdy kolejny dowód dostawy proponuje tylko to, co zostało; faktura następuje po przyjęciu towaru."
+        ],
+        "gtk": [
+          "Coś nie tak z dostawą? Zaznacz to na dowodzie dostawy — dostawca od razu się o tym dowie.",
+          "Towary magazynowe same trafiają na stan, gdy potwierdzisz, co dotarło.",
+          "To, czego zaczyna brakować, jednym kliknięciem wraca do koszyka."
+        ]
+      }
+    },
+    "finance-administration": {
+      "b": {
+        "pillars": [
+          "Faktury z zamówień w mgnieniu oka; otrzymane faktury AI odczytuje z pliku lub z twojej skrzynki.",
+          "VAT, odwrotne obciążenie i wymagane adnotacje według kraju; każda otrzymana faktura sprawdzona na SELYVO.",
+          "Płatności kartą przez Stripe i przelewy dopasowane na twoim własnym koncie Revolut Business."
+        ],
+        "gtk": [
+          "Faktura, która nie przejdzie kontroli, może sama wrócić do dostawcy z informacją, co poprawić.",
+          "Każdy e-mail z fakturą zawiera jej PDF i plik ISDOC.",
+          "Płatności w ramach twojego limitu wychodzą od razu; wyższe czekają na twoich zatwierdzających w Revolut Business."
+        ]
+      }
+    },
+    "operational-scale": {
+      "b": {
+        "pillars": [
+          "Karty czasu pracy tydzień po tygodniu, wydatki ze zdjęcia paragonu i jedna faktura za całość.",
+          "Własne zasady każdego klienta: zatwierdzane przed fakturą, dołączane do niej lub niewymagane.",
+          "Budżet projektu sam się wylicza — kwoty zaangażowane, wydane i zafakturowane — wraz z prognozą na koniec projektu."
+        ],
+        "gtk": [
+          "To, ile VAT od wydatku można odliczyć, zależy od przepisów twojego kraju.",
+          "Czas własny — przedsprzedaż, przygotowanie ofert, szkolenia — jest liczony według stawek wewnętrznych i nigdy nie trafia do klienta.",
+          "MailChat daje twojej firmie własny adres e-mail w SELYVO."
+        ]
+      }
+    },
+    "compliance-by-design": {
+      "b": {
+        "pillars": [
+          "Dołączenie to kilka kroków: dane twojej firmy pochodzą z rejestru przedsiębiorców.",
+          "Tylko na zaproszenie; sprawdzanie rejestru, numeru VAT i list sankcyjnych; pierwsza ocena na podstawie pytań SELYVO.",
+          "Opinie klientów pojawiają się po każdym zrealizowanym zamówieniu, a ocena każdego dostawcy widnieje obok jego oferty."
+        ],
+        "gtk": [
+          "Zaproszenie jest jednorazowe, ważne 14 dni i tylko dla adresu e-mail, na który zostało wysłane.",
+          "Każdy zapis zachowuje swoją historię: kto, co i kiedy zmienił.",
+          "Poufne dane zostają na serwerze: z klucza API widać tylko jego początek i koniec."
+        ]
+      }
+    },
+    "operating-layer": {
+      "b": {
+        "pillars": [
+          "Własna przestrzeń robocza dla dostawców, kwestionariuszy, katalogów i ścieżek akceptacji.",
+          "Kwestionariusze z dowodami, wersjami i akceptacjami — każda odpowiedź zostaje zachowana.",
+          "Połączenie z SELYVO Market: profile, zapytania i zamówienia synchronizowane w obu kierunkach."
+        ],
+        "gtk": [
+          "SELYVO Core łączy się z SELYVO Market w sekcji Połączone systemy.",
+          "Kwestionariusze z SELYVO Core docierają do twoich dostawców na SELYVO Market.",
+          "Core działa obok systemów, których już używasz."
+        ]
+      }
+    },
+    "thank-you": {
+      "b": {
+        "lede": "Odpowiemy e-mailem. W międzyczasie obejrzyj pięciominutową prezentację lub przeczytaj, jak dołączyć."
+      }
+    }
+  }
+}

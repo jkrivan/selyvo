@@ -1,0 +1,600 @@
+{
+ "common": {
+  "c": {
+   "nav": {
+    "sell": "Prodej",
+    "buy": "Nákup",
+    "projects": "Projekty",
+    "finance": "Finance",
+    "trust": "Důvěra",
+    "tour": "Prohlídka za 5 min",
+    "orders": "Objednávky a dodávky",
+    "core": "SELYVO Core",
+    "functions": "Tržiště"
+   },
+   "fn": {
+    "sell": {
+     "name": "Prodej"
+    },
+    "buy": {
+     "name": "Nákup"
+    },
+    "projects": {
+     "name": "Projekty"
+    },
+    "finance": {
+     "name": "Finance"
+    }
+   },
+   "steps": {
+    "sell": [
+     [
+      "Zájemce",
+      "Nový zájem"
+     ],
+     [
+      "Příležitost",
+      "Poptávky a dotazy"
+     ],
+     [
+      "Návrh",
+      "Nabídka odeslána"
+     ],
+     [
+      "Vyjednávání",
+      "Reakce a protinabídky"
+     ],
+     [
+      "Uzavřeno",
+      "Zapsaná výhra či prohra"
+     ]
+    ],
+    "buy": [
+     [
+      "Poptávka",
+      "Zadaná ručně či přečtená AI"
+     ],
+     [
+      "Dodavatelé",
+      "Pozvaní či nalezení AI"
+     ],
+     [
+      "Nabídky",
+      "Do termínu, který určíte"
+     ],
+     [
+      "Zadání",
+      "Nejlepší nabídka na část"
+     ],
+     [
+      "Objednávka",
+      "Odeslaná a přijatá"
+     ]
+    ],
+    "projects": [
+     [
+      "Plánováno",
+      "Milníky a rozpočet"
+     ],
+     [
+      "Probíhá",
+      "Čas, náklady, nákupy"
+     ],
+     [
+      "Akceptováno",
+      "Zákazníkem"
+     ],
+     [
+      "Vyfakturováno",
+      "Na příští faktuře"
+     ]
+    ],
+    "finance": [
+     [
+      "Přijato",
+      "E-mail, soubor nebo SELYVO"
+     ],
+     [
+      "Zkontrolováno",
+      "Na SELYVO podle zákona a objednávky"
+     ],
+     [
+      "Schváleno",
+      "Vámi"
+     ],
+     [
+      "Zaplaceno",
+      "Kartou nebo převodem"
+     ]
+    ],
+    "orders": [
+     [
+      "Objednáno",
+      "Objednávka zadána"
+     ],
+     [
+      "Přijato",
+      "Dodavatelem"
+     ],
+     [
+      "Dodáno",
+      "S dodacím listem"
+     ],
+     [
+      "Převzato",
+      "Potvrzeno vámi"
+     ],
+     [
+      "Vyfakturováno",
+      "Po převzetí"
+     ],
+     [
+      "Zaplaceno",
+      "V den splatnosti"
+     ]
+    ],
+    "trust": [
+     [
+      "Pozvánka",
+      "Od člena"
+     ],
+     [
+      "Rejstřík",
+      "Nalezena a potvrzena"
+     ],
+     [
+      "Kontroly",
+      "DIČ a sankce"
+     ],
+     [
+      "Kvalifikace",
+      "Otázky SELYVO"
+     ],
+     [
+      "Hodnocení",
+      "Od zákazníků po objednávkách"
+     ]
+    ]
+   },
+   "gtk": "Dobré vědět"
+  },
+  "d": {
+   "learn": "Zjistit víc",
+   "how": "Jak to funguje",
+   "watch": "Přehrát prohlídku",
+   "local": {
+    "overview": "Přehled",
+    "how": "Jak to funguje",
+    "features": "Funkce",
+    "faq": "Otázky"
+   },
+   "fn": {
+    "sell": {
+     "line": "Získejte zákazníky mezi ověřenými firmami."
+    },
+    "buy": {
+     "line": "Správná nabídka od dodavatelů, kterým můžete věřit."
+    },
+    "projects": {
+     "line": "Odveďte práci. Rozpočet mějte na očích."
+    },
+    "finance": {
+     "line": "Fakturujte, kontrolujte a přijímejte platby – s menší námahou."
+    }
+   },
+   "stepWord": "Krok",
+   "scrollHint": "Posouvejte a sledujte krok za krokem",
+   "others": "Další oblasti tržiště.",
+   "gtkTitle": "Dobré vědět."
+  },
+  "e": {
+   "eyebrow": "Video",
+   "title": "Podívejte se, jak to funguje.",
+   "sub": "Krátká videa natočená na skutečných obrazovkách tržiště. Vyberte si jedno a přeskočte na krok, který potřebujete.",
+   "homeTitle": "SELYVO Market v akci.",
+   "homeSub": "Pětiminutová prohlídka celého tržiště a krátká videa, každé o jednom úkolu – natočená na jeho skutečných obrazovkách.",
+   "nowPlaying": "Právě se přehrává",
+   "guideWord": "Návod",
+   "tourWord": "Prohlídka",
+   "fromWord": "od",
+   "watch": "Přehrát video",
+   "localVideo": "Video",
+   "seenHint": "Vyberte krok, který chcete vidět znovu",
+   "guides": {
+    "sales": {
+     "title": "Od prvního rozhovoru po výhru",
+     "text": "Prodej na SELYVO Market: nový zájemce v pěti krocích, případ v Prodeji i jako formulář a jak se posouvá od fáze „Zájemce“ po „Uzavřeno“.",
+     "chapters": [
+      "Úvod",
+      "Prodej: všechny případy",
+      "Nový zájemce",
+      "Z obchodního rejstříku",
+      "S kým jste mluvili",
+      "Jakou má hodnotu",
+      "Další krok",
+      "Uložit a pozvat",
+      "Případ v Prodeji",
+      "Případ jako formulář",
+      "Posouvá se sám",
+      "Dobré vědět"
+     ]
+    },
+    "buying": {
+     "chapters": [
+      "Úvod",
+      "Vyplněno ze souboru",
+      "Části a kdo může nabízet",
+      "Nabídky dorazily",
+      "Vyjednávání s AI",
+      "AI se nejdřív zeptá vás",
+      "Dohodnuto: schválíte vy",
+      "Zadání a objednávka",
+      "Dodavatel schválí",
+      "Dobré vědět"
+     ]
+    },
+    "requestai": {
+     "title": "Poptávka pro dodavatele nalezené pomocí AI",
+     "text": "Nákup na SELYVO Market: nová poptávka v pěti krocích – a dodavatelé, které ještě neznáte, nalezení pomocí AI, prověření a pozvaní e-mailem.",
+     "chapters": [
+      "Úvod",
+      "Rozsah",
+      "Položky",
+      "Dodání a rozpočet",
+      "Kdo může nabízet",
+      "Dodavatele najde AI",
+      "Prověřeni, pak pozváni",
+      "Zkontrolovat a zveřejnit",
+      "Přijímá nabídky",
+      "Dobré vědět"
+     ]
+    },
+    "receiving": {
+     "title": "Příjem objednaného zboží na sklad",
+     "text": "Objednávky na SELYVO Market: dodací list od dodavatele, potvrzení toho, co dorazilo – a váš sklad, který se aktualizuje sám.",
+     "chapters": [
+      "Úvod",
+      "Stav každé objednávky",
+      "„Převzato“ čeká na vás",
+      "Potvrdit, co dorazilo",
+      "Naskladnit",
+      "Sklad: co používáte",
+      "Historie položky",
+      "Dobré vědět"
+     ]
+    },
+    "freelancer": {
+     "chapters": [
+      "Úvod",
+      "Týden po týdnu",
+      "Výkazy práce po zákaznících",
+      "Pravidla určuje objednávka",
+      "Výdaje z účtenky",
+      "Jedna faktura za obojí",
+      "Vystavit fakturu",
+      "Dobré vědět"
+     ]
+    }
+   },
+   "note": "Toto video je v angličtině."
+  }
+ },
+ "pages": {
+  "index": {
+   "c": {
+    "processShort": [
+     "Poptávka",
+     "Dodavatelé",
+     "Nabídky",
+     "Objednávka",
+     "Převzato",
+     "Zkontrolováno",
+     "Zaplaceno"
+    ]
+   },
+   "d": {
+    "eyebrow": "SELYVO Market",
+    "title": "Prodej. Nákup. Projekty. Finance.",
+    "sub": "Jedno tržiště pro to všechno – jen s ověřenými firmami.",
+    "heroAlt": "Domovská stránka SELYVO Market: co na vás dnes čeká, váš zůstatek, uzávěrky nabídek a vaše obchodní síť",
+    "story": {
+     "eyebrow": "Jak to funguje",
+     "title": "Od nápadu k zaplacené faktuře.",
+     "sub": "Sedm kroků, jeden záznam. Projděte si nákup na SELYVO Market – na skutečných obrazovkách."
+    },
+    "verified": {
+     "eyebrow": "Jen ověřené firmy",
+     "title": "Každá firma. Prověřená.",
+     "sub": "Na SELYVO vás přivede pozvánka. Každá firma je dohledána v obchodním rejstříku, má ověřené DIČ, je prověřena v sankčních seznamech a před prvním obchodem odpoví na otázky SELYVO.",
+     "kpis": [
+      [
+       3,
+       "kontroly",
+       "než firma může obchodovat"
+      ],
+      [
+       1,
+       "záznam",
+       "který vidí kupující i dodavatel"
+      ],
+      [
+       2,
+       "způsoby platby",
+       "předem kartou, nebo na fakturu"
+      ]
+     ],
+     "more": "Jak funguje důvěra"
+    },
+    "gtkSub": "Detaily, kterých si členové všimnou hned první den – a těší je pak každý další.",
+    "invite": {
+     "title": "Jen na pozvání.",
+     "sub": "Každou firmu na SELYVO zná alespoň jedna další. Požádejte zákazníka nebo dodavatele, který je členem, aby vás pozval – nebo nám napište."
+    }
+   }
+  },
+  "spend-control": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Poptávky",
+      "title": "Nabídky přicházejí přímo k poptávce",
+      "text": "Sledujte, kdo pošle nabídku a kdo zatím neodpověděl, odložte uzávěrku nebo ukončete příjem nabídek a pak porovnejte, co přišlo.",
+      "points": [
+       "Dodavatelé dají vědět, zda pošlou nabídku",
+       "O každé změně se dozví všichni, kdo poslali nabídku",
+       "Porovnání po částech, nabídkách nebo položkách"
+      ]
+     },
+     {
+      "eyebrow": "Dodavatelé",
+      "title": "Dodavatelé, kterým můžete věřit",
+      "text": "Každý dodavatel na SELYVO je ověřený a hodnocený. Najděte je podle kategorie a země, uložte si je a jedním kliknutím je požádejte o nabídku.",
+      "points": [
+       "Jen ověření dodavatelé, každý s hodnocením",
+       "Vaši vlastní dodavatelé, pozvaní na SELYVO",
+       "Požádejte o nabídku přímo z karty dodavatele"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Nakupujte od dodavatelů, kterým můžete věřit.",
+    "sub": "Popište, co potřebujete, porovnejte nabídky ověřených dodavatelů po položkách a odešlete objednávku – každý krok zůstává zaznamenán.",
+    "story": {
+     "title": "Od potřeby ke schválené objednávce.",
+     "sub": "Poptávka, která přinese nabídky, a objednávka, která po ní následuje.",
+     "steps": [
+      {
+       "title": "Popište, co potřebujete.",
+       "text": "Napište to, nebo přetáhněte specifikaci, zadávací dokumentaci či výkaz výměr – AI vyplní název, kategorii, položky, dodání i rozpočet."
+      },
+      {
+       "title": "Určete, kdo může nabízet.",
+       "text": "Vaši vlastní dodavatelé, firmy na SELYVO, nebo další, které najde AI. Než AI začne hledat, tlačítko ukáže, kolik to bude stát: asi 0,60 EUR."
+      },
+      {
+       "title": "Přicházejí nabídky.",
+       "text": "Každý dodavatel dá vědět, zda pošle nabídku, a nabídky přicházejí k poptávce do termínu, který určíte."
+      },
+      {
+       "title": "Vyberte tu nejlepší.",
+       "text": "Porovnejte nabídky po položkách nebo po částech a zadejte tu nejlepší."
+      },
+      {
+       "title": "Objednávka odchází.",
+       "text": "Z nabídky, kterou přijmete, se stane nákupní objednávka. Obě strany ji sledují až k dodání a faktuře."
+      }
+     ]
+    }
+   }
+  },
+  "revenue-acceleration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Katalog",
+      "title": "Co prodáváte – a kolik to vydělává",
+      "text": "Produkty a služby se členskými cenami, fotografiemi a vlastní stránkou. U každé nabídky v katalogu vidíte její tržby a marži a můžete ji propagovat ve feedech kupujících.",
+      "points": [
+       "Ceny podle množství, nebo minimální objednávka",
+       "Označené koncepty a nabídky bez fotografií",
+       "Propagace ve feedech kupujících, na které cílíte"
+      ]
+     },
+     {
+      "eyebrow": "Zákazníci",
+      "title": "Vaši zákazníci – i ti, kterým byste mohli prodávat",
+      "text": "Firmy, které od vás nakupují, a kupující na SELYVO ve vašich kategoriích. Těm, které si vyberete, pošlete cílenou nabídku.",
+      "points": [
+       "Filtrujte podle kategorie, země a týmu",
+       "Co který zákazník koupil a kdy",
+       "Cílené nabídky vybraným zákazníkům – a kdo si je prohlédl"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Prodávejte ověřeným kupujícím.",
+    "sub": "Nabídněte, co prodáváte, odpovídejte na poptávky ve svých kategoriích a sledujte každý případ od prvního kontaktu až po výsledek.",
+    "story": {
+     "title": "Od prvního kontaktu k jasnému výsledku.",
+     "sub": "Každý případ prochází obchodním trychtýřem, který vidíte v Prodeji.",
+     "steps": [
+      {
+       "title": "Přichází zájemce.",
+       "text": "Od vašeho zákazníka, od nové firmy na SELYVO nebo z potenciálních zákazníků, které najde AI. Každý zájemce otevře případ i s dalším krokem."
+      },
+      {
+       "title": "Přijde poptávka.",
+       "text": "Poptávky a dotazy ve vašich kategoriích promění zájem v příležitost – případ se sám posune dál."
+      },
+      {
+       "title": "Odchází vaše nabídka.",
+       "text": "Odpovězte na poptávku nabídkou, nebo pošlete cílenou nabídku zákazníkům, které si vyberete."
+      },
+      {
+       "title": "Dohodnete podmínky.",
+       "text": "Reakce i protinabídky zůstávají u případu a obě strany vidí stejný záznam."
+      },
+      {
+       "title": "Vyhráno či prohráno – zapsáno.",
+       "text": "Každý případ skončí jasným výsledkem a vaše konverze i úspěšnost se spočítají samy."
+      }
+     ]
+    }
+   }
+  },
+  "inventory-control": {
+   "d": {
+    "title": "Každá objednávka od přijetí po zaplacení.",
+    "sub": "Jedna objednávka, jedna časová osa, stejný záznam pro obě strany – v případě potřeby po částech.",
+    "story": {
+     "title": "Víte, jak na tom je. Vždy.",
+     "sub": "Objednávka prochází stejnými kroky, jaké u ní vidíte na SELYVO.",
+     "steps": [
+      {
+       "title": "Objednávka je zadána.",
+       "text": "Z přijaté nabídky, nebo rovnou z katalogu. Obě strany vidí stejnou objednávku."
+      },
+      {
+       "title": "Dodavatel ji přijme.",
+       "text": "Dodavatel přijme objednávku i s termínem dodání."
+      },
+      {
+       "title": "Dodáno, s dodacím listem.",
+       "text": "Každá dodávka přichází se svým dodacím listem – v případě potřeby po částech."
+      },
+      {
+       "title": "Potvrdíte, co dorazilo.",
+       "text": "Vše, nebo jen část. Něco nesedí? Uveďte to na dodacím listu a dodavatel se to hned dozví."
+      },
+      {
+       "title": "Následuje faktura.",
+       "text": "Vystavená z objednávky po převzetí – a po doručení zkontrolovaná na SELYVO."
+      },
+      {
+       "title": "Zaplaceno v den splatnosti.",
+       "text": "Předem kartou, nebo na fakturu, jak rozhodne dodavatel – a obě strany vidí, že je zaplaceno."
+      }
+     ]
+    }
+   }
+  },
+  "finance-administration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Faktury",
+      "title": "Závazky, pohledávky a faktury po splatnosti v jednom seznamu",
+      "text": "Všechny faktury, které vystavíte i přijmete, se stavem a splatností. Otevřete kteroukoli a uvidíte její objednávku, položky i historii.",
+      "points": [
+       "Faktury e-mailem na invoice@market.selyvo.com, přečtené AI",
+       "Každý e-mail s fakturou obsahuje PDF i soubor ISDOC",
+       "Výdaje s účtenkami, přeúčtované dál"
+      ]
+     },
+     {
+      "eyebrow": "Propojené systémy",
+      "title": "Funguje se systémy, které už používáte",
+      "text": "Připojte své účetnictví nebo ERP a zvolte, co se má přenášet a jak často. Vaši zákazníci a dodavatelé připojují ty své stejně a každá výměna dat se zaznamenává.",
+      "points": [
+       "Profily, poptávky, objednávky, platby a zásoby, průběžně synchronizované",
+       "Jakýkoli další systém přes skladové API tržiště",
+       "Záznam každé výměny dat"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Fakturujte. Kontrolujte. Přijímejte platby.",
+    "sub": "Faktury vystavené z objednávek, každá přijatá faktura zkontrolovaná na SELYVO a platby z vašeho vlastního účtu.",
+    "story": {
+     "title": "Každá faktura zkontrolovaná, než se na ni kdo podívá.",
+     "sub": "Přijatá faktura – od doručení po zaplacení.",
+     "steps": [
+      {
+       "title": "Přijde faktura.",
+       "text": "E-mailem na invoice@market.selyvo.com, jako soubor, nebo na SELYVO – přečtená AI a přiřazená k příslušné firmě."
+      },
+      {
+       "title": "SELYVO ji zkontroluje.",
+       "text": "Všechny zákonné náležitosti, vaše údaje a každou položku proti objednávce i tomu, co jste převzali. Pokud to zvolíte, faktura, která kontrolou neprojde, se sama vrátí dodavateli."
+      },
+      {
+       "title": "Schválíte ji.",
+       "text": "Schválené faktury čekají na zaplacení, nejdřív ty s nejbližší splatností."
+      },
+      {
+       "title": "Zaplaceno z vašeho vlastního účtu.",
+       "text": "Plaťte ze svého účtu Revolut Business v den splatnosti, nebo ihned. Platby do vašeho limitu odcházejí okamžitě; nad ním čekají na vaše schvalovatele."
+      }
+     ]
+    }
+   }
+  },
+  "operational-scale": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Rozpočet",
+      "title": "Rozpočet, který se počítá sám",
+      "text": "Objednané, čerpané a vyfakturované částky vycházejí ze záznamů projektu – výkazů práce, nákupních objednávek, faktur a výdajů – včetně odhadu při dokončení.",
+      "points": [
+       "Každá částka dohledatelná až k záznamu",
+       "Milníky akceptované zákazníkem, pak vyfakturované",
+       "Práce vašich dodavatelů ve stejném projektu"
+      ]
+     },
+     {
+      "eyebrow": "MailChat",
+      "title": "E-maily a chaty v jednom seznamu",
+      "text": "Vaše firma dostane vlastní e-mailovou adresu SELYVO. E-maily i chaty se zákazníky a dodavateli máte v jednom seznamu a AI v nich rozpozná faktury, nabídky a objednávky.",
+      "points": [
+       "Složky a štítky: práce, zákazníci, fakturace",
+       "Chaty s partnery hned vedle jejich e-mailů",
+       "Objednávka či faktura v e-mailu, připravená jako doklad"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Projekty s rozpočtem na očích.",
+    "sub": "Milníky, tým, čas, výdaje a nákupy v jednom projektu. Rozpočet se počítá sám a zákazník projekt sleduje s vámi.",
+    "story": {
+     "title": "Plánujte. Pracujte. Fakturujte.",
+     "sub": "Projekt pro zákazníka – od milníků po fakturu.",
+     "steps": [
+      {
+       "title": "Naplánujte projekt.",
+       "text": "Milníky s částkami, tým a rozpočet – vaši lidé i vaši dodavatelé v jednom projektu."
+      },
+      {
+       "title": "Odveďte práci.",
+       "text": "Výkazy práce, výdaje a nákupy se do projektu zapisují průběžně, jak práce postupuje."
+      },
+      {
+       "title": "Zákazník akceptuje.",
+       "text": "Každý milník akceptuje zákazník, který projekt sleduje spolu s vámi."
+      },
+      {
+       "title": "Vyfakturujte.",
+       "text": "Akceptované milníky jdou na fakturu a rozpočet ukazuje, co je objednáno, čerpáno a vyfakturováno."
+      }
+     ]
+    }
+   }
+  },
+  "compliance-by-design": {
+   "d": {
+    "title": "Mějte jistotu, s kým obchodujete.",
+    "sub": "Každá firma je pozvaná, dohledaná v rejstříku, prověřená a kvalifikovaná dřív, než začne obchodovat. Každý záznam si uchovává svou historii."
+   }
+  },
+  "operating-layer": {
+   "d": {
+    "title": "Vaše vlastní procesy. Jeden základ.",
+    "sub": "SELYVO Core dává větším organizacím vlastní pracovní prostor – dodavatele, dotazníky, katalogy a procesní toky s kontrolami pomocí AI – propojený se SELYVO Market."
+   }
+  }
+ }
+}

@@ -1,0 +1,289 @@
+{
+  "common": {
+    "b": {
+      "simple": "Simplu",
+      "compliant": "Legal",
+      "performing": "Performant",
+      "gtk": "Bine de știut",
+      "watchPart": "Vizionați partea din prezentare",
+      "fromStart": "Vizionați de la început",
+      "chaptersLabel": "Capitole",
+      "tourNote": "Videoclipul este în limba engleză.",
+      "next": "Pasul următor",
+      "chapters": [
+        "Introducere",
+        "Pagina publică și aderarea",
+        "Acasă, fluxuri de noutăți și magazin",
+        "Vânzări și clienți",
+        "Achiziții și furnizori",
+        "Comenzi",
+        "Facturi, verificate la SELYVO, și plăți",
+        "Cheltuieli",
+        "Proiecte",
+        "MailChat, listări și stocuri",
+        "Sisteme conectate",
+        "Bine de știut"
+      ],
+      "navTour": "Prezentare de 5 min",
+      "screensNote": "Ecranele sunt afișate în limba engleză. Aplicația propriu-zisă funcționează în șapte limbi."
+    }
+  },
+  "pages": {
+    "index": {
+      "b": {
+        "pill": "Marketplace-ul B2B doar pe bază de invitație",
+        "title": [
+          "Simplu.",
+          "Legal.",
+          "Performant."
+        ],
+        "lede": "SELYVO Market este cel mai bun loc pentru afaceri între firme verificate. Cumpărați, vindeți, facturați și încasați pe o singură platformă — de la prima cerere până la factura plătită.",
+        "cta2": "Vizionați prezentarea de 5 min",
+        "factLang": [
+          "7 limbi",
+          "în aplicație, fiecare persoană în limba sa; acest site, în 15"
+        ],
+        "pillars": {
+          "eyebrow": "De ce SELYVO Market",
+          "title": "Trei promisiuni, respectate pe fiecare ecran",
+          "lede": "Tot ce face o firmă cu clienții și furnizorii săi — mai simplu, mereu conform legii și gândit să aducă rezultate.",
+          "simple": {
+            "lead": "Un singur loc pentru toată tranzacția",
+            "text": "Fiecare document se creează din cel dinainte: o cerere devine ofertă, comandă, livrare și factură. Nimic nu se tastează de două ori, iar ambele părți văd aceleași date.",
+            "points": [
+              "Ce vă solicită atenția, cu pasul următor, pe pagina Acasă",
+              "Tot coșul, comandat dintr-un singur pas",
+              "În browser, pe computer, tabletă sau telefon"
+            ],
+            "gtk": "Butonul din dreapta fiecărei file arată ce creează; săgeata lui deschide celelalte opțiuni."
+          },
+          "compliant": {
+            "lead": "Firme reale, facturi corecte",
+            "text": "Membrii aderă pe bază de invitație și, înainte să tranzacționeze, sunt găsiți în registrul comerțului, verificați în listele de sancțiuni și calificați. Facturile respectă legea fiecărei țări.",
+            "points": [
+              "Registrul comerțului, codul de TVA și listele de sancțiuni: toate verificate",
+              "TVA, taxare inversă și mențiunile legale ale fiecărei țări",
+              "Fiecare factură primită, verificată conform legii și corelată cu comanda"
+            ],
+            "gtk": "O invitație funcționează o singură dată, timp de 14 zile și doar pentru adresa de e-mail la care a fost trimisă."
+          },
+          "performing": {
+            "lead": "Prețuri mai bune, încasări mai rapide, mai puțină muncă",
+            "text": "Oferte comparate poziție cu poziție, IA care citește documentele în locul dumneavoastră și plăți direct în propriile conturi — ca să cumpărați mai bine, să vindeți mai mult și să încasați mai repede.",
+            "points": [
+              "Oferte una lângă alta, pe loturi și pe poziții",
+              "IA găsește furnizori și clienți potențiali și citește fișiere, facturi și e-mailuri",
+              "Plăți cu cardul prin Stripe; transferuri reconciliate în propriul cont Revolut Business"
+            ],
+            "gtk": "IA arată cât va costa înainte să pornească — și nimic nu este trimis sau convenit până nu decide o persoană."
+          }
+        },
+        "process": {
+          "eyebrow": "Cum funcționează",
+          "title": "De la idee la factura plătită",
+          "lede": "Șapte pași, un singur lanț. Așa se desfășoară o achiziție pe SELYVO Market — pe ecranele reale.",
+          "steps": [
+            {
+              "title": "O idee devine cerere",
+              "text": "Descrieți ce vă trebuie sau încărcați o specificație, un caiet de sarcini ori o listă de cantități: IA completează titlul, categoria, pozițiile, livrarea și bugetul — iar dumneavoastră alegeți ce păstrați.",
+              "gtk": "O cerere poate solicita furnizorilor să completeze mai întâi un chestionar.",
+              "alt": "O cerere nouă pe SELYVO Market: de ce are nevoie firma dumneavoastră?"
+            },
+            {
+              "title": "Furnizorii potriviți, verificați",
+              "text": "Invitați-vă propriii furnizori sau firme care sunt deja pe SELYVO ori lăsați IA să găsească alții — fiecare cu ratingul, categoriile și zonele în care livrează.",
+              "gtk": "Înainte ca IA să caute, butonul arată cât va costa: circa 0,60 EUR.",
+              "alt": "Furnizori găsiți de IA pentru o cerere, fiecare gata de verificat și de invitat"
+            },
+            {
+              "title": "Oferte, una lângă alta",
+              "text": "Fiecare furnizor răspunde pe SELYVO. Vedeți cine va trimite o ofertă, comparați ofertele poziție cu poziție și o alegeți pe cea mai bună.",
+              "gtk": "Furnizorii găsiți de IA sunt invitați prin e-mail și pot adera la SELYVO ca să-și trimită oferta.",
+              "alt": "O cerere care primește oferte: cine își va trimite oferta și două oferte de comparat"
+            },
+            {
+              "title": "Comanda",
+              "text": "Oferta pe care o acceptați devine comanda de achiziție. Furnizorul o acceptă, iar ambele părți urmăresc același stadiu: deschisă, de recepționat, recepționată, facturată, plătită.",
+              "gtk": "Fiecare furnizor decide cum este plătit: în avans cu cardul sau pe bază de factură după livrare.",
+              "alt": "Comenzi: fiecare comandă de achiziție cu stadiul, recepția și factura ei"
+            },
+            {
+              "title": "Livrată și recepționată",
+              "text": "Odată cu marfa sosește un aviz de însoțire. Confirmați ce a sosit — integral sau parțial — iar comanda avansează singură; stocul articolelor gestionate se actualizează automat.",
+              "gtk": "Ceva nu e în regulă? Semnalați problema pe avizul de însoțire, iar furnizorul este anunțat imediat.",
+              "alt": "Confirmarea mărfii sosite, pe un aviz de însoțire"
+            },
+            {
+              "title": "Factura, verificată la SELYVO",
+              "text": "Furnizorul emite factura din comandă. Înainte ca cineva să se uite la ea, SELYVO verifică fiecare câmp cerut de lege și datele dumneavoastră, apoi corelează fiecare poziție cu comanda și cu ce ați recepționat.",
+              "gtk": "Dacă doriți, o factură care nu trece verificarea este returnată automat furnizorului, cu indicații despre ce trebuie corectat.",
+              "alt": "O factură verificată la SELYVO: o poziție nu apare în comandă, iar factura este returnată furnizorului"
+            },
+            {
+              "title": "Plătită — și marcată ca plătită",
+              "text": "Plătiți facturile aprobate direct din propriul cont Revolut Business, la scadență sau imediat. Când sosesc banii, ambele părți văd factura ca plătită.",
+              "gtk": "În limita pe care o stabiliți, plățile pleacă imediat; peste această limită, așteaptă aprobarea persoanelor desemnate în Revolut.",
+              "alt": "Facturi aprobate, plătite din Revolut Business"
+            }
+          ]
+        },
+        "compare": {
+          "eyebrow": "Cel mai bun loc pentru afaceri",
+          "title": "Mai puțină alergătură. Mai multe afaceri.",
+          "lede": "Ce se schimbă când clienții și furnizorii dumneavoastră sunt pe SELYVO Market.",
+          "without": "Fără SELYVO",
+          "with": "Cu SELYVO Market",
+          "rows": [
+            [
+              "Găsirea furnizorilor",
+              "Căutat, întrebat prin cunoștințe, așteptat răspunsuri",
+              "Furnizori verificați pe categorii — sau găsiți de IA, fiecare cu ratingul lui"
+            ],
+            [
+              "Oferte",
+              "Atașamente în toate formatele, comparate manual",
+              "Oferte una lângă alta, pe loturi și pe poziții"
+            ],
+            [
+              "Comenzi",
+              "Tastate din nou, apoi urmărite prin e-mail",
+              "Oferta acceptată devine comanda — același stadiu pentru ambele părți"
+            ],
+            [
+              "Facturi",
+              "Verificate manual față de comandă",
+              "Verificate la SELYVO conform legii și comenzii și, dacă doriți, returnate automat când sunt greșite"
+            ],
+            [
+              "Încasări",
+              "Reamintiri de plată și transferuri reconciliate manual",
+              "Plăți cu cardul și transferuri reconciliate în propriul cont Revolut Business"
+            ]
+          ]
+        },
+        "gtk": {
+          "title": "Detaliile care economisesc timp în fiecare zi",
+          "lede": "Lucruri mărunte pe care membrii le observă din prima zi — și de care se bucură în fiecare zi după aceea.",
+          "items": [
+            "Filele urmează ce faceți — achiziții, vânzări, contabilitate, proiecte — după cum alegeți în Preferințe.",
+            "Butonul din dreapta arată mereu ce creează; săgeata lui deschide celelalte opțiuni.",
+            "Pagina Acasă vă aparține: rolul și stilul dumneavoastră — activitate zilnică, performanță sau planificare.",
+            "IA își arată costul înainte să pornească, iar nimic nu este trimis, convenit sau înregistrat până nu decide o persoană.",
+            "Fiecare furnizor decide cum este plătit: în avans cu cardul sau pe bază de factură după livrare.",
+            "Orice factură conține TVA-ul pe țări, mențiunile cerute de lege, PDF-ul și fișierul ISDOC.",
+            "Firma dumneavoastră primește propria adresă de e-mail SELYVO: o comandă sau o factură sosită prin e-mail este citită de IA și vă este propusă ca atare.",
+            "În curând: negociatorul IA, transport și depozitare, analiză de date, documente și semnare."
+          ]
+        },
+        "video": {
+          "eyebrow": "Video",
+          "title": "Vedeți SELYVO Market în cinci minute",
+          "lede": "Fiecare parte a platformei, pe ecranele ei. Vizionați totul de la început până la sfârșit sau săriți direct la partea care vă interesează."
+        }
+      }
+    },
+    "spend-control": {
+      "b": {
+        "pillars": [
+          "O cerere în cinci pași — tastată sau citită de IA din specificația dumneavoastră.",
+          "Doar furnizori verificați, fiecare cu ratingul lui; toți cei care au trimis oferte sunt anunțați la fiecare modificare.",
+          "Oferte comparate poziție cu poziție și pe loturi; cea mai bună devine comandă cu un singur clic."
+        ],
+        "gtk": [
+          "Înainte ca IA să caute furnizori, butonul arată cât va costa.",
+          "Furnizorii găsiți de IA sunt invitați prin e-mail și pot adera la SELYVO ca să-și trimită oferta.",
+          "Dumneavoastră decideți termenul pentru oferte — îl puteți amâna sau puteți opri primirea ofertelor oricând."
+        ]
+      }
+    },
+    "revenue-acceleration": {
+      "b": {
+        "pillars": [
+          "Pipeline-ul pe etape și afacerile dumneavoastră într-o singură listă, fiecare cu pasul următor.",
+          "Vindeți doar firmelor verificate — găsite în registrul comerțului și validate înainte să tranzacționeze.",
+          "Lead-uri noi de la clienții dumneavoastră, de la firme noi sau clienți potențiali găsiți de IA; oferte țintite; listări promovate în fluxurile de noutăți ale cumpărătorilor."
+        ],
+        "gtk": [
+          "O afacere avansează singură pe măsură ce sosesc cereri, oferte și comenzi.",
+          "Un lead nou poate veni pe trei căi: un client al dumneavoastră, un client nou sau clienți potențiali găsiți de IA.",
+          "Fiecare listare își arată veniturile și marja."
+        ]
+      }
+    },
+    "inventory-control": {
+      "b": {
+        "pillars": [
+          "Comenzi de achiziție și de vânzare într-o singură listă: deschise, de recepționat, recepționate, de facturat.",
+          "Avizul de însoțire pe care îl confirmați ține loc de recepție a mărfii și rămâne atașat comenzii.",
+          "Livrări parțiale, fiecare aviz propunând doar ce a rămas; factura urmează recepția."
+        ],
+        "gtk": [
+          "Ceva nu e în regulă cu o livrare? Semnalați problema pe aviz — furnizorul este anunțat imediat.",
+          "Stocul articolelor gestionate se actualizează singur când confirmați ce a sosit.",
+          "Articolele pe cale să se termine revin în coș cu un singur clic."
+        ]
+      }
+    },
+    "finance-administration": {
+      "b": {
+        "pillars": [
+          "Facturi create din comenzi într-o clipă; facturile primite, citite de IA dintr-un fișier sau din căsuța de e-mail.",
+          "TVA, taxare inversă și mențiunile legale pe țări; fiecare factură primită, verificată la SELYVO.",
+          "Plăți cu cardul prin Stripe și transferuri reconciliate în propriul cont Revolut Business."
+        ],
+        "gtk": [
+          "O factură care nu trece verificarea poate fi returnată automat furnizorului, cu indicații despre ce trebuie corectat.",
+          "Fiecare factură trimisă prin e-mail are atașate PDF-ul și fișierul ISDOC.",
+          "Plățile în limita stabilită pleacă imediat; peste această limită, așteaptă aprobarea persoanelor desemnate în Revolut."
+        ]
+      }
+    },
+    "operational-scale": {
+      "b": {
+        "pillars": [
+          "Foi de pontaj săptămânale, cheltuieli dintr-o fotografie a chitanței și o singură factură pentru ambele.",
+          "Regulile fiecărui client: foi de pontaj aprobate înainte de factură, anexate la ea sau deloc.",
+          "Bugetul unui proiect se calculează singur — angajat, realizat și facturat — cu o estimare la finalizare."
+        ],
+        "gtk": [
+          "Regulile țării dumneavoastră stabilesc cât din TVA-ul unei cheltuieli poate fi dedus.",
+          "Timpul propriu — prevânzarea, pregătirea ofertelor, instruirea — se contabilizează la tarife interne și nu ajunge niciodată la un client.",
+          "MailChat oferă firmei dumneavoastră propria adresă de e-mail SELYVO."
+        ]
+      }
+    },
+    "compliance-by-design": {
+      "b": {
+        "pillars": [
+          "Aderarea se face în câțiva pași: datele firmei provin din registrul comerțului.",
+          "Doar pe bază de invitație; registrul, codul de TVA și listele de sancțiuni verificate; un prim rating pe baza întrebărilor SELYVO.",
+          "Recenziile clienților vin după fiecare comandă finalizată, iar ratingul fiecărui furnizor apare alături de oferta lui."
+        ],
+        "gtk": [
+          "O invitație funcționează o singură dată, timp de 14 zile și doar pentru adresa de e-mail la care a fost trimisă.",
+          "Fiecare document își păstrează istoricul: cine ce a modificat și când.",
+          "Secretele rămân pe server: dintr-o cheie API se afișează doar începutul și sfârșitul."
+        ]
+      }
+    },
+    "operating-layer": {
+      "b": {
+        "pillars": [
+          "Un spațiu de lucru propriu pentru furnizori, chestionare, cataloage și fluxuri de aprobare.",
+          "Chestionare cu dovezi, versiuni și aprobări — fiecare răspuns păstrat.",
+          "Conectat la SELYVO Market: profiluri, cereri și comenzi sincronizate în ambele sensuri."
+        ],
+        "gtk": [
+          "SELYVO Core se conectează la SELYVO Market în secțiunea Sisteme conectate.",
+          "Chestionarele din SELYVO Core ajung la furnizorii dumneavoastră pe SELYVO Market.",
+          "Core funcționează alături de sistemele pe care le folosiți deja."
+        ]
+      }
+    },
+    "thank-you": {
+      "b": {
+        "lede": "Vă vom răspunde prin e-mail. Între timp, vizionați prezentarea de cinci minute sau citiți cum funcționează aderarea."
+      }
+    }
+  }
+}

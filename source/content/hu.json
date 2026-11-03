@@ -1,0 +1,876 @@
+{
+ "lang": "hu",
+ "cc": "HU",
+ "hreflang": "hu-HU",
+ "name": "Magyar",
+ "common": {
+  "site": "SELYVO Market",
+  "skip": "Ugrás a tartalomhoz",
+  "nav": {
+   "buy": "Beszerzés",
+   "sell": "Értékesítés",
+   "orders": "Megrendelések",
+   "invoices": "Számlák",
+   "projects": "Projektek",
+   "trust": "Bizalom",
+   "core": "SELYVO Core",
+   "videos": "Videók",
+   "join": "Így csatlakozhat",
+   "signIn": "Bejelentkezés",
+   "menu": "Menü",
+   "language": "Nyelv",
+   "home": "Főoldal"
+  },
+  "areas": {
+   "buy": "Beszerzés",
+   "sell": "Értékesítés",
+   "orders": "Megrendelések és szállítások",
+   "invoices": "Számlák és kifizetések",
+   "projects": "Projektek és MailChat",
+   "trust": "Bizalom és megfelelőség",
+   "core": "SELYVO Core"
+  },
+  "readMore": "Bővebben",
+  "trail": {
+   "label": "Egy üzlet, egyetlen dokumentumlánc",
+   "lede": "Minden dokumentum az előzőből készül, így semmit sem kell kétszer begépelni, és mindkét fél ugyanazt látja.",
+   "request": "Ajánlatkérés",
+   "offer": "Ajánlat",
+   "order": "Megrendelés",
+   "invoice": "Számla",
+   "requestNote": "Lapok és vasalatok, öt meghívott beszállítónak elküldve",
+   "offerNote": "8 469,60 € a Holzwerk Brandt ajánlatában, a tárgyalás után 4,8%-kal kevesebb",
+   "orderNote": "A beszállító elfogadta, szállítás november 13-ig",
+   "invoiceNote": "A megrendelésből készült, egyeztetve az átvett tételekkel"
+  },
+  "videos": {
+   "eyebrow": "Videós útmutatók",
+   "title": "Nézze meg működés közben",
+   "lede": "Rövid útmutatók, közvetlenül a termékben rögzítve, az Ön nyelvén narrációval és felirattal.",
+   "enScreens": "A videókban látható képernyők angol nyelvűek; a narráció és a feliratok magyar nyelvűek.",
+   "watch": "Nézze meg",
+   "watchVideo": "Nézze meg a videót",
+   "more": "Az összes videós útmutató",
+   "minutes": "perc",
+   "overview": {
+    "title": "SELYVO Market egy pillantásra",
+    "text": "Hírfolyam, áruház, beszerzés, értékesítés, megrendelések, számlák, projektek és MailChat egyetlen bemutatóban."
+   },
+   "joining": {
+    "title": "Csatlakozás meghívóval",
+    "text": "A meghívó e-mailtől az első napjáig a SELYVO-n, lépésről lépésre."
+   },
+   "buying": {
+    "title": "Az ötlettől a jóváhagyott megrendelésig",
+    "text": "Ajánlatkérés, ajánlatok, MI-alapú tárgyalás, beszerzési megrendelés és a beszállító jóváhagyása."
+   },
+   "freelancer": {
+    "title": "Munkaidő, költségek és a számla",
+    "text": "Egy szabadúszó időkimutatása, bizonylatokról beolvasott költségek és egyetlen számla mindkettőről."
+   }
+  },
+  "join": {
+   "eyebrow": "Tagság",
+   "title": "Csatlakozzon meghívással",
+   "text": "A SELYVO Market csak a tagok által meghívott cégek előtt nyitott, így minden itt lévő céget legalább egy másik ismer. Kérjen meg egy ügyfelet vagy beszállítót, aki már a SELYVO-n van, hogy hívja meg Önt. A meghívó e-mail végigvezeti a regisztráción.",
+   "points": [
+    "A meghívó egyszer, 14 napig működik, és csak azzal az e-mail-címmel, amelyre küldték.",
+    "Cégét megkeressük a cégjegyzékben, és szankciós listákon ellenőrizzük, mielőtt kereskedhetne.",
+    "A SELYVO díjait esedékességkor egy előre feltöltött keret fedezi. A keretet kártyával vagy banki átutalással töltheti fel."
+   ],
+   "write": "Írjon nekünk",
+   "watch": "Nézze meg, hogyan működik a csatlakozás",
+   "signIn": "Bejelentkezés"
+  },
+  "contact": {
+   "eyebrow": "Kapcsolat",
+   "title": "Kérdése van a csatlakozás előtt?",
+   "lede": "Írjon nekünk a SELYVO Marketről, a SELYVO Core-ról vagy egy partnerségről. E-mailben válaszolunk.",
+   "firstName": "Keresztnév",
+   "lastName": "Vezetéknév",
+   "company": "Cég",
+   "email": "Céges e-mail-cím",
+   "country": "Ország",
+   "topic": "Téma",
+   "topics": [
+    "Csatlakozás a SELYVO Markethez",
+    "SELYVO Core a szervezetemnek",
+    "Partnerség",
+    "Egyéb"
+   ],
+   "message": "Üzenete",
+   "send": "Küldés",
+   "note": "Adatait csak arra használjuk, hogy válaszoljunk Önnek.",
+   "required": "Adja meg nevét, e-mail-címét és üzenetét."
+  },
+  "faqTitle": "Gyakori kérdések",
+  "related": "Továbbiak a SELYVO-n",
+  "coming": "Hamarosan",
+  "example": "Példa",
+  "footer": {
+   "about": "A SELYVO Market B2B piactér ellenőrzött cégeknek és szabadúszóknak: vásárlás, értékesítés, számlázás és közös munka egy helyen.",
+   "market": "Piactér",
+   "company": "SELYVO",
+   "contact": "Kapcsolat",
+   "guides": "Videós útmutatók",
+   "rights": "© 2026 SELYVO. Minden jog fenntartva.",
+   "languages": "Nyelvek"
+  }
+ },
+ "pages": {
+  "index": {
+   "title": "SELYVO Market – a B2B piactér ellenőrzött vállalkozásoknak",
+   "description": "Meghívásos B2B piactér: ajánlatkérések és ajánlatok, megrendelések, számlák országonkénti áfával, időkimutatás és költségek, a dokumentumokat beolvasó MI-vel.",
+   "hero": {
+    "eyebrow": "Csak meghívással elérhető B2B piactér",
+    "title": "Ahol ellenőrzött cégek vásárolnak, értékesítenek és együtt dolgoznak.",
+    "lede": "A SELYVO Market egyetlen platformra hozza az ügyfeleket és a beszállítókat, az első ajánlatkéréstől a kifizetett számláig. Minden tagot megkeresünk a cégjegyzékben, ellenőrzünk és minősítünk, mielőtt kereskedne.",
+    "cta": "Így csatlakozhat",
+    "cta2": "Nézze meg a bemutatót",
+    "shot": "Beszerzés a SELYVO Marketen: ami Önre vár, és minden ajánlatkérés, ajánlat és tárgyalás."
+   },
+   "trust": [
+    [
+     "Szerepel a cégjegyzékben",
+     "Cégjegyzékszáma, címe és adószáma a cégjegyzékből származik."
+    ],
+    [
+     "Ellenőrzött",
+     "Mielőtt egy cég kereskedhetne, szankciós listákon ellenőrizzük."
+    ],
+    [
+     "Minősített",
+     "A SELYVO kérdéseire adott válaszai és igazolásai adják az első értékelését."
+    ],
+    [
+     "Véleményezett",
+     "Ahogy teljesülnek a megrendelések, az ügyfelek véleményei veszik át a főszerepet."
+    ]
+   ],
+   "areas": {
+    "eyebrow": "A piactér",
+    "title": "Egy piactér az egész vállalkozásnak",
+    "lede": "Minden terület önállóan működik, és továbbadja a munkát a következőnek: az ajánlatkérésből ajánlat, megrendelés, szállítás és számla lesz, újragépelés nélkül.",
+    "buy": "Ajánlatkérések, tételenként összevetett ajánlatok és beszerzési megrendelések, MI-tárgyalóval, amely minden megállapodás előtt megkérdezi Önt.",
+    "sell": "Hirdetések tagi árakkal, ajánlatkérések a kategóriáiból, célzott ajánlatok és értékesítési tölcsér az érdeklődőtől a megnyert üzletig.",
+    "orders": "Minden beszerzési és értékesítési megrendelés az állapotával: elfogadva, részben szállítva, átvéve, számlázva, kifizetve.",
+    "invoices": "Számlák a megrendelésekből, országonkénti áfával, és beérkező számlák, amelyeket az MI olvas be fájlból vagy e-mailből.",
+    "projects": "Időkimutatás minden ügyfélnek, költségek bizonylatokkal, és üzleti postafiók csevegéssel, egy listában.",
+    "trust": "Meghívott tagok, cégjegyzékadatok, szankciós ellenőrzés, minősítés, jóváhagyások és minden dokumentum előzményei.",
+    "core": "Saját munkaterület beszállítókhoz, kérdőívekhez, katalógusokhoz és jóváhagyási folyamatokhoz, a Market mellett."
+   },
+   "how": {
+    "eyebrow": "Első lépések",
+    "title": "Így kezd egy cég a SELYVO-n",
+    "steps": [
+     [
+      "Meghívás",
+      "Egy ügyfél vagy beszállító, aki tag, e-mailben meghívja Önt."
+     ],
+     [
+      "Cégregisztráció",
+      "A SELYVO megtalálja a cégét a cégjegyzékben. Ön megerősíti, és megadja, mit vásárol és mit értékesít."
+     ],
+     [
+      "Minősítés",
+      "Válaszoljon a SELYVO kérdéseire és a meghívó fél esetleges kérdéseire. Ezután megkapja az első értékelését."
+     ],
+     [
+      "Kereskedés",
+      "Tegyen közzé hirdetéseket, válaszoljon ajánlatkérésekre, küldjön ajánlatokat, fogadjon megrendeléseket és számlázzon, mindezt a SELYVO-n."
+     ]
+    ]
+   },
+   "ai": {
+    "eyebrow": "MI",
+    "title": "Az MI olvas és fogalmaz. Ön dönt.",
+    "lede": "Az olvasás és az első vázlat az MI dolga. Elküldeni, megállapodni vagy könyvelni csak akkor lehet, ha egy ember jóváhagyja.",
+    "items": [
+     [
+      "Olvassa a fájlokat",
+      "Egy specifikációból részekre és tételekre bontott ajánlatkérés lesz. A beszállító PDF-jéből ajánlat. A bizonylatból költség.",
+      ""
+     ],
+     [
+      "Olvassa a leveleket",
+      "Az e-mailben érkező számlákat, ajánlatokat és megrendeléseket felismeri, és előkészíti Önnek.",
+      ""
+     ],
+     [
+      "Tárgyal Ön helyett",
+      "Az MI-tárgyaló a beszállító nyelvén ír neki, az Ön által megadott pozíció keretein belül, és minden megállapodás előtt megkérdezi Önt.",
+      "coming"
+     ],
+     [
+      "Választható modell",
+      "Cége maga választja ki, melyik MI-modellt használja a SELYVO kínálatából, és mennyire alaposan dolgozzon. Minden használat a költségével együtt jelenik meg.",
+      ""
+     ]
+    ]
+   },
+   "audiences": {
+    "eyebrow": "Kinek szól",
+    "title": "Az üzlet minden szereplőjének",
+    "items": [
+     [
+      "Vevőknek",
+      "Tegyen közzé ajánlatkéréseket, vesse össze az ajánlatokat, rendeljen és fizessen olyan beszállítóknál, amelyekről tudja, hogy valódiak."
+     ],
+     [
+      "Beszállítóknak",
+      "Találják meg Önt az ellenőrzött vevők a kategóriáiban, válaszoljon ajánlatkéréseikre, és kapja meg a pénzét a saját feltételei szerint."
+     ],
+     [
+      "Szabadúszóknak",
+      "Vezesse ügyfelenként a munkaidőt és a költségeket, és számlázza ki őket egyszerre."
+     ]
+    ]
+   },
+   "core": {
+    "eyebrow": "Nagyobb szervezeteknek",
+    "title": "SELYVO Core: saját működési réteg",
+    "text": "Szüksége van a SELYVO folyamataira a saját szervezetén belül? A SELYVO Core beszállítókezelést, kérdőíveket, katalógusokat és MI-ellenőrzéses jóváhagyási folyamatokat ad a Market és a már használt rendszerei mellé.",
+    "link": "Ismerje meg a SELYVO Core-t"
+   },
+   "langs": {
+    "title": "Az Ön nyelvén",
+    "text": "A SELYVO Market angolul, csehül, szlovákul, németül, spanyolul, dánul és svédül beszél, és mindenki maga választja ki a nyelvét. A kérdőívek nyelvenként külön készülnek, a hiányzó nyelvi változatokat az MI fordítja le. Ez a weboldal és a videós útmutatói 15 nyelven érhetők el."
+   },
+   "faq": [
+    [
+     "Ki csatlakozhat a SELYVO Markethez?",
+     "A tagok által meghívott cégek és szabadúszók. Kérjen meg egy ügyfelet vagy beszállítót, aki a SELYVO-n van, hogy hívja meg Önt. Ha még nem ismer senkit a SELYVO-n, írjon nekünk."
+    ],
+    [
+     "Honnan tudja a SELYVO, hogy egy cég valódi?",
+     "Minden céget megkeresünk a cégjegyzékben, szankciós listákon ellenőrzünk, és a SELYVO kérdéseivel minősítünk, mielőtt kereskedhetne. A megrendelései után ügyfélvélemények is érkeznek."
+    ],
+    [
+     "Mennyibe kerül?",
+     "A SELYVO díjait esedékességkor egy előre feltöltött keret fedezi. Kártyával vagy banki átutalással töltheti fel, és minden terhelést lát a fiókjában."
+    ],
+    [
+     "Együttműködik a könyvelésünkkel?",
+     "A számlák országonkénti áfával és az adott esethez előírt szövegezéssel készülnek, és kinyomtathatók vagy PDF-ként menthetők. A saját könyvelésében készült számlák fájlból is elküldhetők a SELYVO-n keresztül."
+    ],
+    [
+     "Van telefonos alkalmazás?",
+     "A SELYVO böngészőben működik számítógépen, táblagépen vagy telefonon. Minden képernyő alkalmazkodik a telefonhoz."
+    ]
+   ]
+  },
+  "spend-control": {
+   "title": "B2B beszerzés a SELYVO Marketen – ajánlatkérés és megrendelés",
+   "description": "Ajánlatkérés begépelve vagy fájlból, MI-vel beolvasva. Ajánlatok összevetése részenként és tételenként, tárgyalás és megrendelés ellenőrzött beszállítóktól.",
+   "hero": {
+    "eyebrow": "Beszerzés",
+    "title": "Az igénytől a jóváhagyott megrendelésig, megbízható beszállítókkal.",
+    "lede": "Írja le, mire van szüksége, vagy töltse fel a specifikációt, és az MI beolvassa. Az ellenőrzött beszállítók ajánlatot tesznek, Ön tételenként összeveti őket, tárgyal, és leadja a megrendelést. Minden lépés visszakereshető marad.",
+    "shot": "Ajánlatok részenkénti összevetése: a lapokra és vasalatokra a Holzwerk Brandt 8 894,40 €-t, a Nordic Panels 9 138,60 €-t ajánl."
+   },
+   "features": {
+    "title": "Minden, ami egy beszerzéshez kell",
+    "items": [
+     [
+      "Ajánlatkérés fájlból",
+      "Töltsön fel egy specifikációt: az MI megtalálja a részeket, a tételeket mennyiséggel és mértékegységgel, valamint a beszállítóknak szóló kérdéseket. Semmi sem töltődik ki, amíg nem ellenőrizte."
+     ],
+     [
+      "Részek termékekre és szolgáltatásokra",
+      "Az anyagok kerüljenek az egyik részbe, a szállítás vagy a szerelés a másikba. Minden résznek saját kerete van, és külön ítélik oda."
+     ],
+     [
+      "Ön dönti el, ki tehet ajánlatot",
+      "A kategória bármely beszállítója a kiválasztott országokból, vagy csak a név szerint meghívottak. Kérdőívei az ajánlatkéréssel együtt mennek ki."
+     ],
+     [
+      "Ajánlatok egymás mellett",
+      "Részenként, ajánlatonként vagy tételenként: ár, szállítás és feltételek egymás mellett, a legalacsonyabb ár és a legkorábbi szállítás kiemelve."
+     ],
+     [
+      "Beszerzési megrendelés az ajánlatból",
+      "Ítélje oda az egyes részeket, és készítse el a beszerzési megrendelést a nyertes ajánlatból. A beszállító a SELYVO-n fogadja el, Ön pedig a szállításig és a számláig követi."
+     ],
+     [
+      "Napi beszerzés az áruházból",
+      "Rendszeres tételeknél rendeljen közvetlenül az ellenőrzött beszállítók hirdetéseiből tagi áron, vagy gyűjtse őket a kosárba."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Egy beszerzés lépésről lépésre",
+    "steps": [
+     [
+      "Ajánlatkérés",
+      "Begépelve vagy fájlból beolvasva, részekkel, tételekkel és kérdésekkel."
+     ],
+     [
+      "Ajánlatok",
+      "A beszállítók az Ön határidejéig tesznek ajánlatot."
+     ],
+     [
+      "Tárgyalás",
+      "Önállóan vagy az MI-tárgyaló segítségével."
+     ],
+     [
+      "Odaítélés",
+      "Részenként a legjobb ajánlat."
+     ],
+     [
+      "Megrendelés",
+      "Elküldve, elfogadva és a számláig követve."
+     ]
+    ]
+   },
+   "highlight": {
+    "title": "Az MI-tárgyaló",
+    "badge": "coming",
+    "text": "Adja meg, mi a fontos, a célját és a határát. Az MI az Ön SELYVO-postafiókjából, a beszállító nyelvén ír neki, jelzi, hogy ő egy MI, és minden megállapodás előtt megkérdezi Önt. A videóban 8 894,40 € helyett 8 469,60 €-ban állapodik meg, ami 4,8%-kal kevesebb."
+   },
+   "video": "buying",
+   "faq": [
+    [
+     "Tehet ajánlatot olyan beszállító, amely nincs a SELYVO-n?",
+     "Hívja meg e-mailben az ajánlatkéréssel együtt. Mielőtt ajánlatot tehetne, csatlakozik a SELYVO-hoz, így minden ajánlat ellenőrzött cégtől érkezik."
+    ],
+    [
+     "Látják a beszállítók a keretemet?",
+     "Nem. Egy rész kerete az Ön saját tervezését szolgálja. A beszállítók csak akkor látják, ha úgy dönt, hogy megosztja velük."
+    ],
+    [
+     "Vásárolhatok ajánlatkérés nélkül?",
+     "Igen. Rendeljen közvetlenül egy hirdetésből az áruházban, a beszállító által megadott tagi áron."
+    ]
+   ],
+   "related": [
+    "sell",
+    "orders",
+    "invoices"
+   ]
+  },
+  "revenue-acceleration": {
+   "title": "B2B értékesítés a SELYVO Marketen – hirdetések, célzott ajánlatok",
+   "description": "Érjen el ellenőrzött vevőket: hirdessen tagi áron, válaszoljon a kategóriái ajánlatkéréseire, küldjön célzott ajánlatokat, és kövessen minden eladást a sikerig.",
+   "hero": {
+    "eyebrow": "Értékesítés",
+    "title": "Találják meg Önt a rendelésre kész vevők.",
+    "lede": "Hirdesse meg, amit értékesít, válaszoljon a kategóriáiban közzétett ajánlatkérésekre, és küldjön ajánlatot a kiválasztott ügyfeleknek. Értékesítési tölcsére minden üzletet mutat az első érdeklődőtől a megnyerésig.",
+    "shot": "Értékesítés a SELYVO Marketen: minden üzlet az érdeklődőtől a megnyerésig, szakaszonkénti értékkel."
+   },
+   "features": {
+    "title": "Értékesítés az elejétől a végéig",
+    "items": [
+     [
+      "Hirdetések tagi árakkal",
+      "Termékek és szolgáltatások fotókkal, mennyiség vagy kiszerelés szerinti árakkal, szállítási időkkel és a kiszolgált régiókkal."
+     ],
+     [
+      "Önnek szóló ajánlatkérések",
+      "A kategóriáiban és régióiban közzétett ajánlatkérések lehetőségként jelennek meg az értékesítésnél. Válaszoljon ajánlattal, tételenként."
+     ],
+     [
+      "Célzott ajánlatok",
+      "Küldjön ajánlatot a kiválasztott ügyfeleknek. Ők a hírfolyamukban látják, és közvetlenül abból rendelhetnek."
+     ],
+     [
+      "Értékesítési tölcsér",
+      "Minden üzlet az érdeklődőtől a megnyerésig vagy elvesztésig, szakaszonkénti értékkel és a következő lépéssel."
+     ],
+     [
+      "Hírfolyam, amely Önnek dolgozik",
+      "Tegyen közzé híreket ügyfeleinek és a kategóriáiban működő cégeknek, és népszerűsítsen egy hírt vagy hirdetést, hogy még többükhöz eljusson."
+     ],
+     [
+      "Hamarabb jut a pénzéhez",
+      "Számlázzon a megrendelésből országonkénti áfával. Vagy bízza a számla beszedését a SELYVO-ra: a SELYVO a díja levonásával kifizeti Önt, az ügyfél pedig a SELYVO-nak fizet."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Egy eladás lépésről lépésre",
+    "steps": [
+     [
+      "Hirdetés",
+      "Termékei és szolgáltatásai tagi árakkal."
+     ],
+     [
+      "Ajánlatkérés",
+      "Egy vevő ajánlatot kér az Ön kategóriájában."
+     ],
+     [
+      "Ajánlat",
+      "Az Ön válasza, tételenként."
+     ],
+     [
+      "Megrendelés",
+      "Elfogadva és leszállítva."
+     ],
+     [
+      "Számla",
+      "A megrendelésből kiállítva és kifizetve."
+     ]
+    ]
+   },
+   "video": "overview",
+   "faq": [
+    [
+     "Ki látja a hirdetéseimet?",
+     "A SELYVO Market tagjai azokban a régiókban, ahová szállít. Látják a tagi árait és az értékelését."
+    ],
+    [
+     "Eladhatok olyan cégnek, amely még nincs a SELYVO-n?",
+     "Hívja meg. Miután csatlakozott, rendelhet Öntől, és a SELYVO-n fogadhatja a számláit."
+    ],
+    [
+     "Hogyan jutnak el hozzám az ajánlatkérések?",
+     "A kategóriáiban és országaiban közzétett ajánlatkérések az értékesítésnél jelennek meg. Egy vevő név szerint is meghívhatja Önt."
+    ]
+   ],
+   "related": [
+    "buy",
+    "orders",
+    "invoices"
+   ]
+  },
+  "inventory-control": {
+   "title": "Megrendelések, szállítások és szállítólevelek a SELYVO Marketen",
+   "description": "Beszerzési és értékesítési megrendelések listája: elfogadva, részben szállítva szállítólevéllel, átvéve, számlázva, kifizetve – üzenetekkel és dokumentumokkal.",
+   "hero": {
+    "eyebrow": "Megrendelések és szállítások",
+    "title": "Minden megrendelés az elfogadástól a kifizetésig, egy helyen.",
+    "lede": "A SELYVO-n minden megrendelésnek saját idővonala van. A beszállító elfogadja és leszállítja, szükség esetén részletekben; az ügyfél visszaigazolja, mi érkezett meg; utána jön a számla. Mindkét fél ugyanazt látja.",
+    "shot": "Az ORD-7311 megrendelés: a Holzwerk Brandt elfogadta, szállítás november 13-ig, és ami ezután jön."
+   },
+   "features": {
+    "title": "Megrendelések, amelyekre mindkét fél építhet",
+    "items": [
+     [
+      "Közös állapot mindkét félnek",
+      "Megrendelve, elfogadva, leszállítva, átvéve, számlázva, kifizetve: az ügyfél és a beszállító ugyanazokat a lépéseket és dátumokat látja."
+     ],
+     [
+      "Részszállítások",
+      "Minden szállításhoz tartozik szállítólevél. Az ügyfél visszaigazolja, mi érkezett meg, a többi nyitva marad."
+     ],
+     [
+      "Üzenetek a megrendelésnél",
+      "Egyeztessen közvetlenül a megrendelés oldalán. Semmi sem megy ki, amíg meg nem nyomja a küldés gombot."
+     ],
+     [
+      "Összekapcsolt dokumentumok",
+      "A megrendelés, a szállítólevelei, az ajánlat, amelyből készült, és a számlái mind egymásra hivatkoznak."
+     ],
+     [
+      "Ha valami nincs rendben",
+      "Jelezzen problémát a megrendelésnél, és tartsa mellette a beszélgetést és a bizonyítékokat."
+     ],
+     [
+      "Nyomtatás vagy mentés PDF-ként",
+      "Az Ön logójával, a nyilvántartásához vagy a raktárnak."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Egy megrendelés lépései",
+    "steps": [
+     [
+      "Megrendelve",
+      "Az ajánlatból vagy az áruházból elküldve."
+     ],
+     [
+      "Elfogadva",
+      "A beszállító visszaigazolja."
+     ],
+     [
+      "Leszállítva",
+      "Szállítólevéllel, szükség esetén részletekben."
+     ],
+     [
+      "Átvéve",
+      "Az ügyfél visszaigazolja, mi érkezett meg."
+     ],
+     [
+      "Számlázva és kifizetve",
+      "A számla követi a megrendelést."
+     ]
+    ]
+   },
+   "video": "buying",
+   "faq": [
+    [
+     "Szállíthat a beszállító több részletben?",
+     "Igen. Minden részlethez tartozik szállítólevél, és az ügyfél visszaigazolja, mi érkezett meg. A megrendelés nyitva marad, amíg minden meg nem érkezik."
+    ],
+    [
+     "Ki láthatja egy megrendelés üzeneteit?",
+     "A megrendelésen dolgozó munkatársak mindkét cégnél. Egy üzenet csak akkor megy ki, amikor megnyomja a küldés gombot."
+    ],
+    [
+     "A megrendelések követik a jóváhagyási szabályokat?",
+     "Igen. Cége dönti el, ki milyen megrendeléseket hagy jóvá, és a megrendelés addig vár, amíg jóvá nem hagyják."
+    ]
+   ],
+   "related": [
+    "buy",
+    "sell",
+    "invoices"
+   ]
+  },
+  "finance-administration": {
+   "title": "B2B számlázás, áfa és kifizetések a SELYVO Marketen",
+   "description": "Számlázás megrendelésből, országonként helyes áfával. Fájlból vagy e-mailből MI-vel beolvasott bejövő számlák, esedékes és lejárt tételek egy listában.",
+   "hero": {
+    "eyebrow": "Számlák és kifizetések",
+    "title": "Számlák, amelyek maguktól egyeztetnek a megrendeléssel.",
+    "lede": "Állítson ki számlát a megrendeléseiből országonkénti áfával és a jogszabályban előírt szövegezéssel. A beérkező számlákat, akár e-mailben, fájlként vagy a SELYVO-n érkeznek, az MI beolvassa, és jóváhagyás előtt párosítja a megrendelésükkel.",
+    "shot": "Az FV-2026-0018 számla a Nordform ApS-nek: az októberi órák és költségek, fordított adózással."
+   },
+   "features": {
+    "title": "Kevesebb gépelés, kevesebb meglepetés",
+    "items": [
+     [
+      "Országonkénti áfa",
+      "A két országnak megfelelő kulcs, fordított adózás vagy mentesség, és minden esethez a jogszabályi szövegezés."
+     ],
+     [
+      "Számlák e-mailben",
+      "A beszállítók az invoice@market.selyvo.com címre küldik a számlákat. Az MI mindegyiket beolvassa, megtalálja az Ön cégét és a megrendelést, és a hiányzó adatokat bekéri a feladótól."
+     ],
+     [
+      "Számlák fájlból",
+      "Töltsön fel egy PDF-et, és az MI beolvassa a beszállítót, a tételeket, az áfát és a végösszegeket, Ön pedig ellenőrzi."
+     ],
+     [
+      "Beszerzési megrendelés nélkül, a szabályai szerint",
+      "Fogadjon el beszerzési megrendelés nélküli számlákat a kiválasztott beszállítóktól, az Ön által megadott összeghatárig."
+     ],
+     [
+      "Költségek bizonylatokkal",
+      "Az MI által beolvasott bizonylatok, továbbszámlázva egy ügyfél megrendelésére vagy saját költségként megtartva."
+     ],
+     [
+      "Tartozások, követelések, lejárt tételek",
+      "Egy lista mindkét irányra, az esedékes és a késedelmes tételekkel."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Egy beérkező számla",
+    "steps": [
+     [
+      "Beérkezik",
+      "A SELYVO-n, e-mailben vagy fájlként."
+     ],
+     [
+      "Az MI beolvassa",
+      "Beszállító, tételek, áfa és végösszegek."
+     ],
+     [
+      "Párosítva",
+      "A megrendeléssel és az átvett tételekkel."
+     ],
+     [
+      "Jóváhagyva",
+      "Azok által, akiket a szabályai kijelölnek."
+     ],
+     [
+      "Kifizetve",
+      "És mindkét oldalon kifizetettként jelölve."
+     ]
+    ]
+   },
+   "video": "freelancer",
+   "faq": [
+    [
+     "Küldhetek a saját könyvelésemben készült számlákat?",
+     "Igen. Töltse fel a fájlt: a SELYVO beolvassa, és a megrendelésével együtt elküldi az ügyfélnek."
+    ],
+    [
+     "Áthozhatjuk a korábbi számláinkat?",
+     "Igen. A korábbi számlákat az MI beolvassa, a kibocsátó beszállítókat pedig meghívhatja a SELYVO-ra."
+    ],
+    [
+     "Hogyan kezeli a SELYVO a határon átnyúló áfát?",
+     "A SELYVO a két országnak megfelelő kulcsot, fordított adózást vagy mentességet alkalmazza, és feltünteti a jogszabályban előírt szövegezést."
+    ]
+   ],
+   "related": [
+    "orders",
+    "projects",
+    "buy"
+   ]
+  },
+  "operational-scale": {
+   "title": "Projektek, időkimutatás, költségek és MailChat a SELYVO Marketen",
+   "description": "Hetente rögzített időkimutatás ügyfelenként, költségek bizonylatokkal, egy számla mindkettőről, e-mail és csevegés a partnerekkel egy üzleti postafiókban.",
+   "hero": {
+    "eyebrow": "Projektek és MailChat",
+    "title": "Dolgozzon ügyfeleinek papírmunka nélkül.",
+    "lede": "Az időkimutatások, a költségek és az üzenetek a hozzájuk tartozó megrendelések mellett vannak. Az ügyfelek azt hagyják jóvá, amit jóvá akarnak hagyni, a többit Ön egyszerre számlázza ki.",
+    "shot": "Az Ön ideje a projekteknél: hétről hétre minden ügyfélnek, és ami az Ön figyelmére vár."
+   },
+   "features": {
+    "title": "Idő és költségek, számlázásra készen",
+    "items": [
+     [
+      "Az Ön hete, minden ügyfelével",
+      "Rögzítse az órákat vagy napokat ügyfelenként és megrendelésenként, a végzett munkával. Az ügyfél ezt az időkimutatáson olvassa."
+     ],
+     [
+      "Minden ügyfél saját szabályai",
+      "A számla előtt jóváhagyva, ahhoz csatolva vagy egyáltalán nem, hetente vagy havonta, ahogy az ügyfél dönt."
+     ],
+     [
+      "Továbbszámlázott költségek",
+      "Rögzítsen egy költséget a bizonylatával. Az ügyfél havi elszámolásában várakozik, amíg jóvá nem hagyják."
+     ],
+     [
+      "Egy számla mindkettőről",
+      "A jóváhagyott órák és költségek egy számlára kerülnek, minden költség áfa nélkül."
+     ],
+     [
+      "Saját idő, külön kezelve",
+      "Az előértékesítést, az ajánlatkészítést és a képzést belső díjtétellel számoljuk, és sosem jutnak el ügyfélhez."
+     ],
+     [
+      "MailChat",
+      "Üzleti postafiók a SELYVO-n belül: e-mailek és csevegések ügyfelekkel és beszállítókkal egy listában, MI-vel, amely felismeri a számlákat, ajánlatokat és megrendeléseket."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Az óráktól a számláig",
+    "steps": [
+     [
+      "Órák",
+      "Hétről hétre rögzítve."
+     ],
+     [
+      "Időkimutatás",
+      "Az ügyfél időszakára elküldve."
+     ],
+     [
+      "Jóváhagyás",
+      "Az ügyfél részéről, ha kéri."
+     ],
+     [
+      "Számla",
+      "Órák és költségek együtt."
+     ]
+    ]
+   },
+   "highlight": {
+    "title": "Projektek kerettel és mérföldkövekkel",
+    "badge": "coming",
+    "text": "Projektek kerettel, mérföldkövekkel és feladatokkal, amelyekre minden beszerzést, eladást, órát és költséget elszámolunk."
+   },
+   "video": "freelancer",
+   "faq": [
+    [
+     "Jóváhagyhatja az ügyfél az időkimutatásokat a SELYVO-n?",
+     "Igen. Az ügyfél jóváhagyója minden időkimutatást a napjaival és a végzett munkával együtt lát, és jóváhagyja, vagy megjegyzéssel visszaküldi."
+    ],
+    [
+     "Szükségem van a MailChatre?",
+     "Nem, használata nem kötelező. Cége SELYVO-postafiókot kap a partnereknek írt levelekhez, és az Ön saját e-mail-címe sosem látszik."
+    ],
+    [
+     "Használhatják a szabadúszók a SELYVO-t?",
+     "Igen. A szabadúszó egyszemélyes cégként csatlakozik, ugyanúgy meghívással, mint bárki más, és ugyanazokkal az eszközökkel dolgozik."
+    ]
+   ],
+   "related": [
+    "invoices",
+    "sell",
+    "trust"
+   ]
+  },
+  "compliance-by-design": {
+   "title": "Bizalom és megfelelőség: ellenőrzött cégek a SELYVO Marketen",
+   "description": "Meghívott tagok, a cégjegyzékből azonosítva, szankciós listákon ellenőrizve és minősítve, mielőtt kereskednének. Minden dokumentum megőrzi az előzményeit.",
+   "hero": {
+    "eyebrow": "Bizalom és megfelelőség",
+    "title": "Tudja, kivel köt üzletet, és őrizze meg a megállapodások bizonyítékát.",
+    "lede": "A SELYVO-n minden céget egy tag hív meg, mi pedig megkeressük a cégjegyzékben, ellenőrizzük és minősítjük, mielőtt kereskedne. Minden dokumentum megőrzi az előzményeit: ki mit tett, és mikor.",
+    "shot": "Regisztráció: a cég a cégjegyzékből, egy kattintással megerősítve."
+   },
+   "features": {
+    "title": "Bizalom minden lépésbe építve",
+    "items": [
+     [
+      "Tagi meghívással",
+      "Nincs névtelen regisztráció. Minden cég egy olyan ügyfél vagy beszállító meghívásával csatlakozik, aki már a SELYVO-n van."
+     ],
+     [
+      "A cégjegyzékből",
+      "A cégjegyzékszám, a cím, az adószám és a bejegyzett tevékenységek a hivatalos cégjegyzékből származnak."
+     ],
+     [
+      "Szankciós ellenőrzés",
+      "Minden céget csatlakozáskor szankciós listákon ellenőrzünk, mielőtt kereskedhetne."
+     ],
+     [
+      "Minősítés és kérdőívek",
+      "A SELYVO igazolásokkal megválaszolt kérdései adják az első értékelést. Saját kérdőívei a beszállítóihoz és ügyfeleihez jutnak el."
+     ],
+     [
+      "Jogosultságok és jóváhagyások",
+      "Mindenki azt látja, amit a szerepköre megenged. Jóváhagyási szabályai döntik el, ki hagyja jóvá a megrendeléseket, az időkimutatásokat és a költségeket."
+     ],
+     [
+      "Előzmények minden dokumentumhoz",
+      "Az ajánlatkérések, az ajánlatok, a megrendelések és a számlák megőrzik az előzményeiket: ki mit módosított, és mikor."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Hogyan kerül be egy cég",
+    "steps": [
+     [
+      "Meghívás",
+      "Egy tagtól."
+     ],
+     [
+      "Cégjegyzék",
+      "A cég adatai a cégjegyzékből."
+     ],
+     [
+      "Ellenőrzés",
+      "Szankciós listák."
+     ],
+     [
+      "Minősítés",
+      "Válaszok, igazolások, első értékelés."
+     ],
+     [
+      "Vélemények",
+      "Az ügyfelektől, megrendelésről megrendelésre."
+     ]
+    ]
+   },
+   "video": "joining",
+   "faq": [
+    [
+     "Támaszthatunk saját követelményeket a beszállítókkal szemben?",
+     "Igen. Küldje el saját kérdőíveit meghívóval vagy ajánlatkéréssel együtt, és döntése előtt nézze át a válaszokat és az igazolásokat."
+    ],
+    [
+     "Ki mit lát a cégünkön belül?",
+     "Mindenki azt látja, amit a szerepköre megenged. Az összegeket és a pénzügyeket csak a megfelelő jogosultsággal rendelkezők látják."
+    ],
+    [
+     "Mit lát rólunk egy partner?",
+     "Csak azt, amit elküld vagy közzétesz: hirdetéseit, ajánlatait, a vele közös megrendeléseit és számláit, valamint a profilját."
+    ]
+   ],
+   "related": [
+    "buy",
+    "sell",
+    "core"
+   ]
+  },
+  "operating-layer": {
+   "title": "SELYVO Core – működési réteg a saját folyamataihoz",
+   "description": "Saját folyamatokkal dolgozó szervezeteknek: beszállítókezelés, kérdőívek, katalógusok és MI-ellenőrzéses jóváhagyási folyamatok, a SELYVO Market mellett.",
+   "hero": {
+    "eyebrow": "SELYVO Core · opcionális",
+    "title": "Saját folyamatai, ugyanazon az alapon, mint a Market.",
+    "lede": "A SELYVO Core saját munkaterületet ad a nagyobb szervezeteknek: beszállítók kockázati és teljesítményadatokkal, kérdőívek, katalógusok és MI-ellenőrzéses folyamatok, a SELYVO Markethez és a már használt rendszereihez kapcsolva.",
+    "shot": "A beszállítói tábla a SELYVO Core-ban: aktív, preferált, magas kockázatú és bevezetés alatt álló beszállítók, valamint minden felvételi kérelem."
+   },
+   "features": {
+    "title": "Amit a SELYVO Core hozzáad",
+    "items": [
+     [
+      "Beszállítói tábla",
+      "Aktív, preferált, magas kockázatú és bevezetés alatt álló beszállítók az Ön által választott KPI-okkal, és minden beszállító-felvételi kérelem egyetlen várólistán."
+     ],
+     [
+      "Kérdőívek",
+      "Újrafelhasználható kérdéssorok bevezetéshez, értékeléshez és ESG-hez: a beszállítók igazolásokkal válaszolnak, a válaszok pontszámot kapnak."
+     ],
+     [
+      "Igénylés és vásárlás",
+      "Katalógus a munkatársaknak preferált tételekkel, csomagokkal és költséghelyenkénti keretekkel. Az igénylések egyenesen jóváhagyásra mennek."
+     ],
+     [
+      "Folyamatok MI-ellenőrzéssel",
+      "Jóváhagyási folyamatok, amelyekben egy MI-ellenőrzés átvizsgál egy beszállítót vagy dokumentumot, és megfelelt, nem felelt meg vagy ellenőrzendő eredményt ad. Ember dönt."
+     ],
+     [
+      "Illeszkedik a rendszereihez",
+      "Használja integrált SELYVO-modulokként, vagy egységes felületként a megtartott ERP-, CRM- és beszerzési rendszerei felett."
+     ],
+     [
+      "Konfigurálva, nem programozva",
+      "Minden korlátot és küszöbértéket az Ön operátorai állítanak be. Semmi sincs a kódba írva."
+     ]
+    ]
+   },
+   "flow": {
+    "title": "Egységes működési modell",
+    "steps": [
+     [
+      "Rögzítés",
+      "Az igények, dokumentumok és adatok egyszer érkeznek be."
+     ],
+     [
+      "Megértés",
+      "Az MI beolvassa, ellenőrzi és besorolja őket."
+     ],
+     [
+      "Végrehajtás",
+      "A folyamatok irányítják a munkát."
+     ],
+     [
+      "Kontroll",
+      "Jóváhagyások és szabályok tartják keretek között."
+     ],
+     [
+      "Fejlesztés",
+      "A KPI-ok megmutatják, hol kell lépni."
+     ]
+    ]
+   },
+   "shots": [
+    "A beszállítói tábla az Ön által választott KPI-okkal.",
+    "Kérdőívek bevezetéshez, értékeléshez és ESG-hez.",
+    "Igénylés és vásárlás: katalógus a munkatársaknak.",
+    "Folyamat MI-ellenőrzéssel mint jóváhagyási lépéssel."
+   ],
+   "faq": [
+    [
+     "Szükség van a SELYVO Core-ra a Market használatához?",
+     "Nem. A SELYVO Market önállóan is működik. A Core azoknak a szervezeteknek szól, amelyek saját folyamatokat és munkaterületet szeretnének."
+    ],
+    [
+     "Futhat a Core az ERP-rendszerünk mellett?",
+     "Igen. Lehet az a rendszer, amelyben a munka zajlik, vagy egyetlen felület a megtartott rendszerek felett."
+    ],
+    [
+     "Hogyan kezdjünk hozzá?",
+     "Egyetlen folyamattal, például a beszállítók bevezetésével vagy a munkatársak beszerzéseivel, előtte és utána is mérve."
+    ]
+   ],
+   "related": [
+    "buy",
+    "trust",
+    "invoices"
+   ]
+  },
+  "thank-you": {
+   "title": "Köszönjük – SELYVO",
+   "description": "Köszönjük, hogy írt a SELYVO-nak.",
+   "hero": {
+    "eyebrow": "Üzenet elküldve",
+    "title": "Köszönjük. Megkaptuk az üzenetét.",
+    "lede": "E-mailben válaszolunk. Addig is nézze meg a videós útmutatókat, vagy olvassa el, hogyan működik a csatlakozás."
+   },
+   "links": {
+    "videos": "Nézze meg a videós útmutatókat",
+    "join": "Így csatlakozhat",
+    "home": "Vissza a főoldalra"
+   }
+  }
+ }
+}

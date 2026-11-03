@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "Nieuw",
+      "videoGuide": "Videohandleiding",
+      "watchIt": "Nu bekijken",
+      "product": "Product",
+      "getInvited": "Word uitgenodigd",
+      "illustrative": "Voorbeeldbedrijven en -cijfers op deze pagina dienen alleen ter illustratie.",
+      "tour": {
+        "title": "SELYVO Market in vijf minuten",
+        "text": "Elk onderdeel van SELYVO Market, getoond in het product zelf: verkopen en inkopen, orders, facturen gecontroleerd door SELYVO, onkosten, projecten, MailChat, voorraad en gekoppelde systemen."
+      },
+      "connect": {
+        "eyebrow": "Gekoppelde systemen",
+        "title": "Werkt met de systemen die je al gebruikt",
+        "text": "Koppel je boekhouding of ERP en kies wat er wordt uitgewisseld, hoe vaak en naar welke velden. Je klanten en leveranciers koppelen hun systemen op dezelfde manier, en elke uitwisseling wordt vastgelegd.",
+        "points": [
+          "Profielen, aanvragen, orders, betalingen en voorraad, altijd gesynchroniseerd",
+          "Elk ander systeem via de voorraad-API van de marktplaats, met een eigen sleutel",
+          "Facturen uit de boekhouding van een leverancier komen binnen op invoice@market.selyvo.com en worden gelezen en gecontroleerd",
+          "Elke factuurmail bevat de pdf en het ISDOC-bestand, voor de boekhouding van de klant"
+        ],
+        "yours": "Je boekhouding of ERP",
+        "market": "SELYVO Market",
+        "partners": "De systemen van je klanten en leveranciers",
+        "carries": "Profielen · aanvragen · orders · betalingen · voorraad",
+        "api": "Elk ander systeem, via de voorraad-API van de marktplaats",
+        "invoices": "Facturen als pdf en ISDOC, bij ontvangst gecontroleerd",
+        "log": "Elke uitwisseling vastgelegd"
+      },
+      "check": {
+        "eyebrow": "Gecontroleerd door SELYVO",
+        "title": "Elke ontvangen factuur wordt eerst gecontroleerd",
+        "text": "Of een factuur nu per e-mail komt, als bestand, via MailChat of van een leverancier op SELYVO: hij wordt gecontroleerd voordat iemand ernaar kijkt. Keurt de controle hem af, dan kan hij automatisch terug naar de leverancier, met wat er gecorrigeerd moet worden.",
+        "steps": [
+          [
+            "Ontvangen",
+            "Op invoice@market.selyvo.com, uit een bestand, via MailChat of op SELYVO."
+          ],
+          [
+            "Gecontroleerd",
+            "Elk wettelijk verplicht veld, je gegevens zoals op SELYVO, elke regel getoetst aan de order, en niet meer gefactureerd dan je hebt ontvangen."
+          ],
+          [
+            "Automatisch teruggestuurd",
+            "Als je dat wilt: de leverancier krijgt meteen bericht, in zijn eigen taal, met wat er gecorrigeerd moet worden."
+          ],
+          [
+            "Vervangen",
+            "De gecorrigeerde factuur komt in de plaats van de teruggestuurde. Van de teruggestuurde factuur wordt niets betaald."
+          ]
+        ],
+        "card": {
+          "title": "SELYVO-controle",
+          "ok1": "Alle verplichte velden van een factuur",
+          "ok2": "Op jouw naam, zoals op SELYVO",
+          "bad": "Leveringskosten € 80,00 staan niet in de order",
+          "returned": "Automatisch teruggestuurd naar de leverancier, met wat er gecorrigeerd moet worden"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "B2B-marktplaats op uitnodiging",
+        "title1": "Meer verkopen. Slimmer inkopen.",
+        "title2": "Sneller betaald worden.",
+        "lede": "Op SELYVO Market doen geverifieerde bedrijven zaken, van de eerste aanvraag tot de betaalde factuur: op één plek, en voor iedereen in de eigen taal.",
+        "cta": "Word uitgenodigd",
+        "cta2": "Bekijk de rondleiding",
+        "ticks": [
+          "Gevonden in het handelsregister",
+          "Gecontroleerd op sanctielijsten",
+          "Beoordeeld vóór de eerste deal"
+        ],
+        "shotAlt": "Inkoop op SELYVO Market: besparingen, het openstaande saldo, wat er is ontvangen en gefactureerd, en het inkoopwerk dat klaarstaat",
+        "offer": {
+          "title": "Offerte geaccepteerd",
+          "note": "4,8% minder na de onderhandeling"
+        },
+        "paid": {
+          "status": "Betaald",
+          "country": "Denemarken"
+        },
+        "facts": [
+          [
+            "3 controles",
+            "voordat een bedrijf kan handelen: het register, sanctielijsten en de vragen van SELYVO"
+          ],
+          [
+            "1 spoor",
+            "van aanvraag tot betaling, elk document gemaakt vanuit het vorige"
+          ],
+          [
+            "7 talen",
+            "in de app, ieder in de eigen taal; deze website en de handleidingen in 15"
+          ],
+          [
+            "2 betaalwijzen",
+            "vooraf per kaart, of op factuur na levering, zoals elke leverancier zelf bepaalt"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "Eén platform",
+          "title": "De hele deal, beide kanten, op één plek",
+          "lede": "Verkopen, inkopen, orders, facturen en betalingen: elke stap ontstaat uit de vorige. Je klanten en je leveranciers zien hetzelfde dossier als jij.",
+          "items": [
+            [
+              "Meer verkopen",
+              "Word gevonden door geverifieerde inkopers in je categorieën. Beantwoord hun aanvragen, stuur gerichte offertes en volg elke deal van de eerste lead tot hij binnen is.",
+              "Verkopen op SELYVO"
+            ],
+            [
+              "Slimmer inkopen",
+              "Vergelijk regel voor regel offertes van leveranciers van wie je weet dat ze echt bestaan: je eigen, nieuwe op SELYVO of leveranciers die AI voor je vindt.",
+              "Inkopen op SELYVO"
+            ],
+            [
+              "Sneller betaald worden",
+              "Factureer vanuit de order, met btw per land. Je klant betaalt per kaart, of op factuur naar je eigen Revolut Business-rekening.",
+              "Facturen en betalingen"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Verkopen",
+            "title": "Elke deal, van de eerste lead tot hij binnen is",
+            "text": "Je pipeline per fase, je deals in een lijst en de gekozen deal ernaast, met de volgende stap. Een deal schuift vanzelf door zodra er aanvragen, offertes en orders binnenkomen.",
+            "points": [
+              "Nieuwe leads van je klanten, nieuwe bedrijven of prospects die AI vindt",
+              "Gerichte offertes aan de klanten die jij kiest",
+              "Aanbod gepromoot in de feeds van inkopers"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Inkopen",
+            "title": "Vergelijk offertes regel voor regel en bestel de beste",
+            "text": "Publiceer een aanvraag met percelen en regels, nodig de leveranciers van je keuze uit en bekijk alle offertes naast elkaar. De offerte die je accepteert, wordt de inkooporder.",
+            "points": [
+              "Een aanvraag die AI uit je specificatie leest",
+              "De waardering van elke leverancier naast zijn offerte",
+              "Een AI-onderhandelaar die het jou vraagt voordat er iets wordt afgesproken"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Facturen en betalingen",
+            "title": "Factureer vanuit de order. Word op tijd betaald.",
+            "text": "Facturen worden gemaakt vanuit hun orders, met btw per land en de tekst die elke situatie vereist. Facturen die je ontvangt, worden door AI gelezen, door SELYVO aan hun order getoetst en daarna betaald.",
+            "points": [
+              "Kaartbetalingen via Stripe",
+              "Betaald op je eigen Revolut Business-rekening",
+              "Een factuur die de controle niet doorstaat, kan automatisch terug naar de leverancier",
+              "Wat je betaalt en wat je ontvangt, naast elkaar"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Vertrouwen",
+          "title": "Elk bedrijf hier bestaat echt",
+          "lede": "Voordat een bedrijf op SELYVO handelt, wordt het teruggevonden in het handelsregister, gecontroleerd en gekwalificeerd. Daarna zijn de klanten aan het woord."
+        },
+        "ai": {
+          "button": "Zoeken met AI — ongeveer 0,60 EUR",
+          "caption": "Voordat AI naar leveranciers zoekt, laat de knop zien wat dat kost.",
+          "found": "8 leveranciers gevonden",
+          "foundText": "Elke leverancier met zijn waardering, zijn categorieën en waar hij levert."
+        },
+        "invite": {
+          "title": "Toegang tot SELYVO krijg je op uitnodiging",
+          "text": "Elk bedrijf op SELYVO is bij minstens één ander bekend. Vraag een klant of leverancier die lid is om je uit te nodigen. Ken je nog niemand op SELYVO? Neem dan contact met ons op.",
+          "cta": "Zo word je uitgenodigd",
+          "mockWho": "nodigt je uit voor SELYVO Market",
+          "mockText": "We willen graag via SELYVO bij je inkopen. Sluit je aan als onze leverancier, dan ontvang je daar onze aanvragen.",
+          "mockButton": "Aansluiten als hun leverancier",
+          "mockValid": "Eén keer geldig, 14 dagen lang, alleen voor het e-mailadres van de ontvanger."
+        },
+        "faqAccounting": [
+          "Werkt het met onze boekhouding?",
+          "Ja. Koppel je boekhouding of ERP in Gekoppelde systemen en kies wat er wordt uitgewisseld. Facturen uit je eigen boekhouding kun je als bestand via SELYVO versturen, en elke factuurmail bevat de pdf en het ISDOC-bestand."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "Wat gebeurt er met een factuur die niet overeenkomt met de order?",
+          "Hij wacht op je, met wat de controle heeft gevonden. Als je dat wilt, gaat hij automatisch terug naar de leverancier, met wat er gecorrigeerd moet worden, en komt de gecorrigeerde factuur ervoor in de plaats."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Projecten",
+          "title": "Een project, met zijn eigen budget",
+          "text": "Een project bundelt zijn aanvragen, orders, facturen, urenstaten en onkosten. Het budget wordt daaruit vanzelf bijgewerkt: vastgelegd, werkelijk en gefactureerd, met een eindprognose.",
+          "points": [
+            "Mijlpalen, geaccepteerd door de klant en daarna gefactureerd",
+            "Het team: je eigen mensen en die van je leveranciers",
+            "Ook de klant kan het project volgen"
+          ],
+          "tiles": [
+            "Budget",
+            "Werkelijk",
+            "Gefactureerd"
+          ],
+          "milestones": [
+            [
+              "1 · Portal geconfigureerd",
+              "Geaccepteerd"
+            ],
+            [
+              "2 · Leveranciers gemigreerd",
+              "In uitvoering"
+            ],
+            [
+              "3 · Gebruikersacceptatie",
+              "Gepland"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

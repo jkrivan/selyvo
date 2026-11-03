@@ -1,0 +1,17 @@
+
+/* ═══ the light version (3 Nov, 13:01 — Jiri: "just light, footer is dark and the section have slightly higher contrast of light"):
+   every section light, white and pale in turn, the pale one a step deeper than before so that sections stand apart; the footer dark ═══ */
+body, body::before { background: #FFFFFF; }
+body.bar-light::before { background: #FFFFFF; }
+.tone-la { --bg: #EAEFF5; --bg-alt: #FFFFFF; --card: #FFFFFF; --line: #D8E0EA; --frame-bar: #F3F6FA; }
+.tone-l { --bg-alt: #EAEFF5; }
+.tone-la .dchap button, .tone-la .story__bar { border-color: #D8E0EA; }
+
+/* 3 Nov, 13:08 — Jiri: "do the text in orange buttons white + the a little bit darker background sections colour would be light but as the
+   green-blue used in selyvo": white on the orange buttons; the deeper of the two light backgrounds a light tint of SELYVO's teal
+   (#009BB4), its lines and soft accents a step deeper teal so that the tile icons, the Good to know boxes and the cards still stand out */
+:root { --cta-fg: #FFFFFF; }
+.fcard:hover .fcard__play { color: #FFFFFF; }
+.tone-la { --bg: #E2F2F6; --bg-alt: #FFFFFF; --card: #FFFFFF; --line: #C5E3EA; --accent-soft: #CDEAF1; --frame-bar: #F1F8FA; }
+.tone-l { --bg-alt: #E2F2F6; }
+.tone-la .dchap button, .tone-la .story__bar { border-color: #C5E3EA; }

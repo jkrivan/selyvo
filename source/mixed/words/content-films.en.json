@@ -1,0 +1,31 @@
+{
+  "common": {
+    "e": {
+      "eyebrow": "Video",
+      "title": "See it in action.",
+      "sub": "Short films made on the market’s real screens. Choose one, and jump to the step you need.",
+      "homeTitle": "See SELYVO Market at work.",
+      "homeSub": "The five-minute tour of the whole market, and short films of one task each — made on its real screens.",
+      "nowPlaying": "Now playing",
+      "guideWord": "Guide",
+      "tourWord": "Tour",
+      "fromWord": "from",
+      "watch": "Watch the video",
+      "localVideo": "Video",
+      "seenHint": "Choose a step to see it again",
+      "note": "This video is in English.",
+      "guides": {
+        "sales": {"title": "From a first talk to a won case", "text": "Selling on SELYVO Market: a new lead in five steps, the case in Sales and as a form, and how it moves from Lead to Closed.",
+                  "chapters": ["Start", "Sales: every case", "A new lead", "From the business register", "Whom you spoke to", "What it is worth", "The next step", "Save and invite", "The case in Sales", "The case as a form", "It moves by itself", "Good to know"]},
+        "buying": {"title": "From an idea to an approved order", "text": "Buying on SELYVO Market: a request for proposal, the offers, an AI negotiation, the purchase order and the supplier’s approval.",
+                   "chapters": ["Start", "Filled from a file", "Lots and who may quote", "The offers are in", "Negotiate with AI", "The AI asks you first", "Agreed: you approve", "The award and the order", "The supplier approves", "Good to know"]},
+        "requestai": {"title": "A request to suppliers found by AI", "text": "Buying on SELYVO Market: a new request in five steps — and suppliers you do not know yet, found by AI, checked and invited by e-mail.",
+                      "chapters": ["Start", "The scope", "The line items", "Delivery and budget", "Who can quote", "Suppliers found by AI", "Checked, then invited", "Check and publish", "Taking offers", "Good to know"]},
+        "receiving": {"title": "Receiving ordered goods into stock", "text": "Orders on SELYVO Market: the supplier’s delivery note, what you confirm as arrived — and your stock, which follows by itself.",
+                      "chapters": ["Start", "Where each order stands", "Received waits for you", "Confirm what arrived", "Keep in stock", "Stock: what you use", "An item’s history", "Good to know"]},
+        "freelancer": {"title": "Time, expenses and the invoice", "text": "For freelancers on SELYVO Market: a time sheet for each customer, expenses read from their receipts, and one invoice for both.",
+                       "chapters": ["Start", "A week at a time", "A time sheet per customer", "The order sets the rules", "Expenses from the receipt", "One invoice for both", "Issue it", "Good to know"]}
+      }
+    }
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "Novinka",
+      "videoGuide": "Videonávod",
+      "watchIt": "Prehrať",
+      "product": "Produkt",
+      "getInvited": "Získať pozvánku",
+      "illustrative": "Ukážkové firmy a čísla na tejto stránke sú len ilustračné.",
+      "tour": {
+        "title": "SELYVO Market za päť minút",
+        "text": "Všetky časti SELYVO Market priamo na obrazovkách aplikácie: predaj a nákup, objednávky, faktúry skontrolované na SELYVO, výdavky, projekty, MailChat, sklad a prepojené systémy."
+      },
+      "connect": {
+        "eyebrow": "Prepojené systémy",
+        "title": "Funguje so systémami, ktoré už používate",
+        "text": "Pripojte svoje účtovníctvo alebo ERP a zvoľte, čo sa má prenášať, ako často a do ktorých jeho polí. Vaši zákazníci a dodávatelia pripájajú tie svoje rovnako a každá výmena údajov sa zaznamenáva.",
+        "points": [
+          "Profily, dopyty, objednávky, platby a zásoby, priebežne synchronizované",
+          "Akýkoľvek iný systém cez skladové API trhoviska, s vlastným kľúčom",
+          "Faktúry z účtovníctva dodávateľa prichádzajú na invoice@market.selyvo.com, kde sa prečítajú a skontrolujú",
+          "Každý e-mail s faktúrou obsahuje jej PDF aj súbor ISDOC pre účtovníctvo zákazníka"
+        ],
+        "yours": "Vaše účtovníctvo alebo ERP",
+        "market": "SELYVO Market",
+        "partners": "Systémy vašich zákazníkov a dodávateľov",
+        "carries": "Profily · dopyty · objednávky · platby · zásoby",
+        "api": "Akýkoľvek iný systém cez skladové API trhoviska",
+        "invoices": "Faktúry v PDF a ISDOC, skontrolované pri doručení",
+        "log": "Záznam každej výmeny údajov"
+      },
+      "check": {
+        "eyebrow": "Kontrola na SELYVO",
+        "title": "Každá prijatá faktúra najprv prejde kontrolou",
+        "text": "Či už príde e-mailom, ako súbor, cez MailChat, alebo od dodávateľa na SELYVO, faktúra sa skontroluje skôr, než sa na ňu ktokoľvek pozrie. Ak kontrolou neprejde, môže sa sama vrátiť dodávateľovi aj s tým, čo treba opraviť.",
+        "steps": [
+          [
+            "Prijatá",
+            "Na invoice@market.selyvo.com, zo súboru, cez MailChat alebo na SELYVO."
+          ],
+          [
+            "Skontrolovaná",
+            "Všetky zákonné náležitosti, vaše údaje v súlade so SELYVO, každá položka voči objednávke a nič viac, než ste prevzali."
+          ],
+          [
+            "Vrátená automaticky",
+            "Ak si to zvolíte: dodávateľ hneď dostane správu vo svojom jazyku aj s tým, čo má opraviť."
+          ],
+          [
+            "Nahradená",
+            "Opravená faktúra nahradí tú vrátenú. Z vrátenej sa nezaplatí nič."
+          ]
+        ],
+        "card": {
+          "title": "Kontrola SELYVO",
+          "ok1": "Všetky povinné náležitosti faktúry",
+          "ok2": "Vystavená na vaše údaje zo SELYVO",
+          "bad": "Dopravné 80,00 € nie je v objednávke",
+          "returned": "Automaticky vrátená dodávateľovi s pokynmi na opravu"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "B2B trhovisko len na pozvanie",
+        "title1": "Predávajte viac. Nakupujte múdrejšie.",
+        "title2": "Majte peniaze skôr.",
+        "lede": "Na SELYVO Market obchodujú overené firmy od prvého dopytu po zaplatenú faktúru: na jednom mieste a každý vo svojom jazyku.",
+        "cta": "Získať pozvánku",
+        "cta2": "Prehrať prehliadku",
+        "ticks": [
+          "Dohľadané v obchodnom registri",
+          "Preverené v sankčných zoznamoch",
+          "Ohodnotené pred prvým obchodom"
+        ],
+        "shotAlt": "Nákup na SELYVO Market: úspory, zostatok na úhradu, čo bolo prevzaté a vyfakturované, a nákupné úlohy, ktoré čakajú na vybavenie",
+        "offer": {
+          "title": "Ponuka prijatá",
+          "note": "Po vyjednávaní o 4,8 % menej"
+        },
+        "paid": {
+          "status": "Zaplatené",
+          "country": "Dánsko"
+        },
+        "facts": [
+          [
+            "3 kontroly",
+            "skôr než firma môže obchodovať: obchodný register, sankčné zoznamy a otázky SELYVO"
+          ],
+          [
+            "1 stopa",
+            "od dopytu po platbu, každý doklad vzniká z predchádzajúceho"
+          ],
+          [
+            "7 jazykov",
+            "v aplikácii, každý vo svojom; tento web a jeho videonávody v 15"
+          ],
+          [
+            "2 spôsoby platby",
+            "vopred kartou, alebo na faktúru po dodaní, ako rozhodne každý dodávateľ"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "Jedna platforma",
+          "title": "Celý obchod, obe strany, jedno miesto",
+          "lede": "Predaj, nákup, objednávky, faktúry a platby – každý krok vzniká z predchádzajúceho. Vaši zákazníci aj dodávatelia vidia rovnaký záznam ako vy.",
+          "items": [
+            [
+              "Predávajte viac",
+              "Nechajte sa nájsť overenými kupujúcimi vo svojich kategóriách. Odpovedajte na ich dopyty, posielajte cielené ponuky a sledujte každý obchodný prípad od prvého kontaktu po výhru.",
+              "Predaj na SELYVO"
+            ],
+            [
+              "Nakupujte múdrejšie",
+              "Porovnávajte ponuky po položkách od dodávateľov, o ktorých viete, že naozaj existujú: vašich súčasných, nových na SELYVO alebo tých, ktorých vám nájde AI.",
+              "Nákup na SELYVO"
+            ],
+            [
+              "Majte peniaze skôr",
+              "Fakturujte z objednávky s DPH podľa krajiny. Zákazník zaplatí kartou, alebo prevodom podľa faktúry na váš vlastný účet Revolut Business.",
+              "Faktúry a platby"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Predaj",
+            "title": "Každý prípad od prvého kontaktu po výhru",
+            "text": "Váš obchodný lievik podľa fáz, vaše prípady v zozname a vedľa neho vybraný prípad s ďalším krokom. Prípad sa posúva sám, ako prichádzajú dopyty, ponuky a objednávky.",
+            "points": [
+              "Noví záujemcovia z radov vašich zákazníkov, nových firiem alebo tých, ktoré nájde AI",
+              "Cielené ponuky zákazníkom, ktorých si vyberiete",
+              "Ponuky z katalógu propagované vo feedoch kupujúcich"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Nákup",
+            "title": "Porovnajte ponuky po položkách a objednajte tú najlepšiu",
+            "text": "Zverejnite dopyt s časťami a položkami, pozvite dodávateľov, ktorých si vyberiete, a uvidíte všetky ponuky vedľa seba. Z ponuky, ktorú prijmete, sa stane nákupná objednávka.",
+            "points": [
+              "Dopyt, ktorý AI prečíta z vašej špecifikácie",
+              "Hodnotenie každého dodávateľa pri jeho ponuke",
+              "AI vyjednávač, ktorý sa vás opýta, skôr než sa čokoľvek dohodne"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Faktúry a platby",
+            "title": "Fakturujte z objednávky. Majte peniaze včas.",
+            "text": "Faktúry vznikajú z objednávok s DPH podľa krajiny a s textami, ktoré daný prípad vyžaduje. Prijaté faktúry prečíta AI, na SELYVO sa skontrolujú voči objednávke a potom sa zaplatia.",
+            "points": [
+              "Platby kartou cez Stripe",
+              "Úhrady na váš vlastný účet Revolut Business",
+              "Faktúra, ktorá neprejde kontrolou, sa môže sama vrátiť dodávateľovi",
+              "Čo platíte vy a čo platia vám, vedľa seba"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Dôvera",
+          "title": "Každá firma tu naozaj existuje",
+          "lede": "Skôr než firma začne na SELYVO obchodovať, je dohľadaná, preverená a kvalifikovaná. Potom za ňu hovoria jej zákazníci."
+        },
+        "ai": {
+          "button": "Hľadať pomocou AI – asi 0,60 EUR",
+          "caption": "Skôr než AI začne hľadať dodávateľov, tlačidlo ukáže, koľko to bude stáť.",
+          "found": "Nájdených 8 dodávateľov",
+          "foundText": "Každý s hodnotením, kategóriami a oblasťami, kam dodáva."
+        },
+        "invite": {
+          "title": "Na SELYVO vás privedie pozvánka",
+          "text": "Každú firmu na SELYVO pozná aspoň jedna ďalšia. Požiadajte zákazníka alebo dodávateľa, ktorý je členom, aby vás pozval. Zatiaľ na SELYVO nikoho nepoznáte? Napíšte nám.",
+          "cta": "Ako získať pozvánku",
+          "mockWho": "vás pozýva na SELYVO Market",
+          "mockText": "Radi by sme od vás nakupovali na SELYVO. Pripojte sa ako náš dodávateľ a naše dopyty budete dostávať tam.",
+          "mockButton": "Stať sa ich dodávateľom",
+          "mockValid": "Jednorazová, platí 14 dní a len pre e-mailovú adresu, na ktorú prišla."
+        },
+        "faqAccounting": [
+          "Funguje to s naším účtovníctvom?",
+          "Áno. Pripojte svoje účtovníctvo alebo ERP v sekcii Prepojené systémy a zvoľte, čo sa má prenášať. Faktúry vystavené vo vlastnom účtovníctve môžete cez SELYVO poslať zo súboru a každý e-mail s faktúrou obsahuje jej PDF aj súbor ISDOC."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "Čo sa stane s faktúrou, ktorá nezodpovedá objednávke?",
+          "Počká na vás aj s výsledkom kontroly. Ak si to zvolíte, vráti sa sama dodávateľovi aj s tým, čo treba opraviť, a nahradí ju opravená faktúra."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Projekty",
+          "title": "Projekt aj s rozpočtom",
+          "text": "Projekt združuje svoje dopyty, objednávky, faktúry, výkazy práce a výdavky. Jeho rozpočet sa z nich počíta sám: objednané, čerpané a vyfakturované, vrátane odhadu pri dokončení.",
+          "points": [
+            "Míľniky, ktoré zákazník akceptuje a vy potom vyfakturujete",
+            "Tím: vaši ľudia aj ľudia vašich dodávateľov",
+            "Projekt môže sledovať aj zákazník"
+          ],
+          "tiles": [
+            "Rozpočet",
+            "Čerpané",
+            "Vyfakturované"
+          ],
+          "milestones": [
+            [
+              "1 · Konfigurácia portálu",
+              "Akceptované"
+            ],
+            [
+              "2 · Migrácia dodávateľov",
+              "Prebieha"
+            ],
+            [
+              "3 · Používateľská akceptácia",
+              "Plánované"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

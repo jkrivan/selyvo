@@ -1,0 +1,289 @@
+{
+  "common": {
+    "b": {
+      "simple": "Sencillo",
+      "compliant": "Legal",
+      "performing": "Eficaz",
+      "gtk": "Conviene saber",
+      "watchPart": "Ver esta parte del recorrido",
+      "fromStart": "Ver desde el principio",
+      "chaptersLabel": "Capítulos",
+      "tourNote": "El vídeo está en inglés.",
+      "next": "Siguiente paso",
+      "chapters": [
+        "Introducción",
+        "La página pública y cómo unirse",
+        "Inicio, Novedades y la Tienda",
+        "Ventas y clientes",
+        "Compras y proveedores",
+        "Pedidos",
+        "Facturas, comprobadas en SELYVO, y pagos",
+        "Gastos",
+        "Proyectos",
+        "MailChat, anuncios y existencias",
+        "Sistemas conectados",
+        "Conviene saber"
+      ],
+      "navTour": "Recorrido de 5 min",
+      "screensNote": "Las pantallas se muestran en inglés. La propia aplicación funciona en siete idiomas."
+    }
+  },
+  "pages": {
+    "index": {
+      "b": {
+        "pill": "El marketplace B2B solo por invitación",
+        "title": [
+          "Sencillo.",
+          "Legal.",
+          "Eficaz."
+        ],
+        "lede": "SELYVO Market es el mejor lugar para hacer negocios entre empresas verificadas. Compre, venda, facture y cobre en una sola plataforma, desde la primera solicitud hasta la factura pagada.",
+        "cta2": "Ver el recorrido de 5 minutos",
+        "factLang": [
+          "7 idiomas",
+          "en la aplicación, cada persona en el suyo; este sitio web, en 15"
+        ],
+        "pillars": {
+          "eyebrow": "Por qué SELYVO Market",
+          "title": "Tres promesas, cumplidas en cada pantalla",
+          "lede": "Todo lo que una empresa hace con sus clientes y proveedores: más sencillo, siempre en regla y pensado para dar resultados.",
+          "simple": {
+            "lead": "Un solo lugar para toda la operación",
+            "text": "Cada documento se crea a partir del anterior: una solicitud se convierte en oferta, pedido, entrega y factura. Nada se escribe dos veces y ambas partes ven el mismo registro.",
+            "points": [
+              "Lo que le espera, con su siguiente paso, en su página de Inicio",
+              "Todo su carrito, en una sola compra",
+              "En el navegador de un ordenador, una tableta o un móvil"
+            ],
+            "gtk": "El botón a la derecha de cada pestaña indica lo que crea; su flecha muestra las demás opciones."
+          },
+          "compliant": {
+            "lead": "Empresas reales, facturas en regla",
+            "text": "Los miembros se unen por invitación y, antes de operar, se localizan en su registro mercantil, se cotejan con las listas de sanciones y se cualifican. Las facturas cumplen la ley de cada país.",
+            "points": [
+              "Registro mercantil, NIF-IVA y listas de sanciones: todo comprobado",
+              "IVA, inversión del sujeto pasivo y menciones legales por país",
+              "Cada factura que recibe, comprobada según la ley y cotejada con su pedido"
+            ],
+            "gtk": "Una invitación funciona una sola vez, durante 14 días, y solo para la dirección de correo a la que se envió."
+          },
+          "performing": {
+            "lead": "Mejores precios, cobros más rápidos, menos trabajo",
+            "text": "Ofertas comparadas partida por partida, una IA que se encarga de la lectura y pagos directos a sus propias cuentas: así compra mejor, vende más y cobra antes.",
+            "points": [
+              "Ofertas una junto a otra, por lote y por partida",
+              "La IA encuentra proveedores y posibles clientes, y lee archivos, facturas y correos",
+              "Pagos con tarjeta a través de Stripe; transferencias conciliadas en su propia cuenta de Revolut Business"
+            ],
+            "gtk": "La IA indica cuánto costará antes de ponerse en marcha, y no se envía ni se acuerda nada hasta que una persona da su visto bueno."
+          }
+        },
+        "process": {
+          "eyebrow": "Cómo funciona",
+          "title": "De una idea a una factura pagada",
+          "lede": "Siete pasos, una sola cadena. Así transcurre una compra en SELYVO Market, en las pantallas reales.",
+          "steps": [
+            {
+              "title": "De la idea a la solicitud",
+              "text": "Describa lo que necesita o arrastre una especificación, un pliego de condiciones o un estado de mediciones: la IA rellena el título, la categoría, las partidas, la entrega y el presupuesto, y usted elige qué conservar.",
+              "gtk": "Una solicitud puede pedir a los proveedores que respondan primero a un cuestionario.",
+              "alt": "Una nueva solicitud en SELYVO Market: ¿qué necesita su empresa?"
+            },
+            {
+              "title": "Los proveedores adecuados, verificados",
+              "text": "Invite a sus propios proveedores o a empresas que ya están en SELYVO, o deje que la IA encuentre más: cada uno con su valoración, sus categorías y dónde entrega.",
+              "gtk": "Antes de que la IA busque, el botón indica cuánto costará: unos 0,60 EUR.",
+              "alt": "Proveedores encontrados por la IA para una solicitud, listos para revisar e invitar"
+            },
+            {
+              "title": "Ofertas, una junto a otra",
+              "text": "Cada proveedor responde en SELYVO. Usted ve quién enviará una oferta, compara las ofertas partida por partida y elige la mejor.",
+              "gtk": "Los proveedores encontrados por la IA reciben una invitación por correo y pueden unirse a SELYVO para enviar su oferta.",
+              "alt": "Una solicitud abierta a ofertas: quién enviará la suya y dos ofertas para comparar"
+            },
+            {
+              "title": "El pedido",
+              "text": "La oferta que acepte se convierte en el pedido de compra. El proveedor lo acepta y ambas partes siguen un mismo estado: abierto, por recibir, recibido, facturado, pagado.",
+              "gtk": "Cada proveedor decide cómo cobra: por adelantado con tarjeta o con factura tras la entrega.",
+              "alt": "Pedidos: cada pedido de compra con su estado, su recepción y su factura"
+            },
+            {
+              "title": "Entregado y recibido",
+              "text": "Con la mercancía llega un albarán. Usted confirma lo que ha llegado, en su totalidad o en parte, y el pedido avanza por sí solo; las existencias de los artículos que controla se actualizan automáticamente.",
+              "gtk": "¿Algo no está bien? Indíquelo en el albarán y se avisa al momento al proveedor.",
+              "alt": "Confirmación de lo recibido en un albarán"
+            },
+            {
+              "title": "La factura, comprobada en SELYVO",
+              "text": "El proveedor emite la factura desde el pedido. Antes de que nadie la vea, SELYVO comprueba todos los campos que exige la ley y sus datos, y coteja cada línea con el pedido y con lo recibido.",
+              "gtk": "Si así lo decide, una factura que no supera la comprobación vuelve automáticamente a su proveedor, con lo que hay que corregir.",
+              "alt": "Una factura comprobada en SELYVO: una línea no figura en el pedido y la factura vuelve al proveedor"
+            },
+            {
+              "title": "Pagada y marcada como pagada",
+              "text": "Pague las facturas aprobadas directamente desde su propia cuenta de Revolut Business, a su vencimiento o ahora mismo. Cuando llega el dinero, ambas partes ven la factura como pagada.",
+              "gtk": "Dentro del límite que fije, los pagos salen al momento; por encima, esperan a sus aprobadores en Revolut.",
+              "alt": "Facturas aprobadas, pagadas desde Revolut Business"
+            }
+          ]
+        },
+        "compare": {
+          "eyebrow": "El mejor lugar para hacer negocios",
+          "title": "Menos idas y venidas. Más negocio.",
+          "lede": "Lo que cambia cuando sus clientes y proveedores están en SELYVO Market.",
+          "without": "Sin SELYVO",
+          "with": "Con SELYVO Market",
+          "rows": [
+            [
+              "Encontrar proveedores",
+              "Buscar, preguntar a conocidos, esperar respuestas",
+              "Proveedores verificados por categoría o encontrados por la IA, cada uno con su valoración"
+            ],
+            [
+              "Ofertas",
+              "Adjuntos en todos los formatos, comparados a mano",
+              "Ofertas una junto a otra, por lote y por partida"
+            ],
+            [
+              "Pedidos",
+              "Tecleados de nuevo y con seguimiento por correo",
+              "La oferta aceptada se convierte en el pedido, con un mismo estado para ambas partes"
+            ],
+            [
+              "Facturas",
+              "Cotejadas a mano con el pedido",
+              "Comprobadas en SELYVO según la ley y el pedido y, si así lo decide, devueltas automáticamente cuando hay errores"
+            ],
+            [
+              "Cobrar",
+              "Recordatorios y transferencias conciliadas a mano",
+              "Pagos con tarjeta y transferencias conciliadas en su propia cuenta de Revolut Business"
+            ]
+          ]
+        },
+        "gtk": {
+          "title": "Los detalles que ahorran tiempo cada día",
+          "lede": "Pequeñas cosas que los miembros notan el primer día y que agradecen cada día desde entonces.",
+          "items": [
+            "Las pestañas siguen lo que usted hace (compras, ventas, contabilidad, proyectos), según lo que elija en sus Preferencias.",
+            "El botón de la derecha siempre indica lo que crea; su flecha muestra las demás opciones.",
+            "Su página de Inicio se adapta a su rol y a su estilo: trabajo diario, rendimiento o planificación.",
+            "La IA muestra su coste antes de ponerse en marcha, y no se envía, acuerda ni registra nada hasta que una persona da su visto bueno.",
+            "Cada proveedor decide cómo cobra: por adelantado con tarjeta o con factura tras la entrega.",
+            "Toda factura lleva el IVA por país, las menciones que exige la ley, su PDF y su archivo ISDOC.",
+            "Su empresa tiene su propia dirección de correo de SELYVO: si un correo trae un pedido o una factura, la IA lo lee y se lo deja preparado.",
+            "Próximamente: el negociador de IA, transporte y almacenaje, analítica, documentos y firma."
+          ]
+        },
+        "video": {
+          "eyebrow": "Vídeo",
+          "title": "Vea SELYVO Market en cinco minutos",
+          "lede": "Todo el mercado, pantalla a pantalla. Véalo de principio a fin o vaya directamente a la parte que necesite."
+        }
+      }
+    },
+    "spend-control": {
+      "b": {
+        "pillars": [
+          "Una solicitud en cinco pasos, escrita o leída por la IA a partir de su especificación.",
+          "Solo proveedores verificados, cada uno con su valoración; todos los que han ofertado reciben aviso de cada cambio.",
+          "Ofertas comparadas partida por partida y por lote; la mejor se convierte en pedido con un clic."
+        ],
+        "gtk": [
+          "Antes de que la IA busque proveedores, el botón indica cuánto costará.",
+          "Los proveedores encontrados por la IA reciben una invitación por correo y pueden unirse a SELYVO para enviar su oferta.",
+          "Usted decide hasta cuándo se aceptan ofertas: puede ampliar el plazo o dejar de recibirlas en cualquier momento."
+        ]
+      }
+    },
+    "revenue-acceleration": {
+      "b": {
+        "pillars": [
+          "Su embudo de ventas por fases y sus casos en una sola lista, cada uno con su siguiente paso.",
+          "Usted vende solo a empresas verificadas: localizadas en el registro mercantil y comprobadas antes de operar.",
+          "Nuevos interesados entre sus clientes, empresas nuevas o posibles clientes que encuentra la IA; ofertas dirigidas; anuncios promocionados en las Novedades de los compradores."
+        ],
+        "gtk": [
+          "Un caso avanza solo a medida que llegan solicitudes, ofertas y pedidos.",
+          "Un nuevo interesado puede llegar por tres vías: un cliente suyo, un cliente nuevo o posibles clientes que encuentra la IA.",
+          "Cada anuncio muestra sus ingresos y su margen."
+        ]
+      }
+    },
+    "inventory-control": {
+      "b": {
+        "pillars": [
+          "Pedidos de compra y de venta en una sola lista: abiertos, por recibir, recibidos, por facturar.",
+          "El albarán que usted confirma es su entrada de mercancía y queda archivado con el pedido.",
+          "Entregas por partes, y cada albarán propone solo lo pendiente; la factura sigue a la recepción."
+        ],
+        "gtk": [
+          "¿Algo no está bien en una entrega? Indíquelo en el albarán y se avisa al momento al proveedor.",
+          "Las existencias de los artículos que controla se actualizan solas al confirmar lo recibido.",
+          "Lo que se está agotando vuelve a su carrito con un clic."
+        ]
+      }
+    },
+    "finance-administration": {
+      "b": {
+        "pillars": [
+          "Facturas creadas a partir de sus pedidos en un momento; las que recibe, leídas por la IA desde un archivo o desde su buzón.",
+          "IVA, inversión del sujeto pasivo y menciones legales por país; cada factura que recibe, comprobada en SELYVO.",
+          "Pagos con tarjeta a través de Stripe y transferencias conciliadas en su propia cuenta de Revolut Business."
+        ],
+        "gtk": [
+          "Una factura que no supera la comprobación puede volver automáticamente a su proveedor, con lo que hay que corregir.",
+          "Cada factura enviada por correo lleva adjuntos su PDF y su archivo ISDOC.",
+          "Los pagos dentro de su límite salen al momento; por encima, esperan a sus aprobadores en Revolut."
+        ]
+      }
+    },
+    "operational-scale": {
+      "b": {
+        "pillars": [
+          "Partes de horas semana a semana, gastos a partir de una foto del recibo y una sola factura para ambos.",
+          "Las reglas de cada cliente: partes de horas aprobados antes de la factura, adjuntos a ella o no necesarios.",
+          "El presupuesto de un proyecto se calcula solo: comprometido, real y facturado, con una previsión al cierre."
+        ],
+        "gtk": [
+          "Las normas de su país determinan qué parte del IVA de un gasto se puede deducir.",
+          "El tiempo propio (preventa, licitaciones, formación) se contabiliza a tarifas internas y nunca llega a un cliente.",
+          "MailChat da a su empresa su propia dirección de correo de SELYVO."
+        ]
+      }
+    },
+    "compliance-by-design": {
+      "b": {
+        "pillars": [
+          "Unirse solo lleva unos pasos: los datos de su empresa vienen del registro mercantil.",
+          "Solo por invitación; registro, NIF-IVA y listas de sanciones comprobados; una primera valoración a partir de las preguntas de SELYVO.",
+          "Las reseñas de los clientes siguen a cada pedido completado, y la valoración de cada proveedor aparece junto a su oferta."
+        ],
+        "gtk": [
+          "Una invitación funciona una sola vez, durante 14 días, y solo para la dirección de correo a la que se envió.",
+          "Cada documento conserva su historial: quién cambió qué y cuándo.",
+          "Los secretos se quedan en el servidor: de una clave de API solo se muestran el principio y el final."
+        ]
+      }
+    },
+    "operating-layer": {
+      "b": {
+        "pillars": [
+          "Su propio espacio de trabajo para proveedores, cuestionarios, catálogos y flujos de aprobación.",
+          "Cuestionarios con pruebas, versiones y aprobaciones; se conservan todas las respuestas.",
+          "Conectado a SELYVO Market: perfiles, solicitudes y pedidos sincronizados en ambos sentidos."
+        ],
+        "gtk": [
+          "SELYVO Core se conecta a SELYVO Market en Sistemas conectados.",
+          "Los cuestionarios de SELYVO Core llegan a sus proveedores en SELYVO Market.",
+          "Core funciona junto a los sistemas que ya utiliza."
+        ]
+      }
+    },
+    "thank-you": {
+      "b": {
+        "lede": "Le responderemos por correo electrónico. Mientras tanto, vea el recorrido de cinco minutos o lea cómo unirse."
+      }
+    }
+  }
+}

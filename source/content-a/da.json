@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "Nyhed",
+      "videoGuide": "Videoguide",
+      "watchIt": "Se videoen",
+      "product": "Produkt",
+      "getInvited": "Bliv inviteret",
+      "illustrative": "Virksomheder og tal i eksemplerne på denne side er kun til illustration.",
+      "tour": {
+        "title": "SELYVO Market på fem minutter",
+        "text": "Hele SELYVO Market, skærmbillede for skærmbillede: salg og køb, ordrer, fakturaer kontrolleret hos SELYVO, udlæg, projekter, MailChat, lager og forbundne systemer."
+      },
+      "connect": {
+        "eyebrow": "Forbundne systemer",
+        "title": "Fungerer med de systemer, du allerede bruger",
+        "text": "Forbind dit bogførings- eller ERP-system, og vælg, hvad der overføres, hvor ofte og til hvilke af dets felter. Dine kunder og leverandører forbinder deres på samme måde, og hver udveksling logges.",
+        "points": [
+          "Profiler, forespørgsler, ordrer, betalinger og lager holdes synkroniseret",
+          "Ethvert andet system via markedspladsens lager-API, med sin egen nøgle",
+          "Fakturaer fra en leverandørs bogføringssystem modtages på invoice@market.selyvo.com, læses og kontrolleres",
+          "Hver fakturamail har både PDF- og ISDOC-fil vedhæftet – klar til kundens bogholderi"
+        ],
+        "yours": "Dit bogføringssystem eller ERP",
+        "market": "SELYVO Market",
+        "partners": "Dine kunders og leverandørers systemer",
+        "carries": "Profiler · forespørgsler · ordrer · betalinger · lager",
+        "api": "Ethvert andet system via markedspladsens lager-API",
+        "invoices": "Fakturaer som PDF og ISDOC, kontrolleret ved modtagelsen",
+        "log": "Hver udveksling logges"
+      },
+      "check": {
+        "eyebrow": "Kontrolleret hos SELYVO",
+        "title": "Hver faktura, du modtager, kontrolleres først",
+        "text": "En faktura bliver kontrolleret, før nogen ser på den – uanset om den kommer via e-mail, som fil, gennem MailChat eller fra en leverandør på SELYVO. Består den ikke kontrollen, kan den automatisk gå retur til leverandøren med besked om, hvad der skal rettes.",
+        "steps": [
+          [
+            "Modtaget",
+            "På invoice@market.selyvo.com, fra en fil, gennem MailChat eller på SELYVO."
+          ],
+          [
+            "Kontrolleret",
+            "Alle lovpligtige felter, dine oplysninger som på SELYVO, hver linje op mod ordren – og ikke mere, end du har modtaget."
+          ],
+          [
+            "Sendt automatisk retur",
+            "Hvis du vælger det: Leverandøren får straks besked på sit eget sprog om, hvad der skal rettes."
+          ],
+          [
+            "Erstattet",
+            "Den rettede faktura træder i stedet for den returnerede. Intet af den returnerede bliver betalt."
+          ]
+        ],
+        "card": {
+          "title": "SELYVOs kontrol",
+          "ok1": "Alle felter, en faktura skal indeholde",
+          "ok2": "Udstedt til dig, som på SELYVO",
+          "bad": "Levering på 80,00 € står ikke i ordren",
+          "returned": "Sendt automatisk retur til leverandøren med det, der skal rettes"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "B2B-markedsplads kun efter invitation",
+        "title1": "Sælg mere. Køb klogere.",
+        "title2": "Få betalt hurtigere.",
+        "lede": "På SELYVO Market handler verificerede virksomheder med hinanden, fra den første forespørgsel til den betalte faktura – samlet ét sted og på hver enkelts eget sprog.",
+        "cta": "Bliv inviteret",
+        "cta2": "Se gennemgangen",
+        "ticks": [
+          "Fundet i erhvervsregistret",
+          "Tjekket mod sanktionslister",
+          "Vurderet før første handel"
+        ],
+        "shotAlt": "Indkøb på SELYVO Market: besparelser, den åbne saldo, det modtagne og fakturerede samt det indkøbsarbejde, der venter",
+        "offer": {
+          "title": "Tilbud accepteret",
+          "note": "4,8 % mindre efter forhandling"
+        },
+        "paid": {
+          "status": "Betalt",
+          "country": "Danmark"
+        },
+        "facts": [
+          [
+            "3 kontroller",
+            "før en virksomhed kan handle: erhvervsregistret, sanktionslister og SELYVOs spørgsmål"
+          ],
+          [
+            "1 spor",
+            "fra forespørgsel til betaling – hvert dokument lavet ud fra det forrige"
+          ],
+          [
+            "7 sprog",
+            "i appen, hver person på sit eget; dette website og dets guider på 15"
+          ],
+          [
+            "2 betalingsmåder",
+            "med kort på forhånd eller på faktura efter levering – som hver leverandør bestemmer"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "Én platform",
+          "title": "Hele handlen, begge parter, ét sted",
+          "lede": "Salg, køb, ordrer, fakturaer og betalinger – hvert trin lavet ud fra det forrige. Dine kunder og leverandører ser de samme oplysninger som du.",
+          "items": [
+            [
+              "Sælg mere",
+              "Bliv fundet af verificerede indkøbere i dine kategorier. Besvar deres forespørgsler, send målrettede tilbud, og følg hver sag fra det første lead til den vundne handel.",
+              "Salg på SELYVO"
+            ],
+            [
+              "Køb klogere",
+              "Sammenlign tilbud linje for linje fra leverandører, du ved er ægte: dine egne, nye på SELYVO eller dem, AI finder til dig.",
+              "Indkøb på SELYVO"
+            ],
+            [
+              "Få betalt hurtigere",
+              "Fakturer ud fra ordren med moms efter land. Din kunde betaler med kort eller på faktura til din egen Revolut Business-konto.",
+              "Fakturaer og betalinger"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Salg",
+            "title": "Hver sag – fra første lead til vundet handel",
+            "text": "Din pipeline fordelt på faser, dine sager i en liste og den valgte sag ved siden af med næste skridt. En sag rykker selv videre, når forespørgsler, tilbud og ordrer kommer ind.",
+            "points": [
+              "Nye leads fra dine kunder, nye virksomheder eller kundeemner, som AI finder",
+              "Målrettede tilbud til de kunder, du vælger",
+              "Annoncer promoveret i indkøbernes feeds"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Indkøb",
+            "title": "Sammenlign tilbud linje for linje, og bestil det bedste",
+            "text": "Offentliggør en forespørgsel med delaftaler og linjer, inviter de leverandører, du vælger, og se alle tilbud side om side. Det tilbud, du accepterer, bliver til indkøbsordren.",
+            "points": [
+              "En forespørgsel læst af AI fra din specifikation",
+              "Hver leverandørs vurdering ved siden af tilbuddet",
+              "En AI-forhandlingsagent, der spørger dig, før noget aftales"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Fakturaer og betalinger",
+            "title": "Fakturer ud fra ordren. Få betalt til tiden.",
+            "text": "Fakturaer laves ud fra ordren med moms efter land og den tekst, hvert tilfælde kræver. Fakturaer, du modtager, læses af AI, kontrolleres hos SELYVO op mod ordren og betales derefter.",
+            "points": [
+              "Kortbetaling via Stripe",
+              "Indbetaling på din egen Revolut Business-konto",
+              "En faktura, der ikke består kontrollen, kan automatisk gå retur til leverandøren",
+              "Det, du betaler, og det, du får betalt, side om side"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Tillid",
+          "title": "Alle virksomheder her er ægte",
+          "lede": "Før en virksomhed handler på SELYVO, bliver den fundet, kontrolleret og kvalificeret. Derefter er det kunderne, der taler for den."
+        },
+        "ai": {
+          "button": "Søg med AI – ca. 0,60 EUR",
+          "caption": "Før AI søger efter leverandører, viser knappen, hvad det vil koste.",
+          "found": "8 leverandører fundet",
+          "foundText": "Hver med sin vurdering, sine kategorier og sit leveringsområde."
+        },
+        "invite": {
+          "title": "SELYVO er kun for inviterede",
+          "text": "Hver virksomhed på SELYVO er kendt af mindst én anden. Bed en kunde eller leverandør, der er medlem, om at invitere dig. Kender du endnu ingen på SELYVO? Så skriv til os.",
+          "cta": "Sådan bliver du inviteret",
+          "mockWho": "inviterer dig til SELYVO Market",
+          "mockText": "Vi vil gerne købe hos jer på SELYVO. Bliv medlem som vores leverandør, så får I vores forespørgsler der.",
+          "mockButton": "Bliv medlem som deres leverandør",
+          "mockValid": "Gælder én gang, i 14 dage, og kun for den e-mailadresse, den er sendt til."
+        },
+        "faqAccounting": [
+          "Fungerer det med vores bogholderi?",
+          "Ja. Forbind jeres bogførings- eller ERP-system under Forbundne systemer, og vælg, hvad der overføres. Fakturaer fra jeres eget bogholderi kan sendes via SELYVO fra en fil, og hver fakturamail har både PDF- og ISDOC-fil vedhæftet."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "Hvad sker der med en faktura, der ikke stemmer overens med ordren?",
+          "Den venter på dig sammen med det, kontrollen fandt. Hvis du vælger det, går den automatisk retur til leverandøren med besked om, hvad der skal rettes, og den rettede faktura træder i dens sted."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Projekter",
+          "title": "Et projekt med sit eget budget",
+          "text": "Et projekt samler sine forespørgsler, ordrer, fakturaer, timesedler og udlæg. Budgettet opgøres automatisk ud fra dem: disponeret, realiseret og faktureret – med en prognose for slutresultatet.",
+          "points": [
+            "Milepæle, der godkendes af kunden og derefter faktureres",
+            "Teamet: dine egne folk og dine leverandørers",
+            "Kunden kan også følge projektet"
+          ],
+          "tiles": [
+            "Budget",
+            "Realiseret",
+            "Faktureret"
+          ],
+          "milestones": [
+            [
+              "1 · Portal konfigureret",
+              "Godkendt"
+            ],
+            [
+              "2 · Leverandører migreret",
+              "I gang"
+            ],
+            [
+              "3 · Brugeraccept",
+              "Planlagt"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

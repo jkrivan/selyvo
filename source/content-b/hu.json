@@ -1,0 +1,289 @@
+{
+  "common": {
+    "b": {
+      "simple": "Egyszerű",
+      "compliant": "Jogszerű",
+      "performing": "Hatékony",
+      "gtk": "Jó tudni",
+      "watchPart": "Nézze meg a bemutató ezen részét",
+      "fromStart": "Nézze meg az elejétől",
+      "chaptersLabel": "Fejezetek",
+      "tourNote": "A videó angol nyelvű.",
+      "next": "Következő lépés",
+      "chapters": [
+        "Kezdés",
+        "Nyilvános főoldal és csatlakozás",
+        "Kezdőlap, hírfolyam és áruház",
+        "Értékesítés és ügyfelek",
+        "Beszerzés és beszállítók",
+        "Megrendelések",
+        "Számlák, SELYVO-ellenőrzés és kifizetések",
+        "Költségek",
+        "Projektek",
+        "MailChat, hirdetések és készlet",
+        "Csatlakoztatott rendszerek",
+        "Jó tudni"
+      ],
+      "navTour": "5 perces bemutató",
+      "screensNote": "A bemutatott képernyők angol nyelvűek. Maga az alkalmazás hét nyelven működik."
+    }
+  },
+  "pages": {
+    "index": {
+      "b": {
+        "pill": "A meghívásos B2B piactér",
+        "title": [
+          "Egyszerű.",
+          "Jogszerű.",
+          "Hatékony."
+        ],
+        "lede": "A SELYVO Market a legjobb hely az ellenőrzött cégek közötti üzletkötéshez. Vásároljon, adjon el, számlázzon és kapja meg a pénzét egy helyen – az első ajánlatkéréstől a kifizetett számláig.",
+        "cta2": "Nézze meg az 5 perces bemutatót",
+        "factLang": [
+          "7 nyelv",
+          "az alkalmazásban, mindenki a saját nyelvén; ez a weboldal 15 nyelven"
+        ],
+        "pillars": {
+          "eyebrow": "Miért a SELYVO Market",
+          "title": "Három ígéret, minden képernyőn betartva",
+          "lede": "Minden, amit egy cég az ügyfeleivel és a beszállítóival intéz – egyszerűen, jogszerűen, hatékonyan.",
+          "simple": {
+            "lead": "A teljes üzlet egy helyen",
+            "text": "Minden dokumentum az előzőből készül: az ajánlatkérésből ajánlat, megrendelés, szállítás és számla lesz. Semmit sem kell kétszer begépelni, és mindkét fél ugyanazt látja.",
+            "points": [
+              "A kezdőlapján: ami Önre vár, a következő lépéssel együtt",
+              "Egyszerre rendelheti meg a kosár teljes tartalmát",
+              "Böngészőben, számítógépen, táblagépen vagy telefonon"
+            ],
+            "gtk": "A gomb minden fül jobb oldalán megmondja, mit hoz létre; a nyilával a többit is elérheti."
+          },
+          "compliant": {
+            "lead": "Minden cég valódi, minden számla helyes",
+            "text": "A tagok meghívással csatlakoznak, és mielőtt kereskednének, a cégjegyzékből azonosítjuk, szankciós listákon ellenőrizzük és minősítjük őket. A számlák az adott ország jogszabályai szerint készülnek.",
+            "points": [
+              "Cégjegyzék, adószám és szankciós listák ellenőrizve",
+              "Áfa, fordított adózás és jogszabályi szövegezés országonként",
+              "Minden beérkező számla ellenőrizve a jogszabályok és a megrendelése alapján"
+            ],
+            "gtk": "A meghívó egyszer használható, 14 napig érvényes, és csak azzal az e-mail-címmel, amelyre küldték."
+          },
+          "performing": {
+            "lead": "Jobb árak, gyorsabb bevétel, kevesebb munka",
+            "text": "Tételenként összevetett ajánlatok, az olvasást átvállaló MI és közvetlenül a saját bankszámláira érkező kifizetések – így okosabban vásárol, többet ad el, és hamarabb megkapja a pénzét.",
+            "points": [
+              "Ajánlatok egymás mellett, részenként és tételenként",
+              "Az MI beszállítókat és potenciális vevőket talál, fájlokat, számlákat és e-maileket olvas be",
+              "Kártyás fizetés a Stripe-on keresztül; átutalások párosítva a saját Revolut Business-fiókjában"
+            ],
+            "gtk": "Az MI előre megmutatja, mennyibe kerül – és elküldeni vagy megállapodni csak akkor lehet, ha egy ember jóváhagyja."
+          }
+        },
+        "process": {
+          "eyebrow": "Így működik",
+          "title": "Az ötlettől a kifizetett számláig",
+          "lede": "Hét lépés, egyetlen bizonylatlánc. Így zajlik egy beszerzés a SELYVO Marketen – közvetlenül a termékben bemutatva.",
+          "steps": [
+            {
+              "title": "Az ötletből ajánlatkérés lesz",
+              "text": "Írja le, mire van szüksége, vagy töltsön fel egy specifikációt, tenderdokumentációt vagy árazatlan költségvetést: az MI kitölti a címet, a kategóriát, a tételeket, a szállítást és a keretet – Ön dönti el, mit tart meg.",
+              "gtk": "Az ajánlatkérés előírhatja, hogy a beszállítók először egy kérdőívet töltsenek ki.",
+              "alt": "Új ajánlatkérés a SELYVO Marketen: mire van szüksége a cégének?"
+            },
+            {
+              "title": "A megfelelő beszállítók, ellenőrizve",
+              "text": "Hívja meg saját beszállítóit, a SELYVO-n már jelen lévő cégeket, vagy hagyja, hogy az MI találjon továbbiakat – mindegyiket az értékelésével, a kategóriáival és a szállítási területével.",
+              "gtk": "Mielőtt az MI keresni kezd, a gomb megmutatja, mennyibe kerül: kb. 0,60 EUR.",
+              "alt": "Az MI által egy ajánlatkéréshez talált beszállítók, mindegyik ellenőrizhető és meghívható"
+            },
+            {
+              "title": "Ajánlatok egymás mellett",
+              "text": "Minden beszállító a SELYVO-n válaszol. Látja, ki fog ajánlatot küldeni, tételenként összeveti az ajánlatokat, és kiválasztja a legjobbat.",
+              "gtk": "Az MI által talált beszállítók e-mailben kapnak meghívót, és csatlakozhatnak a SELYVO-hoz, hogy elküldjék ajánlatukat.",
+              "alt": "Ajánlatokat fogadó ajánlatkérés: ki fog ajánlatot küldeni, és két összevethető ajánlat"
+            },
+            {
+              "title": "A megrendelés",
+              "text": "Az elfogadott ajánlatból lesz a beszerzési megrendelés. A beszállító elfogadja, és mindkét fél ugyanazt az állapotot követi: nyitott, átvételre vár, átvéve, számlázva, kifizetve.",
+              "gtk": "Minden beszállító maga dönti el, hogyan kapja meg a pénzét: előre kártyával, vagy szállítás után számla alapján.",
+              "alt": "Megrendelések: minden beszerzési megrendelés az állapotával, az átvételével és a számlájával"
+            },
+            {
+              "title": "Leszállítva és átvéve",
+              "text": "Az áruval együtt szállítólevél érkezik. Ön visszaigazolja a teljes vagy részleges átvételt, a megrendelés pedig magától továbblép; a raktáron tartott áruk automatikusan bekerülnek a készletbe.",
+              "gtk": "Valami nincs rendben? Jelezze a szállítólevélen, és a beszállító azonnal értesítést kap.",
+              "alt": "Az érkezett áru visszaigazolása a szállítólevélen"
+            },
+            {
+              "title": "A SELYVO által ellenőrzött számla",
+              "text": "A beszállító a megrendelésből számláz. Mielőtt bárki megnézné, a SELYVO ellenőrzi a jogszabályban előírt összes adatot és az Ön adatait, és minden tételt összevet a megrendeléssel és az átvett mennyiséggel.",
+              "gtk": "Ha így dönt, az ellenőrzésen fennakadt számla automatikusan visszamegy a beszállítójához, a javítandók megjelölésével.",
+              "alt": "A SELYVO által ellenőrzött számla: egy tétel nem szerepel a megrendelésben, ezért a számla visszament a beszállítóhoz"
+            },
+            {
+              "title": "Kifizetve – és kipipálva",
+              "text": "Fizesse ki a jóváhagyott számlákat közvetlenül a saját Revolut Business-fiókjából, esedékességkor vagy azonnal. Amint megérkezik a pénz, mindkét fél kifizetettnek látja a számlát.",
+              "gtk": "Az Ön által megadott limitig a kifizetések azonnal elindulnak; felette a jóváhagyóira várnak a Revolutban.",
+              "alt": "Jóváhagyott számlák kifizetése a Revolut Businessből"
+            }
+          ]
+        },
+        "compare": {
+          "eyebrow": "A legjobb hely az üzletkötéshez",
+          "title": "Kevesebb utánajárás. Több üzlet.",
+          "lede": "Ez változik, ha ügyfelei és beszállítói a SELYVO Marketen vannak.",
+          "without": "SELYVO nélkül",
+          "with": "SELYVO Markettel",
+          "rows": [
+            [
+              "Beszállítók keresése",
+              "Keresgélés, kérdezősködés, várakozás a válaszokra",
+              "Ellenőrzött beszállítók kategóriánként – vagy az MI által találtak, mindegyik az értékelésével"
+            ],
+            [
+              "Ajánlatok",
+              "Mindenféle formátumú mellékletek, kézzel összevetve",
+              "Ajánlatok egymás mellett, részenként és tételenként"
+            ],
+            [
+              "Megrendelések",
+              "Újragépelve, majd e-mailben nyomon követve",
+              "Az elfogadott ajánlatból lesz a megrendelés – közös állapot mindkét félnek"
+            ],
+            [
+              "Számlák",
+              "Kézzel összevetve a megrendeléssel",
+              "A SELYVO a jogszabályok és a megrendelés alapján ellenőrzi, és ha így dönt, hiba esetén automatikusan visszaküldi"
+            ],
+            [
+              "Bejövő fizetések",
+              "Fizetési emlékeztetők és kézzel párosított átutalások",
+              "Kártyás fizetés és a saját Revolut Business-fiókjában párosított átutalások"
+            ]
+          ]
+        },
+        "gtk": {
+          "title": "Részletek, amelyek naponta időt takarítanak meg",
+          "lede": "Apróságok, amelyeket a tagok már az első napon észrevesznek – és utána minden nap örülnek nekik.",
+          "items": [
+            "A fülek az Ön munkájához igazodnak – beszerzés, értékesítés, könyvelés, projektek –, ahogy a beállításaiban megadja.",
+            "A jobb oldali gomb mindig megmondja, mit hoz létre; a nyilával a többit is elérheti.",
+            "A kezdőlap az Öné: az Ön szerepkörére szabva, az Ön stílusában – napi munka, teljesítmény vagy tervezés.",
+            "Az MI előre megmutatja a költségét, elküldeni, megállapodni vagy könyvelni pedig csak akkor lehet, ha egy ember jóváhagyja.",
+            "Minden beszállító maga dönti el, hogyan kapja meg a pénzét: előre kártyával, vagy szállítás után számla alapján.",
+            "Minden számla tartalmazza az országonkénti áfát, a jogszabályban előírt szövegezést, a PDF-et és az ISDOC-fájlt.",
+            "Cége saját e-mail-címet kap a SELYVO-n: az e-mailben érkező megrendelést vagy számlát az MI beolvassa, és előkészíti Önnek.",
+            "Hamarosan: MI-tárgyaló, szállítmányozás és raktározás, elemzések, dokumentumok és aláírás."
+          ]
+        },
+        "video": {
+          "eyebrow": "Videó",
+          "title": "Ismerje meg a SELYVO Marketet öt perc alatt",
+          "lede": "A piactér minden része, közvetlenül a termékben bemutatva. Nézze meg az elejétől a végéig, vagy ugorjon arra a részre, amelyre szüksége van."
+        }
+      }
+    },
+    "spend-control": {
+      "b": {
+        "pillars": [
+          "Ajánlatkérés öt lépésben – begépelve, vagy az MI által a specifikációjából beolvasva.",
+          "Csak ellenőrzött beszállítók, mindegyik az értékelésével; aki ajánlatot tett, minden változásról értesítést kap.",
+          "Tételenként és részenként összevetett ajánlatok; a legjobból egyetlen kattintással megrendelés lesz."
+        ],
+        "gtk": [
+          "Mielőtt az MI beszállítókat keresne, a gomb megmutatja, mennyibe kerül a keresés.",
+          "Az MI által talált beszállítók e-mailben kapnak meghívót, és csatlakozhatnak a SELYVO-hoz, hogy elküldjék ajánlatukat.",
+          "Ön dönti el, meddig lehet ajánlatot tenni – a határidőt bármikor elhalaszthatja, vagy le is zárhatja az ajánlattételt."
+        ]
+      }
+    },
+    "revenue-acceleration": {
+      "b": {
+        "pillars": [
+          "Értékesítési tölcsére szakaszonként, üzletei egy listában, mindegyik a következő lépéssel.",
+          "Csak ellenőrzött cégeknek értékesít – a cégjegyzékből azonosítva és ellenőrizve, mielőtt kereskednének.",
+          "Új érdeklődők meglévő ügyfeleitől, új cégektől vagy az MI által talált potenciális vevők közül; célzott ajánlatok; népszerűsített hirdetések a vevők hírfolyamában."
+        ],
+        "gtk": [
+          "Az üzlet magától lép tovább, ahogy beérkeznek az ajánlatkérések, az ajánlatok és a megrendelések.",
+          "Az új érdeklődőhöz három ajtó vezet: egy meglévő ügyfele, egy új ügyfél vagy az MI által talált potenciális vevők.",
+          "Minden hirdetésnél látja az árbevételt és az árrést."
+        ]
+      }
+    },
+    "inventory-control": {
+      "b": {
+        "pillars": [
+          "Beszerzési és értékesítési megrendelések egy listában: nyitott, átvételre vár, átvéve, számlázandó.",
+          "A visszaigazolt szállítólevél egyben az Ön áruátvételi bizonylata, a megrendelés mellett tárolva.",
+          "Részszállítások, minden szállítólevélen csak a még hátralévő tételekkel; a számla az átvételt követi."
+        ],
+        "gtk": [
+          "Valami nincs rendben egy szállítással? Jelezze a szállítólevélen – a beszállító azonnal értesítést kap.",
+          "A raktáron tartott áruk automatikusan bekerülnek a készletbe, amikor visszaigazolja, mi érkezett meg.",
+          "Ami fogyóban van, egy kattintással újra a kosarába kerül."
+        ]
+      }
+    },
+    "finance-administration": {
+      "b": {
+        "pillars": [
+          "Számlák pillanatok alatt elkészítve a megrendelésekből; a beérkező számlákat az MI olvassa be fájlból vagy a postafiókjából.",
+          "Áfa, fordított adózás és jogszabályi szövegezés országonként; minden beérkező számlát a SELYVO ellenőriz.",
+          "Kártyás fizetés a Stripe-on keresztül, és a saját Revolut Business-fiókjában párosított átutalások."
+        ],
+        "gtk": [
+          "Az ellenőrzésen fennakadt számla automatikusan visszamehet a beszállítójához, a javítandók megjelölésével.",
+          "Minden számlaértesítő e-mail tartalmazza a PDF-et és az ISDOC-fájlt.",
+          "Az Ön limitjén belüli kifizetések azonnal elindulnak; felette a jóváhagyóira várnak a Revolutban."
+        ]
+      }
+    },
+    "operational-scale": {
+      "b": {
+        "pillars": [
+          "Hetente rögzített időkimutatások, költségek a bizonylat fotójából, és egy számla mindkettőről.",
+          "Minden ügyfél saját szabályai: a számla előtt jóváhagyva, ahhoz csatolva, vagy nincs is rá szükség.",
+          "A projekt keretét automatikusan számoljuk – lekötött, tényleges és kiszámlázott összeg –, a befejezéskor várható végösszeggel együtt."
+        ],
+        "gtk": [
+          "Az Ön országának szabályai döntik el, hogy egy költség áfájából mennyi vonható le.",
+          "A saját időt – előértékesítés, ajánlatkészítés, képzés – belső díjtétellel számoljuk, és sosem jut el ügyfélhez.",
+          "A MailChat révén cége saját e-mail-címet kap a SELYVO-n."
+        ]
+      }
+    },
+    "compliance-by-design": {
+      "b": {
+        "pillars": [
+          "A csatlakozás néhány lépésből áll: cége adatai a cégjegyzékből származnak.",
+          "Csak meghívással; cégjegyzék, adószám és szankciós listák ellenőrizve; első értékelés a SELYVO kérdései alapján.",
+          "Minden teljesített megrendelés után ügyfélvélemények érkeznek, és minden beszállító értékelése ott áll az ajánlata mellett."
+        ],
+        "gtk": [
+          "A meghívó egyszer használható, 14 napig érvényes, és csak azzal az e-mail-címmel, amelyre küldték.",
+          "Minden dokumentum megőrzi az előzményeit: ki mit módosított, és mikor.",
+          "A titkos adatok a szerveren maradnak: az API-kulcsnak csak az eleje és a vége látszik."
+        ]
+      }
+    },
+    "operating-layer": {
+      "b": {
+        "pillars": [
+          "Saját munkaterület beszállítókhoz, kérdőívekhez, katalógusokhoz és jóváhagyási folyamatokhoz.",
+          "Kérdőívek igazolásokkal, verziókkal és jóváhagyásokkal – minden válasz megmarad.",
+          "Kapcsolat a Markettel: profilok, ajánlatkérések és megrendelések mindkét irányban szinkronban."
+        ],
+        "gtk": [
+          "A SELYVO Core a Csatlakoztatott rendszerek menüpontban kapcsolódik a Markethez.",
+          "A SELYVO Core kérdőívei eljutnak a beszállítóihoz a Marketen.",
+          "A Core a már használt rendszerei mellett működik."
+        ]
+      }
+    },
+    "thank-you": {
+      "b": {
+        "lede": "E-mailben válaszolunk. Addig is nézze meg az ötperces bemutatót, vagy olvassa el, hogyan működik a csatlakozás."
+      }
+    }
+  }
+}

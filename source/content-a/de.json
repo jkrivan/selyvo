@@ -1,0 +1,228 @@
+{
+  "common": {
+    "a": {
+      "new": "Neu",
+      "videoGuide": "Videoanleitung",
+      "watchIt": "Jetzt ansehen",
+      "product": "Produkt",
+      "getInvited": "Einladung erhalten",
+      "illustrative": "Beispielunternehmen und -zahlen auf dieser Seite dienen nur der Veranschaulichung.",
+      "tour": {
+        "title": "SELYVO Market in fünf Minuten",
+        "text": "Alle Bereiche von SELYVO Market, direkt im Produkt gezeigt: Verkauf und Einkauf, Bestellungen, von SELYVO geprüfte Rechnungen, Auslagen, Projekte, MailChat, Lagerbestand und verbundene Systeme."
+      },
+      "connect": {
+        "eyebrow": "Verbundene Systeme",
+        "title": "Funktioniert mit Ihren bestehenden Systemen",
+        "text": "Verbinden Sie Ihre Buchhaltung oder Ihr ERP und legen Sie fest, was übertragen wird, wie oft und in welche Felder. Ihre Kunden und Lieferanten verbinden ihre Systeme auf dieselbe Weise, und jeder Austausch wird protokolliert.",
+        "points": [
+          "Profile, Anfragen, Bestellungen, Zahlungen und Bestände – immer synchron",
+          "Jedes andere System über die Bestands-API des Marktplatzes, mit eigenem Schlüssel",
+          "Rechnungen aus der Buchhaltung eines Lieferanten gehen an invoice@market.selyvo.com und werden gelesen und geprüft",
+          "Jede Rechnungs-E-Mail enthält das PDF und die ISDOC-Datei – für die Buchhaltung des Kunden"
+        ],
+        "yours": "Ihre Buchhaltung oder Ihr ERP",
+        "market": "SELYVO Market",
+        "partners": "Systeme Ihrer Kunden und Lieferanten",
+        "carries": "Profile · Anfragen · Bestellungen · Zahlungen · Bestände",
+        "api": "Jedes andere System, über die Bestands-API des Marktplatzes",
+        "invoices": "Rechnungen als PDF und ISDOC, beim Eingang geprüft",
+        "log": "Jeder Austausch protokolliert"
+      },
+      "check": {
+        "eyebrow": "Von SELYVO geprüft",
+        "title": "Jede Eingangsrechnung wird zuerst geprüft",
+        "text": "Ob per E-Mail, als Datei, über MailChat oder von einem Lieferanten auf SELYVO: Jede Rechnung wird geprüft, bevor jemand sie ansieht. Besteht sie die Prüfung nicht, kann sie automatisch an ihren Lieferanten zurückgehen – samt Hinweis, was zu korrigieren ist.",
+        "steps": [
+          [
+            "Eingegangen",
+            "Per E-Mail an invoice@market.selyvo.com, aus einer Datei, über MailChat oder auf SELYVO."
+          ],
+          [
+            "Geprüft",
+            "Alle gesetzlichen Pflichtangaben, Ihre Daten wie auf SELYVO, jede Position gegen die Bestellung – und nichts über den Wareneingang hinaus."
+          ],
+          [
+            "Automatisch zurückgesendet",
+            "Wenn Sie es wünschen: Der Lieferant wird sofort informiert – in seiner eigenen Sprache und mit Hinweis, was zu korrigieren ist."
+          ],
+          [
+            "Ersetzt",
+            "Die korrigierte Rechnung tritt an die Stelle der zurückgesendeten. Von der zurückgesendeten wird nichts bezahlt."
+          ]
+        ],
+        "card": {
+          "title": "SELYVO-Prüfung",
+          "ok1": "Alle Pflichtangaben einer Rechnung",
+          "ok2": "Auf Sie ausgestellt, wie auf SELYVO",
+          "bad": "Lieferkosten von 80,00 € stehen nicht in der Bestellung",
+          "returned": "Automatisch an den Lieferanten zurückgesendet, samt Hinweis zur Korrektur"
+        }
+      }
+    }
+  },
+  "pages": {
+    "index": {
+      "a": {
+        "pill": "B2B-Marktplatz nur auf Einladung",
+        "title1": "Mehr verkaufen. Klüger einkaufen.",
+        "title2": "Schneller bezahlt werden.",
+        "lede": "Auf SELYVO Market handeln verifizierte Unternehmen – von der ersten Anfrage bis zur bezahlten Rechnung, alles an einem Ort und für jede Person in ihrer eigenen Sprache.",
+        "cta": "Einladung erhalten",
+        "cta2": "Rundgang ansehen",
+        "ticks": [
+          "Im Handelsregister gefunden",
+          "Mit Sanktionslisten abgeglichen",
+          "Vor dem ersten Geschäft bewertet"
+        ],
+        "shotAlt": "Einkauf auf SELYVO Market: Einsparungen, offener Saldo, was erhalten und berechnet wurde, und die anstehenden Einkaufsaufgaben",
+        "offer": {
+          "title": "Angebot angenommen",
+          "note": "4,8 % weniger nach der Verhandlung"
+        },
+        "paid": {
+          "status": "Bezahlt",
+          "country": "Dänemark"
+        },
+        "facts": [
+          [
+            "3 Prüfungen",
+            "bevor ein Unternehmen handeln kann: Register, Sanktionslisten und die Fragen von SELYVO"
+          ],
+          [
+            "1 Belegkette",
+            "von der Anfrage bis zur Zahlung, jedes Dokument aus dem vorherigen erstellt"
+          ],
+          [
+            "7 Sprachen",
+            "in der App, für jede Person ihre eigene; diese Website und ihre Anleitungen in 15"
+          ],
+          [
+            "2 Zahlungswege",
+            "vorab per Karte oder per Rechnung nach Lieferung – wie jeder Lieferant es festlegt"
+          ]
+        ],
+        "promise": {
+          "eyebrow": "Eine Plattform",
+          "title": "Das ganze Geschäft, beide Seiten, an einem Ort",
+          "lede": "Verkauf, Einkauf, Bestellungen, Rechnungen und Zahlungen – jeder Schritt entsteht aus dem vorherigen. Ihre Kunden und Ihre Lieferanten sehen denselben Stand wie Sie.",
+          "items": [
+            [
+              "Mehr verkaufen",
+              "Werden Sie von verifizierten Einkäufern in Ihren Kategorien gefunden. Beantworten Sie ihre Anfragen, senden Sie gezielte Angebote und verfolgen Sie jeden Fall vom ersten Interessenten bis zum Abschluss.",
+              "Verkauf auf SELYVO"
+            ],
+            [
+              "Klüger einkaufen",
+              "Vergleichen Sie Position für Position Angebote von Lieferanten, die nachweislich echt sind: Ihren eigenen, neuen auf SELYVO oder solchen, die die KI für Sie findet.",
+              "Einkauf auf SELYVO"
+            ],
+            [
+              "Schneller bezahlt werden",
+              "Erstellen Sie die Rechnung aus der Bestellung, mit MwSt. je Land. Ihr Kunde zahlt per Karte oder per Rechnung auf Ihr eigenes Konto bei Revolut Business.",
+              "Rechnungen & Zahlungen"
+            ]
+          ]
+        },
+        "rows": {
+          "sell": {
+            "eyebrow": "Verkauf",
+            "title": "Jeder Fall, vom ersten Interessenten bis zum Abschluss",
+            "text": "Ihre Pipeline nach Phasen, Ihre Fälle in einer Liste und daneben der ausgewählte mit seinem nächsten Schritt. Ein Fall rückt von selbst weiter, sobald Anfragen, Angebote und Bestellungen eingehen.",
+            "points": [
+              "Neue Interessenten aus Ihrem Kundenstamm, neue Unternehmen oder Kontakte, die die KI findet",
+              "Gezielte Angebote an Kunden Ihrer Wahl",
+              "Shop-Angebote, beworben in den Feeds der Einkäufer"
+            ]
+          },
+          "buy": {
+            "eyebrow": "Einkauf",
+            "title": "Angebote je Position vergleichen, dann das beste bestellen",
+            "text": "Veröffentlichen Sie eine Anfrage mit Losen und Positionen, laden Sie Lieferanten Ihrer Wahl ein und sehen Sie alle Angebote nebeneinander. Das angenommene Angebot wird zur Bestellung.",
+            "points": [
+              "Eine Anfrage, von der KI aus Ihrer Spezifikation gelesen",
+              "Die Bewertung jedes Lieferanten neben seinem Angebot",
+              "Ein KI-Verhandler, der Sie fragt, bevor etwas vereinbart wird"
+            ]
+          },
+          "invoices": {
+            "eyebrow": "Rechnungen & Zahlungen",
+            "title": "Aus der Bestellung abrechnen. Pünktlich bezahlt werden.",
+            "text": "Rechnungen entstehen aus ihren Bestellungen, mit MwSt. je Land und den Angaben, die der jeweilige Fall verlangt. Eingangsrechnungen liest die KI, SELYVO prüft sie gegen ihre Bestellung, und erst dann werden sie bezahlt.",
+            "points": [
+              "Kartenzahlungen über Stripe",
+              "Zahlungseingang auf Ihrem eigenen Konto bei Revolut Business",
+              "Eine Rechnung, die die Prüfung nicht besteht, kann automatisch an ihren Lieferanten zurückgehen",
+              "Was Sie zahlen und was Sie erhalten – nebeneinander"
+            ]
+          }
+        },
+        "trust": {
+          "eyebrow": "Vertrauen",
+          "title": "Jedes Unternehmen hier ist echt",
+          "lede": "Bevor ein Unternehmen auf SELYVO handelt, wird es im Handelsregister gefunden, geprüft und qualifiziert. Danach zählt, was seine Kunden sagen."
+        },
+        "ai": {
+          "button": "Mit KI suchen – etwa 0,60 EUR",
+          "caption": "Bevor die KI nach Lieferanten sucht, zeigt die Schaltfläche, was die Suche kostet.",
+          "found": "8 Lieferanten gefunden",
+          "foundText": "Jeder mit seiner Bewertung, seinen Kategorien und seinem Liefergebiet."
+        },
+        "invite": {
+          "title": "SELYVO öffnet sich nur auf Einladung",
+          "text": "Jedes Unternehmen auf SELYVO ist mindestens einem anderen bekannt. Bitten Sie einen Kunden oder Lieferanten, der Mitglied ist, Sie einzuladen. Sie kennen noch niemanden auf SELYVO? Schreiben Sie uns.",
+          "cta": "So erhalten Sie eine Einladung",
+          "mockWho": "lädt Sie zu SELYVO Market ein",
+          "mockText": "Wir möchten auf SELYVO bei Ihnen einkaufen. Treten Sie als unser Lieferant bei, dann erhalten Sie dort unsere Anfragen.",
+          "mockButton": "Als Lieferant beitreten",
+          "mockValid": "Einmal gültig, 14 Tage lang und nur für die E-Mail-Adresse des Empfängers."
+        },
+        "faqAccounting": [
+          "Funktioniert es mit unserer Buchhaltung?",
+          "Ja. Verbinden Sie Ihre Buchhaltung oder Ihr ERP unter Verbundene Systeme und legen Sie fest, was übertragen wird. Rechnungen aus Ihrer eigenen Buchhaltung können Sie als Datei über SELYVO senden, und jede Rechnungs-E-Mail enthält das PDF und die ISDOC-Datei."
+        ]
+      }
+    },
+    "finance-administration": {
+      "a": {
+        "faqAdd": [
+          "Was passiert mit einer Rechnung, die nicht zu ihrer Bestellung passt?",
+          "Die Rechnung wartet mit dem Prüfergebnis auf Sie. Wenn Sie es wünschen, geht sie automatisch an ihren Lieferanten zurück, samt Hinweis, was zu korrigieren ist, und die korrigierte Rechnung tritt an ihre Stelle."
+        ]
+      }
+    },
+    "operational-scale": {
+      "a": {
+        "project": {
+          "eyebrow": "Projekte",
+          "title": "Ein Projekt mit seinem Budget",
+          "text": "Ein Projekt bündelt seine Anfragen, Bestellungen, Rechnungen, Leistungsnachweise und Auslagen. Sein Budget schreibt sich daraus selbst fort: beauftragt, angefallen und abgerechnet – samt Prognose zum Projektende.",
+          "points": [
+            "Meilensteine, vom Kunden abgenommen und dann abgerechnet",
+            "Das Team: Ihre eigenen Leute und die Ihrer Lieferanten",
+            "Auch der Kunde kann das Projekt verfolgen"
+          ],
+          "tiles": [
+            "Budget",
+            "Ist",
+            "Abgerechnet"
+          ],
+          "milestones": [
+            [
+              "1 · Portal eingerichtet",
+              "Abgenommen"
+            ],
+            [
+              "2 · Lieferanten migriert",
+              "In Arbeit"
+            ],
+            [
+              "3 · Anwenderabnahme",
+              "Geplant"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

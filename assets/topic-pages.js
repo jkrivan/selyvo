@@ -1,1 +1,0 @@
-(()=>{const b=document.querySelector('[data-menu]'),m=document.querySelector('[data-mobile]');b?.addEventListener('click',()=>{const o=m.classList.toggle('open');b.setAttribute('aria-expanded',String(o))});document.querySelectorAll('[data-year]').forEach(e=>e.textContent=new Date().getFullYear())})();

@@ -1,0 +1,600 @@
+{
+ "common": {
+  "c": {
+   "nav": {
+    "sell": "Vânzări",
+    "buy": "Achiziții",
+    "projects": "Proiecte",
+    "finance": "Finanțe",
+    "trust": "Încredere",
+    "tour": "Prezentare de 5 min",
+    "orders": "Comenzi și livrări",
+    "core": "SELYVO Core",
+    "functions": "Platforma"
+   },
+   "fn": {
+    "sell": {
+     "name": "Vânzări"
+    },
+    "buy": {
+     "name": "Achiziții"
+    },
+    "projects": {
+     "name": "Proiecte"
+    },
+    "finance": {
+     "name": "Finanțe"
+    }
+   },
+   "steps": {
+    "sell": [
+     [
+      "Lead",
+      "Interes nou"
+     ],
+     [
+      "Oportunitate",
+      "Cereri și întrebări"
+     ],
+     [
+      "Propunere",
+      "Ofertă trimisă"
+     ],
+     [
+      "Negociere",
+      "Răspuns și contraoferte"
+     ],
+     [
+      "Închisă",
+      "Câștigată sau pierdută"
+     ]
+    ],
+    "buy": [
+     [
+      "Cerere",
+      "Tastată sau citită de IA"
+     ],
+     [
+      "Furnizori",
+      "Invitați sau găsiți de IA"
+     ],
+     [
+      "Oferte",
+      "Până la data stabilită"
+     ],
+     [
+      "Atribuire",
+      "Cea mai bună ofertă pe lot"
+     ],
+     [
+      "Comandă",
+      "Trimisă și acceptată"
+     ]
+    ],
+    "projects": [
+     [
+      "Planificat",
+      "Etape-cheie și buget"
+     ],
+     [
+      "În curs",
+      "Timp, costuri, achiziții"
+     ],
+     [
+      "Acceptat",
+      "De către client"
+     ],
+     [
+      "Facturat",
+      "Pe următoarea factură"
+     ]
+    ],
+    "finance": [
+     [
+      "Primită",
+      "Prin e-mail, fișier sau SELYVO"
+     ],
+     [
+      "Verificată",
+      "La SELYVO, conform legii și comenzii"
+     ],
+     [
+      "Aprobată",
+      "De dumneavoastră"
+     ],
+     [
+      "Plătită",
+      "Cu cardul sau prin transfer"
+     ]
+    ],
+    "orders": [
+     [
+      "Comandată",
+      "Plasată"
+     ],
+     [
+      "Acceptată",
+      "De furnizor"
+     ],
+     [
+      "Livrată",
+      "Cu aviz de însoțire"
+     ],
+     [
+      "Recepționată",
+      "Confirmată de dumneavoastră"
+     ],
+     [
+      "Facturată",
+      "După recepție"
+     ],
+     [
+      "Plătită",
+      "La scadență"
+     ]
+    ],
+    "trust": [
+     [
+      "Invitată",
+      "De un membru"
+     ],
+     [
+      "Registru",
+      "Găsită și confirmată"
+     ],
+     [
+      "Verificări",
+      "TVA și sancțiuni"
+     ],
+     [
+      "Calificată",
+      "Întrebările SELYVO"
+     ],
+     [
+      "Evaluată",
+      "Recenzii după comenzi"
+     ]
+    ]
+   },
+   "gtk": "Bine de știut"
+  },
+  "d": {
+   "learn": "Aflați mai multe",
+   "how": "Cum funcționează",
+   "watch": "Vizionați prezentarea",
+   "local": {
+    "overview": "Pe scurt",
+    "how": "Cum funcționează",
+    "features": "Funcții",
+    "faq": "Întrebări"
+   },
+   "fn": {
+    "sell": {
+     "line": "Câștigați clienți printre firmele verificate."
+    },
+    "buy": {
+     "line": "Oferta potrivită, de la furnizori de încredere."
+    },
+    "projects": {
+     "line": "Livrați proiectul. Nu pierdeți bugetul din vedere."
+    },
+    "finance": {
+     "line": "Facturați, verificați și încasați — cu mai puțină muncă."
+    }
+   },
+   "stepWord": "Pasul",
+   "scrollHint": "Derulați ca să-l urmăriți pas cu pas",
+   "others": "Restul platformei.",
+   "gtkTitle": "Bine de știut."
+  },
+  "e": {
+   "eyebrow": "Video",
+   "title": "Vedeți cum funcționează.",
+   "sub": "Videoclipuri scurte, realizate pe ecranele reale ale platformei. Alegeți unul și săriți direct la pasul de care aveți nevoie.",
+   "homeTitle": "Vedeți SELYVO Market la lucru.",
+   "homeSub": "Prezentarea de cinci minute a întregii platforme și videoclipuri scurte, fiecare despre o singură sarcină — realizate pe ecranele ei reale.",
+   "nowPlaying": "Se redă acum",
+   "guideWord": "Ghid",
+   "tourWord": "Prezentare",
+   "fromWord": "de la",
+   "watch": "Vizionați videoclipul",
+   "localVideo": "Video",
+   "seenHint": "Alegeți un pas ca să-l revedeți",
+   "guides": {
+    "sales": {
+     "title": "De la prima discuție la câștig",
+     "text": "Vânzări pe SELYVO Market: un lead nou în cinci pași, afacerea în Vânzări și ca formular — și cum avansează de la Lead la Închisă.",
+     "chapters": [
+      "Introducere",
+      "Vânzări: toate afacerile",
+      "Un lead nou",
+      "Din registrul comerțului",
+      "Cu cine ați vorbit",
+      "Cât valorează",
+      "Pasul următor",
+      "Salvare și invitare",
+      "Afacerea în Vânzări",
+      "Afacerea ca formular",
+      "Avansează singură",
+      "Bine de știut"
+     ]
+    },
+    "buying": {
+     "chapters": [
+      "Introducere",
+      "Cerere completată din fișier",
+      "Loturi și ofertanți",
+      "Au sosit ofertele",
+      "Negociere prin IA",
+      "IA vă întreabă mai întâi",
+      "Convenit: aprobați",
+      "Atribuirea și comanda",
+      "Furnizorul aprobă",
+      "Bine de știut"
+     ]
+    },
+    "requestai": {
+     "title": "O cerere către furnizori găsiți de IA",
+     "text": "Achiziții pe SELYVO Market: o cerere nouă în cinci pași — și furnizori pe care încă nu-i cunoașteți, găsiți de IA, verificați și invitați prin e-mail.",
+     "chapters": [
+      "Introducere",
+      "Obiectul",
+      "Pozițiile",
+      "Livrare și buget",
+      "Ofertanții",
+      "IA găsește furnizori",
+      "Verificați, apoi invitați",
+      "Revizuire și publicare",
+      "Primirea ofertelor",
+      "Bine de știut"
+     ]
+    },
+    "receiving": {
+     "title": "Recepția mărfii comandate în stoc",
+     "text": "Comenzi pe SELYVO Market: avizul de însoțire al furnizorului, ce confirmați că a sosit — și stocul dumneavoastră, care se actualizează singur.",
+     "chapters": [
+      "Introducere",
+      "Stadiul fiecărei comenzi",
+      "„Recepționată” vă așteaptă",
+      "Confirmarea mărfii sosite",
+      "Păstrare în stoc",
+      "Stocul: ce folosiți",
+      "Istoricul unui articol",
+      "Bine de știut"
+     ]
+    },
+    "freelancer": {
+     "chapters": [
+      "Introducere",
+      "Săptămână cu săptămână",
+      "O foaie de pontaj pe client",
+      "Comanda stabilește regulile",
+      "Cheltuieli din chitanță",
+      "O factură pentru ambele",
+      "Emitere",
+      "Bine de știut"
+     ]
+    }
+   },
+   "note": "Acest videoclip este în engleză."
+  }
+ },
+ "pages": {
+  "index": {
+   "c": {
+    "processShort": [
+     "Cerere",
+     "Furnizori",
+     "Oferte",
+     "Comandă",
+     "Recepționată",
+     "Verificată",
+     "Plătită"
+    ]
+   },
+   "d": {
+    "eyebrow": "SELYVO Market",
+    "title": "Vânzări. Achiziții. Proiecte. Finanțe.",
+    "sub": "O singură platformă pentru toate — doar cu firme verificate.",
+    "heroAlt": "Pagina Acasă din SELYVO Market: ce vă solicită atenția azi, soldul, ofertele în așteptare și rețeaua de firme",
+    "story": {
+     "eyebrow": "Cum funcționează",
+     "title": "De la idee la factura plătită.",
+     "sub": "Șapte pași, un singur dosar. Urmăriți o achiziție pe SELYVO Market — pe ecranele sale reale."
+    },
+    "verified": {
+     "eyebrow": "Doar firme verificate",
+     "title": "Fiecare firmă. Verificată.",
+     "sub": "Pe SELYVO se intră pe bază de invitație. Fiecare firmă este găsită în registrul ei, codul de TVA și listele de sancțiuni sunt verificate, iar firma răspunde la întrebările SELYVO înainte de prima tranzacție.",
+     "kpis": [
+      [
+       3,
+       "verificări",
+       "înainte ca o firmă să poată tranzacționa"
+      ],
+      [
+       1,
+       "dosar",
+       "văzut de cumpărător și de furnizor"
+      ],
+      [
+       2,
+       "moduri de plată",
+       "în avans cu cardul sau pe bază de factură"
+      ]
+     ],
+     "more": "Cum funcționează încrederea"
+    },
+    "gtkSub": "Detaliile pe care membrii le observă din prima zi — și de care se bucură în fiecare zi după aceea.",
+    "invite": {
+     "title": "Acces prin invitație.",
+     "sub": "Fiecare firmă de pe SELYVO este cunoscută de cel puțin una dintre celelalte. Rugați un client sau un furnizor care este membru să vă invite — sau scrieți-ne."
+    }
+   }
+  },
+  "spend-control": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Cereri",
+      "title": "Ofertele ajung direct în cerere",
+      "text": "Vedeți cine va trimite o ofertă și cine nu a răspuns, amânați termenul sau opriți primirea ofertelor, apoi comparați ce a sosit.",
+      "points": [
+       "Furnizorii spun dacă vor trimite o ofertă",
+       "Ofertanții sunt anunțați la orice modificare",
+       "Comparați ofertele pe loturi, pe oferte sau poziție cu poziție"
+      ]
+     },
+     {
+      "eyebrow": "Furnizori",
+      "title": "Furnizori de încredere",
+      "text": "Fiecare furnizor de pe SELYVO este verificat și evaluat. Găsiți-i după categorie și țară, salvați-i și cereți o ofertă cu un singur clic.",
+      "points": [
+       "Doar furnizori verificați, cu ratingul lor",
+       "Propriii furnizori, invitați pe SELYVO",
+       "Cereți o ofertă direct din fișa furnizorului"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Cumpărați de la furnizori de încredere.",
+    "sub": "Descrieți ce vă trebuie, comparați poziție cu poziție ofertele furnizorilor verificați și trimiteți comanda — fiecare pas rămâne înregistrat.",
+    "story": {
+     "title": "De la nevoie la comanda aprobată.",
+     "sub": "Cererea care aduce ofertele și comanda care urmează.",
+     "steps": [
+      {
+       "title": "Descrieți ce vă trebuie.",
+       "text": "Scrieți cererea sau încărcați o specificație, un caiet de sarcini ori o listă de cantități — IA completează titlul, categoria, pozițiile, livrarea și bugetul."
+      },
+      {
+       "title": "Alegeți ofertanții.",
+       "text": "Propriii furnizori, firme de pe SELYVO sau alții găsiți de IA. Înainte ca IA să caute, butonul arată cât va costa: circa 0,60 EUR."
+      },
+      {
+       "title": "Sosesc ofertele.",
+       "text": "Fiecare furnizor spune dacă va trimite o ofertă, iar ofertele ajung în cerere până la data stabilită de dumneavoastră."
+      },
+      {
+       "title": "Alegeți-o pe cea mai bună.",
+       "text": "Comparați ofertele pe poziții sau pe loturi și desemnați-o câștigătoare pe cea mai bună."
+      },
+      {
+       "title": "Comanda pleacă.",
+       "text": "Oferta pe care o acceptați devine comanda de achiziție. Ambele părți o urmăresc până la livrare și factură."
+      }
+     ]
+    }
+   }
+  },
+  "revenue-acceleration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Listări",
+      "title": "Ce vindeți și cât vă aduce",
+      "text": "Produse și servicii cu prețuri pentru membri, fotografii și pagină proprie. Fiecare listare își arată veniturile și marja, iar o puteți promova în fluxurile de noutăți ale cumpărătorilor.",
+      "points": [
+       "Prețuri pe cantitate sau comandă minimă",
+       "Ciornele și listările fără fotografii sunt semnalate",
+       "Promovare în fluxurile cumpărătorilor vizați"
+      ]
+     },
+     {
+      "eyebrow": "Clienți",
+      "title": "Clienții dumneavoastră și cei cărora le-ați putea vinde",
+      "text": "Firme care cumpără de la dumneavoastră și cumpărători de pe SELYVO din categoriile dumneavoastră. Trimiteți o ofertă țintită celor pe care îi alegeți.",
+      "points": [
+       "Filtrați după categorie, țară și echipă",
+       "Ce a cumpărat fiecare client și când",
+       "Oferte țintite către clienții aleși și cine le-a văzut"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Vindeți cumpărătorilor verificați.",
+    "sub": "Listați ce vindeți, răspundeți la cererile din categoriile dumneavoastră și urmăriți fiecare afacere, de la primul lead până la rezultat.",
+    "story": {
+     "title": "De la primul lead la un rezultat clar.",
+     "sub": "Fiecare afacere trece prin pipeline-ul din secțiunea Vânzări.",
+     "steps": [
+      {
+       "title": "Apare un lead.",
+       "text": "De la clienții dumneavoastră, de la firme noi pe SELYVO sau dintre clienții potențiali găsiți de IA. Fiecare lead deschide o afacere, cu pasul următor."
+      },
+      {
+       "title": "Sosește o cerere.",
+       "text": "Cererile și întrebările din categoriile dumneavoastră transformă interesul într-o oportunitate — afacerea avansează singură."
+      },
+      {
+       "title": "Oferta pleacă.",
+       "text": "Răspundeți la cerere cu o ofertă sau trimiteți o ofertă țintită clienților aleși."
+      },
+      {
+       "title": "Condiții convenite.",
+       "text": "Răspunsurile și contraofertele rămân în afacere, iar ambele părți văd aceleași date."
+      },
+      {
+       "title": "Câștigată sau pierdută — consemnată.",
+       "text": "Fiecare afacere se încheie cu un rezultat clar, iar rata de conversie și rata de câștig se calculează singure."
+      }
+     ]
+    }
+   }
+  },
+  "inventory-control": {
+   "d": {
+    "title": "Fiecare comandă, de la acceptare la plată.",
+    "sub": "O comandă, o cronologie, aceleași date pentru ambele părți — cu livrări parțiale, dacă e nevoie.",
+    "story": {
+     "title": "În ce stadiu este. Mereu.",
+     "sub": "O comandă urmează aceiași pași pe care îi arată în SELYVO.",
+     "steps": [
+      {
+       "title": "Comanda este plasată.",
+       "text": "Din oferta acceptată sau direct dintr-o listare. Ambele părți văd aceeași comandă."
+      },
+      {
+       "title": "Furnizorul acceptă.",
+       "text": "Furnizorul acceptă comanda, cu data de livrare."
+      },
+      {
+       "title": "Livrată, cu avizul ei.",
+       "text": "Fiecare livrare vine cu avizul ei de însoțire — în tranșe, dacă e nevoie."
+      },
+      {
+       "title": "Confirmați ce a sosit.",
+       "text": "Integral sau parțial. Ceva nu e în regulă? Semnalați problema pe aviz, iar furnizorul este anunțat imediat."
+      },
+      {
+       "title": "Urmează factura.",
+       "text": "Creată din comandă după recepție — și verificată la SELYVO când sosește."
+      },
+      {
+       "title": "Plătită la scadență.",
+       "text": "În avans cu cardul sau pe bază de factură, după cum decide furnizorul — iar ambele părți o văd plătită."
+      }
+     ]
+    }
+   }
+  },
+  "finance-administration": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Facturi",
+      "title": "Datorii, creanțe și restanțe într-o singură listă",
+      "text": "Fiecare factură pe care o emiteți sau o primiți, cu stadiul și scadența ei. Deschideți-o ca să vedeți comanda, pozițiile și istoricul ei.",
+      "points": [
+       "Facturi prin e-mail la invoice@market.selyvo.com, citite de IA",
+       "Fiecare factură trimisă prin e-mail, cu PDF-ul și fișierul ISDOC",
+       "Cheltuieli cu chitanțe, refacturate"
+      ]
+     },
+     {
+      "eyebrow": "Sisteme conectate",
+      "title": "Funcționează cu sistemele pe care le folosiți deja",
+      "text": "Conectați contabilitatea sau ERP-ul firmei și alegeți ce se sincronizează și cât de des. Clienții și furnizorii dumneavoastră își conectează sistemele la fel, iar fiecare schimb de date este înregistrat.",
+      "points": [
+       "Profiluri, cereri, comenzi, plăți și stocuri, mereu sincronizate",
+       "Orice alt sistem, prin API-ul de stocuri al platformei",
+       "Fiecare schimb de date, înregistrat"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Facturați. Verificați. Încasați.",
+    "sub": "Facturi create din comenzi, fiecare factură primită verificată la SELYVO și plăți din propriul dumneavoastră cont.",
+    "story": {
+     "title": "Fiecare factură, verificată înainte să o vadă cineva.",
+     "sub": "O factură primită, de la sosire până la plată.",
+     "steps": [
+      {
+       "title": "Sosește o factură.",
+       "text": "Prin e-mail la invoice@market.selyvo.com, ca fișier sau pe SELYVO — citită de IA și asociată firmei căreia îi este destinată."
+      },
+      {
+       "title": "SELYVO o verifică.",
+       "text": "Fiecare câmp cerut de lege, datele dumneavoastră și fiecare poziție față de comandă și de ce ați recepționat. Dacă doriți, o factură care nu trece verificarea se întoarce automat la furnizor."
+      },
+      {
+       "title": "O aprobați.",
+       "text": "Facturile aprobate își așteaptă plata, în ordinea scadenței."
+      },
+      {
+       "title": "Plătită din propriul cont.",
+       "text": "Plătiți din Revolut Business, la scadență sau chiar acum. În limita stabilită, plățile pleacă imediat; peste ea, așteaptă aprobarea persoanelor desemnate."
+      }
+     ]
+    }
+   }
+  },
+  "operational-scale": {
+   "c": {
+    "rows": [
+     {
+      "eyebrow": "Buget",
+      "title": "Un buget care se calculează singur",
+      "text": "Sumele angajate, realizate și facturate provin din documentele proiectului (foi de pontaj, comenzi de achiziție, facturi și cheltuieli), cu o estimare la finalizare.",
+      "points": [
+       "Fiecare sumă, legată de documentul ei",
+       "Etape-cheie acceptate de client, apoi facturate",
+       "Munca furnizorilor dumneavoastră, în același proiect"
+      ]
+     },
+     {
+      "eyebrow": "MailChat",
+      "title": "E-mail și chat într-o singură listă",
+      "text": "Firma dumneavoastră primește propria adresă de e-mail SELYVO. E-mailurile și chaturile cu clienții și furnizorii stau într-o singură listă, iar IA recunoaște în ele facturi, oferte și comenzi.",
+      "points": [
+       "Foldere și etichete: lucru, clienți, facturare",
+       "Chaturile cu partenerii, lângă e-mailurile lor",
+       "O comandă sau o factură dintr-un e-mail, propusă ca atare"
+      ]
+     }
+    ]
+   },
+   "d": {
+    "title": "Proiecte, cu bugetul la vedere.",
+    "sub": "Etape-cheie, echipă, timp, cheltuieli și achiziții într-un singur proiect. Bugetul se calculează singur, iar clientul urmărește proiectul pas cu pas.",
+    "story": {
+     "title": "Planificați. Realizați. Facturați.",
+     "sub": "Un proiect pentru client, de la etapele-cheie la factură.",
+     "steps": [
+      {
+       "title": "Planificați.",
+       "text": "Etape-cheie cu sumele lor, echipa și bugetul — oamenii dumneavoastră și furnizorii într-un singur proiect."
+      },
+      {
+       "title": "Treceți la lucru.",
+       "text": "Foile de pontaj, cheltuielile și achizițiile intră în proiect pe măsură ce lucrul avansează."
+      },
+      {
+       "title": "Clientul acceptă.",
+       "text": "Fiecare etapă-cheie este acceptată de client, care urmărește proiectul împreună cu dumneavoastră."
+      },
+      {
+       "title": "Facturați.",
+       "text": "Etapele-cheie acceptate intră pe factură, iar bugetul arată ce este angajat, realizat și facturat."
+      }
+     ]
+    }
+   }
+  },
+  "compliance-by-design": {
+   "d": {
+    "title": "Știți cu cine aveți de-a face.",
+    "sub": "Fiecare firmă este invitată, găsită în registrul ei, verificată și calificată înainte să tranzacționeze. Fiecare document își păstrează istoricul."
+   }
+  },
+  "operating-layer": {
+   "d": {
+    "title": "Procesele proprii. O singură bază.",
+    "sub": "SELYVO Core oferă organizațiilor mai mari un spațiu de lucru propriu, conectat la SELYVO Market: furnizori, chestionare, cataloage și fluxuri de proces cu verificări IA."
+   }
+  }
+ }
+}

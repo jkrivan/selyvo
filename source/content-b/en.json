@@ -1,0 +1,289 @@
+{
+  "common": {
+    "b": {
+      "simple": "Simple",
+      "compliant": "Compliant",
+      "performing": "Performing",
+      "gtk": "Good to know",
+      "watchPart": "Watch this part of the tour",
+      "fromStart": "Watch from the start",
+      "chaptersLabel": "Chapters",
+      "tourNote": "The video is in English.",
+      "next": "Next step",
+      "chapters": [
+        "Start",
+        "The public home and joining",
+        "Home, Feeds and the Store",
+        "Sales and customers",
+        "Purchases and suppliers",
+        "Orders",
+        "Invoices, checked at SELYVO, and payments",
+        "Expenses",
+        "Projects",
+        "MailChat, listings and stock",
+        "Connected systems",
+        "Good to know"
+      ],
+      "navTour": "5-minute tour",
+      "screensNote": "The screens are shown in English. The app itself works in seven languages."
+    }
+  },
+  "pages": {
+    "index": {
+      "b": {
+        "pill": "The invitation-only B2B marketplace",
+        "title": [
+          "Simple.",
+          "Compliant.",
+          "Performing."
+        ],
+        "lede": "SELYVO Market is the best place for business between verified companies. Buy, sell, invoice and get paid in one place — from the first request to the paid invoice.",
+        "cta2": "Watch the 5-minute tour",
+        "factLang": [
+          "7 languages",
+          "in the app, each person in their own; this website in 15"
+        ],
+        "pillars": {
+          "eyebrow": "Why SELYVO Market",
+          "title": "Three promises, kept on every screen",
+          "lede": "Everything a business does with its customers and suppliers — made simple, kept compliant, built to perform.",
+          "simple": {
+            "lead": "One place for the whole deal",
+            "text": "Each document is made from the one before: a request becomes an offer, an order, a delivery and an invoice. Nothing is typed twice, and both sides see the same record.",
+            "points": [
+              "What needs you, with its next step, on your Home",
+              "One checkout for everything in your basket",
+              "In the browser on a computer, a tablet or a phone"
+            ],
+            "gtk": "The button at the right of every tab says what it creates; its arrow offers the rest."
+          },
+          "compliant": {
+            "lead": "Every business real, every invoice right",
+            "text": "Members join by invitation and are found in their business register, checked against sanctions lists and qualified before they trade. Invoices follow the law of each country.",
+            "points": [
+              "Business register, VAT number and sanctions lists checked",
+              "VAT, reverse charge and the legal wording by country",
+              "Every invoice you receive checked against the law and its order"
+            ],
+            "gtk": "An invitation works once, for 14 days, and only for the e-mail address it was sent to."
+          },
+          "performing": {
+            "lead": "Better prices, faster cash, less work",
+            "text": "Offers compared line by line, AI that does the reading, and payments straight into your own accounts — so you buy better, sell more and get paid sooner.",
+            "points": [
+              "Offers side by side, by lot and by line",
+              "AI finds suppliers and prospects, reads files, invoices and e-mails",
+              "Card payments through Stripe; transfers matched in your own Revolut Business"
+            ],
+            "gtk": "AI shows what it will cost before it runs — and nothing is sent or agreed until a person says so."
+          }
+        },
+        "process": {
+          "eyebrow": "How it works",
+          "title": "From an idea to a paid invoice",
+          "lede": "Seven steps, one trail. This is how a purchase runs on SELYVO Market — on the real screens.",
+          "steps": [
+            {
+              "title": "An idea becomes a request",
+              "text": "Describe what you need, or drop a specification, a tender or a bill of quantities: AI fills in the title, the category, the lines, the delivery and the budget — you choose what to keep.",
+              "gtk": "A request can ask suppliers to answer a questionnaire first.",
+              "alt": "A new request on SELYVO Market: what does your business need?"
+            },
+            {
+              "title": "The right suppliers, verified",
+              "text": "Invite your own suppliers, businesses already on SELYVO, or let AI find more — each with its rating, its categories and where it delivers.",
+              "gtk": "Before AI searches, the button says what it will cost: about 0.60 EUR.",
+              "alt": "Suppliers found by AI for a request, each to check and invite"
+            },
+            {
+              "title": "Offers, side by side",
+              "text": "Each supplier answers on SELYVO. You see who will send an offer, compare the offers line by line, and choose the best.",
+              "gtk": "Suppliers found by AI are invited by e-mail and can join SELYVO to send their offer.",
+              "alt": "A request taking offers: who will send one, and two offers to compare"
+            },
+            {
+              "title": "The order",
+              "text": "The offer you accept becomes the purchase order. The supplier accepts it, and both sides follow one status: open, to receive, received, invoiced, paid.",
+              "gtk": "Each supplier decides how it is paid: up front by card, or by invoice after delivery.",
+              "alt": "Orders: every purchase order with its status, its receipt and its invoice"
+            },
+            {
+              "title": "Delivered and received",
+              "text": "A delivery note arrives with the goods. You confirm what arrived — in full or in part — and the order moves on by itself; goods you keep in stock add themselves.",
+              "gtk": "Something wrong? Say so on the delivery note, and the supplier is told at once.",
+              "alt": "Confirming what arrived on a delivery note"
+            },
+            {
+              "title": "The invoice, checked at SELYVO",
+              "text": "The supplier invoices from the order. Before anyone looks at it, SELYVO checks every field the law asks for, your details, and each line against the order and what you received.",
+              "gtk": "If you choose, one that fails goes back to its supplier by itself, with what to correct.",
+              "alt": "An invoice checked at SELYVO: one line not in the order, returned to the supplier"
+            },
+            {
+              "title": "Paid — and marked paid",
+              "text": "Pay approved invoices straight from your own Revolut Business account, on their due dates or now. When the money arrives, both sides see the invoice paid.",
+              "gtk": "Within the limit you set, payments go at once; above it, they wait for your approvers in Revolut.",
+              "alt": "Approved invoices paid from Revolut Business"
+            }
+          ]
+        },
+        "compare": {
+          "eyebrow": "The best place for business",
+          "title": "Less chasing. More business.",
+          "lede": "What changes when your customers and suppliers are on SELYVO Market.",
+          "without": "Without SELYVO",
+          "with": "With SELYVO Market",
+          "rows": [
+            [
+              "Finding suppliers",
+              "Searching, asking around, waiting for replies",
+              "Verified suppliers by category — or found by AI, each with its rating"
+            ],
+            [
+              "Offers",
+              "Attachments in every format, compared by hand",
+              "Offers side by side, by lot and by line"
+            ],
+            [
+              "Orders",
+              "Retyped, then followed up by e-mail",
+              "The accepted offer becomes the order — one status for both sides"
+            ],
+            [
+              "Invoices",
+              "Checked by hand against the order",
+              "Checked at SELYVO against the law and the order; if you choose, returned by itself when wrong"
+            ],
+            [
+              "Getting paid",
+              "Reminders, and transfers matched by hand",
+              "Card payments, and transfers matched in your own Revolut Business"
+            ]
+          ]
+        },
+        "gtk": {
+          "title": "The details that save time every day",
+          "lede": "Small things members notice on their first day — and are glad of every day after.",
+          "items": [
+            "Every tab follows what you do — buy, sell, accounting, projects — as you choose in your Preferences.",
+            "The button at the right always says what it creates; its arrow offers the rest.",
+            "Home is yours: your role, in your style — daily work, performance or planning.",
+            "AI shows its cost before it runs, and nothing is sent, agreed or booked until a person says so.",
+            "Each supplier decides how it is paid: up front by card, or by invoice after delivery.",
+            "Every invoice carries VAT by country, the wording the law asks for, its PDF and its ISDOC file.",
+            "Your business gets its own SELYVO e-mail address: an order or an invoice in an e-mail is read by AI and offered as one.",
+            "On the way: the AI negotiator, transport and warehousing, analytics, documents and signing."
+          ]
+        },
+        "video": {
+          "eyebrow": "Video",
+          "title": "See SELYVO Market in five minutes",
+          "lede": "Every part of the market on its own screens. Watch it from start to finish, or jump to the part you need."
+        }
+      }
+    },
+    "spend-control": {
+      "b": {
+        "pillars": [
+          "A request in five steps — typed, or read by AI from your specification.",
+          "Only verified suppliers, each with its rating; everyone who quoted is told of every change.",
+          "Offers compared line by line and by lot; the best one becomes the order in a click."
+        ],
+        "gtk": [
+          "Before AI searches for suppliers, the button says what it will cost.",
+          "Suppliers found by AI are invited by e-mail and can join SELYVO to send their offer.",
+          "You decide when offers are due — postpone it or stop taking offers at any time."
+        ]
+      }
+    },
+    "revenue-acceleration": {
+      "b": {
+        "pillars": [
+          "Your pipeline by stage and your cases in one list, each with its next step.",
+          "You sell to verified businesses only — found in their register and checked before they trade.",
+          "New leads from your customers, from new businesses, or prospects AI finds; targeted offers; listings promoted into buyers' feeds."
+        ],
+        "gtk": [
+          "A case moves on by itself as requests, offers and orders arrive.",
+          "A new lead starts at three doors: a customer of yours, a new customer, or prospects AI finds.",
+          "Each listing shows its revenue and its margin."
+        ]
+      }
+    },
+    "inventory-control": {
+      "b": {
+        "pillars": [
+          "Purchase and sales orders in one list: open, to receive, received, to invoice.",
+          "The delivery note you confirm is your goods receipt, kept with the order.",
+          "Deliveries in parts, each note offering only what is left; the invoice follows the receipt."
+        ],
+        "gtk": [
+          "Something wrong with a delivery? Say so on the note — the supplier is told at once.",
+          "Goods you keep in stock add themselves when you confirm what arrived.",
+          "What runs low goes back into your basket in one click."
+        ]
+      }
+    },
+    "finance-administration": {
+      "b": {
+        "pillars": [
+          "Invoices made from their orders in a moment; invoices you receive read by AI from a file or from your mailbox.",
+          "VAT, reverse charge and the legal wording by country; every invoice you receive checked at SELYVO.",
+          "Card payments through Stripe, and transfers matched in your own Revolut Business account."
+        ],
+        "gtk": [
+          "An invoice that fails the check can go back to its supplier by itself, with what to correct.",
+          "Every invoice e-mail carries its PDF and its ISDOC file.",
+          "Payments within your limit go at once; above it, they wait for your approvers in Revolut."
+        ]
+      }
+    },
+    "operational-scale": {
+      "b": {
+        "pillars": [
+          "Time sheets a week at a time, expenses from a photo of the receipt, and one invoice for both.",
+          "Each customer's own rules: time sheets approved before the invoice, attached to it, or not needed.",
+          "A project's budget counts itself — committed, actual and billed — with a forecast at completion."
+        ],
+        "gtk": [
+          "Your country's rules decide how much VAT on an expense can be claimed.",
+          "Own time — pre-sales, bids, training — is counted at internal rates and never reaches a customer.",
+          "MailChat gives your business its own SELYVO e-mail address."
+        ]
+      }
+    },
+    "compliance-by-design": {
+      "b": {
+        "pillars": [
+          "Joining takes a few steps: your company's details come from its business register.",
+          "Invitation only; register, VAT number and sanctions lists checked; a first rating from SELYVO's questions.",
+          "Customers' reviews follow every completed order, and each supplier's rating stands beside its offer."
+        ],
+        "gtk": [
+          "An invitation works once, for 14 days, and only for the e-mail address it was sent to.",
+          "Every record keeps its history: who changed what, and when.",
+          "Secrets stay on the server: an API key is shown only by its start and its end."
+        ]
+      }
+    },
+    "operating-layer": {
+      "b": {
+        "pillars": [
+          "Your own workspace for suppliers, questionnaires, catalogues and approval flows.",
+          "Questionnaires with proofs, versions and approvals — every answer kept.",
+          "Connected to the Market: profiles, requests and orders kept in step both ways."
+        ],
+        "gtk": [
+          "SELYVO Core connects to the Market under Connected systems.",
+          "Questionnaires from SELYVO Core reach your suppliers on the Market.",
+          "Core works alongside the systems you already run."
+        ]
+      }
+    },
+    "thank-you": {
+      "b": {
+        "lede": "We will reply by e-mail. Meanwhile, watch the five-minute tour or read how joining works."
+      }
+    }
+  }
+}
